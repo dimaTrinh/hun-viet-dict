@@ -1,0 +1,12 @@
+1. Collect frequency data from /mnt/volatile/Proj/cc_vn/2020_0304/dedup80_clean
+2. Do additional scraping for all four dictionaries with new words you found
+3. Start using wiktionary with code from https://github.com/juditacs/wikt2dict
+4. Please put on nessie all files (originals, not just aligned)
+5. Edit out initial material where needed
+6. Rerun hunalign
+7. /mnt/store/gaebor/Chinese/ has the previous Chinese project
+8. https://github.com/zseder/hundict 
+
+(Detection of compound words, collocations. Read Manning and Schuetze Chapter 5 https://nlp.stanford.edu/fsnlp/colloc/ )
+
+

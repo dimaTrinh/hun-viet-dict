@@ -1,0 +1,43 @@
+     1	11:00	cd /mnt/volatile/Proj/cc_vn/2020_0304/dedup80_clean/
+     2	11:00	ls
+     3	11:01	du -ks *
+     4	11:01	du -ks .
+     5	11:01	cd ../dedup95_clean/
+     6	11:01	cd ..
+     7	11:01	du -kls *
+     8	11:01	du -k *
+     9	11:02	cd -
+    10	11:02	du -ks .
+    11	11:03	cd ../dedup80_clean/
+    12	11:03	du -ks .
+    13	11:05	ls
+    14	11:05	zless domain-vn-CC-MAIN-2020-16-795_0008.txt.gz
+    15	11:05	ls | wc -l
+    16	11:08	ls | less
+    17	11:09	zless domain-vn-CC-MAIN-2020-16-793_0008.txt.gz
+    18	11:12	zcat domain-vn-CC-MAIN-2020-16-793_00??.txt.gz | tr ' ' '\n' | sort | uniq -c | sort -k 1 -nr > ~/viet.fr
+    19	11:12	more ~/viet.fr
+    20	11:12	emacs ~/viet.fr
+    21	11:15	cd ~dtrinh/
+    22	11:16	touch tasks
+    23	11:16	ld -ld
+    24	11:16	ls -ld
+    25	11:16	chmod 777 .
+    26	11:17	ls -ld
+    27	11:17	ls -ld
+    28	11:17	ls -ld
+    29	11:17	emacs tasklist
+    30	11:18	fg
+    31	11:26	fg
+    32	11:26	uemacs tasklist
+    33	11:27	ls
+    34	11:27	cd Align/
+    35	11:28	ls
+    36	11:28	less Twenty\ Years\ After\ -\ Alexandre\ Dumas.txt
+    37	11:29	fg
+    38	11:29	cd ..
+    39	11:29	uemacs tasklist
+    40	11:30	ls /mnt/store/gaebor/Chinese/
+    41	11:31	uemacs tasklist
+    42	11:35	history
+    43	11:36	history > history
