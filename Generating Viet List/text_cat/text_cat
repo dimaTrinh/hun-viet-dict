@@ -14,7 +14,7 @@ getopts('a:d:f:hi:lnst:u:v');
 
 # defaults: set $opt_X unless already defined (Perl Cookbook p. 6):
 $opt_a ||= 10;
-$opt_d ||= '/users1/vannoord/Perl/TextCat/LM';
+$opt_d ||= '/home/dima/Desktop/College/hun-viet-dict/Generating Viet List/text_cat/LM';
 $opt_f ||= 0;
 $opt_t ||= 400;
 $opt_u ||= 1.05;
