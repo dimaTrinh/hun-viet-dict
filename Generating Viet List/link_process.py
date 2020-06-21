@@ -9,7 +9,8 @@ for line in sys.stdin:
 		loc = temp.find("url=")
 		if (loc != -1): #if the line contains an URL
 			#print out the URL
-			print(temp[loc+5: temp.find("warc-file")-2] + "\n")
+			print(temp[loc+5: temp.find("warc-file")-2])
 			#outFile.write(temp[loc+5: temp.find("warc-file")-2] + "\n")
 
+print()
 #outFile.close()
