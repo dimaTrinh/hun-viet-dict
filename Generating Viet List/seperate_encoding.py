@@ -11,14 +11,13 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import time
+import sys
 
-from google.colab import drive
-drive.mount('/content/gdrive')
+data = ""
+for line in sys.stdin:
+  data += line
 
-with open('/content/gdrive/My Drive/Colab Notebooks/Dictionary Project/testFile1') as infile:
-     data = infile.read()
-
-data
+print(data)
 
 #splitting the document into their different websites
 websites = data.split("</doc>")
@@ -47,7 +46,7 @@ def get_encoding(url):
   try:
     source = requests.get(url)
   except:
-    #print("Link broken for " + url)
+    print("Link broken for " + url, file=sys.stderr)
     return "N/A"
 
   try:
@@ -57,7 +56,7 @@ def get_encoding(url):
       encoding = soup.original_encoding
     return encoding
   except:
-    #print("Can not make soup for " + url)
+    print("Can not make soup for " + url, file=sys.stderr)
     return "N/A"
 
 utf = []
@@ -79,6 +78,10 @@ for site in websites[0:2]:
   else: #add to training data for other
     other += sentences
 
-utf
+print("---UTF-8---")
+for item in utf:
+  print(item)
 
-other
+print("---OTHER---")
+for item in other:
+  print(other)
