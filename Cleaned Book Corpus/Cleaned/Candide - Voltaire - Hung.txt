@@ -5,88 +5,41 @@ CANDIDE
 VAGY
 AZ OPTIMISTA VILÁGNÉZET
 
-FORDITOTTA
-KEMÉNY GÁBOR
-
 TARTALOM
-Néhány szó...
-ELSŐ FEJEZET.
-Hogyan nevelték Candide-ot egy gyönyörü kastélyban 
-és hogyan kergették ki onnan.
-MÁSODIK FEJEZET.
-Mi történt Candide-dal a bolgárok között?
-HARMADIK FEJEZET.
-Hogyan szabadult meg Candide a bolgároktól és mily sorsra jutott?
-NEGYEDIK FEJEZET.
-Hogyan találkozott Candide hajdani filozófia-tanitójával, 
-Pangloss doktorral s mi lett az utóbbi sorsa?
-ÖTÖDIK FEJEZET.
-Vihar, hajótörés, földrengés; mi történt Pangloss doktorral, 
-Candide-dal és az anabaptista Jacques-kal?
-HATODIK FEJEZET.
-Ünnepélyesen máglyát raknak, hogy eretnek-égetéssel 
-akadályozzák meg a földrengést; Candide-ot megbotozzák.
-HETEDIK FEJEZET.
-Hogyan gondoskodik Candide-ról egy öreg asszony; hogyan találja fel kedvesét.
-NYOLCADIK FEJEZET.
-Kunigunda története.
-KILENCEDIK FEJEZET.
-Mi történt Kunigundával, Candide-dal, a nagy inkvizitorral és a zsidóval?
-TIZEDIK FEJEZET.
-Mily nyomoruságos helyzetbe jutnak Candide, Kunigunda 
-és az öreg asszony Cadixban; hogyan szállnak hajóra.
-TIZENEGYEDIK FEJEZET.
-Az öreg asszony története.
-TIZENKETTEDIK FEJEZET.
-Az öreg asszony tovább meséli viszontagságait.
-TIZENHARMADIK FEJEZET.
-Hogyan kellett Candide-nak elválnia a szép Kunigundától és az öreg asszonytól?
-TIZENNEGYEDIK FEJEZET.
-Hogyan fogadták Candide-ot és Cacambot Paraguayban a jezsuiták?
-TIZENÖTÖDIK FEJEZET.
-Hogyan ölte meg Candide a kedves Kunigunda bátyját?
-TIZENHATODIK FEJEZET.
-Milyen kalandjuk volt utasainknak két leánnyal, két majommal 
-és az Oreillons-nevezetű vademberekkel?
-TIZENHETEDIK FEJEZET.
-Candide és lakája Eldorádóba érkeznek; mit látnak ott?
-TIZENNYOLCADIK FEJEZET.
-Mit láttak Eldorádóban?
-TIZENKILENCEDIK FEJEZET.
-Mi történt velök Surinamban s hogyan kötött Candide ismeretséget Martinnal?
-HUSZADIK FEJEZET.
-Mi történt Candide-dal és Martinnal a tengeren?
-HUSZONEGYEDIK FEJEZET.
-Candide és Martin Franciaország partjai felé közelednek és folytatják az eszmecserét.
-HUSZONKETTEDIK FEJEZET.
-Mi történt Candide-dal és Martinnal Franciaországban?
-HUSZONHARMADIK FEJEZET.
-Candide és Martin angol partokhoz érkeznek; mit látnak ott?
-HUSZONNEGYEDIK FEJEZET.
-Raquette és Giroflée barát története.
-HUSZONÖTÖDIK FEJEZET.
-Látogatás Pococuranté őnagyméltóságánál, a velencei nemesnél.
-HUSZONHATODIK FEJEZET.
-Candide és Martin együtt vacsorálnak hat idegennel; kik ezek az idegenek?
-HUSZONHETEDIK FEJEZET.
-Candide Konstantinápolyba utazik.
-HUSZONNYOLCADIK FEJEZET.
-Mi történt Candide-dal, Kunigundával, Panglossal, Martinnal és a többivel?
-HUSZONKILENCEDIK FEJEZET.
-Hogyan talált a meg Candide Kunigundát és az öreg asszonyt?
-HARMINCADIK FEJEZET.
-Befejezés.
-Néhány szó arról,
-amit tudnunk kell, mielőtt a »Candide« olvasásához fogunk.
-Leibniz, az optimista világnézetnek egyik pregnáns hirdetője, azt állitja a mi világunkról, hogy az összes lehető világok között a legjobb.
-Ezt az állitását néhány ellenmondást nem türő apriori tétellel meg is alapozta s metafizikájára támaszkodva, - mely szerint a világot alkotó alapegységek (monaszok) istentől előre meghatározott összhangban (harmonia praestabilita) vannak egymással - kijelentette, hogy e világban tökéletes rend uralkodik.
-Hogy maga a világ mit szól ehez a kijelentéshez: azt mutatta meg Voltaire »Candide«-jában.
-»Leibniz Theodiceájának - irja Schopenhauer - az optimizmus e módszeres és bő kifejtésének nem tulajdonithatok ezen minőségében más érdemet, mint azt, hogy később a nagy Voltaire halhatatlan Candide-jára adott alkalmat, ami által persze Leibniznak annyiszor ismételt sántikáló kifogása a világ bajai ellen, hogy tudniillik némelykor a rossz a jót előidézi, ránézve váratlan bizonyitásra talált.
-Már hősének nevével is rámutatott Voltaire arra, hogy csupán őszinteségre van szükség az optimizmus ellenkezőjének a felismeréséhez.«
+
+ELSŐ FEJEZET. Hogyan nevelték Candide-ot egy gyönyörü kastélyban és hogyan kergették ki onnan.
+MÁSODIK FEJEZET. Mi történt Candide-dal a bolgárok között?
+HARMADIK FEJEZET. Hogyan szabadult meg Candide a bolgároktól és mily sorsra jutott?
+NEGYEDIK FEJEZET. Hogyan találkozott Candide hajdani filozófia-tanitójával, Pangloss doktorral s mi lett az utóbbi sorsa?
+ÖTÖDIK FEJEZET. Vihar, hajótörés, földrengés; mi történt Pangloss doktorral, Candide-dal és az anabaptista Jacques-kal?
+HATODIK FEJEZET. Ünnepélyesen máglyát raknak, hogy eretnek-égetéssel akadályozzák meg a földrengést; Candide-ot megbotozzák.
+HETEDIK FEJEZET. Hogyan gondoskodik Candide-ról egy öreg asszony; hogyan találja fel kedvesét.
+NYOLCADIK FEJEZET. Kunigunda története.
+KILENCEDIK FEJEZET. Mi történt Kunigundával, Candide-dal, a nagy inkvizitorral és a zsidóval?
+TIZEDIK FEJEZET. Mily nyomoruságos helyzetbe jutnak Candide, Kunigunda és az öreg asszony Cadixban; hogyan szállnak hajóra.
+TIZENEGYEDIK FEJEZET. Az öreg asszony története.
+TIZENKETTEDIK FEJEZET. Az öreg asszony tovább meséli viszontagságait.
+TIZENHARMADIK FEJEZET. Hogyan kellett Candide-nak elválnia a szép Kunigundától és az öreg asszonytól?
+TIZENNEGYEDIK FEJEZET. Hogyan fogadták Candide-ot és Cacambot Paraguayban a jezsuiták?
+TIZENÖTÖDIK FEJEZET. Hogyan ölte meg Candide a kedves Kunigunda bátyját?
+TIZENHATODIK FEJEZET. Milyen kalandjuk volt utasainknak két leánnyal, két majommal és az Oreillons-nevezetű vademberekkel?
+TIZENHETEDIK FEJEZET. Candide és lakája Eldorádóba érkeznek; mit látnak ott?
+TIZENNYOLCADIK FEJEZET. Mit láttak Eldorádóban?
+TIZENKILENCEDIK FEJEZET. Mi történt velök Surinamban s hogyan kötött Candide ismeretséget Martinnal?
+HUSZADIK FEJEZET. Mi történt Candide-dal és Martinnal a tengeren?
+HUSZONEGYEDIK FEJEZET. Candide és Martin Franciaország partjai felé közelednek és folytatják az eszmecserét.
+HUSZONKETTEDIK FEJEZET. Mi történt Candide-dal és Martinnal Franciaországban?
+HUSZONHARMADIK FEJEZET. Candide és Martin angol partokhoz érkeznek; mit látnak ott?
+HUSZONNEGYEDIK FEJEZET. Raquette és Giroflée barát története.
+HUSZONÖTÖDIK FEJEZET. Látogatás Pococuranté őnagyméltóságánál, a velencei nemesnél.
+HUSZONHATODIK FEJEZET. Candide és Martin együtt vacsorálnak hat idegennel; kik ezek az idegenek?
+HUSZONHETEDIK FEJEZET. Candide Konstantinápolyba utazik.
+HUSZONNYOLCADIK FEJEZET. Mi történt Candide-dal, Kunigundával, Panglossal, Martinnal és a többivel?
+HUSZONKILENCEDIK FEJEZET. Hogyan talált a meg Candide Kunigundát és az öreg asszonyt?
+HARMINCADIK FEJEZET. Befejezés.
 
 ELSŐ FEJEZET.
-Hogyan nevelték Candide-ot egy gyönyörü kastélyban
-és hogyan kergették ki onnan.
+Hogyan nevelték Candide-ot egy gyönyörü kastélyban és hogyan kergették ki onnan.
 Westphaliában, Thunder-ten-tronckh báró ur kastélyában élt egy fiatal ember, kit a természet a legszelidebb erkölcsökkel áldott meg.
 Arcvonásai hiven tükrözték vissza jóságos lelkét.
 Elég józan itélőképessége a legegyszerübb szellemmel párosult, és ugy hiszem ezért nevezték Candide1-nak.
@@ -1344,4 +1297,4 @@ A kis társaság minden tagjának megtetszett ez a dicséretre méltó inditván
 Kunigunda ugyan valóban nagyon csunya lett, de kitünő szakácsnő vált belőle; Paquette hímezett, az öregasszony gondozta a fehérnemüeket.
 Még Giroflée barátnak is hasznát lehetett venni, kitünő asztalos és tisztes­séges ember lett belőle.
 Pangloss ezután is gyakran elmondta Candide-nak: »A lehető legjobb világban az események mindég szorosan kapcsolódnak egymásba, mert végre is ha Kuni­gunda iránt érzett szerelmed miatt nem űztek volna el a kastélyból sürü farbarugások között, ha nem kerültél volna az inkvizício kezébe, ha nem jártad volna be fél Amerikát, ha nem döfted volna át a bárót, ha nem vesztetted volna el Eldorádóból, ebből a kitünő országból hozott összes kosodat, akkor nem ehetnél itt befőtt cédrust és cukros mandulát.
-- Igazad van, mondá Candide, de most fogjunk munkához: műveljük kertünket.«
+- Igazad van, mondá Candide, de most fogjunk munkához: műveljük kertünket.

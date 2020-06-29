@@ -1,99 +1,48 @@
-﻿
-JULES VERNE
+﻿JULES VERNE
 
-NYOLCVAN NAP ALATT
-A FÖLD KÖRÜL
-
-FORDÍTOTTA
-CSATLÓS JÁNOS
-
-
-
+NYOLCVAN NAP ALATT A FÖLD KÖRÜL
 
 TARTALOM
 
-ELSŐ FEJEZET
-Egy megállapodásról, melynek értelmében Phileas Fogg és Passepartout 
-kölcsönösen gazdává, illetve inassá fogadja egymást
-MÁSODIK FEJEZET
-Passepartout megbizonyosodik róla, hogy álmai ezúttal valóra váltak
-HARMADIK FEJEZET
-Egy beszélgetésről, mely Phileas Foggnak sokba kerülhet
-NEGYEDIK FEJEZET
-Passepartout-nak, Phileas Fogg inasának leesik az álla a meglepetéstől
-ÖTÖDIK FEJEZET
-Új valuta a londoni tőzsdén
-HATODIK FEJEZET
-Fix detektív méltán türelmetlenkedik
-HETEDIK FEJEZET
-Újabb bizonyíték arról, hogy rendőri ügyekben az útlevél fabatkát sem ér
-NYOLCADIK FEJEZET
-Passepartout talán egy csöppnyivel többet beszél a kelleténél
-KILENCEDIK FEJEZET
-A Vörös-tenger és az Indiai-óceán nem húzza keresztül Phileas Fogg terveit
-TIZEDIK FEJEZET
-Passepartout olcsón megússza, csak a cipőjét hagyja el
-TIZENEGYEDIK FEJEZET
-Phileas Fogg csillagászati áron paripát vásárol
-TIZENKETTEDIK FEJEZET
-Mire vezetett Phileas Foggnak és útitársának őserdei kalandozása?
-TIZENHARMADIK FEJEZET
-Passepartout újra bebizonyítja, hogy bátraké a szerencse
-TIZENNEGYEDIK FEJEZET
-Phileas Fogg befutja a Gangesz csodás völgyét, de arra sem kíváncsi
-TIZENÖTÖDIK FEJEZET
-A pénzes zsák tovább apad; egy-két ezresnek megint lába kel
-TIZENHATODIK FEJEZET
-Fix úgy tesz, mintha kettőig sem tudna számolni
-TIZENHETEDIK FEJEZET
-Apróságok a hajóúton, Singapore-Hongkong között
-TIZENNYOLCADIK FEJEZET
-Phileas Fogg, Passepartout és Fix külön-külön lát dolga után
-TIZENKILENCEDIK FEJEZET
-Passepartout a kelleténél többet akar tudni Mr. Foggról.
-Mi következik ebből?
-HUSZADIK FEJEZET
-Fix közvetlen kapcsolatot teremt Phileas Fogg-gal
-HUSZONEGYEDIK FEJEZET
-Elnyeri-e a kétszáz font jutalmat a Tankadčre kapitánya?
-HUSZONKETTEDIK FEJEZET
-Passepartout belátja, hogy a világ végén sem árt, ha pénz van a zsebünkben
-HUSZONHARMADIK FEJEZET
-Passepartout orra módfelett hosszúra nyúlik
-HUSZONNEGYEDIK FEJEZET
-Sikeres átkelés a Csendes-óceánon
-HUSZONÖTÖDIK FEJEZET
-Meeting San Franciscóban.
-Futó benyomások
-HUSZONHATODIK FEJEZET
-Utazás a nagy nyugati expresszen
-HUSZONHETEDIK FEJEZET
-Passepartout óránként húszmérföldes sebességgel átfutja a mormonok történetét
-HUSZONNYOLCADIK FEJEZET
-Passepartout a józan ész mellett kardoskodik, de nem hallgatnak rá
-HUSZONKILENCEDIK FEJEZET
-Beszámoló bizonyos epizódokról, melyek csupán az Unió rail-roadjain adódnak
-HARMINCADIK FEJEZET
-Phileas Fogg csupán a kötelességét teljesíti
-HARMINCEGYEDIK FEJEZET
-Fix ugyancsak szívén viseli Phileas Fogg érdekeit
-HARMINCKETTEDIK FEJEZET
-Phileas Fogg maga fordul szembe a balszerencsével
-HARMINCHARMADIK FEJEZET
-Phileas Fogg a helyzet magaslatán
-HARMINCNEGYEDIK FEJEZET
-Passepartout rossz, de meglehetősen eredeti szójátéka
-HARMINCÖTÖDIK FEJEZET
-Passepartout nem várja meg, hogy gazdája kétszer megismételje parancsát
-HARMINCHATODIK FEJEZET
-Phileas Fogg árfolyama ismét felszökik
-HARMINCHETEDIK FEJEZET
-Kiderül, hogy Phileas Fogg nem sokat nyert a világ körüli utazással, 
-mindössze a boldogságot találta meg
+ELSŐ FEJEZET - Egy megállapodásról, melynek értelmében Phileas Fogg és Passepartout kölcsönösen gazdává, illetve inassá fogadja egymást
+MÁSODIK FEJEZET - Passepartout megbizonyosodik róla, hogy álmai ezúttal valóra váltak
+HARMADIK FEJEZET - Egy beszélgetésről, mely Phileas Foggnak sokba kerülhet
+NEGYEDIK FEJEZET - Passepartout-nak, Phileas Fogg inasának leesik az álla a meglepetéstől
+ÖTÖDIK FEJEZET - Új valuta a londoni tőzsdén
+HATODIK FEJEZET - Fix detektív méltán türelmetlenkedik
+HETEDIK FEJEZET - Újabb bizonyíték arról, hogy rendőri ügyekben az útlevél fabatkát sem ér
+NYOLCADIK FEJEZET - Passepartout talán egy csöppnyivel többet beszél a kelleténél
+KILENCEDIK FEJEZET - A Vörös-tenger és az Indiai-óceán nem húzza keresztül Phileas Fogg terveit
+TIZEDIK FEJEZET - Passepartout olcsón megússza, csak a cipőjét hagyja el
+TIZENEGYEDIK FEJEZET - Phileas Fogg csillagászati áron paripát vásárol
+TIZENKETTEDIK FEJEZET - Mire vezetett Phileas Foggnak és útitársának őserdei kalandozása?
+TIZENHARMADIK FEJEZET - Passepartout újra bebizonyítja, hogy bátraké a szerencse
+TIZENNEGYEDIK FEJEZET - Phileas Fogg befutja a Gangesz csodás völgyét, de arra sem kíváncsi
+TIZENÖTÖDIK FEJEZET - A pénzes zsák tovább apad; egy-két ezresnek megint lába kel
+TIZENHATODIK FEJEZET - Fix úgy tesz, mintha kettőig sem tudna számolni
+TIZENHETEDIK FEJEZET - Apróságok a hajóúton, Singapore-Hongkong között
+TIZENNYOLCADIK FEJEZET - Phileas Fogg, Passepartout és Fix külön-külön lát dolga után
+TIZENKILENCEDIK FEJEZET - Passepartout a kelleténél többet akar tudni Mr. Foggról. Mi következik ebből?
+HUSZADIK FEJEZET - Fix közvetlen kapcsolatot teremt Phileas Fogg-gal
+HUSZONEGYEDIK FEJEZET - Elnyeri-e a kétszáz font jutalmat a Tankadčre kapitánya?
+HUSZONKETTEDIK FEJEZET - Passepartout belátja, hogy a világ végén sem árt, ha pénz van a zsebünkben
+HUSZONHARMADIK FEJEZET - Passepartout orra módfelett hosszúra nyúlik
+HUSZONNEGYEDIK FEJEZET - Sikeres átkelés a Csendes-óceánon
+HUSZONÖTÖDIK FEJEZET - Meeting San Franciscóban. Futó benyomások
+HUSZONHATODIK FEJEZET - Utazás a nagy nyugati expresszen
+HUSZONHETEDIK FEJEZET - Passepartout óránként húszmérföldes sebességgel átfutja a mormonok történetét
+HUSZONNYOLCADIK FEJEZET - Passepartout a józan ész mellett kardoskodik, de nem hallgatnak rá
+HUSZONKILENCEDIK FEJEZET - Beszámoló bizonyos epizódokról, melyek csupán az Unió rail-roadjain adódnak
+HARMINCADIK FEJEZET - Phileas Fogg csupán a kötelességét teljesíti
+HARMINCEGYEDIK FEJEZET - Fix ugyancsak szívén viseli Phileas Fogg érdekeit
+HARMINCKETTEDIK FEJEZET - Phileas Fogg maga fordul szembe a balszerencsével
+HARMINCHARMADIK FEJEZET - Phileas Fogg a helyzet magaslatán
+HARMINCNEGYEDIK FEJEZET - Passepartout rossz, de meglehetősen eredeti szójátéka
+HARMINCÖTÖDIK FEJEZET - Passepartout nem várja meg, hogy gazdája kétszer megismételje parancsát
+HARMINCHATODIK FEJEZET - Phileas Fogg árfolyama ismét felszökik
+HARMINCHETEDIK FEJEZET - Kiderül, hogy Phileas Fogg nem sokat nyert a világ körüli utazással, mindössze a boldogságot találta meg
 
-
-ELSŐ FEJEZET
-Egy megállapodásról, melynek értelmében Phileas Fogg
+ELSŐ FEJEZET - Egy megállapodásról, melynek értelmében Phileas Fogg
 és Passepartout kölcsönösen gazdává, illetve inassá fogadja egymást
 1872-ben a Saville Row 7. szám alatt (Burlington Gardens) - e házban halt meg 1814-ben Sheridan - Phileas Fogg esq.,1 a londoni Reform Club tagja lakott, aki, bár nyilvánvalóan minden igyekezetével azon fáradozott, hogy semmivel ne irányítsa magára a közfigyelmet, mégis a klub egyik legkülönösebb és legfigyelemreméltóbb tagja volt.
 Az egyik legnagyobb és legdicsőbb angol szónok utóda lett tehát ez a rejtélyes Phileas Fogg, akiről senki nem tudott semmit, legföljebb azt, hogy igen derék ember, és az angol felsőbb körök egyik férfiszépsége.
@@ -173,9 +122,7 @@ Tehát e perctől, vagyis 1872. október 2-án, szerdán délelőtt tizenegy ór
 Azzal Phileas Fogg felkelt, bal kezébe vette, majd gépiesen fejére tette kalapját, és szó nélkül távozott.
 Passepartout hallotta, amint az utcai bejáró becsapódik: új gazdája lépett ki rajta; aztán még egyszer becsapódik: ezúttal elődje, James Forster távozott.
 Passepartout egyedül maradt a Saville Row-i házban.
-MÁSODIK FEJEZET
-Passepartout megbizonyosodik róla,
-hogy álmai ezúttal valóra váltak
+MÁSODIK FEJEZET - Passepartout megbizonyosodik róla, hogy álmai ezúttal valóra váltak
 „Szavamra mondom - gondolta magában Passepartout, aki még nem heverte ki az első pillanatok meglepetését -, elevenség dolgában új gazdám bízvást vetekszik Tussaud mama társulatával!”
 Jegyezzük meg itt, hogy Tussaud mama „társulata” megszólalásig élethű viaszfigurákból áll; magyarán szólva panoptikum; Londonban igen szép számú közönség látogatja.
 Phileas Fogg csupán néhány pillanatig volt szeme előtt, de Passepartout ezalatt gondosan és éppoly gyorsan szemügyre vette leendő gazdáját.
@@ -245,8 +192,7 @@ Házias, rendszerető.
 Pontos, akár egy gépezet.
 Nos, én szívesen szolgálok egy ilyen gépezetet!”
 
-HARMADIK FEJEZET
-Egy beszélgetésről, mely Phileas Foggnak sokba kerülhet
+HARMADIK FEJEZET - Egy beszélgetésről, mely Phileas Foggnak sokba kerülhet
 Phileas Fogg fél tizenkettőkor lépett ki Saville Row-i házából, és miután jobb lábát ötszáz­hetvenötször bal lába elé, illetve bal lábát ötszázhetvenhatszor jobb lába elé helyezte, megérkezett a Reform Club hatalmas pall-malli épületébe, melynek felépítése kereken hárommillióba került.
 Phileas Fogg azonnal az ebédlőbe ment, melynek kilenc ablaka szép kertre néz; a fák koronáját már bearanyozta az ősz.
 Itt elfoglalta szokott helyét; az asztal terítve várta.
@@ -401,9 +347,7 @@ Felajánlották Mr. Foggnak, hogy félbeszakítják a játékot: készülődnie 
 - válaszolta a szenvtelen gentleman, azután kiosztotta a lapot.
 - Kárót emeltem mondta.
 - Ön a játékos, Stuart úr.
-NEGYEDIK FEJEZET
-Passepartout-nak, Phileas Fogg inasának
-leesik az álla a meglepetéstől
+NEGYEDIK FEJEZET - Passepartout-nak, Phileas Fogg inasának leesik az álla a meglepetéstől
 Hét óra huszonöt perckor, miután zsebre tette húsz guinea-t kitevő kártyanyereségét, Phileas Fogg elbúcsúzott tiszteletre méltó kollégáitól, és távozott a Reform Clubból.
 Hét óra ötvenkor kinyitotta háza kapuját, és belépett otthonába.
 Passepartout már lelkiismeretesen áttanulmányozta beosztását, s ezért némileg meglepődve pillantott Mr. Foggra, aki vétett a pontosság törvénye ellen, és ebben a szokatlan időben tért haza.
@@ -508,8 +452,7 @@ De alig hagyta el Sydenhamot a vonat, Passepartout kétségbeesett kiáltást ha
 - A szobámban lecsavarni a gázt!
 - Az pedig a maga számlájára ég, fiam!
 - válaszolta hidegen Mr. Fogg.
-ÖTÖDIK FEJEZET
-Új valuta a londoni tőzsdén
+ÖTÖDIK FEJEZET - Új valuta a londoni tőzsdén
 Phileas Fogg, amikor Londonból elindult, aligha gyanította, milyen nagy port ver föl eluta­zása.
 A fogadás híre először a Reform Clubban terjedt el, és valósággal lázba ejtette a tisz­teletre méltó klub tagjait.
 Azután a riporterek révén ez a láz a klubról átterjedt az újságokra, azoktól pedig elkapta a közönség egész Londonban, sőt az egész Egyesült Királyságban.
@@ -567,8 +510,7 @@ A tiszteletre méltó gentleman mintha sosem lett volna: a bankrabló lépett a 
 Gondosan megvizsgálták fényképét, mely, akárcsak kollégáié, a Reform Clubban volt letétben.
 Hajszálra megegyezett azzal az illetővel, akinek személyleírását a nyomozás adatai alapján közölték.
 Most ütött szeget mindenki fejébe, milyen rejtélyesen, magányosan élt Phileas Fogg, milyen váratlanul utazott el; nyilvánvaló, hogy világ körüli útjával, melyet egy őrült fogadással indokolt, csupán egy célja volt: tévútra vezetni az angol rendőrség embereit.
-HATODIK FEJEZET
-Fix detektív méltán türelmetlenkedik
+HATODIK FEJEZET - Fix detektív méltán türelmetlenkedik
 A Phileas Fogg nevű egyénre vonatkozó sürgöny története a következő:
 Október 9-én, szerdán délelőtt tizenegy órára várták Szuezba a Félszigeti és Keleti Társaság Mongolia nevű viharfedélzetes csavargőzösét; vízkiszorítása kétezer-nyolcszáz tonna; névlege­sen ötszáz lóerős.
 A Mongolia menetrendszerűen közlekedett Brindisitől Bombayig, a Szuezi-csatornán keresztül.
@@ -666,9 +608,7 @@ Az útlevélen olvasható személyleírás szóról szóra megegyezett a londoni
 - Ott, a tér sarkán - válaszolt a detektív, és egy kétszáz lépésnyire álló házra mutatott.
 - Hát akkor elmegyek a gazdámért; tudom, nem örül majd a háborgatásnak!
 Azzal az utas elköszönt Fixtől, és visszatért a gőzhajóra.
-HETEDIK FEJEZET
-Újabb bizonyíték arról, hogy rendőri ügyekben
-az útlevél fabatkát sem ér
+HETEDIK FEJEZET - Újabb bizonyíték arról, hogy rendőri ügyekben az útlevél fabatkát sem ér
 A detektív visszatért a rakpartra, és a konzuli hivatal felé sietett.
 Erélyes, sürgős kérésére azonnal bevezették a konzulhoz.
 - Konzul úr - tért rá egyenesen a tárgyra -, igen alapos a gyanúm, hogy a mi emberünk a Mongolián utazik.
@@ -736,9 +676,7 @@ Ez a rendszeres útiterv tehát mindenre tekintettel volt; és Mr. Fogg mindig t
 A mai napon, október 9-én, szerdán éppen szuezi érkezését jegyezte fel; menetrendszerűen érkezett, tehát sem időnyeresége, sem idővesztesége nem volt.
 Ezek után kabinjába hozatta az ebédjét.
 Hogy a várost megtekintse, az meg sem fordult fejében; mint némely angol, ő is inasával nézette meg a vidéket, ha valamerre átutazott.
-NYOLCADIK FEJEZET
-Passepartout talán egy csöppnyivel
-többet beszél a kelleténél
+NYOLCADIK FEJEZET - Passepartout talán egy csöppnyivel többet beszél a kelleténél
 Fix néhány pillanat múlva utol is érte Passepartout-t, aki a rakparton őgyelgett és bámész­kodott, mivel nem tartotta kötelességének, hogy ő maga semmit meg ne nézzen.
 - Nos, barátom - szólt Fix hozzá csatlakozva -, megszerezték a vízumot?
 - Á, ön az, uram - felelt a francia.
@@ -853,9 +791,7 @@ Azzal röviden, nagy vonalakban előadta, milyen beszélgetést folytatott a Fog
 Ezzel a detektív hidegen elbúcsúzott a konzultól, és a távíróhivatalba ment.
 Már tudjuk, mit sürgönyzött innen a londoni rendőrkapitánynak.
 Negyedóra múlva Fix könnyű kézipoggyásszal, de jól bélelt pénztárcával a Mongolia fedélzetén volt, és a gyorsjáratú gőzös csakhamar teljes sebességgel szelte a Vörös-tenger hullámait.
-KILENCEDIK FEJEZET
-A Vörös-tenger és az Indiai-óceán nem húzza
-keresztül Phileas Fogg terveit
+KILENCEDIK FEJEZET - A Vörös-tenger és az Indiai-óceán nem húzza keresztül Phileas Fogg terveit
 Szuez és Aden között pontosan 1310 kilométer a távolság: erre az útra a hajóstársaság forgalmi szabályzata 138 órát engedélyez gőzhajóinak.
 A Mongolia fűtői derekasan dolgoztak, s amilyen tempóban a hajó haladt, úgy látszott, korábban fut be az előírt időnél.
 A Brindisiben felszállt utasok javarészt valamennyien Indiába utaztak.
@@ -970,9 +906,7 @@ Phileas Fogg aznap éppen a harmincharmadik robbert fejezte be; merész és furf
 A Mongoliát csupán október 22-én várták Bombaybe.
 Valójában már 20-án megérkezett.
 Így hát londoni útrakelése óta Phileas Fogg, a rend embere kétnapos előnyt könyvelhetett el útitervének nyereségrovatában.
-TIZEDIK FEJEZET
-Passepartout olcsón megússza,
-csak a cipőjét hagyja el
+TIZEDIK FEJEZET - Passepartout olcsón megússza, csak a cipőjét hagyja el
 Mindenki tudja, hogy India hatalmas, fordított háromszög; csúcsa délen van, alapja északon; területe 1 400 000 négyzetmérföld, 180 milliónyi lakossága egyenlőtlenül oszlik meg vidékein.
 E roppant föld egy részén ténylegesen az angol kormány uralkodik.
 Calcuttában főkormányzója van, Madrasban, Bombayben, Bengáliában kormányzói; Agrában helyettes kormányzója.
@@ -1051,8 +985,7 @@ Fix már-már azon a ponton volt, hogy felszáll a vonat különkocsijába, de e
 - mondta magában.
 - India földjén elkövetett törvénysértés... kezemben van a fickó!”
 E pillanatban élesen sípolt a mozdony, s a vonat eltűnt az éjszakában.
-TIZENEGYEDIK FEJEZET
-Phileas Fogg csillagászati áron paripát vásárol
+TIZENEGYEDIK FEJEZET - Phileas Fogg csillagászati áron paripát vásárol
 A vonat az előírt időben futott ki.
 Nem sok utasa volt: néhány katonatiszt, polgári tisztviselők, ópium- és indigókereskedők; hivatásuk szólította őket a félsziget keleti vidékeire.
 Passepartout egy szakaszban ült gazdájával.
@@ -1225,9 +1158,7 @@ Kholbyban élelmiszert vásároltak.
 Sir Francis Cromarty felmászott az egyik puttonyba, Phileas Fogg a másikat foglalta el.
 Passepartout az elefánt hátán lovagolt, a takarón, gazdája és a tábornok között.
 A párszi az elefánt nyakára kuporodott; a „paripa” kilenc órakor maga mögött hagyta a települést, és toronyiránt megindult Allahabad felé, a sűrű erdőben, legyezőpálmák lombja alatt.
-TIZENKETTEDIK FEJEZET
-Mire vezetett Phileas Foggnak és útitársának
-őserdei kalandozása?
+TIZENKETTEDIK FEJEZET - Mire vezetett Phileas Foggnak és útitársának őserdei kalandozása?
 A vezető, hogy az előttük álló utat rövidítse, balra kanyarodott az építés alatt álló vágányoktól.
 A vasútvonal útjába számos akadályt támasztottak a Vindhya-hegység szeszélyesen kanyargó elágazásai, ezért kitérőkre kényszerült; Phileas Fogg érdeke pedig azt kívánta, hogy minél rövidebben haladjon.
 A párszi úgy ismerte a vidéket, mint a tenyerét; azt állította, hogy ha keresztülvág az erdőn, legalább húsz mérföldet megtakarít.
@@ -1386,9 +1317,7 @@ Abból kitelik.
 - mondta Sir Francis Cromarty.
 - Alkalomadtán - válaszolta egyszerűen Phileas Fogg.
 - Ha van rá időm.
-TIZENHARMADIK FEJEZET
-Passepartout újra bebizonyítja,
-hogy bátraké a szerencse
+TIZENHARMADIK FEJEZET - Passepartout újra bebizonyítja, hogy bátraké a szerencse
 A terv vakmerő volt, csupa nehézség, sőt talán lehetetlen.
 Mr. Fogg kockára vetette életét vagy legalábbis a szabadságát, s ami ezzel egyértelmű: útjának sikerét - mégsem habozott.
 Egyébiránt elszánt segítőtársra talált Sir Francis Cromarty tábornokban.
@@ -1556,9 +1485,7 @@ A papok magukhoz tértek rémületükből, és rájöttek, hogy elrabolták áld
 Azonnal meg is rohanták az erdőt.
 Nyomukban az őrök.
 Sortűz ropogott, a nőragadók azonban sebesen futottak, és néhány pillanat múlva kijutottak a golyók és nyilak lőtávolából.
-TIZENNEGYEDIK FEJEZET
-Phileas Fogg befutja a Gangesz csodás völgyét,
-de arra sem kíváncsi
+TIZENNEGYEDIK FEJEZET - Phileas Fogg befutja a Gangesz csodás völgyét, de arra sem kíváncsi
 A vakmerő szöktetés sikerrel járt.
 Passepartout még egy óra múlva is nevetett rajta.
 Sir Francis Cromarty kezet szorított a merész fiúval.
@@ -1671,9 +1598,7 @@ Phileas Fogg tehát öt szabad órával rendelkezett.
 Útiterve szerint a gentleman október 25-ére szándékozott elérni India fővárosát, huszonhárom nappal azután, hogy Londonból távozott; meg is érkezett a kitűzött napon.
 Nem késett tehát, de nem volt előnye sem.
 Sajnos, a London és Bombay között megszerzett kétnapi előnyt elveszítette, miközben átutazott az indiai félszigeten, azt is tudjuk, hogyan; Phileas Fogg azonban feltehetőleg nem sajnálta ezt a veszteséget.
-TIZENÖTÖDIK FEJEZET
-A pénzes zsák tovább apad;
-egy-két ezresnek megint lába kel
+TIZENÖTÖDIK FEJEZET - A pénzes zsák tovább apad; egy-két ezresnek megint lába kel
 A vonat megállt a pályaudvaron.
 Passepartout szállt le elsőnek a kocsiból, utána Mr. Fogg, aki lesegítette az ifjú hölgyet, útitársukat a peronra.
 Phileas Fogg úgy tervezte, egyenest a hongkongi gőzhajóhoz siet, hogy kényelmes szállást készítsen Mrs. Audának; nem akarta magára hagyni az ifjú hölgyet, amíg e rendkívül veszélyes vidéken tartózkodik.
@@ -1850,8 +1775,7 @@ Szórja a pénzt ez a rabló!
 De a világ végéig üldözöm, ha kell; bár ha folytatja, hamarosan nyakára hág a lopott pénznek!
 A detektívnek minden oka megvolt, hogy így okoskodjon.
 Hiszen mióta Phileas Fogg Lon­don­ból távozott, részint útiköltségre és borravalóra, részint elefántra, óvadékra és bírságokra eddig több mint ötezer fontot (125 000 frank) hagyogatott el, tehát a visszaszerzett összegből a detektívekre váró százalékos részesedés napról napra jobban olvadozott.
-TIZENHATODIK FEJEZET
-Fix úgy tesz, mintha kettőig sem tudna számolni
+TIZENHATODIK FEJEZET - Fix úgy tesz, mintha kettőig sem tudna számolni
 A Kínai- és a Japán-tengeren a Félszigeti és Keleti Társaság tulajdonában többek között a Rangoon nevű gőzhajó teljesít szolgálatot.
 Vasból épült csavargőzös, vízkiszorítása 1770 bruttóregisztertonna; hajógépe névlegesen 400 lóerős.
 Sebességben tehát felért a Mongoliával, kényelemben azonban mögötte maradt.
@@ -1971,9 +1895,7 @@ Egy gazdag hongkongi kereskedő gondjaira bízzuk, a hölgy egyik rokonára; ez 
 - Meghívhatom egy ginre, Passepartout úr?
 - Hogyne, Fix úr, nagyon szívesen.
 Igazán megtehetjük, annak örömére, hogy a Rangoonon is összeakadtunk!
-TIZENHETEDIK FEJEZET
-Apróságok a hajóúton,
-Singapore-Hongkong között
+TIZENHETEDIK FEJEZET - Apróságok a hajóúton, Singapore-Hongkong között
 E naptól fogva Passepartout és a detektív gyakran találkozott, de Fix igen tartózkodónak mutatkozott útitársával szemben, és nem igyekezett szóra bírni.
 Mr. Foggot mindössze távolról látta egy-két alkalommal; a gentleman legszívesebben a Rangoon nagyszalonjában Auda asszony mellett üldögélt, vagy - megrögzött szokása szerint - whistezett.
 Passepartout eközben igen komolyan fontolóra vette, hogy Fix megint gazdájával együtt utazik.
@@ -2109,9 +2031,7 @@ Nem elég!
 - Egy helyben állunk!
 Ezek az angolok!
 Hej, volna csak ez a hajó amerikai, talán a levegőbe repülnénk, de gyorsabban haladnánk, annyi szent!
-TIZENNYOLCADIK FEJEZET
-Phileas Fogg, Passepartout és Fix
-külön-külön lát dolga után
+TIZENNYOLCADIK FEJEZET - Phileas Fogg, Passepartout és Fix külön-külön lát dolga után
 Az átkelés utolsó napjaiban meglehetősen rossz volt az idő.
 Dühöngött a szél.
 Tartósan fújt északnyugat felől, és gátolta futásában a gőzhajót.
@@ -2215,8 +2135,7 @@ Aztán halkan ezt kérdezte:
 - válaszolt Passepartout.
 - Menjen a Carnaticre, foglaljon három kabint.
 Passepartout-nak fölöttébb tetszett, hogy az ifjú hölgy társaságában utazhat tovább, mert Mrs. Auda igen kedvesen bánt vele - franciánk máris távozott a Club Szállóból.
-TIZENKILENCEDIK FEJEZET
-Passepartout a kelleténél többet akar tudni
+TIZENKILENCEDIK FEJEZET - Passepartout a kelleténél többet akar tudni
 Mr. Foggról.
 Mi következik ebből?
 Hongkong mindössze kicsiny sziget, az 1842-es háború után a nankingi béke ítélte Angliának.
@@ -2432,8 +2351,7 @@ Fix Passepartout kezébe nyomta az egyiket, az elvette, szájához emelte, rágy
 - mondta Fix, s az öntudatlan Passepartout-ra tekintett.
 - Fogg nagyságos úr most már nem tudja meg idejében, hogy a Carnatic mikor indul, s ha elutazik is, az átkozott franciája legalább itt marad!
 Ezek után fizetett és távozott.
-HUSZADIK FEJEZET
-Fix közvetlen kapcsolatot teremt Phileas Fogg-gal
+HUSZADIK FEJEZET - Fix közvetlen kapcsolatot teremt Phileas Fogg-gal
 Eközben Mr. Fogg Mrs. Audát kísérgette az angol város utcáin; nyugodtan sétáltak, Fogg úr nem is sejtette, hogy a közben történtek esetleg egész későbbi sorsát veszélyeztetik.
 Amióta Mrs. Auda elfogadta ajánlatát, hogy Fogg elviszi egészen Európába, a gentleman számos apró gondot vett a nyakába: ilyen hosszú úton sok mindennel törődni kell.
 Hogy egy angol egyetlen útizsákkal járja körül a világot, mint ő, az még hagyján; asszony azonban ekkora útra ilyen körülmények közepette nem vállalkozhat.
@@ -2590,9 +2508,7 @@ Mr. Fogg és Mrs. Auda végső pillantást vetett a rakpartra, nem jelentkezik-e
 Fix meglehetősen ideges volt, mert a véletlen szeszélye előkeríthette volna szegény fiút, méltatlan cselvetésének áldozatát, s ha megkezdődik a kimagyarázkodás, a detektív aligha úszta volna meg szárazon.
 Ám a francia nem jelentkezett; nyilván most is az ópium kábu­latában hever valahol.
 Végre John Bunsby kapitány kifutott a nyílt tengerre, a szél belekapott a far-, előtörzs- és farsudárvitorlákba, s a Tankadčre tovaszökellt a hullámokon.
-HUSZONEGYEDIK FEJEZET
-Elnyeri-e a kétszáz font jutalmat
-a Tankadčre kapitánya?
+HUSZONEGYEDIK FEJEZET - Elnyeri-e a kétszáz font jutalmat a Tankadčre kapitánya?
 Húsztonnás vízi alkalmatosságon, főként ebben az évszakban, kalandos vállalkozás volt ez a 800 mérföldes hajóút.
 A Kínai-tenger meglehetősen veszedelmes; iszonyú szélrohamok garáz­dálkodnak rajta, főként a napéjegyenlőségek időszakában, most pedig még csak november első napjait írták.
 A révkalauz érdeke természetesen azt kívánta, hogy Jokohamáig vigye utasait, hiszen napi­díjat kapott.
@@ -2784,9 +2700,7 @@ Félárbocra eresztették a zászlót, így jelezték, hogy bajban vannak, és r
 - Tűz!
 - szólt Mr. Fogg.
 S a bronzágyúcska dörrenése messze szállt a levegőben.
-HUSZONKETTEDIK FEJEZET
-Passepartout belátja, hogy a világ végén
-sem árt, ha pénz van a zsebünkben
+HUSZONKETTEDIK FEJEZET - Passepartout belátja, hogy a világ végén sem árt, ha pénz van a zsebünkben
 A Carnatic november 7-én este fél hétkor hagyta el Hongkongot, és teljes gőzzel szelte a tengert Japánföld felé.
 Színültig rakva volt áruval, utassal.
 Csupán a hajófarban maradt két üres kabin.
@@ -2901,9 +2815,7 @@ Lassanként elnéptelenedtek az utcák.
 A tömeget felváltották a jakuninok őrjáratai.
 Dús öltö­zékben feszítettek ezek a tisztek, körülvették őket az embereik; olyan volt mindegyik, mint egy-egy nagykövet: valahányszor Passepartout találkozott egy-egy jakuninnal és káprázatosan kiöltözött őrjáratával, nem állhatta meg, hogy tréfásan meg ne jegyezze:
 - Lám, már megint japán nagykövet indul Európába!
-HUSZONHARMADIK FEJEZET
-Passepartout orra
-módfelett hosszúra nyúlik
+HUSZONHARMADIK FEJEZET - Passepartout orra módfelett hosszúra nyúlik
 Passepartout másnap úgy érezte magát, mint akit mozsárban törtek össze; éhség gyötörte, és mindegyre az járt az eszében, hogy lesz, ami lesz, ennie kell valamit, mégpedig annál jobb, minél hamarább.
 Végső esetben eladhatta volna zsebóráját, de inkább éhen halt volna, mintsem hogy megtegye.
 A derék fiú úgy döntött, hogy erős, bár nem túl dallamos hangjához folyamodik segítségért, melyet a természet jótékonyságának köszönhet; ő bizony felhasználja, most vagy soha.
@@ -3022,8 +2934,7 @@ Mr. Fogg, a kíséretében levő Mrs. Auda és Passepartout végigrohantak a fol
 De útközben a jeles Batulcarbe botlottak, aki tajtékozva kártérítést követelt a „kassza miatt”.
 Phileas Fogg egy marék bankjeggyel hűtötte le mérgét.
 S amikor fél hétkor már éppen indulni készült az amerikai gőzhajó, a fedélzetre lépett Mr. Fogg és Mrs. Auda, nyomukban Passepartout-val; a francia szárnyat viselt a hátán, arca közepén hét láb hosszú orr ágaskodott, még nem sikerült tőle megszabadulnia!
-HUSZONNEGYEDIK FEJEZET
-Sikeres átkelés a Csendes-óceánon
+HUSZONNEGYEDIK FEJEZET - Sikeres átkelés a Csendes-óceánon
 Talán sejtjük, mi történt Sanghaj partjai előtt.
 A jokohamai gőzhajón észrevették a Tankadčre jelzéseit.
 A kapitány látta a félárbocon lengő zászlót, és az apró vitorláshoz sietett.
@@ -3133,8 +3044,7 @@ Passepartout feszült figyelemmel hallgatta Fixet, és nem kételkedett szavai j
 - Ahogy parancsolja - szólt nyugodtan a detektív.
 Tizenegy nap múlva, december 3-án a General Grant befutott az Aranykapu-öbölbe, és megérkezett San Franciscóba.
 Mr. Fogg mindeddig egy napot sem nyert, de nem is veszített.
-HUSZONÖTÖDIK FEJEZET
-Meeting39 San Franciscóban.
+HUSZONÖTÖDIK FEJEZET - Meeting San Franciscóban.
 Futó benyomások
 Reggel hét óra volt, amikor Phileas Fogg, Mrs. Auda és Passepartout partra szállt az amerikai kontinensen, ha ugyan így nevezhetjük az úszó mólót, melyre a hajó kitette őket.
 Ezek a mólók követik az ár-apály mozgását, és megkönnyítik a hajók ki- és berakodását.
@@ -3278,8 +3188,7 @@ Odalépett hozzá.
 - kérdezte Mr. Fogg.
 - Dehogy, uram, békebírót.
 E válasz hallatára Mr. Fogg fellépett a kocsira, s a vonat teljes gőzzel tovarobogott.
-HUSZONHATODIK FEJEZET
-Utazás a nagy nyugati expresszen
+HUSZONHATODIK FEJEZET - Utazás a nagy nyugati expresszen
 „Ocean to Ocean” - így hívják az amerikaiak, és akár hivatalosan is így hívhatnák a „grand trunk”-ot, mely teljes szélességében átszeli az Amerikai Egyesült Államokat.
 Ám a Pacific Rail-Road két külön szakaszra oszlik: San Francisco és Ogden között Central Pacific, Ogden és Omaha között Union Pacific a neve.
 Ez utóbbi ponton öt különféle vonal fut össze; ezek szoros összeköttetésben tartják Omahát New Yorkkal.
@@ -3365,9 +3274,7 @@ Tehát legokosabb, ha türelmesen várakoznak; majd később fokozzák a sebess�
 Három óráig tartott a bölények vonulása, és a vágány csupán alkonyatkor szabadult fel.
 Most haladtak át a csorda végső sorai a síneken, a menet eleje pedig már régen eltűnt a déli láthatáron.
 Nyolc óra volt tehát, amikor a vonat kijutott a Humboldt-Ranges völgyszorosaiból, és fél tíz, amikor Utah területére ért; a Nagy-Sós-tó vidéke ez, a mormonok különös hazája.
-HUSZONHETEDIK FEJEZET
-Passepartout óránként húszmérföldes sebességgel
-átfutja a mormonok történetét
+HUSZONHETEDIK FEJEZET - Passepartout óránként húszmérföldes sebességgel átfutja a mormonok történetét
 December 5-éről 6-ára virradóra a vonat mintegy 50 mérföldön át délkeletnek futott, majd ugyanennyit haladt északkeleti irányban, és a Nagy-Sós-tóhoz közeledett.
 Passepartout reggel kilenc óra tájt az egyik átjárón szellőzködött.
 Hideg volt, az ég felhős, de nem havazott.
@@ -3445,9 +3352,7 @@ Tovább futhatott a vágányok mentén, felugrott az utolsó kocsi lépcsőjére
 Passepartout izgatottan figyelte a futóverseny mozzanatait, és a későn jövő utas közelébe férkőzött; nyomban rendkívül felcsigázódott az érdeklődése, amikor megtudta, hogy Utah állam jeles polgárát egy családi jelenet űzte ki otthonából.
 Mihelyt a mormon lélegzethez jutott, Passepartout nagy udvariasan megkérdezte, hány felesége van - abból, ahogy menekült, úgy gondolta, legalább húszan lehetnek.
 - Egy, uram - felelt a mormon, és égnek emelte a kezét -, egyetlenegy, de az is elég!
-HUSZONNYOLCADIK FEJEZET
-Passepartout a józan ész mellett kardoskodik,
-de nem hallgatnak rá
+HUSZONNYOLCADIK FEJEZET - Passepartout a józan ész mellett kardoskodik, de nem hallgatnak rá
 A vonat elhagyta a Nagy-Sós-tavat és Ogden állomását, majd egy órán át észak felé futott, egészen a Weber folyóig: San Francisco óta körülbelül 900 mérföldet hagyott hátra.
 Azután ismét keletre fordult a Wahsatch-hegység változatos vonulatain át.
 Az amerikai mérnökök ezen a vidéken, vagyis a Wahsatch- és a tulajdonképpeni Sziklás-hegység között kerültek szembe a legtöbb nehézséggel.
@@ -3647,9 +3552,7 @@ Egy villanás volt az egész.
 A hidat nem is látták.
 A szerelvény valósággal átug­rott a túlsó partra, s a mozdonyvezető csupán öt mérfölddel az állomáson túl bírta megállítani fékevesztett masináját.
 Ám alig szelték át a folyót, végleg összedőlt a híd, és hatalmas robajjal omlott a Medicine Bow forgatagába.
-HUSZONKILENCEDIK FEJEZET
-Beszámoló bizonyos epizódokról,
-melyek csupán az Unió rail-roadjain adódnak
+HUSZONKILENCEDIK FEJEZET - Beszámoló bizonyos epizódokról, melyek csupán az Unió rail-roadjain adódnak
 A vonat még az este akadályok nélkül folytatta útját, áthaladt a Sauders-erődön, átkelt a Cheyenne-szoroson, és megérkezett az Evans-szorosba.
 Itt éri el a pálya legmagasabb pontját: 8091 láb magasságot az óceán szintje fölött.
 Most már csupán az vár utasainkra, hogy a természettől egyengetett végtelen síkságokon az Atlanti-óceánig ereszkedjenek.
@@ -3812,8 +3715,7 @@ A vonatot még néhány percig tovagördítette a lendület, de benn a kocsikban
 Az erőd katonáit fellármázta a lövöldözés; azonnal odarohantak.
 A sziúk nem várták meg őket, s mielőtt a vonat egészen megállt volna, mind egy szálig kereket oldott a banda.
 Mikor azonban az utasokat összeszámlálták az állomás peronján, kiderült, hogy többen hiányzanak, közöttük a bátor francia is, akinek önfeláldozása megmentette valamennyiüket.
-HARMINCADIK FEJEZET
-Phileas Fogg csupán a kötelességét teljesíti
+HARMINCADIK FEJEZET - Phileas Fogg csupán a kötelességét teljesíti
 Passepartout-val együtt három utasnak nyoma veszett.
 Vajon a harcban estek el?
 Vagy a sziúk fogságába kerültek?
@@ -4009,8 +3911,7 @@ Azt hitte, még ott találja, indulásra készen Omaha felé, és remélte, hogy
 - kérdezte Phileas Fogg.
 - Csak este.
 - Hm... - szólt a gentleman szenvtelenül, és ez volt minden észrevétele.
-HARMINCEGYEDIK FEJEZET
-Fix ugyancsak szívén viseli Phileas Fogg érdekeit
+HARMINCEGYEDIK FEJEZET - Fix ugyancsak szívén viseli Phileas Fogg érdekeit
 Phileas Foggnak húsz óra késése volt.
 Passepartout egészen búnak adta a fejét: akarva-akarat­lan, ezért mégiscsak ő a felelős.
 Gazdájának vége, és ennek ő az oka!
@@ -4136,8 +4037,7 @@ A Pittsburg Fort Wayne-Chicago Rail-Road fürge mozdonya teljes sebességgel ira
 Villámsebesen végigrobogott Indianán, Ohión, Pennsylvanián, New Jerseyn, ódon elnevezésű városokat érintve, melyek egyik-másikának csupán utcái és villamosai voltak, házaik azonban még nem.
 Végre megpillantották a Hudsont, és december 11-én este negyed tizenegykor a vonat megállt a pályaudvaron, a folyó jobb partján, éppen a móló mellett, ahonnan a Cunard vagy más néven British and North-American Royal Mail Steam Packet Co. járat gőzhajói kifutnak.
 A China éppen negyvenöt perccel azelőtt indult el Liverpool felé.
-HARMINCKETTEDIK FEJEZET
-Phileas Fogg maga fordul szembe a balszerencsével
+HARMINCKETTEDIK FEJEZET - Phileas Fogg maga fordul szembe a balszerencsével
 A China elment, és mintha magával vitte volna Phileas Fogg végső reményeit is.
 Mert az Amerika és Európa közötti közvetlen forgalmat fenntartó többi gőzös semmiképp nem mozdíthatta elő a gentleman terveit; sem a Francia Óceánjáró Részvénytársaság, sem a White Star Line hajói, sem a Compagnie Imman steamerei, sem a Hamburgi Hajójáratok.
 A Francia Óceánjáró Részvénytársaság ugyanis - melynek csodálatos járművei sebességben valamennyi hajótársaság járataival felveszik a versenyt, kényelem szempontjából pedig valamennyinél különbek - csupán két nap múlva, december 14-én indította Pereire nevű hajóját.
@@ -4230,8 +4130,7 @@ Mind a négyen felértek a fedélzetre, amikor a Henrietta felvonta horgonyát.
 Amint Passepartout megtudta, mibe kerül a befejező hajóút, csak annyit mondott: „Ó!” - de ez az ó felettébb hosszúra sikerült, és az ereszkedő kromatikus skála valamennyi hangjegyét végigfutotta.
 Fix pedig azon merengett, hogy az Angol Bank ezt az ügyet aligha ússza meg szárazon.
 Mert - feltéve, hogy ez a Fogg útközben nem szór még néhány marék pénzt a tengerbe - amikor megérkeznek, több mint hétezer fonttal (175 000 frank) lesz könnyebb az útizsák, melyben a bankók lapulnak!
-HARMINCHARMADIK FEJEZET
-Phileas Fogg a helyzet magaslatán
+HARMINCHARMADIK FEJEZET - Phileas Fogg a helyzet magaslatán
 Egy óra múlva a Henrietta steamer elhagyta a Hudson torkolatát jelző Light-boatot, meg­kerülte a Sandy-fokot, s nekivágott a nyílt tengernek.
 A nap folyamán Long Island mentén haladt a Fire Island mellett, és sebesen siklott kelet felé.
 Másnap, december 13-án délben egy férfi lépett a parancsnoki hídra, hogy meghatározza a hajó helyzetét.
@@ -4432,8 +4331,7 @@ Csupán hat óra választotta el Londontól.
 - Ön Phileas Fogg?
 - Igen, uram.
 - A királynő nevében: letartóztatom!
-HARMINCNEGYEDIK FEJEZET
-Passepartout rossz, de meglehetősen eredeti szójátéka
+HARMINCNEGYEDIK FEJEZET - Passepartout rossz, de meglehetősen eredeti szójátéka
 Phileas Fogg fogoly volt.
 A liverpooli vámháznak, a Custom House-nak őrszobáján csukták le, itt kell majd töltenie az éjszakát, addig is, amíg Londonba nem viszik.
 A letartóztatás pillanatában Passepartout rá akart rohanni a detektívre.
@@ -4509,9 +4407,7 @@ De három órakor Phileas Fogg valami jutalmat emlegetett a mozdonyvezetőnek, �
 De nemegyszer megállásra kényszerültek, s amikor a gentle­man megérkezett a pályaudvarra, London valamennyi toronyórája nyolc óra ötven percet muta­tott.
 Phileas Fogg körülutazta a világot, és most öt perc késéssel ért célba...
 Veszített.
-HARMINCÖTÖDIK FEJEZET
-Passepartout nem várja meg, hogy gazdája
-kétszer megismételje parancsát
+HARMINCÖTÖDIK FEJEZET - Passepartout nem várja meg, hogy gazdája kétszer megismételje parancsát
 A Saville Row lakosai ugyancsak elámultak volna, ha másnap azt hallják valakitől, hogy Mr. Fogg ismét elfoglalta lakását.
 A ház minden ajtaja, ablaka zárva volt.
 Az épületen kívülről semmi változás.
@@ -4638,8 +4534,7 @@ Még csak nyolc óra öt perc volt.
 - Holnap, hétfőn!
 - felelte Mrs. Auda.
 Passepartout elrobogott.
-HARMINCHATODIK FEJEZET
-Phileas Fogg árfolyama ismét felszökik
+HARMINCHATODIK FEJEZET - Phileas Fogg árfolyama ismét felszökik
 Ideje, hogy közöljük, mekkorát fordult az Egyesült Királyságban a közvélemény, amikor köz­tudo­másra jutott, hogy december 17-én Edinbourghben letartóztatták az Angol Bank igazi tolvaját - egy bizonyos James Strandet, név szerint.
 Három nappal azelőtt Phileas Fogg még bűnöző volt, akit égre-földre hajszol a rendőrség, majd ismét visszaváltozott makulátlan gentlemanné, aki matematikai pontossággal halad fantasztikus útján a föld körül.
 Micsoda szenzáció!
@@ -4718,9 +4613,7 @@ A kártyázók felálltak.
 Az ötvenötödik másodpercben kitárult a szalon ajtaja, s az inga még nem ütötte el a hatva­nadik másodpercet, amikor megjelent Phileas Fogg, nyomában ünneplőinek tömege, akik behatoltak a klub épületébe.
 Phileas Fogg megszólalt, és csupán ennyit mondott:
 - Uraim, itt vagyok!
-HARMINCHETEDIK FEJEZET
-Kiderül, hogy Phileas Fogg nem sokat nyert a világ 
-körüli utazással, mindössze a boldogságot találta meg
+HARMINCHETEDIK FEJEZET - Kiderül, hogy Phileas Fogg nem sokat nyert a világ körüli utazással, mindössze a boldogságot találta meg
 Igen!
 Phileas személyesen!
 Emlékszünk, hogy este nyolc óra öt perckor - mintegy huszonhárom órával azután, hogy utasaink Londonban megérkeztek - Passepartout-t megbízta gazdája, tájékoztassa Samuel Wilson plébános urat egy bizonyos házasságról, melyet másnap óhajtanának megkötni.
@@ -4800,4 +4693,3 @@ Hogy semmit?
 Mondjuk, hogy semmit, legfeljebb bájos feleségét, aki - bármily hihetetlenül hangzik is - oly boldoggá tette, amilyen boldog még senki sem volt.
 Hát igen!
 És ki ne utazná körül ennél kevesebbért is a világot?
-.oOo.
