@@ -41,3 +41,5 @@
     41	11:31	uemacs tasklist
     42	11:35	history
     43	11:36	history > history
+
+grep -iRwn "riskwarning_braziliandescriptionđầu" ./ > ../hun-viet-dict/Generating\ Viet\ List/Garbage\ Logs/garb10.log
