@@ -1,72 +1,4 @@
-﻿
-Jules Verne
-
-A Barsac-expedíció 
-különös története
-
-Fordította: Dáné Tibor
-
-
-TARTALOM
-ELSŐ RÉSZ
-Első fejezet
-A Central Bank kirablása
-Második fejezet
-Egy különös tanulmányút
-Harmadik fejezet
-Lord Buxton Glenor
-Negyedik fejezet
-Egy újságcikk az Expansion Française-ből
-Ötödik fejezet
-Amédée Florence úr második beszámolója
-Hatodik fejezet
-Amédée Florence úr harmadik beszámolója
-Hetedik fejezet
-Sikassóban
-Nyolcadik fejezet
-Moriliré
-Kilencedik fejezet
-Felsőbb parancsra
-Tizedik fejezet
-Az új fegyveres kíséret
-Tizenegyedik fejezet
-Mi a teendő?
-Tizenkettedik fejezet
-Egy sír és néhány csontmaradvány
-MÁSODIK RÉSZ
-Első fejezet
-Blackland
-Második fejezet
-Nyílsebesen repülünk
-Harmadik fejezet
-A zsarnok
-Negyedik fejezet
-Március 26-ától április 8-áig
-Ötödik fejezet
-Az új börtön
-Hatodik fejezet
-Marcel Camaret
-Hetedik fejezet
-A blacklandi Üzem
-Nyolcadik fejezet
-A Hertz-féle hullámok szárnyán
-Kilencedik fejezet
-A katasztrófa
-Tizedik fejezet
-Amédée Florence ötlete
-Tizenegyedik fejezet
-Mi van az ajtó mögött?
-Tizenkettedik fejezet
-Harry Killer
-Tizenharmadik fejezet
-Véres éjszaka
-Tizennegyedik fejezet
-Blackland végórái
-Tizenötödik fejezet
-Epilógus
-
-
-ELSŐ RÉSZ
+﻿ELSŐ RÉSZ
 Első fejezet
 A Central Bank kirablása
 Kétségtelen, hogy azt a vakmerő betörést, amely oly hosszú ideig foglalkoztatta a napisajtót, és amelyet az a „megtiszteltetés” ért, hogy két hétig - A Central Bank kirablása nagybetűs cím alatt - a lapok első oldalán jelenhetett meg, még nem felejtette el mindenki; pedig azóta évek teltek el.
@@ -7959,4 +7891,3 @@ Ez az oka, hogy elbeszélése hol újságcikkekből, hol bizonyos naplószerű f
 De ezennel már ő is eleget tett a kötelességének.
 Jól-rosszul, szórakoztatóan vagy unalmasan, de eddig elérkezett.
 Tehát: fenntartás és viszolygás nélkül leveti az inkognitóját; a leírt törté­netet szóról szóra igaznak nyilvánítja, és az elbeszélő, az önök alázatos szolgája, íme, a nevét is aláírja: Amédée Florence, az Expansion Française riportere, aki ezennel papírra rója a legfontosabb, legkellemesebb szót is, a szavak királyát: azt a szót, hogy
-Vége

@@ -1,52 +1,4 @@
-﻿
-VICTOR HUGO
-
-KILENCVENHÁROM
-
-FORDÍTOTTA 
-ARANYOSSI PÁL
-A JEGYZETEKET 
-LONTAY LÁSZLÓ ÍRTA
-
-
-TARTALOM
-ELSŐ RÉSZ 
-A tengeren
-ELSŐ KÖNYV 
-A Saudraie erdejében
-MÁSODIK KÖNYV 
-A Claymore korvett
-HARMADIK KÖNYV 
-Halmalo
-NEGYEDIK KÖNYV 
-Tellmarch
-MÁSODIK RÉSZ 
-Párizsban
-ELSŐ KÖNYV 
-Cimourdain
-MÁSODIK KÖNYV 
-A Páva utcai kocsmában
-HARMADIK KÖNYV 
-A Konvent
-HARMADIK RÉSZ 
-Vendée földjén
-ELSŐ KÖNYV 
-Vendée
-MÁSODIK KÖNYV 
-A három gyermek
-HARMADIK KÖNYV 
-Szent Bertalan vértanúsága
-NEGYEDIK KÖNYV 
-Az anya
-ÖTÖDIK KÖNYV 
-In daemone deus
-HATODIK KÖNYV 
-A győzelem után kezdődik a csata
-HETEDIK KÖNYV 
-Feudális világ és forradalom
-
-
-ELSŐ RÉSZ
+﻿ELSŐ RÉSZ
 A tengeren
 ELSŐ KÖNYV
 A Saudraie erdejében
@@ -10096,4 +10048,3 @@ A fejszecsapásra pisztolylövés válaszolt.
 Cimour­dain kihúzta övéből egyik pisztolyát, és amikor Gauvain feje legördült a kosárba, szíven lőtte magát.
 Vér buggyant ki a szájából, és holtan zuhant le.
 Ez a két tragikus testvérlélek együtt szállott el; egyikük árnyéka beburkolózott a másikuk fényébe.
--&-

@@ -1,45 +1,4 @@
-﻿ALEXANDRE DUMAS
-A FEKETE TULIPÁN
-Fordította: Hevesi Sándor
-
-TARTALOM
-A HÁLÁS NÉP
-A KÉT FIVÉR
-JAN DE WITT TANÍTVÁNYA
-A GYILKOSOK
-A TULIPÁNKEDVELŐ ÉS SZOMSZÉDJA
-A TULIPÁNKERTÉSZ GYŰLÖLETE
-A BOLDOG EMBER MEGISMERKEDIK A BOLDOGTALANSÁGGAL
-ELLENSÉGES BETÖRÉS
-A CSALÁDI CELLA
-A BÖRTÖNŐR LÁNYA
-CORNELIUS VAN BAERLE TESTAMENTUMA
-A KIVÉGZÉS
-MI MENT VÉGBE EKÖZBEN AZ EGYIK NÉZŐ LELKÉBEN?
-A DORDRECHTI GALAMBOK
-A KIS ABLAK
-MESTER ÉS TANÍTVÁNY
-AZ ELSŐ SARJHAGYMA
-ROSA IMÁDÓJA
-LEÁNY ÉS VIRÁG
-MI TÖRTÉNT AZON A HÉTEN?
-A MÁSODIK SARJHAGYMA
-VIRÁGFAKADÁS
-AZ IRIGY
-AMELYBEN A TULIPÁN GAZDÁT CSERÉL
-VAN SYSTENS ELNÖK
-A KERTÉSZETI TÁRSASÁG EGY TAGJA
-A HARMADIK SARJHAGYMA
-A VIRÁGOK ÉNEKE
-AMELYBEN VAN BAERLE, MIELŐTT ELHAGYNÁ LEEUWENSTEEN VÁRÁT, 
-LESZÁMOL GRYPHUSSZAL
-AMELYBEN AZ OLVASÓ SEJTENI KEZDI, HOGY MIFÉLE BÜNTETÉST 
-TARTOGATTAK CORNELIUS VAN BAERLE SZÁMÁRA
-HAARLEM
-EGY UTOLSÓ KÉRÉS
-VÉGSZÓ
-
-A HÁLÁS NÉP
+﻿A HÁLÁS NÉP
 1672. augusztus huszadikán Hága városa - amely olyan eleven, olyan fehér, olyan kacér, mintha csak minden napja vasárnap volna -, Hága városa, amelynek árnyékos a parkja, amely­nek lombos fái gótikus épületekre borulnak, és széles csatornáiban mint tükörben nézegetik magukat a tornyok szinte keleties kupolái, Hága városa, a hét egyesített tartomány székhelye, arra ébredt, hogy siető, lihegő, izgatott polgárok piros és fekete áradata hullámzik végig valamennyi ütőerén, s tőrrel az övükben, muskétával a vállukon vagy pálcával a kezükben a Buitenhof felé iparkodnak.
 Félelmetes börtön ez, vasrácsos ablakait ma is mutogatják; itt szenvedett Cornelius de Witt, Hollandia volt főminiszterének az öccse, amióta Tyckelaer, a sebészorvos, gyilkossággal vádolta meg.
 Ha annak az időnek, kiváltképpen pedig annak az esztendőnek a története, amelyben ez az elbeszélés megindul, nem volna elválaszthatatlanul összekapcsolva a fent említett két névvel, ez az itt következő néhány sornyi magyarázat talán fölöslegesnek is látszanék.
@@ -4573,7 +4532,4 @@ Amely kikötésnek Rosa lelkiismeretesen eleget tett, ámbár Cornelius nem halt
 És hogy jövendőbeli irigyeit lefegyverezze, ha netán a Gondviselés nem szabadítaná meg tőlük, ahogy Izaak Boxtel úrral tette, ajtaja fölé azt a jelmondatot írta, amit Grotius vésett szökése napján börtönének falára:
 „Olykor eleget szenvedünk ahhoz,
 hogy jogunk legyen soha azt nem mondani:
-- Nagyon-nagyon boldog vagyok”
-
-
-.oOo.
+- Nagyon-nagyon boldog vagyok"

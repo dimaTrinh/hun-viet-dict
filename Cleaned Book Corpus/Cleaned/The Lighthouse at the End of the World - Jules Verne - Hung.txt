@@ -1,46 +1,6 @@
-﻿
-JULES VERNE
+﻿JULES VERNE
 
-VILÁGÍTÓTORONY 
-A VILÁG VÉGÉN
-
-FORDÍTOTTA: 
-KOVÁCSI BARNABÁS
-
-
-TARTALOM
-  
-1.
-A felavatás
-  2.
-Az Államok-sziget
-  3.
-A három toronyőr
-  4.
-Kongre bandája
-  5.
-A Maule nevű kétárbocos
-  6.
-Az Elgor-öbölben
-  7.
-A barlang
-  8.
-Javítják a Maule-t
-  9.
-Vásquez
-10.
-A hajótörés után
-11.
-A roncsfosztogatók
-12.
-Az öbölkijáratánál
-13.
-Három nap
-14.
-A Santa Fé ágyúnaszád
-15.
-Befejezés
-
+VILÁGÍTÓTORONY A VILÁG VÉGÉN
 
 1.
 A felavatás
@@ -3006,4 +2966,3 @@ Március 18-án délután Lafayete kapitány, aki immáron bizonyos lehetett ben
 A nap akkor nyugodott le, amikor kiért az öbölből.
 Fönt a parton - ebben a pillanatban - egy fénysugár tört elő, amelynek visszfénye hosszan tán­colt a hajó nyomdokvizén.
 És az elsötétülő tengeren távolodó ágyúnaszád - úgy tűnt - magával vitt egy sugarat azok közül, amelyeket újra, számlálatlanul küldött az éjbe a világvégi világító­torony.
--&-

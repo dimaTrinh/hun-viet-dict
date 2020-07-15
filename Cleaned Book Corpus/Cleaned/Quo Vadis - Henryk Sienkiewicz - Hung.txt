@@ -1,41 +1,7 @@
 ﻿
 QUO VADIS?
-Történeti regény Nero császár korából
 
-
-Irta
 SIENKIEWICZ HENRIK
-
-
-Fordította
-SZEKRÉNYI LAJOS
-r. k. lelkész,
-a Szent-István-Társulat Tudom.
-és Irod.
-Osztályának r. tagja
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Budapest
-A FORDITÓ KIADÁSA
-1901.
-A mű elektronikus változatára a Nevezd meg!
-- Így add tovább!
-3.0 Unported (CC BY-SA 3.0) Creative Commons licenc feltételei érvényesek.
-További információk: http://creativecommons.org/licenses/by-sa/3.0/deed.hu
-
 
 ELSŐ KÖTET.
 ELSŐ KÖNYV.
@@ -11844,7 +11810,6 @@ A legközelebbi pillanatban reá ereszkedtek a halál árnyékai.
 Vastag nyakából sötét vérözön folyt a kert virágaira.
 Lábai mélyen beásódtak a földbe - és vége volt.
 Reggel a hű Acte drága kelmébe burkolta a holttestet és fűszerektől illatozó máglyán elégette.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Igy tünt el Nero, mint a forgószél, a tűzvész, a háború vagy pusztító döghalál eltünnek, Péter bazilikája pedig a vatikáni halomról még most is uralkodik a városon és a világon.
 És ott, hol egykor a Porta Capena volt, még most is áll egy kis kápolna, mely ezt a félig elmosódott fölirást viseli:
 «Quo vadis, Domine?»
