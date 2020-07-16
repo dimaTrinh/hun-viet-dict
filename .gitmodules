@@ -1,6 +1,0 @@
-[submodule "Cleaned"]
-	path = Cleaned
-	url = https://github.com/zseder/hundict.git
-[submodule "~/hundict"]
-	path = ~/hundict
-	url = https://github.com/zseder/hundict.git
