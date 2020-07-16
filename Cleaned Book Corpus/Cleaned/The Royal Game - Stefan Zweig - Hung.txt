@@ -2,8 +2,6 @@
 STEFAN ZWEIG
 SAKKNOVELLA
 
-FORDÍTOTTA: FÓNAGY IVÁN
-
 
 A szokott járás-kelés, sürgés-forgás uralkodott a nagy személyszállító gőzös fedélzetén, mely éjfélkor indul el New York kikötőjéből Buenos Aires felé.
 Ott tolongtak a szárazföldi vendégek, hogy búcsút mondjanak barátaiknak, ferdesapkás sürgönyhordó fiúk rohantak a termeken át, s egy-egy nevet kiáltoztak.
@@ -1120,4 +1118,3 @@ A többiek zavartan ültek a helyükön, és ha bizonytalanul is, de úgy érezt
 Utoljára Czentovic emelkedett fel, s futó pillantást vetett a befejezetlen játszmára.
 - Kár - mondta nagylelkűen - nem is indult olyan rosszul a támadás.
 Ritkán láttam ilyen tehetséges dilettánst.
-.oOo.
