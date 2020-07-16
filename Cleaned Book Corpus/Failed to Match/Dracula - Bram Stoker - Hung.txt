@@ -1,7 +1,5 @@
 ﻿BRAM STOKER
-
 DRAKULA GRÓF
-
 I. FEJEZET
 JONATHAN HARKER GYORSÍRÁSOS NAPLÓJEGYZETEIBŐL
 Május 3., Szász-Besztercén - Május 1-én este 8.35-kor indultam el Münchenből, másnap reggelre értem Bécsbe.
@@ -14,7 +12,7 @@ Ebédre, azaz már vacsorára piros törökborsos lében pácolt csirkét ettem.
 Nagyon ízlett, csak éppen szomjas lettem tőle.
 (NB.
 receptjét Minának!)
-Kérdeztem felőle a pincért, és mondta, hogy „paprika hendl” vagy ilyesmi a neve, s mivel nemzeti eledelnek számít, a Kárpátokon belül kapok bárhol.
+Kérdeztem felőle a pincért, és mondta, hogy "paprika hendl" vagy ilyesmi a neve, s mivel nemzeti eledelnek számít, a Kárpátokon belül kapok bárhol.
 Tört németségem hasznomra válik itt - nem is tudom, hogyan boldogulnék nélküle.
 Londonban üres óráimban be-bejártam a British Museumba, és a könyvtárban felkutattam az Erdélyre vonatkozó könyveket és térképeket, mivel meggondoltam, hogy némi tájékozottságot szereznem nem árthat az olyan országról, amelynek egy nemesembere lesz az ügyfelem.
 Megtudtam, hogy az ő környéke valójában a terület keleti határán fekszik, ahol három táj, Er­dély, Moldva és Bukovina találkozik, Európa egyik legkisebb és legkevésbé ismert zugában.
@@ -33,7 +31,7 @@ a babonák felől megkérdezni a grófot!)
 Ágyam Kolozsvárt hiába volt kényelmes, furcsa álmokkal vívódtam.
 Kutya vonított az ablakom alatt éjthosszat, de tehette akár a paprika, mert a szobámba készített kancsó vizet mind megittam, mégis szomjúság gyötört.
 Hanem aztán reggel felé úgy meglepett az álom, hogy csak hosszas kopogásra ébredtem.
-Reggelim során újból találkoztam a paprikával meg egy kukoricából készült kásafélével - mamaligá-nak mondták - továbbá a „török paradi­csom­ba töltött potyolt hússal” is megismerkedtem, amely kiváló eledel, impletută-nak nevezik.
+Reggelim során újból találkoztam a paprikával meg egy kukoricából készült kásafélével - mamaligá-nak mondták - továbbá a "török paradi­csom­ba töltött potyolt hússal" is megismerkedtem, amely kiváló eledel, impletută-nak nevezik.
 (NB.
 a receptjét ennek is!)
 A reggelivel igyekeznem kellett, mert a vonat nyolc előtt indult, azaz kellett volna indulnia - így történt, hogy 7.30-ra kinn voltam az állomáson, és talán egy óráig is ültem a kocsiban hiába.
@@ -52,7 +50,7 @@ Alkonyult már, mire befutottunk Besztercére.
 A régi kulcsos város szinte a határon lévén - a Borgói-hágó innen vezet Bukovinába - szász iparosait elküldte építeni messzi keletre, áruit pedig fel a Keleti-tengerig, s le a Duna torkolatáig.
 Kettős falainak öles rendjét méltán díszíti strucc csőrében a szertejárás jelképe, a patkó.
 Drakula gróf útbaigazítása szerint a Goldene Krone-szállót kerestem, amely nagy örömömre a régi világból itt maradt betérő fogadónak bizonyult.
-Várhattak, mert a kapuja résén piros arcú, idősebb asszony tekingetett kifelé - pendelyére kötény borult elöl-hátul, szoros kötése szinte az erényességre cáfolt rá -, s amint odaértem, megszólított: „Herr Anglius?” - „Az vagyok - mondom -, Jonathan Harker.” Rám mosolyodott és nyomban hátraszólt egy fehér ingujjas idősebb embernek, az meg került-fordult, s levéllel tért vissza.
+Várhattak, mert a kapuja résén piros arcú, idősebb asszony tekingetett kifelé - pendelyére kötény borult elöl-hátul, szoros kötése szinte az erényességre cáfolt rá -, s amint odaértem, megszólított: "Herr Anglius?" - "Az vagyok - mondom -, Jonathan Harker." Rám mosolyodott és nyomban hátraszólt egy fehér ingujjas idősebb embernek, az meg került-fordult, s levéllel tért vissza.
 Szeretve tisztelt uram, üdvözlöm a Kárpátok peremén.
 Már igen várom.
 Aludjon jól az éjszaka.
@@ -62,7 +60,6 @@ A Borgói-szorosban kocsim várni fogja és elhozza énhozzám.
 Remélem, jól utazott Lon­donból, és kellemesen tölti majd napjait az én kies vidékemen.
 Szolgája
 Drakula
-
 Május 4.
 - Kiderült, hogy a fogadó gazdája is levelet kapott a gróftól azzal az utasítással, hogy a legjobb helyet foglalja számomra a postakocsin.
 Mikor azonban részletek felől érdeklődtem volna, begombolkozott, és úgy tett, mintha nem értené tört németségemet.
@@ -100,10 +97,10 @@ Hogy csúcsok felett-e, nem tudom, mert a messziség összemos nagyot a kicsinny
 Sok itt a jegyzésre méltó furcsaság, azért, ha nem akarom, hogy rám süssék: elcsaptam a hasam Besztercén, először hadd írom ide, mit ebédeltem.
 Nem volt az egyéb, mint amit Londonban a macskáknak vetnek, marhahús apraja szalonnával, hagymával és ismét paprikával, borssal megszórva - rablóhúsnak nevezik itt.
 A nyárson pirított eledelhez küküllei bort ittam, kelle­mesen fanyart, két pohárral, ennyi volt az ebédem.
-Mikor felszálltam, a postakocsis még nem ült a bakon, hanem azt láttam, hogy az én házi­asszonyommal beszélget, nyilván rólam, mert közben énfelém forogtak, és a ház előtti padkák tekintélyesebb ülnökei - itt „szószóló”-nak nevezik őket - melléjük szegődtek, majd ők is rám pillantottak, többnyire sajnálkozón.
+Mikor felszálltam, a postakocsis még nem ült a bakon, hanem azt láttam, hogy az én házi­asszonyommal beszélget, nyilván rólam, mert közben énfelém forogtak, és a ház előtti padkák tekintélyesebb ülnökei - itt "szószóló"-nak nevezik őket - melléjük szegődtek, majd ők is rám pillantottak, többnyire sajnálkozón.
 Egy-egy lehetetlen hangzású szó megütötte fülemet a ve­gyes beszédükből, azért loppal előhúztam több nyelvű szótáramat és a többször elhangzottakat megkerestem.
 Nem lettem sokkal okosabb.
-„Eordeog”: sátán, lakása a „pokol”, „stregoica”: boszorkány; „buganec”, „grobnik”, „vlakolak”, „drakusz”, „prikolics”: vérszívó vagy vámpír.
+"Eordeog": sátán, lakása a "pokol", "stregoica": boszorkány; "buganec", "grobnik", "vlakolak", "drakusz", "prikolics": vérszívó vagy vámpír.
 (NB.
 bővebbet a gróftól!)
 Amint elindultunk, a fogadó kapujában összeverődött tömeg hányni kezdte a keresztet, és két ujjal mutogatott rám.
@@ -111,11 +108,11 @@ Valahogy kiszedtem egyik útitársamból, mi ez a mutogatás.
 Először nem volt válaszra bírható, majd amikor megtudta, hogy angol vagyok, kézzel-lábbal elmagyarázta, hogy szemveréstől óvnának.
 Nem volt valami megnyugtató így vágni neki az ismeretlenség­nek, azonban oly részvevőn, oly kicsorduló szívvel bocsátottak útnak, hogy alig lehettem úrrá meghatottságomon.
 Soha el nem felejtem, ahogy ott a köves kapualjban, zöld hordókban viruló leanderek előtt a tarka nép hányja a keresztet!
-Kocsisunk, kinek „gatiá”-nak mondott bő vászonnadrágja betakarta a bakot, megkondította ostorát széltére fogott négy poroszka lova fölött, így eredtünk útnak.
+Kocsisunk, kinek "gatiá"-nak mondott bő vászonnadrágja betakarta a bakot, megkondította ostorát széltére fogott négy poroszka lova fölött, így eredtünk útnak.
 Balsejtelmeimről elfelejtkeztem, amint a bájosan szép tájba jobban belehatoltunk - ámbár, ha értem útitársaim nyelvét, azaz mindenféle nyelvét, rémlátásaikat talán nem teszem a fülem mögé oly hamar.
 Zöld erdei lankáknak robogtunk, meredeken emelkedő hegyek lábánál fa­cso­portok közt tanyaházak néztek ormukkal az útnak.
 Gyümölcsfák példátlan sokasága virágzott mindenfelé - alma, szilva, körte, cseresznye -, és elhaladtunkban gyönyörködhettem szirmuk szivárványos pilinkélésében.
-A „Mittel Land”-nak mondott hegylábakat kerülgette a kocsink, elveszvén számtalan kanyarulat s erdőnyelv közt.
+A "Mittel Land"-nak mondott hegylábakat kerülgette a kocsink, elveszvén számtalan kanyarulat s erdőnyelv közt.
 Sebesen gördültünk a bakhátas úton.
 Először nem értettem a sietséget, majd gondoltam, hogy a kocsis a Borgó-Prundra mielőbb fölérne.
 Azt is elmagyarázták, hogy az út ilyenkor, tavaszidőben meglehetős, bár a téli havak óta nem javították.
@@ -124,7 +121,7 @@ A hegyek lábán túl a Kárpátok gerince vonul méltóságosan.
 A délutáni napfény elénk tárta káprázatos színeit - a bércek árnyékában mélykéket és bíbort, zöldet és barnát a gyep meg a sziklák találkozásánál, majd fel a fehér ormok birodalmáig a szakadozó szirtek tarkaságát.
 Itt-ott óriás hasadékokból, ahogy a nap alább szállt, vízesések csillogása tetszett elő.
 Egyik úti­társam, amint egy hófödte csúcs alá érkeztünk, s mintha egyenest annak tartottunk volna, megérintette a karomat, úgy suttogta: - Nézze!
-„Ish-ten-zek!” - Vagyis az Isten trónusa.
+"Ish-ten-zek!" - Vagyis az Isten trónusa.
 Amint ezt megmagyarázta, jámboran keresztet vetett.
 A nap mind lejjebb csúszott mögöttünk, és végtelennek tetsző utunkban megjelentek az estéli árnyékok, időnek előtte talán, mivel a csúcsok hósipkái befogták az alkonyat fényét, és hűvös rózsaszínnel sugározták alá.
 Rusznyákok és oláhok bukkannak fel itt-ott.
@@ -133,7 +130,7 @@ Valahány út menti kereszt mellett elrobogunk, útitársaim keresztet vetnek.
 Másutt földműves vagy az asszonya térdel kicsiny kápolnácska előtt, és meg sem fordul közeledtünkre, mintha kegyessége szemét s fülét le­pecsételné.
 Az újdonság sok.
 Fa hegyében látok szénakazlat, odébb nyíreseket - fehér törzsük átcsillan a zsenge zöld lombozaton.
-Odébb „nyújtós” kocsit kerülünk - parasztkocsi amúgy, a hosszú dereka talán alkalmasabb ezekre az utakra?
+Odébb "nyújtós" kocsit kerülünk - parasztkocsi amúgy, a hosszú dereka talán alkalmasabb ezekre az utakra?
 Egyiken hazatérő favágók ültek kétfelől, hosszú nyelű erdőlő fejszéjük pofája a könyökük hajlatában.
 A szürkület leszállván erősen hűvösödik, és a sötétség mintha a hágónak emelkedő út mentén mind sűrűbb tölgyesekből, bükkösökből áradna - sőt mintha a délután furcsa felhőjátékai, a Kárpátokban fúvó örökös szél kísérteti alakzatai is mind levonultak volna az út mentébe.
 Partnak tartunk, lovaink alig kaptatnak.
@@ -306,8 +303,8 @@ Ne haragudjon, könyörgök, hogy nem tartok önnel, de nekem a kései ebéd a s
 Átnyújtottam neki azt a pecsétes levelet, amelyet principálisom, Mr. Hawkins bízott rám.
 A gróf kinyitotta, rezzenetlen arccal végigolvasta, majd elmosolyodott, és azzal adta vissza, hogy olvassam el én is.
 Egyik bekezdésében kivált örömömet leltem:
-„Végtelenül sajnálom, hogy vissza-visszatérő csúzom miatt utaznom nem tanácsos, csupán az vigasztal, hogy magam helyett olyan valakit küldök, akibe teljes bizalmam vethetem: fiatal ember, tehetséges és tettre kész, hűsége rendíthetetlen, csöndes, tapintatos és körülöttem for­golódván érett a mesterségéhez.
-Szolgálataira bizton számíthat, amíg Önnél időz.”
+"Végtelenül sajnálom, hogy vissza-visszatérő csúzom miatt utaznom nem tanácsos, csupán az vigasztal, hogy magam helyett olyan valakit küldök, akibe teljes bizalmam vethetem: fiatal ember, tehetséges és tettre kész, hűsége rendíthetetlen, csöndes, tapintatos és körülöttem for­golódván érett a mesterségéhez.
+Szolgálataira bizton számíthat, amíg Önnél időz."
 A terítékem elé helyezett nagy tálról a gróf maga emelte le a fedelet, s nyomban neki­fog­hattam a felséges sült csirkének.
 Hozzá saláta, némi sajt meg a palack ótokajiból két pohárral - ennyi volt a vacsorám.
 Közben a gróf mindenféle kérdésére válaszoltam úti tapasztalataim tárából.
@@ -347,9 +344,9 @@ Május 7.
 Szinte teljes huszonnégy órám telt pihenésben.
 Későn ébred­tem, s mikor felöltöztem és kimentem az ebédlőbe, az asztalon hideg reggeli várt.
 Csupán a kávém volt melegen a kandalló tűzrostélyán.
-Az asztalon e kártyát találtam: „Fogjon a regge­linek.
+Az asztalon e kártyát találtam: "Fogjon a regge­linek.
 Nem tudom, mikor jövök meg.
-D.”
+D."
 Így hát bereggeliztem, majd reggeli végeztével keresem a csengőt, hogy az asztal leszedhető.
 Csengőt azonban nem leltem.
 Meghökkentőek e háztartás fogyatékosságai, kivált, ha a gaz­dagság szembeszökő jeleihez mérem.
@@ -546,7 +543,7 @@ A vidék története felől kérdezgettem, ő pedig bámulatosan nekitüzesedett
 Történelmi alakokról jelen időben szólt, mintha ismerte volna őket, és megforgott volna valahány csatában, majd meggondolván úgy magyarázta lelkesedését, hogy a bojár személyében viseli családjának minden dicsőségét.
 Kivált izgatottá vált egyik ősének többszörös említése során, és hányattatásait ismertetvén mindegyre sodorintott a fehér bajszán, sőt, ahogy felkelt s a szobát méregette, úgy ragadott a kezébe mindenfélét, mintha szétmorzsolni volna szándéka.
 Az elmondottakból legalább családfáját igyekszem híven feljegyezni:
-„Tatár, török, lengyel, orosz közé szorultunk itt a Kárpátok külső karéján.
+"Tatár, török, lengyel, orosz közé szorultunk itt a Kárpátok külső karéján.
 A karéjon belül magyarok és szászok éltek, meg azok, akik közülük a biztonságot keresték.
 Mi, vajdák ivadékai hol harccal, hol fondorlattal védtük birtokainkat.
 Üköm, Vlad vajda Norinbergában kapta Zsigmond királytól és császártól a Sárkányrendet alattvalói hűségéért, arról nevezzük magunkat a Sárkány Fiának: Drakulának... Hanem Vlad néhány év múltán már Murád szul­tánnal pusztítja Erdélyt, majd a várnai csatából visszatérő hős Hunyadi Jancut is elfogatja.
@@ -565,7 +562,7 @@ Ott a hosszú vendéges­kedés elbódíthatta.
 Így történt, hogy később, amikor a magyarok törtek haddal Havaselvére, és visszahelyezték vajdaságába Drakulát, ő hű maradt magyar szövetségeséhez.
 Rajta is vesztett.
 Ősöm-másom feje hosszú nyárson került Konstantinápolyba.
-De hiszen az életnek azért tanítómestere a történelem, hogy tanuljunk tőle!”
+De hiszen az életnek azért tanítómestere a történelem, hogy tanuljunk tőle!"
 Pirkadt megint, mire nyugovóra térhettem (NB.
 naplóm immár kísértetiesen hasonlít az Ezeregy éjszaká-hoz, mivel annak is minden története kakaskukorításra ér véget - Hamlet atyjá­nak szelleme nemkülönben kakas szavára múlott el).
 Május 12.
@@ -651,7 +648,6 @@ Jobban belemeredtem a derengésbe, de úgy sem láttam egyebet: a keze meg a lá
 Miféle ember az ilyen?
 Ember-e?
 Rettegés száll rám, mert tudom, hogy nincs menekvésem innen, s okom a rettegésre szaporodik...
-
 Május 15.
 - Megfigyeltem azóta is a gróf gyíkkúszását.
 Oldalozón halad lefelé százlábnyit, és mindig balra tart, majd eltűnik valami lőrésben vagy ablakban.
@@ -675,7 +671,7 @@ A nyugatnak húzódó tágas völgy túlsó felén hegyek lába emelkedett kőri
 A várkastély régi lakosztályai e szárnyon foglalhattak helyet, mert a bútorzat kényelmesebbnek látszott, mint az én fertályomon.
 A csutás üvegablakokon beömlő sárga holdfényben láthattam a színüket is, már amennyi szín a porréteg alól előtetszett - lámpásomnak ugyan hasznát nemigen vettem itt, mégis örültem, hogy rossz sejtelmeimbe van mivel belevilágítanom.
 Mindenképpen vígabban voltam, mint fenn, ahol a gróffal tanyáz­tunk, és idegeimnek némi fegyelmezése után sikerült is letelepednem egy kicsiny tölgyfa asztalhoz, amelynél talán valami szende szűz körmölte valamikor pirongón helyesírási hibák­tól hemzsegő szerelmes levelét, és gyorsírással bejegyeztem naplómba mindent, amit újabban tapasztaltam.
-A tizenkilencedik század dühömmel vonult be ide, a szívós századok azonban dacolnak „modernségemmel”.
+A tizenkilencedik század dühömmel vonult be ide, a szívós századok azonban dacolnak "modernségemmel".
 Később, május 16 délelőttjén - Fohászkodom, hogy józan eszem el ne hagyjon - ide jutottam!
 Hol már a biztonság és minden biztosítéka!
 Csupán azt remélhetem, nem bomlok meg, ha ugyan meg nem bomlottam máris.
@@ -949,7 +945,7 @@ A gróf mosolygott, én pedig tudtam, hogy sima mosolya fondorlatot takar.
 - Hát a poggyászá­val mi legyen?
 - Nem fontos.
 Majd érte küldök.
-A gróf felkelt, és udvariassága lebilincselő volt, amint búcsúzóul mintegy, így szólt: - Önök­nek, angoloknak egy szólásuk az én bojárszívemet is a közepén találja: „Jobb vendéget nem látni, mint utóbb kivetni.” Mégsem tartóztatnám akarata ellenére, barátom, s ha a mehetnékje akkora, hát jöjjön, kikísérem!
+A gróf felkelt, és udvariassága lebilincselő volt, amint búcsúzóul mintegy, így szólt: - Önök­nek, angoloknak egy szólásuk az én bojárszívemet is a közepén találja: "Jobb vendéget nem látni, mint utóbb kivetni." Mégsem tartóztatnám akarata ellenére, barátom, s ha a mehetnékje akkora, hát jöjjön, kikísérem!
 Azzal megindult lassan, méltóságosan, és végigkísért lámpásával a folyosón.
 Egyszerre megtorpant.
 - Hallga csak!
@@ -1055,7 +1051,7 @@ Milyen érdekes lehet idegen országokban utazni!
 Vajon együtt is - mármint ő meg én - bejárhatjuk-e majd a távoli Erdélyt?
 A tízet üti éppen.
 Csókol szerető
-Minád     
+Minád
 Ui.
 Hírlapírói érdeklődésem megelégítésére: igaz-e, amit egy szép szál, jóképű, bondor hajú fiatalemberről hallok?
 Lucy Westenra válasza Mina Murraynek
@@ -1112,20 +1108,20 @@ Amerikai fiú, texasi, de szemre olyan fiatalos és üde, hogy el sem hiszem nek
 Most értettem csak, mit meséli annyit az úti kalandjait - Arthurtól soha egyet nem hallottam: amilyen tapasztalt, tudja, hogy mi, nők azért megyünk férjhez, mert szeretnénk, ha a férjünk megóvna félelmeinktől.
 A texasi azonban a kalandjait oly jóízűen, csattanósan meséli, hogy a félelem méregfogát kihúzza belőle - meg­lehet, végzetes lépésére éppen én bátorítottam, mert az amerikaiasan praktikus történeteivel nem tudtam betelni sose.
 Leánykérése is úgy hangzott, mintha valamelyik elbeszéléséből szabta volna ki:
-„Nem is mondom, Lucy kisasszonyka, hogy én volnék a méltó apró sarujának szíját megoldani, de amíg a méltó megjön, maga meg csak álldogál a lámpásával már akár a bölcs, akár a balga szüzek közt, a saruba a lába belepállik.”
+"Nem is mondom, Lucy kisasszonyka, hogy én volnék a méltó apró sarujának szíját megoldani, de amíg a méltó megjön, maga meg csak álldogál a lámpásával már akár a bölcs, akár a balga szüzek közt, a saruba a lába belepállik."
 A feszült arca árulta el csupán, hova tart, s azután mondott szebbeket is, rakta elém a szerel­met métermázsaszám, mégsem esett oly nehezemre az elutasítása, mint szegény Seward doktoré, mert a beszédében a játékosság benne bujkált mindvégig.
 Végül ő is az arcomról olvashatott, mert hirtelen megtorpant az áradozásban, és nekem szegezte a kérdést:
-„Kiskegyedet nyíltszívűnek ismertem meg, Lucy kisasszony, azért kérem most, mondjon szé­nát vagy szalmát.
-Ha van más, aki a szívére szebb sikerrel pályázhat, én nem is háborgatom tovább a beszédeimmel, hanem megmaradok hűséges jó emberének.”
+"Kiskegyedet nyíltszívűnek ismertem meg, Lucy kisasszony, azért kérem most, mondjon szé­nát vagy szalmát.
+Ha van más, aki a szívére szebb sikerrel pályázhat, én nem is háborgatom tovább a beszédeimmel, hanem megmaradok hűséges jó emberének."
 Jaj, Minuskám, miért, hogy e nemes lelkekre valójában mi nem vagyunk méltók?
 Íme, azon kapom magam, hogy gúnyt űzök ebből a nyíltszívű, derék fiatalemberből.
 Sírva is fakadok menten - még mire odaér is, facsarhatod a levelet -, de az jut eszembe, miért nem mehetünk férjhez, ha három kér, háromhoz, akkor nem kellene fájdalmas kosarakat osztogatni!
 Csak annak örülök, hogy akár sírva a szeme közé néztem ennek az egyenest Texasból jött, Quincey P. Morrisnak, és megmondtam neki, éppoly egyenest: igenis odaszántam már a kezemet vala­kinek, ha nem is kérte.
 Nem is bántam meg az egyenes választ, mert felderült az arca, és még ő vigasztalt:
-„Ne sírjon, Lucy kisasszonyka!
+"Ne sírjon, Lucy kisasszonyka!
 Mármint énmiattam ne, mert én azt mondom, jobb a méltót elszalasztani, mint elnyerni a méltatlant.
 Feleségem kerülhet előbb, mint jó emberem, már­pedig kiskegyedet annak tekintem a kendőzetlen nyíltságáért.
-Annyi hiányzik már csak, hogy csókkal bocsásson el, és hogy üzenetemet átadja szíve szerelmének: ha nem talál nyilatkozni, akkor megint nyilatkozok.”
+Annyi hiányzik már csak, hogy csókkal bocsásson el, és hogy üzenetemet átadja szíve szerelmének: ha nem talál nyilatkozni, akkor megint nyilatkozok."
 Megszorította a kezemet, én pedig odahajoltam és könnyes csókot nyomtam az arcára.
 Ennyi volt, és már ment is, vissza sem nézett.
 Ilyen ember lába nyomát csókolgathatnák a nők, tudom­istenem, de hát én mit tehetek?
@@ -1162,7 +1158,6 @@ Választ sem várok, mert egy hölgy más irányú holnapi elfoglaltságából a
 Hivatalos a tábortűzhöz még egy régi cimboránk, a Koreában megismert Jack Seward, hogy vele kettesben csordíthassuk könnyein­ket a barátság poharába, és emelhessük e széles világ legboldogabb emberére, aki elnyerte mindkettőnk pályadíját.
 Ha addig a pályadíj két szemének pillantásától meg nem részegülsz végképp, a régi barátsággal elvár
 Quincey P. Morris
-
 VI.
 FEJEZET
 Mina Murray naplója
@@ -1191,7 +1186,7 @@ Legszebb tulajdonsága az állatszeretet, bár olykor azt is tekint­hetném mer
 Mindenféle állatot gyűjt.
 Legújabb mulatsága, hogy legyeket fogdos.
 Érdeklődésemet nem fogadja dühvel.
-Egy percig gondolkodik, és kérdésemre, hogy ez a tenger légy mit keres itt, azt válaszolja: „Ha három napot kapok, eltakarítom mind.” Helyes, mondom rá.
+Egy percig gondolkodik, és kérdésemre, hogy ez a tenger légy mit keres itt, azt válaszolja: "Ha három napot kapok, eltakarítom mind." Helyes, mondom rá.
 Meglátjuk, mit tesz velük.
 Június 18.
 - Áttért pókokra.
@@ -1215,12 +1210,12 @@ Viszont a maradék pókok szépen híznak az újabban befogott legyeken.
 Július 19.
 - Haladunk.
 A zárka verébcsiripeléstől hangos, pók meg légy csak a legszüksége­sebb.
-Renfield azzal fogad, hogy barátságot kérne, nagy-nagy barátságot, és szinte törlesz­kedik hozzám, úgy magyarázza: „Kismacska kellene nekem!
-Játékos, aranyos cicuska, hogy etethetném!” Kívánsága nem lep meg, hiszen látni való, merrefelé tartunk.
+Renfield azzal fogad, hogy barátságot kérne, nagy-nagy barátságot, és szinte törlesz­kedik hozzám, úgy magyarázza: "Kismacska kellene nekem!
+Játékos, aranyos cicuska, hogy etethetném!" Kívánsága nem lep meg, hiszen látni való, merrefelé tartunk.
 A cicuska éppúgy kordában tartaná a verébszaporulatot, ahogy a pókok a legyekét.
 Azért tódítottam, hogy ha már macska, legyen nagy és alamuszi, Renfield lelkesedése pedig arra vallott, hogy jó nyomon vagyok.
-„Persze, jobb volna a nagy!
-Csak szerénykedtem!” Hozzátettem, hogy még meglátom, mit szól az ápolószemélyzet.
+"Persze, jobb volna a nagy!
+Csak szerénykedtem!" Hozzátettem, hogy még meglátom, mit szól az ápolószemélyzet.
 - Renfield olyan pillantást vetett rám a szeme sarkából, hogy jobbnak láttam, ha nem aggályoskodok.
 Ámokfutók szeme villan ilyet.
 Egyelőre nem kap se cicát, se macskát, lássuk, mire viszi a sóvárgás.
@@ -1241,10 +1236,10 @@ Tollat azonban látok szanaszét a padlón és a párnáján egypár csepp vért
 Szólni nem szólok érte, csupán az ápolót figyelmeztetem, hogy jelentse, ha valami különöset tapasztal.
 Délelőtt tizenegykor jelenti is, hogy Renfield rosszul van.
 Tollat, pihét okádott gombócban.
-„Szerintem - vélekedik - szőröstül-bőröstül megette a verebeit, főzéssel se vesződött!”
+"Szerintem - vélekedik - szőröstül-bőröstül megette a verebeit, főzéssel se vesződött!"
 Éjjel tizenegykor erős altatót adok neki, majd tanulmányozás végett magamhoz veszem a jegyzőkönyvét.
 Minap támadt ötletem nem hagy nyugodni, és a jegyzőkönyv olvasásán ágazik-bogazik a zsenge ötlet.
-Az én komám nem akármilyen ámokfutó: megérdemli a tudo­mány­ban új „zoophagus” elnevezést, mert gyűjtői szenvedélyét állati életek elnyelése irányít­ja.
+Az én komám nem akármilyen ámokfutó: megérdemli a tudo­mány­ban új "zoophagus" elnevezést, mert gyűjtői szenvedélyét állati életek elnyelése irányít­ja.
 Ámde élethalmazatok már áldozatai is, hiszen egy pókkal legyet megetetett többet, ugyan­csak egy verébbel sok pókot, és a macskáját is verében tartotta volna nyilván.
 Ugyan hogy zárná be a sort?
 Ha nyomós okát adhatnám a kísérletnek, akár a végére is járhatnék.
@@ -1300,28 +1295,26 @@ Ha legalább tudnám, hova menjek, hol érdeklődjek!
 Lucy is ingerlékenyebb - teheti azonban az időjárás is.
 A három vénemtől fönn a temető kertjében mind azt hallom, hogy nagy idő készül.
 Fakó a nap, görgő hullámok robajlanak a homokpadokon, és lármájukat csupán a beáramló ködpára tompítja.
-A víz pusztasága felett a felhők akár a bércek, és mint véneim mondják, „a pásztás szél veséig ér”.
+A víz pusztasága felett a felhők akár a bércek, és mint véneim mondják, "a pásztás szél veséig ér".
 A halászbárkák hazafelé bukdálnak mind, de a vének a láthatáron mutogatnak valamire.
 A partőr is feljön a messzil­átójával.
 Mint egyébkor, most is megáll beszélgetni velem, de közben a látóhatárt fürkészi.
-„Nem látom jól - magyarázza -, de lehet, hogy orosz hajó.
+"Nem látom jól - magyarázza -, de lehet, hogy orosz hajó.
 Nézze csak!
 Úgy cselleg, mint akinek kormánya szakadt!
 Se a nyílt vízre nem szánakozik felszél iránt, sem hogy révbe térjen.
-No, majd megtudjuk holnap!”
-
+No, majd megtudjuk holnap!"
 VII.
 FEJEZET
 Augusztus 8-i cikk a Dailygraph-ból
 (Mina ragasztotta a naplójába)
-
 Levelezőnk tudósítása Whitbyből
 Hirtelenebbül kerekedett viharra a régiek sem emlékeznek itt, pedig ahol az Apáthegy a tengerbe szakad, ül fenn három régi tengeri medve a temető kövein, és egyebet sem tesz, mint emlékezik.
 A levegő fülledt volt már szombaton is, de ez augusztusban nem lévén szokatlan, rajzottak az üdülést keresők Whitbyben és a messzi környékén.
 Az Emma meg a Scarborough sétahajó kisebb-nagyobb kerülőket tett.
-Meg is maradt az idő barátságosnak délutánig, amikor is a vén szélkakasok fenn a temetőben jelezték, hogy az északnyugati ég alján „kancafarok” tetszett elő.
+Meg is maradt az idő barátságosnak délutánig, amikor is a vén szélkakasok fenn a temetőben jelezték, hogy az északnyugati ég alján "kancafarok" tetszett elő.
 A szél délnyugatról fújt, azaz a légsúlymérő még szélnek sem taksálta volna, csupán lenge szellőnek.
-Az ezernyi tarka felhőfoszlány közt nyugtára térő nap látványa is oly gyönyörűséges volt, hogy a parti sétányon százával álltak meg a csodálatára, sőt láttunk festőket is, akik a tábori állványukra helyezett vásznon nem takarékoskodtak lángszínnel, arannyal, lilával, itt-ott a feketével sem - nyilván „Előjáték a viharhoz” című nagyobb arányú kompozíciót forgattak a fejükben.
+Az ezernyi tarka felhőfoszlány közt nyugtára térő nap látványa is oly gyönyörűséges volt, hogy a parti sétányon százával álltak meg a csodálatára, sőt láttunk festőket is, akik a tábori állványukra helyezett vásznon nem takarékoskodtak lángszínnel, arannyal, lilával, itt-ott a feketével sem - nyilván "Előjáték a viharhoz" című nagyobb arányú kompozíciót forgattak a fejükben.
 Este elült a szél, és éjfélre oly fojtogatóvá vált a hőség, hogy az érzékenyebbek (velünk együtt) nem alhattak.
 Fény sem csillant a tenger tükrén, mert a part menti hajó mind révbe húzódott, és halászok is alig voltak kinn.
 Egyesegy idegen négy­árbocos csellengett a nyílt vízen felvont vitorlákkal nyugatnak, számtalan megjegyzésre adván alkalmat a tenger régi ismerőseinek, mekkora könnyelműség felvont vitorlákkal várakozni vihar előtt.
@@ -1405,7 +1398,7 @@ Július 16.
 - Első tisztem jelenti, hogy a legénységből Petrovszkij eltűnt.
 Éjfélkor átvette a szél felőli őrséget.
 A legénység levert.
-Morognak már a fülem hallatára is, de nem többet, mint hogy „valami lappang” a hajón.
+Morognak már a fülem hallatára is, de nem többet, mint hogy "valami lappang" a hajón.
 Első tisztem türelmetlenül bánik velük.
 Jaj lesz ebből.
 Július 17.
@@ -1480,14 +1473,14 @@ Mégsem merem a kormányt kikötni, inkább kiáltok a tisztemért.
 Egy perc múltán jön is azonmód, ahogy a vackáról felugrott.
 Borostás, és a szeme forog.
 Meghibbant, attól tartok.
-Odalép hozzám, és a fülembe súgja, mintha a szél széthordhatná a titkát: „Itt van, tudom most már!
+Odalép hozzám, és a fülembe súgja, mintha a szél széthordhatná a titkát: "Itt van, tudom most már!
 Éjjel láttam az őrségen!
 Emberforma, hórihorgas és sápadt, mint aki a sírjából kel.
 Az oromból kémlelt kifelé.
-Mögéje kúsztam és belevágtam a késemet, de mintha levegőt hasítottam volna.” Előkapta a kését, és mutatta, hogyan, majd tovább susogott: „Mindegy, itt van, megtalálom!
+Mögéje kúsztam és belevágtam a késemet, de mintha levegőt hasítottam volna." Előkapta a kését, és mutatta, hogyan, majd tovább susogott: "Mindegy, itt van, megtalálom!
 Lenn lesz valamelyik ládában.
 Ha sorra nyitogatom, meglelem.
-Maradjon a kormánynál!” S a mutatóujját szájához illesztve ellopakodott.
+Maradjon a kormánynál!" S a mutatóujját szájához illesztve ellopakodott.
 A szél közben habot vert, nem hagyhattam el a kormányt.
 Később látom, hogy jön fel a tisztem a fedélzetre, szerszámosláda a kezében, és az első vékek iránt tart.
 Ennek már beszélhetek.
@@ -1499,12 +1492,12 @@ Meg kell várnom, amíg eltisztul a köd.
 Ha ezzel a széllel nem juthatok be a kikötőbe, elvágom a kötelékeket, és segítségért jelzek...
 Végére járunk az útnak.
 Mikor már azt remélem, hogy a tisztem megnyugszik odalenn, mert hallom, hogy taszigálja a ládákat és kopácsol, egyszerre rémült ordítását hallom, és ugrik fel a fedélzetre, mint akit puskából lőttek.
-„Segítség!
-Segítség!” - ordítozza, aztán belemered a ködbe.
-Az valahogy kijózanítja, mert így beszél tovább: „Maga is jobban tenné, ha velem tartana, kapitány úr.
+"Segítség!
+Segítség!" - ordítozza, aztán belemered a ködbe.
+Az valahogy kijózanítja, mert így beszél tovább: "Maga is jobban tenné, ha velem tartana, kapitány úr.
 A hajó gyomrában, akit keresünk.
 Megértettem a titkát.
-Őtőle más meg nem védhet, csak a tenger!” Válaszolni sem volt időm, nemhogy elkapni, mert a bástyáról egyenest a vízbe ugrott.
+Őtőle más meg nem védhet, csak a tenger!" Válaszolni sem volt időm, nemhogy elkapni, mert a bástyáról egyenest a vízbe ugrott.
 Mintha én is érteném már a titkot.
 Ez a vadállat lökhette vízbe az embereimet, végezetül nem bírt a lelkiismeretével.
 Boldog Isten, hogyan adok számot minden borzalomról, ha révbe jutok?
@@ -1521,7 +1514,6 @@ Inkább megpróbálom, hátha kifogok a rémen.
 Erőm fogytán kezemet a kormánykerékhez kötöm, és a rózsafüzért belefonom a kötelékbe, amihez nyúlni nem mer majd!
 Így megmentem lelkemet és kapitányi becsületemet egyszersmind... Sötétedik megint.
 Megkötöm most a kezemet, mert aligha lesz erőm hozzá, ha a rém még egyszer rám tekint... Ha zátonyra futunk, ez a palack megmarad talán, és akik megtalálják, megérthetik, mi történt... Ha nem, látni való lesz akkor is, hogy a rám bízott jószággal híven sáfárkodtam...
-
 A vizsgálatot egyéb bizonyítékok híján berekesztették.
 Meg nem mondhatja senki, nem maga a kapitány követte-e el a gyilkosságokat.
 A közvélemény szerint hősnek tekintendő, és hősnek kijáró temetés illeti meg.
@@ -1592,8 +1584,8 @@ Mintha kihalt volna a város.
 Örültem is, hogy Lucy szerencsétlen állapotának tanúja nem lesz.
 A távolság fel a temetőkertbe oly messzinek tetszett, hogy a lélegzetem akadozott, mire az apátsági lépcsőkig eljutottam.
 A lábamra is mintha ólmot kötöttek volna.
-A lépcső első pihenőjéről már jól láthattam kedves helyünket meg a hálóinges Lucyt, és megint úgy rémlett, áll valaki mögötte, sőt amikor „Lucy!
-Lucy!”-t kiáltottam, mintha vöröslő szemét is rám emelte volna.
+A lépcső első pihenőjéről már jól láthattam kedves helyünket meg a hálóinges Lucyt, és megint úgy rémlett, áll valaki mögötte, sőt amikor "Lucy!
+Lucy!"-t kiáltottam, mintha vöröslő szemét is rám emelte volna.
 Lucy azonban nem válaszolt, és amíg odáig eljutottam, a templom közénk került - majd előbújt megint a hold, aztán már egymagában láttam Lucyt vakító fehérben, senki mást.
 Amint odaértem, fölébe hajoltam és meggyőződtem róla, hogy alszik.
 Nem lélegzett ugyan csöndesen, egyenletesen, hanem kapkodón, mintha légszomj gyötörné.
@@ -1643,7 +1635,7 @@ Augusztus 14.
 Hol a gyorsírást gyakorlom, hol olvasok.
 Annyira ideszokott Lucy is, hogy ebédre-uzsonnára hazacsalnom bajos.
 Ma este, éppen vacsorázni fordulnánk haza, furcsa megjegyzésére leszek figyelmes.
-A lenyugvó nap az Esk völgyében áll egy pillanatig, és rozsdás fénybe fogja az apátságot, egyszer csak Lucy megszólal, mintegy magának: „A vöröslő szeme mindenütt!”
+A lenyugvó nap az Esk völgyében áll egy pillanatig, és rozsdás fénybe fogja az apátságot, egyszer csak Lucy megszólal, mintegy magának: "A vöröslő szeme mindenütt!"
 Légből kapott megfigyelésnek tetszett, nem felelt vele semmire.
 Rápillantottam a szemem sarkából, és azt láttam, hogy álmatagon tekint a napnyugta iránt, visszafelé, amerről jöttünk.
 Lucy tekintetét követve felfedeztem, hogy kedves helyünket máris elfoglalta valaki.
@@ -1683,7 +1675,7 @@ Csatoltan küldjük az Északi Vasutak teherárujaként küldött szállítmány
 A szállítmány rendeltetési helye a pillanatnyilag lakatlan purfleeti Carfax-ház.
 Ezért küldjük a kulcsait is.
 Kérjük, hogy a szállítmány átvételéről a csatolt jegyzékkel a King’s Cross vasút­állomás teheráruforgalmi irodáján gondoskodjanak.
-Kérjük továbbá, hogy a szállítmányt képező ötven ládát a ház mellékelt alaprajzában az „A”-val jelölt helyen szíveskedjenek raktározni.
+Kérjük továbbá, hogy a szállítmányt képező ötven ládát a ház mellékelt alaprajzában az "A"-val jelölt helyen szíveskedjenek raktározni.
 Szállítmányozójuknak talán jó tudnia, hogy a jelzett épületrész az úrilakhoz csatlakozó kápolna.
 A szállítmány ma este 9.30-kor hagyja el a whitbyi állomást, és holnap délután 4.30-kor érkezik a King’s Crossra.
 Mivel ügyfelünk ragaszkodik az ügylet leggyorsabb lebonyolításához, kérjük, hogy az érkezés idejére ügynö­kük rendelje ki a szükséges társzekereket az állomás elé, és továbbítsa azonnal a fenti címre.
@@ -1691,17 +1683,15 @@ Késedelem elkerülése végett tíz fontról szóló csekket is csatoltunk (mel
 Kérjük végül a szállítókat, hogy dolguk végeztével a ház kulcsait hagyják az előcsarnokban, zár alatt, a maga kulcsával érkező tulajdonosnak szembeötlő helyen.
 Ne tekintsék tolakodásnak, ha a legsürgősebb elintézést várva maradunk
 kiváló tisztelettel
-Billington és Fia 
-
+Billington és Fia
 Carter, Paterson és Tsá-nak
 londoni válaszlevele Billington és Fiának Whitbybe
 augusztus 21.
 Igen tisztelt Uraim!
 A fuvarköltség fedezésére küldött tíz fontot köszönettel nyugtázzuk, és csatoljuk a mellékelt elszámolásból kitűnőleg fennmaradt egy font, tizenhét shilling és kilenc pennyről szóló csekket.
 A szállítmányt eljuttattuk rendeltetési helyére, és a kulcsokat a bejárati csarnokban helyeztük el papírcsomagban, kívánságuk szerint.
-Nagyrabecsüléssel  
+Nagyrabecsüléssel
 Carter, Paterson s. k.
-
 Mina Murray naplójából
 Augusztus 18.
 - A temető kertjében rovom e sorokat.
@@ -1709,10 +1699,10 @@ Lucy vígan van, az éjjel mi sem zavarta egészséges álmát.
 Mintha sápadt és megnyúlt arcán a rózsák ismét kivirulnának.
 Megenyhült beteges zárkózottsága is olyannyira, hogy maga emlékeztetett arra az éjszakára (mintha bizony engem emlékeztetnie kellene!
 ), amikor itt leltem alva.
-„Valóság inkább, mint álom... Mintha idáig űzött volna valami... Álmodtam pedig, mégis emlékszem, milyen volt az utcák képe, és hogy a hídon átjöttömben hal fickándott a vízen.
+"Valóság inkább, mint álom... Mintha idáig űzött volna valami... Álmodtam pedig, mégis emlékszem, milyen volt az utcák képe, és hogy a hídon átjöttömben hal fickándott a vízen.
 Emlékszem arra is, hogy a karfára könyökölve bámultam egy darabig, közben kutyák vonítását hallottam - mintha a város minden kutyája egyszerre zendített volna rá -, de még a lépcsőn felfelé is hallottam.
 Majd valami lenge alak rémlik, bár csak a keserédes emlékét idézhetem vissza, meg a vöröslő szemét, aztán mintha mély vízbe merültem volna, és zümmögést hallottam, akár a fuldoklók.
-Nagyon megkönnyebbültem, mintha testemből a lélek kiszállt volna, sőt mintha röptében lenn látta volna a nyugati világítótornyot is... Ilyen érzésből rettentem fel, mintha földrengés rázott volna meg, amikor megráztál, bár látni már előbb láttalak.” Mire idáig jutott, elfogta a nevetés.
+Nagyon megkönnyebbültem, mintha testemből a lélek kiszállt volna, sőt mintha röptében lenn látta volna a nyugati világítótornyot is... Ilyen érzésből rettentem fel, mintha földrengés rázott volna meg, amikor megráztál, bár látni már előbb láttalak." Mire idáig jutott, elfogta a nevetés.
 Nevetett, egyre féktelenebbül.
 Zavartan san­dí­tottam rá, majd úgy döntöttem, hogy a legjobb, ha más beszédtárgyat keresek - és csakugyan, egyebekre fordulván a szó, Lucy rendes kerékvágásba zökkent.
 Mintha megszépült volna itt kinn a friss tengeri fuvalomban - anyja is dicsérte, amikor hazatértünk.
@@ -1731,7 +1721,7 @@ Utamat már elterveztem, poggyászom együtt.
 Egy váltás ruhánál egyébre szükségem amúgy sincs.
 Többi holmimat Lucy majd elhozza Londonba.
 Tovább kár is tervezgetnem, írnom, hiszen a többit már elmondhatom Jonathannak - a férjemnek, ha igaz!
-Agátha Nővér levele az Irgalmasok Budai Ispitájából 
+Agátha Nővér levele az Irgalmasok Budai Ispitájából
 Wilhelmina Murray kisasszonynak
 augusztus 12.
 Szépreményű Kisasszony!
@@ -1740,7 +1730,7 @@ Súlyos agylázát gyógyítjuk immár hat hete.
 A Szépreményű Kisasszonynak szerelmét küldi, mégpedig az Exeterben lakó Peter Hawkins ügyvéd úrnak írandó levelem útján, amelyben fájlalja késedelmét, viszont tisztelettel tudatja, hogy megbízatásának végére járt, csupán né­hány hetes pihenésre lesz még szüksége Ispitánkban, mielőtt hazatérne.
 Üzeni továbbá, hogy elegendő pénze nincsen, ámbátor megfizetne itt időzéséért szívesen, hogy majd más ínségesek szükséget ne lássanak házunkban.
 Kegyelem és békesség!
-Agátha Nővér     
+Agátha Nővér
 Ui.
 Betegem alszik, élek tehát a hellyel és az idővel, és még tudatok felőle egy s mást.
 Elmondta nekem, hogy nőül szándékozik venni Kegyedet hamarosan.
@@ -1756,8 +1746,8 @@ Augusztus 19.
 Nyolc óra tájt izgalom fogta el és szaglászni kezdett, akár a vackát kereső eb.
 Viselkedése szemet szúrt az ápolónak.
 Renfield általában tisztelettel, olykor éppenséggel szolgai alázattal tekint rá, az este azonban, mint hallom, szóba ereszkedni alig akart vele.
-Minden tudakozódására csupán ezt a dölyfös választ lökte oda neki: „Nincs beszédem teveled.
-Itt a Mester a kertek alatt.”
+Minden tudakozódására csupán ezt a dölyfös választ lökte oda neki: "Nincs beszédem teveled.
+Itt a Mester a kertek alatt."
 Az ápoló megítélése szerint vallásos rajongás kerítette hatalmába.
 Ha igaz, készülnünk kell dühkitöréseire, mert az erő, az ámokfutásra való hajlam meg a rajongás veszedelmes elegy.
 Kilenckor benéztem hozzá.
@@ -1817,11 +1807,11 @@ Alighanem azt hiszi az ártatlan, hogy engem féltékenység gyötör - még hog
 Csak neked súgom meg, Aranyom, mekkora volt az örömöm, mikor annyi kiderült mégis, hogy nem nő volt a dologban.
 Jonathan ágya szélén ülök és várom az ébredését...
 Mikor felébred, kéri a kabátját, és tudom, azért, mert egyebet nem hozott az útról, mint ami annak a zsebébe fér - és csakugyan, gyorsírásos jegyzőkönyvét húzza ki belőle, s ezzel adja oda:
-„Wilhelmina - mikor ilyen szertartásosan szólít, mindig érzem, hogy nagy nyilatkozatra készül -, tudod jól, hogy énszerintem titoknak, titkolózásnak házastársak között helye nincsen.
+"Wilhelmina - mikor ilyen szertartásosan szólít, mindig érzem, hogy nagy nyilatkozatra készül -, tudod jól, hogy énszerintem titoknak, titkolózásnak házastársak között helye nincsen.
 Ha meggondolnám, miben volt részem, nem tudnám megint, álmodom-e, vagy a téboly kerülget.
 Válaszom e könyvben rejlik, de én nem vagyok kíváncsi rá.
 Utolsó pontjáról folytatnám az életemet, mégpedig veled.
-Rád bízom, tudj meg belőle mindent, ha kedved tartja, vagy ha kiderül, hogy e tudomás nélkül énvelem nem bánhatsz.” Erőtlenül hanyatlott vissza párnájára, én pedig megcsókoltam, s a jegyzőkönyvet feje alá rejtettem, majd megkértem Agátha Nővért, beszélje meg főnöknőjével, hogy esketésünk még ezen délután megtörténhessen...
+Rád bízom, tudj meg belőle mindent, ha kedved tartja, vagy ha kiderül, hogy e tudomás nélkül énvelem nem bánhatsz." Erőtlenül hanyatlott vissza párnájára, én pedig megcsókoltam, s a jegyzőkönyvet feje alá rejtettem, majd megkértem Agátha Nővért, beszélje meg főnöknőjével, hogy esketésünk még ezen délután megtörténhessen...
 Visszajön és tudatja, hogy elküldték az angol misszió papjáért, és amint Jonathan ocsúdik, megesket minket...
 Megtörtént.
 Az ünnepi áhítat nem hagy el azóta sem.
@@ -1834,7 +1824,6 @@ Urammal!
 Csókot váltván urammal megígértem neki, hogy könyvét így tartom birtokomban kölcsönös bizalmunk jeléül mindaddig, amíg valami súlyos ok a pecsét megtörésére nem kényszerít.
 Most érzem igazán, hogy a felesége vagyok, mikor a kezemet szavaim hallatán megszorítja.
 Szerető Minád
-
 Lucy Westenra levele Mina Harkernek
 Whitby, augusztus 30.
 Minácskám!
@@ -1844,7 +1833,7 @@ Sétálni sem sétálok, csak napvilágnál.
 Arthur már daginak becéz, mert, ne feledjem, itt van, és nemcsak sétál, hanem horgászik, teniszezik, evez és kocsizik velem.
 Szerelmünk lángolóbb, mint valaha.
 Csókol
-Lucy 
+Lucy
 Ui.
 Anya is csókoltat.
 Mintha jobban lenne szegénykém.
@@ -1853,7 +1842,7 @@ Esküvőnket szeptember 28-ára tűztük ki.
 Seward doktor naplója
 Augusztus 20.
 - Mintha Renfield legújabb szenvedélye is csitulna.
-Első dühkitörése után egy hétig mindennapos volt a dühöngése, majd egy este röviddel holdfeljötte után jelentette az ápoló, hogy azt hangoztatja: „Várhatok már a soromra.” Megvizsgáltam és azt tapasztaltam, hogy tekintetéből kitisztult a zavar, sőt, mintha a régi esengést látnám benne.
+Első dühkitörése után egy hétig mindennapos volt a dühöngése, majd egy este röviddel holdfeljötte után jelentette az ápoló, hogy azt hangoztatja: "Várhatok már a soromra." Megvizsgáltam és azt tapasztaltam, hogy tekintetéből kitisztult a zavar, sőt, mintha a régi esengést látnám benne.
 A dühöngőben volt még ekkor, kényszerzubbonyban.
 Úgy döntöttem, hogy a kényszerzubbonyt levetetem róla.
 Az ápolók nem örültek, viszont érdekes megfigyelni, hogy Renfieldnek szemet szúr a habozásuk, mert odasúgja nekem: - Azt hiszik, bántanám magát!
@@ -1914,14 +1903,12 @@ Tudom, Te is kínban leszel, azonban Betegünkre való tekintettel cselekedned k
 Én uzsonnára érkezem, és együtt pályázunk el.
 Aggódom nagyon, és alig várom, hogy a vizsgálat megejtése után mindent megbeszélhessünk.
 Barátod
-Arthur 
-
+Arthur
 Arthur Holmwood távirata Seward doktornak
 Szeptember 1.
 APAAM AALLAPOTA ROMLOTT.
 LEVELED ODA VAAROM.
 ARTHUR
-
 Seward doktor levele Arthur Holmwoodnak
 szeptember 2.
 Kedves Komám!
@@ -1943,19 +1930,18 @@ E panaszával magam mit kezdeni nem tudok, ezért levelet eresztettem meg Amszte
 Konzultációra kértem, érkezésével hamarosan számolhatunk.
 Miss Westenrával holnap találkozunk, hogy teljes kivizsgálásának körülményeit megbeszél­hessük, mégpedig nem odahaza, hogy édesanyja gyanúját ismételt megjelenésem fel ne keltse.
 Tovább tudósítlak
-John          
-
+John
 Seward doktor újabb levele Arthur Holmwoodnak
 szeptember 3.
 Barátom, Arthur!
 Mint sejtettem, Van Helsing professzor került-fordult és tegnap megérkezett Londonba, ma pedig már vissza is utazott Amszterdamba.
 Kilátogattunk Hillinghambe, és Lucy úgy intézte, hogy anyja ne otthon ebédeljen, ilyenformán magunk lehettünk vele.
 A professzor megnézte Lucyt, hümmögött, megint megnézte, megint hümmögött, addig-addig, hogy magamban már mentegetőztem, amiért majd állhatok elébed, és értelmezhetem a hümmögését.
-Egyszerre azonban megszólal, és azt mondja: „Az én tanult barátom az eszük vesztettek körében járatos inkább, és köztük van gondolatban.
+Egyszerre azonban megszólal, és azt mondja: "Az én tanult barátom az eszük vesztettek körében járatos inkább, és köztük van gondolatban.
 Szép nagy ház, csupa téboly (csikorgós az öreg angolsága, néha mond furákat).
 Szép nagy kert.
 Lehet benne gondolkozni, tébolyogni.
-Én most is azt ajánlanám, menjen ki a kertbe, szívjon el egy rövid szivart.” Megfogadtam a szavát, és a kertben, talán a rövid szivarnak köszönhetem, de csakugyan megjött az eszem.
+Én most is azt ajánlanám, menjen ki a kertbe, szívjon el egy rövid szivart." Megfogadtam a szavát, és a kertben, talán a rövid szivarnak köszönhetem, de csakugyan megjött az eszem.
 Mikor a bajt megállapítottuk, már van mit fejtegetnünk.
 Tüzetes okvetésekkel támaszthatjuk alá tévedé­seinket.
 A baj felismerése azonban inkább hasonlatos a művész azon pillanatához, amikor az elképzelt mű végre teljes benne.
@@ -1966,7 +1952,6 @@ Akkor sem mondott többet, mikor már eljöttünk Hillinghamből, mint hogy a ba
 Azért magam sem tanácsolhatok egyebet, mint hogy bízzuk dolgunknak azt a részét Van Helsingre, amelyen magunk amúgy sem okoskodnánk ki.
 Édesapádat tiszteltetem és jobbulást kívánok neki.
 Jack
-
 Seward doktor naplójából
 Szeptember 4.
 - Zoophagom szertelenkedései után megmaradt kérdésnek: miért, hogy a dühöngés újabban rendszeresen délidőben és napnyugtával tör ki rajta?
@@ -2081,7 +2066,7 @@ Inkább most virrasszon a maga jószántából, mintsem hogy később a lelkiism
 Szeptember 8.
 - Éjthosszat virrasztottam Lucy ágyánál.
 Alkonyattájt ocsúdott az altatószer bódulatából, méghozzá oly üdén, hogy talán más nem is látta volna előbbeni súlyos állapotának emlékeztető jeleit, csakis az orvosa.
-Még Mrs. Westenra is szinte leintett egy „ugyan, ugyan”-nal, amikor elmondtam neki, hogy Van Helsing professzor Lucy ágya mellé rendelt éjszakára.
+Még Mrs. Westenra is szinte leintett egy "ugyan, ugyan"-nal, amikor elmondtam neki, hogy Van Helsing professzor Lucy ágya mellé rendelt éjszakára.
 Lucy azonban éppen nem ellenkezett, hanem amikor már kezdett elálmosodni, le-lecsukló pillái alól hálás pillantásokat vetett rám - én pedig nekiülve a hosszú virrasztásnak azt láttam, hogy az álmot Lucy maga hessenti el szemé­ről.
 - Miért nem alszik el?
 - tudakoltam egy idő múltán.
@@ -2122,7 +2107,7 @@ A tébolyda haszna, hogy nem kell sok ébresztés.
 - Nézzük meg - mondta a professzor, s átjött velem a szomszédos szobába.
 Rést emeltem a leeresztett redőnyön.
 Amint a reggeli napsütés elöntötte a szobát, hallottam, hogy a professzor felszisszen az ágynál.
-Odaugrottam, mert a szisszenését nem is kellett a „Gott im Himmel”-lel megtetéznie, tudtam, hogy baj van.
+Odaugrottam, mert a szisszenését nem is kellett a "Gott im Himmel"-lel megtetéznie, tudtam, hogy baj van.
 A térdem összekoccant, amikor a holtsápadt és ájult Lucyt megláttam.
 Szája nyitva volt, s még az ínye is visszahúzódott a fogáról, mint aki hosszas betegségben sínylődik.
 A professzor arcán viszont azt láttam, hogy a dühét csakis azért fojtja el, mert úgy ítéli, hogy azonnal cselekedni kell.
@@ -2151,7 +2136,7 @@ A kisasszonyka ápolói csak mi ketten lehetünk.
 Az oka felől ne érdeklődjék.
 Legyen elég, amennyit a maga kárán megtanult.
 A két szolgáló mindjárt el is kapott odalenn, és könyörögtek, hadd virraszthassanak ők a kis­asszonyuknál.
-Megható volt hallgatni, hogy ugyan járjak közben, mint mondták, érdekükben az „idegen úrnál”, ígértem mindent, hogy megszökhessek, és fáradtságomban éppen csak a legszükségesebbeket intéztem el a tébolydában.
+Megható volt hallgatni, hogy ugyan járjak közben, mint mondták, érdekükben az "idegen úrnál", ígértem mindent, hogy megszökhessek, és fáradtságomban éppen csak a legszükségesebbeket intéztem el a tébolydában.
 E sorokat róva várom az álmot.
 Szeptember 11.
 - Délután Hillinghamben széles jókedvében találom a professzort.
@@ -2190,7 +2175,7 @@ Elmenőben hozzám fordult.
 - Az éjszaka nyugodalmas lehet az álmunk.
 Énrám bizony rám fér... Két ilyen utazás, könyvek búvása napközben, majd virrasztás megint... Bízvást remélem, hogy a kisasszonykánk bűbájánál az enyém végre foganatosabb lesz, hehe!
 - Oly magabiz­tosnak tetszett, hogy balsejtelmeimet nem mertem megosztani vele.
-Abban maradtunk, hogy reggel érte megyek fiákeren, és együtt jövünk megtekinteni „kezelése” eredményét.
+Abban maradtunk, hogy reggel érte megyek fiákeren, és együtt jövünk megtekinteni "kezelése" eredményét.
 XI.
 FEJEZET
 Lucy Westenra naplójából
@@ -2198,7 +2183,7 @@ Szeptember 12.
 - Megszerettem a professzort, bár a fokhagymától undorodtam mindig.
 Azonban oly erős paranccsal aggatta a nyakamba, hogy szinte megnyugodtam, és megfoga­dom magam is erősen, hogy nem törődök a szárnycsapdosással a redőnyön, elalszom igenis.
 Boldo­gok, akiknek álmát nem kerülgeti rettegés!
-Azonban tükrömből bomlott Opheliának látom magam, aki itt hever „eszelős füzérivel”, és előbb nevetés, majd megnyugvás vesz rajtam erőt.
+Azonban tükrömből bomlott Opheliának látom magam, aki itt hever "eszelős füzérivel", és előbb nevetés, majd megnyugvás vesz rajtam erőt.
 Seward doktor naplója
 Szeptember 13.
 - Mrs. Westenra fogad minket az ajtóban, és boldogan mosolyog.
@@ -2225,7 +2210,7 @@ Lucy két óra múltán ébredezik, s élő-holt állapota az álommal együtt m
 Mintha körhintában ül­nék.
 Nem hinném, hogy a tébolyultakkal töltött napjaim kezdték ki az eszemet.
 Minden­kép­pen indulnom kell hozzájuk.
-Hallom még, amint a professzor megegyezik Mrs. Westenrával, hogy ezentúl nem szellőztet, mert a fokhagyma illatának - a hölgy rátekint: „A bűzének?” - gyógyereje van.
+Hallom még, amint a professzor megegyezik Mrs. Westenrával, hogy ezentúl nem szellőztet, mert a fokhagyma illatának - a hölgy rátekint: "A bűzének?" - gyógyereje van.
 A professzor láthatóan nem nyugszik meg, és tudatja Mrs. Westenrával, hogy az éjszakát betege mellett tölti.
 Seward doktor naplója
 Szeptember 17.
@@ -2237,12 +2222,12 @@ Az áthajlással azonban megbillent, én meg egy jobbegyenessel leterítettem.
 Ahogy megálltam fölötte, és figyeltem, nem telik-e tőle újabb támadás, a csuklómból a vér a szőnyegre csörgött, de csak aztán hevenyésztem kötést a sebre, mikor már láttam, hogy nincs mitől tartanom.
 Végre megérkeztek az ápolók.
 Renfieddel azonban nem volt könnyű el­bánniuk, mert a tíz körmével akaszkodott a szőnyegbe, és nyalta fel róla a véremet, akár a kutya.
-Már vitték ki, akkor is így ordítozott: „A vér a lélek!
-A vér a lélek!”
+Már vitték ki, akkor is így ordítozott: "A vér a lélek!
+A vér a lélek!"
 Van is benne valami, mert még érzem a gyöngeséget két nappal ezelőtt történt véreresztésem óta, és egyre az álmot kívánom.
 Van Helsing, úgy látszik, megfészkelődött Lucyéknál, és ha Renfield megint el nem szabadul, alhatok az éjszaka.
-Van Helsing antwerpeni távirata Seward doktornak Purfleetbe - 
-megye megjelölése nélkül, kézbesítése ennélfogva huszonnégy 
+Van Helsing antwerpeni távirata Seward doktornak Purfleetbe -
+megye megjelölése nélkül, kézbesítése ennélfogva huszonnégy
 órás késedelmet szenvedett
 Szeptember 17.
 SUERGOES UEGY SZOOLIT HAZA.
@@ -2259,7 +2244,7 @@ Nem riadozok ettől a zajtól már, mégsem bántam volna, ha Seward doktor itt 
 Csakhogy a szememre már nem jött álom.
 Jött viszont az álomtól való félelem.
 Jó, gondoltam, akkor nem alszom.
-A csapdosás oly erős lett, hogy már nem tudtam, az ablak felől jön-e, azért kiszóltam az ajtón: „Van itt valaki?” Választ nem kaptam, hanem kintről, talán a bokrok aljáról kutyavonítás szólt rá válaszul.
+A csapdosás oly erős lett, hogy már nem tudtam, az ablak felől jön-e, azért kiszóltam az ajtón: "Van itt valaki?" Választ nem kaptam, hanem kintről, talán a bokrok aljáról kutyavonítás szólt rá válaszul.
 Mintha a farkaskutya várná a gazdáját, olyan.
 Kitekintettem a redőny résén, és láttam, hogy egy nagy denevér verdesi a szárnyával.
 Visszafeküdtem azzal az elhatározással, hogy nem alszom el, de akkor meg anyám nyitott be, s látván, hogy ébren vagyok, letelepedett ágyam szélére.
@@ -2346,10 +2331,10 @@ Láttam a professzoron is, hogy megismeri, mert kézfogásra nyújtott kézzel i
 - Hát téged mi szél hozott?
 - kérdeztem, amint egymás nyakába borultunk.
 - Art sürgönyzött, és gondoltam, a legokosabb, ha mindjárt felkerekedek.
-Azt mondja - s elő­vette a papírt a zsebéből: - „Három napja nincs hírem Sewardtól.
+Azt mondja - s elő­vette a papírt a zsebéből: - "Három napja nincs hírem Sewardtól.
 Apám állapota azóta is válságos.
 Tudd meg, mi újság.
-Arthur.” S íme, hallom, hogy soha jobbkor nem érkeztem.
+Arthur." S íme, hallom, hogy soha jobbkor nem érkeztem.
 Az émelyítő műtét, mit ecseteljem, úgy zajlott, akár az előbbiek, hanem Lucy, mint Quincey csalódottan megállapította, nemigen akart életre kapni.
 A morfiumozást ezúttal mégsem vár­tam.
 Lekísértem Quinceyt a fogadószobába, és utasítottam a szolgálólányokat, hogy bőséges reggelit készítsenek neki.
@@ -2436,7 +2421,7 @@ Negyedóra s én váltom őket reggel hatig, majd Quincey követ.
 Az ájult álom és ocsúdás szakaszai rövidültek.
 Attól tartok, hol­nap­nál tovább aligha kell virrasztanunk.
 A vérvesztés legutóbbi megrázkódtatását nemigen heveri ki szegény.
-Mina Harker levele Lucy Westenrának - 
+Mina Harker levele Lucy Westenrának -
 már nem jut a címzett kezébe
 szeptember 17.
 Drága Lucym!
@@ -2446,10 +2431,10 @@ Csak azóta, válaszolhatod, amióta én sem hallatok magamról.
 Férjemet sikerült talpra állítanom és visszahoznom Angliába.
 Amikor Exeterben kiszálltunk a vonatból, kocsi várt ránk, és ki más ült benne, mint férjem principálisa, a csúztól gyötrött Mr. Hawkins!
 Házába vitt, végigvezetett a részünkre átrendezett emeleten, majd megvacsoráztunk, s vacsora után pohárköszöntővel lepett meg bennünket:
-„Egészségetekre és boldogságotokra emelem poharamat, kedveseim!
+"Egészségetekre és boldogságotokra emelem poharamat, kedveseim!
 Kísérje az istenáldás boldogulásotok útját, amiként az én szemem kísérte mindeddig, gyermekkorotoktól.
 Most azonban szeretném, ha otthonotokul házamat választanátok.
-Énnekem, mint tudjátok, se kutyám, se macskám, azért végakaratomban tirátok hagyom minden ingó és ingatlan vagyo­nomat.”
+Énnekem, mint tudjátok, se kutyám, se macskám, azért végakaratomban tirátok hagyom minden ingó és ingatlan vagyo­nomat."
 Azzal kezét nyújtotta Jonathannak, én meg sírva fakadtam nagy bután.
 Így virradt fel ránk, látod, próbáltatásunk ideje múltán!
 Megfészkelődtünk hát e bájos régi lakban - hálónkból is, nappalinkból is a székesegyházat környező öreg szilfák fekete törzsét látni a tisztes régiség sárga kövei előtt, és naphosszat hallgatom a varjak kárörvendő pletykáját, amely reggelente piaci kofabeszéddel vegyül.
@@ -2460,10 +2445,9 @@ Szívesen beruccannék a városba már, hogy láthassalak, de nemcsak a ház ter
 A kór gyengesége még látni való rajta, és hol remegve riad álmából, hol elaludni fél.
 A magam újságait elmondtam mind - most már tudnám, hogy van Arthur meg az édesapja, mikor ülitek a lakodalmatokat, vendégek lesznek-e számosan, milyen ruha mellett döntöttél végül?
 Mindezekre részletes választ várok.
-Jonathan „tiszteltet”, ezen szóval, amely nyilván illik a Hawkins és Harker cég újdonsült társához, én azonban inkább csókjaiból továbbítok egyet,
+Jonathan "tiszteltet", ezen szóval, amely nyilván illik a Hawkins és Harker cég újdonsült társához, én azonban inkább csókjaiból továbbítok egyet,
 s a magaméval tetézem,
-Minád            
-
+Minád
 Patrick Henessey dr. osztályos orvos levele
 Seward igazgató úrnak Mrs. Westenra címén
 szeptember 20.
@@ -2485,15 +2469,14 @@ A kocsis első meglepetésében nem tett egyebet, csak lehajolt a bakról, és o
 Őrajta azonban mintha nem fogott volna a jól irányzott sújtás, és ha oda nem érek idején, még kárt tesz a rakodóban.
 Nem mintha én bírtam volna vele.
 Nem vagyok gyenge legény, mégis az ápolók odaérkezése döntötte el csupán küzdelmünket.
-Mikor aztán a kényszerzubbonyt ráhúzták, Renfield ordítozni kezdett: „Akkor is megmutatom nekik, hogy nem forgatnak ki!
-Engem még az én istenem se öl meg apránként!” S még mondott egypár efféle zöldséget, amíg visszacipeltük a házba, és betettük a dühöngőbe.
+Mikor aztán a kényszerzubbonyt ráhúzták, Renfield ordítozni kezdett: "Akkor is megmutatom nekik, hogy nem forgatnak ki!
+Engem még az én istenem se öl meg apránként!" S még mondott egypár efféle zöldséget, amíg visszacipeltük a házba, és betettük a dühöngőbe.
 A kocsis meg a rakodó is becsörtetett utánunk, és fenyegetőztek, hogy kártérítési pert akasz­tanak a nyakunkba.
 Láttam azonban, hogy a sértett hiúság szól belőlük, mivel jól megtermett emberek lévén és kocsmai hajcihők sokszoros hősei nyilván, nem bánhattak el egy szál bolonddal.
 Panaszukba fáradságos munkájukat is belefoglalták, mondván, hogy az ínszakasztó emelgetés vette ki erejüket, én pedig értettem a szóból, és bérüket megpótoltam egy-egy fonttal, bosszúságukat pedig az (utólagos engedelmével!)
-íróasztalomban tartott brandyvel csillapítgattam addig-addig, hogy búcsúzáskor meghagyták, „milyen egy karakán gyerek”
-tisztelő híve  
+íróasztalomban tartott brandyvel csillapítgattam addig-addig, hogy búcsúzáskor meghagyták, "milyen egy karakán gyerek"
+tisztelő híve
 Patrick Henessey
-
 Seward doktor naplója
 Szeptember 20.
 - Csupán a szokás visz rá, hogy naplómnak este megint nekiüljek.
@@ -2514,7 +2497,7 @@ Arthurt először nem ébresztem, hadd aludjon.
 Szüksége lesz a lélek­jelenlétére hamarosan, az a gyanúm - nem is kérem a professzor véleményét.
 Van Helsingnek elég egy pillantás Lucyra, odaszól: - Világosságot!
 Felhúzom a redőnyt.
-- Van Helsing vizsgálat közben elemeli Lucy csipkezsebkendős kezét a nyakáról, és „Mein Gott”-ot suttog.
+- Van Helsing vizsgálat közben elemeli Lucy csipkezsebkendős kezét a nyakáról, és "Mein Gott"-ot suttog.
 Odahajlok és osztozom a megdöbbenésében.
 A két nyílt seb eltűnt Lucy nyakából!
 Van Helsing nyomban felegyenesedett, úgy nézte Lucyt, majd lassan, nehézkesen kimondta: - Nincs sok ideje hátra.
@@ -2668,8 +2651,8 @@ Nem tetszenek nekem az emlékezetkiesései - abajgatni sem akarom értük -, de 
 Ugye, megbocsátasz majd, Jonathan, ha olyasminek jutok a nyomára, amit ép elmével szívesebben titkoltál volna előlem?
 Később - a gyászos hazatérés.
 Jonathan alig lézeng.
-Ráadásul sürgöny vár minket valami Van Helsingtől, ezzel: „Szomorúan tudatom, hogy Mrs. Westenra öt napja elhunyt, leánya tegnapelőtt.
-Mindkettőjüket ma temettük.”
+Ráadásul sürgöny vár minket valami Van Helsingtől, ezzel: "Szomorúan tudatom, hogy Mrs. Westenra öt napja elhunyt, leánya tegnapelőtt.
+Mindkettőjüket ma temettük."
 Szegény Mrs. Westenra!
 Szegény Lucy!
 Hát soha nem látlak többé!
@@ -2710,7 +2693,7 @@ S e szóval nem csak kérdezősködésem fonalát vágta el.
 Úgy tetszik, méltóbb szó naplóm zárásául nem is kínálkozik.
 Ha kinyitom valaha, mások felől jegyzek bele.
 Lucy hadd nyu­godjon Hampstead dombján szerelmemmel együtt, én pedig reménytelenül is reménykedőn dolgomhoz látok megint.
-A „Westminster Gazette” szeptember 25-i számából
+A "Westminster Gazette" szeptember 25-i számából
 A HAMPSTEADI REJTÉLY
 Hampstead környéke oly események színtere lett, amelyek bízvást említhetők egy napon a Kensingtoni Rém, a Késelő Asszony vagy a Gyászos Némber tetteivel.
 Az elmúlt két-három napon történt, hogy apró gyermekek hazulról elkószálván hosszas elmaradásuk felől csiviteltek ugyan összevissza, de szüleik a locsi-fecsi magyarázkodásból kihámozhatták, hogy hazatérésüket valami Babirka Néni késleltette.
@@ -2720,7 +2703,7 @@ Csak­ugyan olyan bájosak, mondja, hogy akár ünnepelt színművésznőnk, Ell
 Nem játék azonban, hogy az éjszakára elmaradó gyermekek torkán apró sebhelyeket találnak, amelyek lehetnének akár kisebb kutya vagy patkány marásai.
 Hanem a sebek sorozatossága módszerre utal.
 A kerületi rendőrkapitányság már felneszelt, és bejelentéseket vár mind az éjszakára eltűnő gyermekek, mind a környéken kóborló ebek felől.
-A lap szeptember 27-i, rendkívüli száma a „Babirka Néni”-ről
+A lap szeptember 27-i, rendkívüli száma a "Babirka Néni"-ről
 Tudomásunkra jutott, hogy egy este eltűnt gyermeket mára virradóra a hampsteadi temető bozótos domboldalában találtak meg kivérzetten és elgyengülten.
 Nyakán a korábban eltűnt és hajnalra megkerült gyermekekéhez hasonló apró sebeket észlelt az orvos.
 A gyermek ocsúd­ván a Babirka Néni csábítása felől rebegett.
@@ -2750,12 +2733,10 @@ Néhai Lucy Westenra jegyese, Godalming lord engedelmével beletekinthettem az e
 Leveleiből kitetszett, mennyire ragaszkodik barátnőjéhez.
 Arra kérném tehát, ha ragaszkodása elkíséri a síron túl is, hogy fogadja szerénységemet egy rövid látogatás erejéig exeteri otthonában.
 Alázatos szolgája
-Van Helsing   
-
+Van Helsing
 Mrs. Harker távirata Van Helsingnek
 HOLNAP SZEPTEMBER HUSZONOETOEDIKEEN A NEGYED-TIZENEGYES VONAT­NAAL VAAROM.
 WILHELMINA HARKER
-
 Mina Harker naplójából
 Szeptember 25.
 - Izgalmam nőttön-nő Van Helsing doktor érkezését várva.
@@ -2825,7 +2806,6 @@ Holott a káprázatok, téves eszmék, balsejtelmek azért foglalkoztatnak, mert
 Szavai hallatán meggondoltam, nem helyesebb lenne-e, ha Jonathan feljegyzéseinek gépelt má­solatát bocsátanám rendelkezésére, semmint hogy belekotnyeleskedjek az orvostudomány­ba.
 Végül nem bántam meg, hogy így tettem.
 Van Helsing azzal búcsúzott, hogy éjjel végez az olvasással, délelőtt pedig újból tiszteletét teszi:
-
 Van Helsing professzor levele Mrs. Harkernek
 szeptember 25. hat órakor
 Kedves Mina Asszony!
@@ -2834,9 +2814,8 @@ Kutató kedve és tettvágya meg­állapításomat erősíti.
 Ugyan ki más evilági járta volna meg foggal-körömmel ama távoli düledéket kétszer is?
 Akkor bezzeg nem fogott rajta se káprázat, se megrázkódtatás!
 Sorsomat áldom a Kegyeddel való találkozásért, és töprengések közt várom a holnapot.
-Tisztelő híve      
+Tisztelő híve
 Abraham Van Helsing
-
 Jonathan Harker naplója
 Szeptember 26.
 - Azt hittem, lezártam naplómat a pecséttel mindörökre, de íme, jegyeznem kell bele ismét.
@@ -2869,8 +2848,7 @@ Mit tehetnék akár a mai nap?
 Otthon a villásreggeli közben megbeszéltük, hogy bármikor szüksége van ránk a professzor­nak, szívesen megkeressük Londonban.
 Majd a kért másolatokat gyűjtöttem össze a számára, végezetül kikísértem a vonathoz, és az ablakon benyújtottam neki a reggeli meg a tegnap esti lapokat is, hogy legyen mit olvasnia az úton.
 Szeme rögtön megakadt a Westminster Gazette-en, és még hallottam, amint szisszenve huppan le ülőhelyére.
-Benéztem az ablakon és annyit láttam, hogy a fejét ingatva futja át a cikket, és valamit dörmög, ilyesmit: „De hogy ilyen hamar!”
-
+Benéztem az ablakon és annyit láttam, hogy a fejét ingatva futja át a cikket, és valamit dörmög, ilyesmit: "De hogy ilyen hamar!"
 Seward doktor naplója
 Szeptember 20.
 - Fogadkozni, hogy soha többé, úgy tetszik, nem érdemes.
@@ -2950,11 +2928,11 @@ Jó étvággyal evett, és állapota biztatóan javult.
 Vincent doktor levette torkáról a kötést, és feltárta a két apró sebet.
 A hasonlósághoz nem férhetett kétség, csupán kisebbek voltak és frissebbek.
 Vincent doktor úgy vélte, valami apró állattól származ­hat­nak, talán patkánytól, de nem hitte lehetetlennek azt sem, hogy a London északi domb­vidékén tanyázó denevérek műve.
-„Keveredhetett a sok ártalmatlan közé veszedelmes déli faj is, akár tengerész hozta haza, akár az állatkertből röppent ki egy fiatalabb, vérszopó példány.
+"Keveredhetett a sok ártalmatlan közé veszedelmes déli faj is, akár tengerész hozta haza, akár az állatkertből röppent ki egy fiatalabb, vérszopó példány.
 Történik ilyesmi.
 Vagy tíz napja farkas csatangolt errefelé.
 A gyermekek akkor Piroska és a farkast játszottak, azután tűzték csak műsorra a Babirka Nénit.
-Még ez a kis mitugrász is, mikor megéledt, mindjárt azt kérdezte a nővértől, elmehet-e, majd a nővér kérdésére, hogy ugyan hova, azt felelte: Játszani akarok a Babirka Nénivel.”
+Még ez a kis mitugrász is, mikor megéledt, mindjárt azt kérdezte a nővértől, elmehet-e, majd a nővér kérdésére, hogy ugyan hova, azt felelte: Játszani akarok a Babirka Nénivel."
 - Remélem, mielőtt eleresztené, figyelmezteti szüleit, hogy még egy kinn töltött éjszakája végzetes lehet?
 - Egy hétig mindenképpen megfigyelés alatt tartom, professzor úr - ígérte Vincent doktor -, de ha a sebek addig el nem tűnnek, tovább is.
 A temető szélén, a Búfelejtőben vacsoráztunk, amely temetőzáráskor meglehetősen zajos, majd tíz óra tájt útra keltünk.
@@ -3067,7 +3045,7 @@ Egy darabig Lucy fogát méricskélte, majd szemhéját emelte meg, és a szemé
 - Amit itt tapasztalunk - magyarázta tanárosan -, az a feljegyzett vámpírtörténetek fontos mozzanatát erősíti meg.
 Miss Westenrát ugyanis álomjárása közben marta meg a vérszopó... efelől talán még nem értesült, tanult barátom, ámde bizonyítékul személyes tanúvallomással szolgálha­tok... és akkor járt vissza rá, amikor Miss Westenrán holdkórosság volt.
 Álomjárásában halállal álmodott, és holtában megmaradt álomjárónak.
-Erdélyben az ilyet nevezik „tüzes ember”-nek, azért a lenge fényért, amely jelenését kíséri.
+Erdélyben az ilyet nevezik "tüzes ember"-nek, azért a lenge fényért, amely jelenését kíséri.
 Nevezzük tehát Miss Westenra esetét Bolygó Holt-jelenségnek.
 S mivel igazoltnak tekinthetjük, hogy éjjel kísértvén pusztít, nappali álmában kell elpusztítanunk.
 Láthatta, hogy a vér megfagy ereimben, és nyilván következtetett, hogy elmélete mégiscsak hat rám, hiszen mi a vérfagyasztó egy holt megölésében?
@@ -3141,7 +3119,7 @@ Mikor benn voltunk mindannyian, behúzta az ajtót, elfordította lámpásáról
 - Mikor tehát első alkalommal jártunk itt éjszaka - foglalta össze a történteket -, üres volt a koporsó.
 Másnap délután megtaláltuk benne, amit Miss Westenrának nem szívesen nevezek, ezért inkább a Bolygó Holt nevet adtam neki.
 A hampsteadi gyermekek egyébként - folytatta szinte csevegősen, hogy a csavarhúzás idejét kitöltse - Babirka Néninek becézik, nem oktala­nul, mert tanult barátom a tanúm, hogy...
-- Hogy azon éjszaka egy bolygó tűzhöz hasonló jelenség megjelenése nyomán alvó és sértet­len gyermeket találtunk nem messze innen a haraszt közt - vágtam közbe, tehetségem szerint fizetvén vissza a professzor „kelletlen szóra” való buzdításáért.
+- Hogy azon éjszaka egy bolygó tűzhöz hasonló jelenség megjelenése nyomán alvó és sértet­len gyermeket találtunk nem messze innen a haraszt közt - vágtam közbe, tehetségem szerint fizetvén vissza a professzor "kelletlen szóra" való buzdításáért.
 Az utolsó csavart húzta ki éppen, gondosan letette a táskája mellé a többi közé, majd leemelte a fedelet.
 A koporsó üres volt.
 Torkunkra forrt a szó mindannyiunknak.
@@ -3208,7 +3186,7 @@ Amikor az utolsó léptek is elhaltak, egybegyülekeztünk a sírkamránál.
 A professzor megnyitotta az ajtaját, gyertyákat gyújtott, és a magasabban álló régibb kopor­sókra tapasztotta őket, hogy elegendő világossága legyen, majd becsukta az ajtót.
 Mindhárman ott álltunk mögötte, amikor leemelte a koporsó fedelét.
 Lucy benne feküdt, teljes szépségében és halotti pompájában, csupán a szája sarkában meg a köntösén feketéllett egy-egy csepp alvadt vér.
-- Pedig Angliában vagyunk - fordult a professzor Arthurhoz, mintha a tegnapi beszélgetésbe öltené a szót -, ahol zsidó, anglikán vagy nonkonformista Mózessel vallja mind: „A vér, az a lélek.”- Vallja, de gyakorolni inkább borral gyakorolja - szegezte le Quincey.
+- Pedig Angliában vagyunk - fordult a professzor Arthurhoz, mintha a tegnapi beszélgetésbe öltené a szót -, ahol zsidó, anglikán vagy nonkonformista Mózessel vallja mind: "A vér, az a lélek."- Vallja, de gyakorolni inkább borral gyakorolja - szegezte le Quincey.
 Van Helsing mintha ráhunyorított volna, majd munkához látott.
 Nagy táskájából forrasztó­páka, forrasz, petróleumégő került elő, meg az a boncoló-késkészlet, amelyet újból elkért tőlem.
 Amikor az égőt meggyújtotta, kicsiny csontfűrészével egy percre kifordult az ajtón, majd annak az öreg csipkebokornak, amelynek ágából az éjjel a keresztet eszkábálta, vaskos suharcával tért vissza, azt legallyazta, meghegyezte és a láng fölött forgatta, míg szenesedni nem kezdett.
@@ -3303,20 +3281,20 @@ Fontos, hogy mire Van Helsing professzor megérkezik, a naplók egybevethető m�
 Bizony, nem hiába áradozott a professzor.
 Jonathan Harker naplója
 Szeptember 29., London felé a vonaton - Billingtonék igen készségesek voltak.
-Igaz, levelet váltottunk addigra, mégis, mikor whitbyi irodájukba betoppantam, már készen várt az „ötven láda közönséges föld” tengeri útjára és szárazföldi továbbítására vonatkozó minden irat.
+Igaz, levelet váltottunk addigra, mégis, mikor whitbyi irodájukba betoppantam, már készen várt az "ötven láda közönséges föld" tengeri útjára és szárazföldi továbbítására vonatkozó minden irat.
 Meg­tántorodtam, amikor a csomó tetején mindjárt az a levél fogadott, amelybe a gróf könyvtár­szob­ájának asztalánál loppal beletekinthettem.
 Elgondolt a gróf mindent, körültekintően, aprólékosan, nem is akadt fenn a terve semmin.
 Az iratcsomó alján volt Paterson fuvarosék nyugtatványa - mire azt is elolvastam, bizonyos lehettem a dolgom felől.
 Elköszöntem Mr. Billingtontól, és kimentem a kikötőbe, hogy a rakomány érkezésének azóta helyi legendává terebélyesült körülményeit tisztázzam a vámmal meg a partőrséggel.
-Újat ugyan meg nem tudtam, a már hallottakat cifrázták tovább, hanem amikor a rakodómunkások is megszima­tolták érdeklődésemet, körém sereglettek és elpanaszolták, hogy a ládák nehezek lévén, „akár a nehézség”, odábbításukban szerzett szomjúságukat eloltaniuk azóta sem sikerült, és az orvoslás rám vár nyilvánvalóan.
+Újat ugyan meg nem tudtam, a már hallottakat cifrázták tovább, hanem amikor a rakodómunkások is megszima­tolták érdeklődésemet, körém sereglettek és elpanaszolták, hogy a ládák nehezek lévén, "akár a nehézség", odábbításukban szerzett szomjúságukat eloltaniuk azóta sem sikerült, és az orvoslás rám vár nyilvánvalóan.
 Utamat megszakítottam Patersonék King’s Cross-i irodájában.
 Szállítólevelük a hajórako­mány tartalmával megegyezett az utolsó ládáig.
-Az irodába betérő egyik szekeres szerencsére annyira megvigasztalódott, mikor magam ajánlottam, hogy a munkában szerzett szomjúságát enyhíteni kész vagyok, hogy további tudomásait is megosztotta velem: „Én még ilyen bagoly­várban nem jártam, főnök.
+Az irodába betérő egyik szekeres szerencsére annyira megvigasztalódott, mikor magam ajánlottam, hogy a munkában szerzett szomjúságát enyhíteni kész vagyok, hogy további tudomásait is megosztotta velem: "Én még ilyen bagoly­várban nem jártam, főnök.
 Ha ott a porba ledőlök és bedobom a hunyót, se matrac alám, se paplany fölébem nem kell.
 Hanem az még hagyján.
 De a kápolna, ahova a holmit leraktuk!
 A sötétségbe bele lehetett könyökölni ott!
-Jöttünk is kifele a társammal, akár a nehézség.”
+Jöttünk is kifele a társammal, akár a nehézség."
 A gróf rakománya tehát hiánytalanul megérkezett londoni fészkébe és az otthonihoz hasonló elhelyezést nyert.
 Szeptember 30.
 - Első gyanúm, amikor Seward doktor fogad a tébolydában, hogy talán mégis méltó helyemre csaltak.
@@ -3366,10 +3344,10 @@ Megint elbámultam, mert nem hittem volna, hogy eszelőssége egyenes kérdésse
 - Magamat vallásomért raboskodó embernek tekintem, és tudván tudom, amit rabtartóim nem is sejtenek, hogy börtönöm falai nem szabhatnak határt lelkem szárnyalásának.
 Hitem világ­vallások magva.
 Azonban a hivők csupán vallásuk héján élősködnek.
-A keresztényi hit forrás­vidékén Izrael istene, elrekeszteni akarván az ő választott népét a más kánaáni istenek imá­dóitól, akiket bevonultukban ígéretük földjén találtak, meghagyja apróra, hogyan áldozzanak égő áldozatot az ő kedvére, hogyan kenjék a megölt állat vérével az ő oltárának szarvait, sőt főpapjuk füle cimpáját is, de azzal, hogy a vérből ne igyanak, és az állat húsát gondos vér­eresztés után egyék csak, mert „a vér a benne buzgó élet által szerez engesztelést”.
+A keresztényi hit forrás­vidékén Izrael istene, elrekeszteni akarván az ő választott népét a más kánaáni istenek imá­dóitól, akiket bevonultukban ígéretük földjén találtak, meghagyja apróra, hogyan áldozzanak égő áldozatot az ő kedvére, hogyan kenjék a megölt állat vérével az ő oltárának szarvait, sőt főpapjuk füle cimpáját is, de azzal, hogy a vérből ne igyanak, és az állat húsát gondos vér­eresztés után egyék csak, mert "a vér a benne buzgó élet által szerez engesztelést".
 Paran­csából kitetszik, hogy ez az isten vérből szívja életét, mégpedig akkora gyönyörűséggel, hogy rakoncátlan választottjai megengesztelhetik vele.
 A kanaaniták kiirtását szorgalmazó Ezékiel is a föld fejedelmeinek vérét kínálja az örökkévalóság ígéreteként.
-Mindezekre rádupláz az istenség fia, aki a néppel új szövetséget tulajdon vérével szerez, mondván: „Aki issza az én véremet, örök élete van annak.”
+Mindezekre rádupláz az istenség fia, aki a néppel új szövetséget tulajdon vérével szerez, mondván: "Aki issza az én véremet, örök élete van annak."
 Renfieldet a legkevésbé nem zavarta, hogy Mina asszony gyorsírófüzetet és ceruzát húzott elő a táskájából, és jegyzett mindent - inkább engem zavart, hogy órámra pillantva láttam: Van Helsing vonata nemsokára érkezik, elébe kell mennem az állomásra ígéretem szerint, azért figyelmeztettem Mina asszonyt, hogy Renfield szózuhatagát be kell rekesztenünk.
 Renfieldtől azonban még telt meglepetés.
 Amikor Mina asszony azzal búcsúzott tőle, hogy reméli, hallhat bővebben vallásának tanulságaiból, így válaszolt: - Áldja meg az én istenem, kedves, és adja, hogy soha többé ne láthassuk egymást.
@@ -3584,7 +3562,7 @@ Fájlalja nyilván, hogy az ügy menetére nézve nem tud meg tőlem semmit, de 
 Nem én vagyok a kegyetlen férj, az orvosok tanácsára hallgatok.
 Október 2., késő este - Keserves nap, talpalás, kocsikázás.
 Reggel a postás kelt, és kezembe nyomja a borítékomat.
-Koszos cédulán Bloxam címe és még ez: „izgatot tesen kérni”.
+Koszos cédulán Bloxam címe és még ez: "izgatot tesen kérni".
 Meghökkenek, aztán elnevetem magam, mert eszembe jut, hogy Seward doktor megsúgta: Mina álma rossz, nyugatót kért, nekem pedig izgatóért kell folyamodnom!
 Míg elindulok, remélve, hátha Mina felébred, és megpendíthetem Exeterbe való hazautazásának gondolatát.
 De aztán nincs lelkem keltegetni.
@@ -3603,7 +3581,7 @@ Mikor már megtudtam, hogy Sam Bloxam ma a Nyárfásba szállít porondot, kív�
 Mindjárt elgondoltam, hogy ügyvédi irodámban magam is menyire rászorulnék erre az igazgatási segédeszközre, hogy a tárgyalást kerékvágásában tartsam.
 - Hát a Nyárfás merre?
 - kérdeztem végül, remélvén, hogy útba igazít ostora hegyével.
-Azon­ban kiderült, hogy mindent az igazgatóság sem tudhat, be kellett érnem annyival, amennyit a hüvelykujjával jelzett, hogy „arra valamerre”, és hogy a porond valami „újmódi jégverem” építéséhez kell.
+Azon­ban kiderült, hogy mindent az igazgatóság sem tudhat, be kellett érnem annyival, amennyit a hüvelykujjával jelzett, hogy "arra valamerre", és hogy a porond valami "újmódi jégverem" építéséhez kell.
 Nyakamba vettem a bökéssel megjelölt külső városrészt, és déltájban egy kifőzésben akadtam össze végre olyan munkásemberekkel, akik egy közeli hűtőházi építkezésen dolgoztak.
 Ez egybevághatott az újmódi jégveremmel.
 Már csak egy kapu meg egy pallér ellenállását kellett megtörnöm, és módom nyílott, hogy Sam Bloxammal magával tárgyalhassak.
@@ -3640,7 +3618,7 @@ Nem akartam a ház előtt ólálkodni, azért odébb megszólítottam egy járda
 Sokáig árulták, igen, méghozzá, ha emlékezete nem csal, a Mitchell & Candy ingatlanügynökség hirdette.
 Gyanítottam ugyan, hogy hallhatnék a közlékeny házmestertől többet is a ház belsejéről, mert igen bennfentesnek látszott, de inkább lepleztem kíváncsiságomat, és némi érdeklődés után ott álltam Mitchell & Candyék Sackville Street-i irodájában.
 Egy úr fogadott, roppant udvariasan.
-Amint azonban elmondta, hogy a ház - szerinte „úri lak”, nyilván a drágítás célzatával alkalmazott megjelölés - elkelt a minap, attól fogva begombolkozott.
+Amint azonban elmondta, hogy a ház - szerinte "úri lak", nyilván a drágítás célzatával alkalmazott megjelölés - elkelt a minap, attól fogva begombolkozott.
 Hiába kérdeztem, ki vette meg, merőn rám nézett és így felelt: - Elkelt, tisztelettel.
 - Nekem viszont megbízásom van az érdeklődésre - vetettem meg a lábamat.
 Hallgatása ezúttal hosszabb volt, még a szemöldökét is felvonta a válaszhoz: - Elkelt, tiszte­lettel.
@@ -3689,8 +3667,7 @@ Kegyelmes Lordunk!
 Mr. Harker által közvetített érdeklődésére tudatjuk, hogy a Piccadilly 347. számú házat a néhai Mr. Archibald Winter-Suffield örökösei bocsátották áruba, és egy idegen nemesúr, neve szerint Prikolits gróf vásárolta meg készpénzen.
 Kiléte felől többet nem tudathatnánk a legnagyobb jóakarattal, hiszen sem ügyvédeivel, sem ügyintézőivel nem kerültünk kapcsolatba.
 Lordságodnak mindenkor alázatos szolgái
-Mitchell és Fiai                   
-
+Mitchell és Fiai
 Seward doktor naplója
 Október 2.
 - Mrs. Harker ismét látogatást tett Renfieldnél.
@@ -3757,7 +3734,7 @@ A szemük izzó volt, akár az övé.
 A hűbéresi szövetség megerősítéséül teremtette őket, hogy neki áldozhassak.
 Osztoztunk az életen.
 Boldogan nevettem rá, mert láttam, a hatalma mekkora.
-Majd jött megint görgő ködgomolyban a fák közül a füvön, lángnyelvként, és szó nélkül szólított: „Megosztozom veled az életen, ha engem imádsz csakis, és más élővel szóba nem ereszkedel, hanem akit a kezedbe adtam!” S csakugyan, valahányszor a köde megindult a háznak, hívtam, s betódult az ablakomon, akár egy kurta pillanatra, és hozta ajándé­kát, majd elpárolgott.
+Majd jött megint görgő ködgomolyban a fák közül a füvön, lángnyelvként, és szó nélkül szólított: "Megosztozom veled az életen, ha engem imádsz csakis, és más élővel szóba nem ereszkedel, hanem akit a kezedbe adtam!" S csakugyan, valahányszor a köde megindult a háznak, hívtam, s betódult az ablakomon, akár egy kurta pillanatra, és hozta ajándé­kát, majd elpárolgott.
 Fölfelé.
 Hegyeztem a fülemet.
 Azonban amint a professzorra sandítottam, ő a fejét rázta, jelezvén, hogy kérdéssel ne zökkentsem ki Renfieldet a gondolatmenetéből.
@@ -3811,11 +3788,11 @@ Inkább úgy tetszett, nem akarja kivezetni Mina asszonyt a bódulatából, hadd
 Mintha valami átok telt volna be rajtam.
 Megismertem pedig, amint a ködből kibontakozott, mégsem!
 Holott gúnyolt is vérlázítóan!
-„Közéjük álltál, akik összezilálnák évszázados terveimet?
+"Közéjük álltál, akik összezilálnák évszázados terveimet?
 Szövetkeztél volna ellenem még egy megveszekedettel is?
 - olvasta a fejemre.
 - Hát mert oly bájos vagy és eszes, tudd meg: vérem által szeretőmmé és szövetségesemmé teszlek!
-Mint hajdani hazámban ezrek, követni fogod vérem hívó szavát, valahová csak szólít!” Azzal feltépte ingét és fejét leszegve, akár az Egyház gödénye a szószékek hangvetőjének hegyében, eret nyitott a mellén, majd nyakamat ütötte át a fogával és belém eresztette!
+Mint hajdani hazámban ezrek, követni fogod vérem hívó szavát, valahová csak szólít!" Azzal feltépte ingét és fejét leszegve, akár az Egyház gödénye a szószékek hangvetőjének hegyében, eret nyitott a mellén, majd nyakamat ütötte át a fogával és belém eresztette!
 Dermedten hallgattuk.
 Megváltás volt, mikor a szobába berobbant Arthur és ellihegte, hogy a könyvtárszobában támadt tüzet megfékezték.
 A professzor jól sejtette, hogy a Rém a házból el nem takarodik.
@@ -3832,7 +3809,7 @@ Október 3.
 - Lépten-nyomon jegyzek, mert attól tartok a legjobban, hogy leroskadok és bámulok csak magam elé.
 S ha apró megfigyeléseimmel gondosabban bántam volna, Mina nem jut ilyen sorsra.
 A professzor éppen azt hányja-veti Seward doktorral, miképpen kerülhetnék meg Renfield boncolását.
-Külsérelmi nyomokról folyik a szó, és mind a ketten egyetértenek abban, hogy nincs boncoló orvos, aki „önkezűséget” állapítana meg, mikor az „idegenkezűség” ennyire nyilvánvaló.
+Külsérelmi nyomokról folyik a szó, és mind a ketten egyetértenek abban, hogy nincs boncoló orvos, aki "önkezűséget" állapítana meg, mikor az "idegenkezűség" ennyire nyilvánvaló.
 Igen ám, de miféle idegen kéz művét állapíthatják meg?
 Az ápoló az első ordítás­ra rohant, de azt is hallotta, hogy előtte Renfield egyre Istent szólongatta.
 Miféle bizonyíték az ilyen?
@@ -3942,9 +3919,9 @@ Ezt tapasztaljuk.
 Nem tudjuk azonban, minek kell nyugovásához hazai föld.
 Amikor a naplókból a ládák felől értesültem, nyomban levéllel kerestem meg Arminius Vampiry professzor barátomat Buda-Pesth-en, hogy véleményét kérjem.
 Tudós barátom azonban nem szolgálhatott határozott válasszal.
-Levelét példálózással kezdi, mégpedig a magyarok „tor” szaván, miként alkalmazzák emberhalált vagy disznóölést követő társas holtengesztelőre, majd közel-keleti zarándoklatjának tapasztalatára tért rá, hogy a gyászos hajtépés, ruhaszag­gatás, sőt, hogy a megszomorodottak akár ujjukat is levágják és halottuk után vetik a sárba, azzal, hogy e szokás mind az élők kapcsolatát szolgálja a holtakkal.
+Levelét példálózással kezdi, mégpedig a magyarok "tor" szaván, miként alkalmazzák emberhalált vagy disznóölést követő társas holtengesztelőre, majd közel-keleti zarándoklatjának tapasztalatára tért rá, hogy a gyászos hajtépés, ruhaszag­gatás, sőt, hogy a megszomorodottak akár ujjukat is levágják és halottuk után vetik a sárba, azzal, hogy e szokás mind az élők kapcsolatát szolgálja a holtakkal.
 Jákob Józsefet kérleli, ne temesse őt el Egyiptomban.
-A menekülő Dávid Saulnak kiáltja: „Ne omoljék az én vérem távol az Úr színétől a földre!” Mindezek, megvallja, csupán körülményei a kérdésnek, utoljára azonban, levelezés és könyvtárak felforgatása után magunknak kell eszmélnünk, mekkora erőforrásunk az apáink vérével öntözött föld mindannyiunknak.
+A menekülő Dávid Saulnak kiáltja: "Ne omoljék az én vérem távol az Úr színétől a földre!" Mindezek, megvallja, csupán körülményei a kérdésnek, utoljára azonban, levelezés és könyvtárak felforgatása után magunknak kell eszmélnünk, mekkora erőforrásunk az apáink vérével öntözött föld mindannyiunknak.
 A fertőtlenítést ketten hajtjuk végre a professzorral.
 Harker és Mina asszony az ebédlőasztalon felhalmozott levelek, adásvételi szerződések és nyugtatványok szétválogatásával foglalatos­kodik.
 A fontosabbakat magukhoz veszik, a többit bevetik a kandallóba és alágyújtanak.
@@ -4075,7 +4052,7 @@ Kimentünk a Doolittle kőgátjára, nem annyira, hogy a Katalin cárnő hűlt h
 A kőgáton ült egy tutajház, abban egy vörös képű polgár, akkora, hogy a burdéból kikelni nem bírt, mivel alighanem ráépítették.
 Bentről amúgy beszédes volt, kivált, mikor Arthur ropogós figyelmességét a zsebébe gyűrte.
 Minekünk a jó napotnál többet mondanunk alig kellett.
-„Hát az jól elment, szentség a boltba.
+"Hát az jól elment, szentség a boltba.
 (Alighanem a házát szidta, mert a fogságából többszöri próbálkozás ellenére sem szabadult.)
 Már a legénység mind a hajón volt, és a kapitány osztotta a parancsot, amikor látom ám, hogy jön egy pózna ember, horgas, nagy fogú, áll ide elébem és rám mereszti az égő szemét, hogy ő szólna a kapitánnyal.
 És néz.
@@ -4092,11 +4069,11 @@ A horgas meg kezd okoskodni, hogy nem, ő majd hoz embert, és beviteti igenis.
 De a kapitány se hagyja magát, hogy őneki ráadást fizessen, mert akkor már az árral ki nem hajózik.
 Hogy az alkudozás vége mi lett, nem láttam, meg nem is hallottam, mert, a szentség a boltba, egyszeriben köd ereszkedett ránk, akkora, hogy a kapitány négykézláb mászott vissza ide, és mondja nekem, szentség a boltba, itt máma ködöt állunk, ezt föl nem számíthatom a pasasnak.
 És gyújtana pipára, látom a gyufája lobbanását.
-De már teszi is el, hogy azt mondja: »Én ugyan nem válogatom szét a füstöt a ködtől.« Majd pipája híján keserves káromkodásnak fogott, hogy itt az áradat, és hogy ő ki ne juthasson a tengerre vele, az oltáron kerékpározó ez meg az a szent!
+De már teszi is el, hogy azt mondja: "Én ugyan nem válogatom szét a füstöt a ködtől." Majd pipája híján keserves káromkodásnak fogott, hogy itt az áradat, és hogy ő ki ne juthasson a tengerre vele, az oltáron kerékpározó ez meg az a szent!
 De azon pillanatban, mintha a szent a kerékpárért cserébe a kegyével ajándékozta volna meg, szélfuvatra eltisztult a köd.
 S jön mindjárt a kőgát végéből egy munkásemberféle a kapitányhoz, és magyarázza neki, hogy bizony a ládát föl­tették a hajóra, az úr meg azt üzeni, hogy a hombárban jó helye legyen.
 A kapitány csodál­kozott egy sort, mert nem fért a fejébe, igaz, nekem se, hol az úr és hol a többi ember, és hogyan vitték fel a ládát mégis, amikor a pallón kettő el nem tér egymás mellett, de nem kérdezősködött, hanem csak egy búcsúszót vetett nekem, és szaladt fel a hajójára osztani a parancsot, hogy az árt el ne szalassza csakugyan.
-Ha engemet kérdeznek, a Katalin cárnő azóta már kinn jár a Temze torkolatában, ládástól, a szentség a boltba.”
+Ha engemet kérdeznek, a Katalin cárnő azóta már kinn jár a Temze torkolatában, ládástól, a szentség a boltba."
 Quincey Morris után Van Helsing professzor emelkedik szólásra, és elmondja a társaságnak, hogy a hajóút hosszát tekintve időnek bővébe jutottunk, azért mégis szükségesnek tartja, hogy általánosságban határozzunk a követés útiterve felől.
 Ekkor úgy döntök, hogy a jegyzőkönyv vezetését Seward doktorra bízom, és átmegyek a szobánkba.
 A társaság nyilván meg fog érteni.
@@ -4159,7 +4136,7 @@ Október 24.
 - Tétlen várakozás egy teljes hete.
 Godalming naponta kapja a sürgönyöket: a hajó sehová be nem futott.
 Mina delejes válaszából sem olvasunk ki újságot: robogó hullám, nyögő árbocozat.
-A londoni Lloyd-iroda sürgönye Godalming lordnak, 
+A londoni Lloyd-iroda sürgönye Godalming lordnak,
 Őfelsége Várnai Konzulátusának címére
 Október 24.
 KATALIN CAARNOE MA REGGEL AATHALADT A DARDANELLAAKON.
@@ -4185,9 +4162,9 @@ Október 26.
 Mindenképpen itt kellene lennie már.
 Mina asszony delejes jelentéséből a hajó helyzetére nézve semmit ki nem olvas­hatunk.
 Attól sem leszünk okosabbak, hogy nyílt tengerről befutó hajók feltámadó ködről tudósítanak.
-Október 27-én, déltájt - Reggel a szokásos távirat: „Újabb jelentés nem érkezett.” Mina asszony szerint a víz igen megcsendesedett a hajó körül, és a szél is elült.
+Október 27-én, déltájt - Reggel a szokásos távirat: "Újabb jelentés nem érkezett." Mina asszony szerint a víz igen megcsendesedett a hajó körül, és a szél is elült.
 Van Helsing csupán nekem súgja meg azt a gyanúját, hogy a gróf kisiklott a kezünkből.
-A londoni Lloyd-iroda sürgönye Godalming lordnak, 
+A londoni Lloyd-iroda sürgönye Godalming lordnak,
 Őfelsége Várnai Konzulátusának címén
 Október 28.
 KATALIN CAARNOE HAJNALI EGYKOR KIKOETOETT GALATZBAN.
@@ -4338,7 +4315,7 @@ S még ha a nép kíváncsiságát a vad karaván féken is tartaná, útvámok,
 De a magam delejes beszédének legutóbbi jegyzőkönyvéből is látom, hogy a gróf vízre jutott ismét.
 Vízre, holott napvilágnál vízen tehetetlen, és a dereglyések, ha a gróf ködöt bocsátana rájuk vagy farkasokat gyűjtene a partra, egykettőre a vízbe fordítanák.
 Márpedig a gróf úgy fél a víztől, mint a - cigányok!
-Még Angliába is elhozták itteni szólásukat: „Dunában nincs gerend.” Vagyis, mint némi kérdezősködés árán kiderítettem egyszer, annyit mondanak vele, hogy folyóvíz nem lábalható.
+Még Angliába is elhozták itteni szólásukat: "Dunában nincs gerend." Vagyis, mint némi kérdezősködés árán kiderítettem egyszer, annyit mondanak vele, hogy folyóvíz nem lábalható.
 Más szóval ingoványtól, morotvától, dágványtól nem félnek.
 Akkor a cigánykaraván meg víz mégis összefér!
 Cigányok vontatják felfelé a terheshajót lovaikkal!
@@ -4393,7 +4370,7 @@ Szőtt övet visel, pipál egykedvűen, és rámondja, hogy látott igenis.
 Mifélét?
 Hát nagyot.
 Akkorát, hogy ráfért egy sátoralja cigány lovastul, és repült felfelé az árnak, mint a hétszél lepedő, holott csigája sem volt, mint ennek.
-Hanem itt partra szálltak a cigányok, úgy tértek fölfelé az „Aranyosz-Besztercére” (így mondta), mert annak a vize langalló, hát húzatni kell a hajót rendesen, még ha a prikulics viszi is fölfelé.
+Hanem itt partra szálltak a cigányok, úgy tértek fölfelé az "Aranyosz-Besztercére" (így mondta), mert annak a vize langalló, hát húzatni kell a hajót rendesen, még ha a prikulics viszi is fölfelé.
 Ennyit mondott s nem többet.
 November 2-án, reggel - A derék lord nem ébreszt hajnalig, pedig megbeszéltük, hogy váltom.
 Megfordul a fejemben, hogy elhagytuk talán őket az éjszaka valahol, mert lehetetlenség egynek fűteni, kormányozni és őrt állani is, de aztán megnyugszom abban, hogy nagy baj nem lenne, ha együtt fogadnánk őket, amint jönnek fölfelé.
@@ -4422,7 +4399,7 @@ A professzor megígéri, hogy reggelre kocsival-lóval áll a szálloda elé.
 Aluszékony vagyok.
 Nem tudom, mire véljem.
 A professzor ébreszt, delejez, de mint hallom, sokat nem mondok, vagy nem mondhatok.
-„Sötét csöndesség” vagy „zubogó víz” - ilyenek telnek tőlem.
+"Sötét csöndesség" vagy "zubogó víz" - ilyenek telnek tőlem.
 Bizonyos annyi, hogy igyekeznünk kell, mert nem mondhatnék ennyit sem már, ha Jonathanék utolérték volna a grófot.
 XXVII.
 FEJEZET
@@ -4452,7 +4429,7 @@ Nem vagyok a balsejtelmek embere, mégis nehéz a szívem.
 Megpróbálom hát összefoglalni a történteket, Tanult Barátom megbocsát a dermedt ákombákomért.
 Hajnalig vegyészkedtem egy barátságos szász háznál, aztán még szundítottam egyet, úgy eredtünk neki reggel jókor a Borgói-hágónak.
 Annyira jókor, hogy Mina asszony reggeli delejezését már a kocsin ejtettem meg az első pihenő alkalmával.
-Mina asszony bundába bugyoláltan feküdt a saroglyában, és mintegy álomból álomba bukva suttogta: „Sötét örvénylés mindegyre.”
+Mina asszony bundába bugyoláltan feküdt a saroglyában, és mintegy álomból álomba bukva suttogta: "Sötét örvénylés mindegyre."
 Délre felkaptatunk a hágón, és nekiereszthetem a lovakat.
 Talán mert az utat nem kell figyelni, talán mert a hideg széltől óvnak a szirtfalak, elbóbiskolok ebéd után.
 Hanyatlóban a nap, mikor arra riadok, hogy Mina asszony rángat.

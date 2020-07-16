@@ -1,7 +1,5 @@
 ﻿Jules Verne
-
 Grant kapitány gyermekei
-
 Első rész
 I.
 A pörölycápa
@@ -146,11 +144,11 @@ Vegyük először az angol szöveget.
 Az iraton az alábbi sorrendben ezek a sorok és szavak voltak:
 62                              Bri                                      gow
 sink                                                                       stra
-                aland
+aland
 skipp            Gr
-                                        that monit                of long
+that monit                of long
 and                                                               ssistance
-                  lost
+lost
 - Hát ennek ugyan nincs sok értelme - mondta csalódottan az őrnagy.
 - Bárhogy is van - felelte a kapitány -, az bizonyos, hogy angolul van írva.
 - Kétségtelen - mondta lord Glenarvan -, a sink, aland, that, and, lost szavak épségben marad­tak; a skipp nyilván skipper akar lenni, és szó van egy bizonyos Gr... nevű úrról, aki talán valami szerencsétlenül járt hajó kapitánya.
@@ -165,10 +163,10 @@ Hogyan tudhatnánk meg az elpusztult hajó nevét, a hajótörés helyét?
 - Lássuk csak!
 - kiáltott fel lady Helena.
 A második papiros hiányosabb volt, mint az előző, csak néhány elszigetelt szó maradt meg rajta, így:
-    7 Juni                                            Glas
-                              zwei                                  atrosen
-                   graus
-                   bringt ihnen
+7 Juni                                            Glas
+zwei                                  atrosen
+graus
+bringt ihnen
 - Ez németül van - jelentette ki John Mangles, ahogy egy pillantást vetett a papírra.
 - És maga tud németül, John?
 - kérdezte Glenarvan.
@@ -196,12 +194,12 @@ Mindeddig egyetlen utalás sincs a helyre, a katasztrófa színtere teljesen ism
 - Reméljük, hogy a francia irat világosabb lesz - mondta lady Helena.
 - Lássuk hát a francia iratot - felelte Glenarvan -, és mivel mindnyájan ismerjük ezt a nyelvet, ez majd megkönnyíti a dolgunkat.
 Íme a francia irat pontos mása:
-              troi           âts                          tannia
-                              gonie                      austral
-                                                             abor
-  contin                   pr                           cruel           indi
-            jeté                                                      ongit
-  et 37º 11’             lat
+troi           âts                          tannia
+gonie                      austral
+abor
+contin                   pr                           cruel           indi
+jeté                                                      ongit
+et 37º 11’             lat
 - Számok!
 - kiáltott fel lady Helena.
 - Nézzék, uraim, nézzék!...
@@ -243,14 +241,14 @@ Most hát össze kell vetnünk, egyazon nyelvre kell fordítanunk őket, meg kel
 - Rendben van.
 Leírom ezt az okmányt, összerakom a szófoszlányokat, a mondattöredékeket, figyelembe véve a hézagokat, kiegészítem azokat a szavakat, melyeknek értelméhez nem fér kétség, utána összehasonlítjuk az eredeti szöveggel, és majd meglátjuk az eredményt.
 Glenarvan tüstént tollat fogott, és néhány perc múlva átadott barátainak egy papírlapot, melyre ez volt írva:
-  7 Juni 1862          trois-mats       Britannia     Glasgow
-  sombré                           gonie                          austral
-              à terre                                        deux matelots
-  captain Gr                                abor
-  contin              pr                     cruel                 indi
-             jeté ce document                           de longitude
-  et 37º 11’ latitudine                      Portez-leur secours
-                     perdus
+7 Juni 1862          trois-mats       Britannia     Glasgow
+sombré                           gonie                          austral
+à terre                                        deux matelots
+captain Gr                                abor
+contin              pr                     cruel                 indi
+jeté ce document                           de longitude
+et 37º 11’ latitudine                      Portez-leur secours
+perdus
 E pillanatban egy matróz lépett be, közölte a kapitánnyal, hogy a Duncan befutott a Clyde-öbölbe, s a matrózok várják a parancsait.
 - Mit kíván lordságod?
 - kérdezte John Mangles lord Glenarvanhoz fordulva.
@@ -294,8 +292,8 @@ Hát nem látják világosan?
 Glenarvan meggyőződéssel beszélt.
 Tekintete tele volt reménykedéssel.
 Lelkesedése átfűtötte hallgatóit is.
-S mint ő, azok is felkiáltottak: „Úgy van!
-Úgy van!”
+S mint ő, azok is felkiáltottak: "Úgy van!
+Úgy van!"
 Rövid szünet után lord Edward így folytatta:
 - Ezek a feltevések nagyon is valószerűek, barátaim; a hajótörés szerintem Patagónia partjai­nál történt.
 Különben Glasgowban utánanézetek, mi is volt a Britannia útiránya, így majd megtudjuk, elkeveredhetett-e arra a vidékre.
@@ -346,8 +344,7 @@ századi skót szabad­ság­hős, Wallace kastélya.
 Lady Helenát postakocsi várta, hogy Mac Nabbs őrnaggyal együtt Malcolm-Castle-ba vigye.
 Lord Glenarvan megcsókolta fiatal feleségét, és sietve beszállt a Glasgow-i gyorsvonatba.
 De indulás előtt gyorsabb eszközre bízott egy fontos hirdetést, amit a távíró néhány perc múlva továbbított a Timesnak és a Morning Chronicle-nak:
-„Aki felvilágosítást akar a Glasgow-i háromárbocos Britanniáról és Grant kapitányról, forduljon lord Glenarvanhoz; Malcolm-Castle, Luss, Dumbarton grófság, Skócia.”
-
+"Aki felvilágosítást akar a Glasgow-i háromárbocos Britanniáról és Grant kapitányról, forduljon lord Glenarvanhoz; Malcolm-Castle, Luss, Dumbarton grófság, Skócia."
 III.
 Malcolm-Castle
 Malcolm, a Highland Skót Felföld egyik legregényesebb kastélya, Luss község mellett fekszik, ennek barátságos völgyére tekint alá.
@@ -362,7 +359,7 @@ A bizalmatlanság és a pártoskodás e századában a Glenarvan családot csak 
 Valamennyien Mac Gregor, Mac Farlane, Mac Nabbs, Mac Naughton bérlőinek leszárma­zottjai voltak, tehát valamennyien Stirling és Dumbarton grófságbeliek; derék emberek, szívvel-lélekkel ragaszkodtak gazdájukhoz, néhányan közülük még beszélték az ó-kaledóniai9 gael nyelvet.
 Lord Glenarvan igen gazdag volt; vagyonával sok jó cselekedetet hajtott végre, jósága még bőkezűségét is felülmúlta, mert az előbbi végtelen volt, míg az utóbbinak szükségszerűen megvoltak a határai.
 Luss ura, Malcolm lairdje10 képviselte a grófságot a Lordok Házában.
-Jakobita11 nézetei miatt, no meg mert nem igyekezett a hannoveri uralkodó család kegyeibe férkőzni, az angol államférfiak nem kedvelték, de főleg azt nézték rossz szemmel, hogy akárcsak ősei, erélyesen ellenszegült a „déliek” politikai túlkapásainak.
+Jakobita11 nézetei miatt, no meg mert nem igyekezett a hannoveri uralkodó család kegyeibe férkőzni, az angol államférfiak nem kedvelték, de főleg azt nézték rossz szemmel, hogy akárcsak ősei, erélyesen ellenszegült a "déliek" politikai túlkapásainak.
 Ám lord Edward Glenarvan nem volt se maradi, se korlátolt, se buta; s ha grófsága nyitva is állt a haladás előtt, lélekben skót maradt, és Skócia dicsőségéért versenyzett jachtjaival a Royal Thames Yacht Clubban.
 Edward Glenarvan harminckét éves volt; magas termetű, vonásai kissé szigorúak, tekintete végtelenül gyengéd, egész mivoltát átitatta a highlandi poézis.
 Azt tartották róla, hogy a végletekig derék, vállalkozó szellemű, lovagias, valóságos XIX.
@@ -378,7 +375,7 @@ Hálájánál csak szerelme volt nagyobb férje iránt.
 A bérlők és a személyzet pedig életüket adták volna azért, kit úgy neveztek: jóságos úrnőnk.
 Glenarvan lord és lady Helena boldogan élt Malcolm-Castle-ban, a highlandi csodálatos és zordon természet ölén; sétálgattak a gesztenye- és szikomorfák között a tóparton, ahol fel-felhangzottak a régi idők pibrochai, azaz hősi énekei, a zordon szakadékok mélyén, melyekbe évszázados romok írták Skócia történelmét.
 Hol a nyírfa- vagy fenyőerdőkben kószáltak, a sárgult hangamezőn, máskor a Ben Lomond meredek csúcsait mászták meg, vagy lóháton járták az elhagyatott völgyeket, tanulmányozva, átérezve, csodálva ezt a költői tájat, melyet ma is Rob Roy országának neveznek, ezeket a híres vidékeket, melyeket Walter Scott olyan szépen énekelt meg.
-Este, napnyugtakor, mikor a látóhatáron kigyulladt „Mac Farlane lám­pása”, a Malcolm-kastélyt körülcsipkéző bástyákon kóboroltak, és ott ábrándozva, minden másról megfeledkezve, mintha egyedül lennének a világon, egy leomlott kövön ülve a természet csendjében, a sápadt holdvilágnál, míg az éjszaka lassacskán elnyelte a sötétbe borult hegyek ormát, elmerültek abban a tiszta révületben, bensőséges elragadtatásban, melyet egyedül a szerető szívek ismernek.
+Este, napnyugtakor, mikor a látóhatáron kigyulladt "Mac Farlane lám­pása", a Malcolm-kastélyt körülcsipkéző bástyákon kóboroltak, és ott ábrándozva, minden másról megfeledkezve, mintha egyedül lennének a világon, egy leomlott kövön ülve a természet csendjében, a sápadt holdvilágnál, míg az éjszaka lassacskán elnyelte a sötétbe borult hegyek ormát, elmerültek abban a tiszta révületben, bensőséges elragadtatásban, melyet egyedül a szerető szívek ismernek.
 Így teltek házasságuk első hónapjai.
 Glenarvan lord azonban nem feledkezett meg arról, hogy felesége nagy világjáró lánya; úgy gondolta, hogy lady Helena szíve mélyén ott élnek apjának törekvései, és ebben nem tévedett.
 Megépült a Duncan, abból a célból építették, hogy rajta utazzon Glenarvan lord és felesége a világ legszebb vidékeire, a Földközi-tengeren egészen az Arkhipelagosz szigeteiig.
@@ -614,7 +611,7 @@ Meg sem próbálták.
 Még arról is le kellett mondaniuk, hogy mint egyszerű utas tartson velük, mert akár mint matrózinas, akár mint újonc, avagy matróz, de minden­képpen hasznos akart lenni.
 John Mangles vállalta, hogy bevezeti a tengerészmesterségbe.
 - Jól van - mondta Robert -, de aztán ne kímélje a korbácsot, ha nem jól dolgozom!
-- Egyet se félj, fiacskám - felelte Glenarvan komolyan, s egy szót sem szólt arról, hogy a „kilencfarkú macska”, vagyis a korbács tilos és felesleges a Duncanon.
+- Egyet se félj, fiacskám - felelte Glenarvan komolyan, s egy szót sem szólt arról, hogy a "kilencfarkú macska", vagyis a korbács tilos és felesleges a Duncanon.
 Hogy kiegészítsük az utasok névsorát, meg kell említenünk Mac Nabbs őrnagyot is.
 Az őrnagy ötvenéves, nyugodt, szabályos arcú, békés, jó természetű férfi volt: oda ment, ahová küldték, szerény volt, csendes, szelíd, mindig mindenkivel egyetértett, semmin sem vitatko­zott, nem veszekedett, sohasem ragadtatta el magát, egyforma közönnyel lépkedett a hálószo­bájába vezető lépcsőkön vagy egy szétlőtt sánc meredekén, semmi sem rendítette meg, sem­mi­től sem hagyta zavartatni magát, még az ágyúgolyótól sem, és valószínűleg úgy fog majd meghalni, hogy sohasem volt alkalma haragra lobbanni.
 Ebben a férfiban nemcsak a harc­mezők közönséges és csupán a testi erőnek betudható bátorsága volt meg, hanem ennél sokkal több: az erkölcsi bátorság, azaz a lélek szilárdsága.
@@ -968,7 +965,7 @@ Hány meg hány levelet váltottak abban az időben, mikor William Tuffnel a Tá
 Ó, ő maga vezette be Malte-Brunnél!
 Micsoda találkozás, micsoda öröm, hogy együtt utazhat William Tuffnel lányával!
 Végül engedélyt kért lady Helenától, hogy megcsókolhassa.
-Noha ez kissé „illetlen” volt, lady Helena beleegyezett.
+Noha ez kissé "illetlen" volt, lady Helena beleegyezett.
 VIII.
 Eggyel több derék ember a Duncanon
 Eközben a hajó az észak-afrikai áramlatoktól segítve sebesen haladt az Egyenlítő felé.
@@ -1174,7 +1171,7 @@ De Paganel kitartott állítása mellett.
 - Pedig így van - folytatta.
 - Nem akarom csorbítani Kolumbus érdemeit, de így történt.
 A XV.
-század végén csak az érdekelte az embereket, hogyan könnyíthetnék meg a közlekedést Ázsia felé, hogyan juthatnának el nyugat felé haladva keletre; röviden, hogy megtalálják a leg­rövidebb utat a „fűszerek hazájába”.
+század végén csak az érdekelte az embereket, hogyan könnyíthetnék meg a közlekedést Ázsia felé, hogyan juthatnának el nyugat felé haladva keletre; röviden, hogy megtalálják a leg­rövidebb utat a "fűszerek hazájába".
 Ezt kísérelte meg Kolumbus.
 Négy utat tett meg; elérte Amerikát a cumanái partoknál, Hondurasnál, Mosquitosnál, Nicaraguánál, Veraguánál, Costa-Ricánál és Panamánál, melyeket japán és kínai földeknek vélt, s úgy halt meg, hogy nem is tudott ennek a nagy kontinensnek a létezéséről, melyet még csak nem is róla neveztek el!
 - Lehet, hogy igaza van, kedves Paganel - felelte Glenarvan -, de azért csak meglepő.
@@ -1250,7 +1247,7 @@ Paganel tehát nem látott egyetlen patagont sem, ami útitársai nagy mulatság
 - Egyáltalán nem vagyok benne biztos.
 - Pedig léteznek - mondta lady Helena.
 - Már ebben is kételkedem, asszonyom, mivel nem látok egyet sem.
-- De hát csak nem képzeletbeli lényeknek adták a patagon nevet, mely spanyolul „nagy láb”-at jelent!
+- De hát csak nem képzeletbeli lényeknek adták a patagon nevet, mely spanyolul "nagy láb"-at jelent!
 - Ó, a név, az nem sokat jelent - felelte Paganel, aki hogy felélénkítse a vitát, megmakacsolta magát.
 - Meg aztán azt sem tudjuk, hogyan is hívják őket valójában!
 - Nohát!
@@ -1307,7 +1304,7 @@ Ide, erre a helyre érkezett 1581-ben a spanyol Sarmiento négyszáz kivándorl�
 Itt alapította meg San Felipe városát.
 Kíméletlen hideg tizedelte meg a kolóniát, majd az éhínség ragadta el azokat, akiket a tél megkímélt, és 1587-ben a Cavendish nevű hadihajó egyetlen életben maradottat talált a négyszáz szerencsétlenből, s ez az egyetlen is éhségtől haldokolt a hat éve alapított, de hat évszázadosnak tűnő város romjai közt.
 A Duncan az elhagyatott partok mentén haladt; napfelkeltekor szűk átjárók között hajózott, bükk-, kőris- és nyírfaerdők között, a fák közül magyalfák élénkzöld koronája alkotta lugasok, csúcsok bukkantak elő, közülük emelkedett messze a magasba a Buckland-obeliszk.
-Majd a hajó egyenesen a Saint Nicolas-öbölbe futott, melyet hajdan Bougainville a „Franciák öblé”-nek nevezett; a távolban fókák és bálnák csapata kergetőzött, jól megtermett állatok lehettek, mert négymérföldnyi távolságból is lehetett látni, milyen magasra fröcskölik a vizet.
+Majd a hajó egyenesen a Saint Nicolas-öbölbe futott, melyet hajdan Bougainville a "Franciák öblé"-nek nevezett; a távolban fókák és bálnák csapata kergetőzött, jól megtermett állatok lehettek, mert négymérföldnyi távolságból is lehetett látni, milyen magasra fröcskölik a vizet.
 Végül a Duncan maga mögött hagyta a télről megmaradt jégtáblákkal bezárt Froward-fokot.
 A szoros másik oldalán, a Tűzföld felé, a Sarmiento hegy nyúlt hatezerláb magasba; roppant szikla­tömegét felhőfoszlányok szabdalták, olyan volt, mint valami égi szigetcsoport.
 Valójában a Froward-foknál szakad vége az amerikai szárazföldnek, mert a Horn-fok nem egyéb, mint magányos szikla a tengeren, az ötvenhatodik szélességi foknál.
@@ -1592,9 +1589,9 @@ Mindent összevetve a molouchok érdektelen s meglehetősen barbár nép volt.
 Minden emberi gyengeség mellett volt egy erényük: a függetlenség szeretete.
 - Valóságos spártaiak - mondogatta az esti séta után, vacsora közben Paganel.
 Túlzott a tiszteletre méltó tudós, s még kevésbé értették, mikor hozzátette, hogy francia szíve erősen dobogott, míg Araucóban sétált.
-Mikor az őrnagy ennek a váratlan „dobogásnak” az okát tudakolta, Paganel azt válaszolta, hogy mi sem természetesebb, mivel hajdan egy honfi­társa ült Araucania trónján.
+Mikor az őrnagy ennek a váratlan "dobogásnak" az okát tudakolta, Paganel azt válaszolta, hogy mi sem természetesebb, mivel hajdan egy honfi­társa ült Araucania trónján.
 Az őrnagy megkérte, mondja meg ennek az uralkodónak a nevét.
-Jacques Paganel büszkén nevezte meg a derék de Tonneins urat, a kiváló, kissé túl hosszú szakállú périgueux-i ügyvédet, akire az a sors várt, amiről a trónfosztott királyok finoman úgy beszélnek: „alattvalóik hálátlansága”.
+Jacques Paganel büszkén nevezte meg a derék de Tonneins urat, a kiváló, kissé túl hosszú szakállú périgueux-i ügyvédet, akire az a sors várt, amiről a trónfosztott királyok finoman úgy beszélnek: "alattvalóik hálátlansága".
 Az őrnagy halványan elmosolyodott a hajdani ügyvéd trónfosztásának történetén, mire Paganel nagy komolyan azt válaszolta, hogy alighanem könnyebben válik egy ügyvédből jó király, mint egy királyból jó ügyvéd.
 Mindnyájan jót nevet­tek ezen a megjegyzésen, majd felhörpintettek egy-egy pohárka chichát, I. Oreille-Antoine, Araucania exkirálya egészségére.
 Néhány perccel ezután az utazók ponchóikba burkolózva már az igazak álmát aludták.
@@ -1611,7 +1608,7 @@ Délután négy órakor, harmincöt mérföldes út után letelepedtek a puszta 
 A lekantározott öszvérek szabadon legelésztek a síkság kövér füvében.
 Az alforjákból előkerült a szokásos hús- és rizsadag.
 A földre terített pelionok takaró gyanánt szolgáltak, a recadók meg párnaként, s a csoport valamennyi tagja üdítő álomba merült ezeken a rögtönzött ágyakon, míg a peónok és a catapaz felváltva őrködtek.
-Minthogy az idő kedvező maradt, minthogy az utasok - Robert sem volt kivétel - vala­mennyi­en jó egészségben voltak, és minthogy az út ilyen szerencsésen indult, ki kellett használniuk - mint ahogy a játékos mondja - a „kedvező kártyajárást”.
+Minthogy az idő kedvező maradt, minthogy az utasok - Robert sem volt kivétel - vala­mennyi­en jó egészségben voltak, és minthogy az út ilyen szerencsésen indult, ki kellett használniuk - mint ahogy a játékos mondja - a "kedvező kártyajárást".
 Mindnyájan ezen a véleményen voltak.
 Másnap fokozott irammal folytatták útjukat, minden nehézség nélkül keltek át a sebes folyású Bell folyón, és este, mikor letáboroztak a spanyol fennhatóság alá tartozó és a független Chilét elválasztó Rio Bio partján, Glenarvan újabb harmincöt mérföldnyi megtett utat írhatott az expedíció javára.
 A vidék nem változott.
@@ -1943,13 +1940,13 @@ Minden francia született szakács!
 Öt perc múlva Paganel jókora vadhússzeleteket helyezett az llareta-gyökér parazsára.
 Tíz perc múlva guanakofilé néven társai elé tálalta ezt az étvágygerjesztő húst.
 Senki sem kérette magát, valamennyien jóízűen nekiláttak.
-A földrajztudós nagy megdöbbenésére általános fintor és „pfuj” kiáltás követte az első falatot.
+A földrajztudós nagy megdöbbenésére általános fintor és "pfuj" kiáltás követte az első falatot.
 - Förtelmes!
 - szólt az egyik.
 - Ehetetlen!
 - mondta a másik.
 A szegény tudós kénytelen volt beismerni, hogy ez a rostonsült még a kiéhezettek számára is ehetetlen eledel.
-Tréfálkozni kezdtek a rovására, csúfolták a „fejedelmi étket”, s Paganel, aki jól értette a tréfát, közben azon töprengett, minek tulajdonítható, hogy a valóban ízletes, jó és általánosan nagyra becsült guanakohús ehetetlenné vált az ő szakácsművészete nyomán; aztán hirtelen eszébe ötlött valami.
+Tréfálkozni kezdtek a rovására, csúfolták a "fejedelmi étket", s Paganel, aki jól értette a tréfát, közben azon töprengett, minek tulajdonítható, hogy a valóban ízletes, jó és általánosan nagyra becsült guanakohús ehetetlenné vált az ő szakácsművészete nyomán; aztán hirtelen eszébe ötlött valami.
 - Megvan!
 - kiáltott fel.
 - Az ördögbe is, megvan, rájöttem!
@@ -2117,8 +2114,8 @@ Hallgatózott, egyre remélte, hogy eljut hozzá egy utolsó segélykiáltás.
 Messze merészkedett, magasba, egyedül, fülét a földre tapasztva, fülelve, szívdobogását is visszafojtva kétségbeesett hangon szólongatta Robertet.
 A szegény lord egész éjszaka a hegyekben kóborolt.
 Hol Paganel, hol az őrnagy követte, hogy segítségére legyen a síkos hegygerinceken, a szakadékok szélén, melyekbe oly céltalanul és vigyázatlanul ereszkedett alá.
-Utolsó erőfeszítései is meddőek voltak, s az ezerszer kiáltott szóra: „Robert!
-Robert”, csak a visszhang ismételte a siratott nevet.
+Utolsó erőfeszítései is meddőek voltak, s az ezerszer kiáltott szóra: "Robert!
+Robert", csak a visszhang ismételte a siratott nevet.
 Fölkelt a nap.
 El kellett menniük Glenarvanért a távoli fennsíkokra, kényszeríteniük kellett, hogy visszatérjen a táborba.
 Végtelen volt kétségbeesése.
@@ -2160,7 +2157,7 @@ Leszáll!
 Várjunk!
 Mit remélt Glenarvan?
 Félrebeszélt?
-„Ki tudja?” - mondta.
+"Ki tudja?" - mondta.
 Paganel nem tévedett.
 A kondor­keselyű percről percre felismerhetőbb lett.
 Ez a csodálatos madár, melyet hajdan az inkák istenként tiszteltek, a déli Andok királya.
@@ -2171,7 +2168,7 @@ Gyakran a földtől húsz­mérföldnyi magasban lebeg, vagyis olyan magasságba
 Onnan aztán, a legélesebb szemektől is láthatatlanul, a levegőnek ez a királya végigtekint a földi vidé­keken, s a legkisebb tárgyat is olyan élesen látja, hogy a természettudósok csak álmélkod­nak rajta.
 Mit látott hát meg ez a kondorkeselyű?
 Talán holttestet, Robert Grant tetemét!
-„Ki tudja?” - szólt Glenarvan, s nem tévesztette szem elől a keselyűt.
+"Ki tudja?" - szólt Glenarvan, s nem tévesztette szem elől a keselyűt.
 A hatalmas madár közeledett, hol lebegett, hol pedig a térben szabadon eső tárgyak sebességével hullott alá.
 Nemsokára széles köröket irt le, a földtől alig százölnyire.
 Tisztán lehetett látni.
@@ -2376,7 +2373,7 @@ Számára az volt fontos, hogy marháik, lovaik voltak.
 Thalcave vállalta, hogy megalkuszik velük, s az alku nem is tartott sokáig.
 Hét teljesen fel­szer­számozott kis argentin lóért, százfontnyi charquiért, azaz szárított húsért, néhány mérőnyi37 rizsért meg az ivóvíznek szánt bőrtömlőkért, bor vagy rum híján a bennszülöttek elfogadták a felkínált húsz uncia38 aranypénzt, melynek pontosan ismerték az értékét.
 Glenarvan akart venni egy lovat a patagon számára is, de az megértette vele, hogy felesleges.
-Amikor megkötötték a vásárt, Glenarvan elköszönt - Paganel szavaival élve - „újdonsült szállítóitól”, s nem egészen fél óra alatt vissza is értek a táborba.
+Amikor megkötötték a vásárt, Glenarvan elköszönt - Paganel szavaival élve - "újdonsült szállítóitól", s nem egészen fél óra alatt vissza is értek a táborba.
 Örömkiáltások fogadták, de Glenarvan tudta, hogy ez inkább az élelemnek meg a lovaknak szól.
 Valamennyien jó étvággyal falatozni kezdtek.
 Robert is evett egy keveset, csaknem teljesen visszanyerte erejét.
@@ -2551,7 +2548,7 @@ Szíve, mint a bikáé!
 Bátor ember!
 - Az apám!
 - kiáltott fel Robert Grant, s Paganelhez fordult.
-- Hogy mondják spanyolul, „az én apám”?
+- Hogy mondják spanyolul, "az én apám"?
 - Es mi padre - felelte a tudós.
 Robert megragadta az indián kezét, s halkan így szólt hozzá: - Es mi padre!
 - Su padre!
@@ -2602,7 +2599,7 @@ Az utasok olyan iramra kény­szerítették lovaikat, hogy még aznap este a 69.
 Indiánul Cobu Leubunak nevezik, ami Nagy Folyamot jelent.
 Hosszú útja végén az Atlanti-óceánba ömlik.
 Torkolata táján különös tünemény mutatkozik: a tengerhez közeledve megcsappan a folyó víztömege, talán mert beszívja a talaj, talán mert elpárolog; eddig még nem tudták megállapítani a jelenség okát.
-A Coloradóhoz érve Paganel első dolga az volt, hogy „földrajzi szempontból” megfürödjék a folyó vörös agyag színezte vizében.
+A Coloradóhoz érve Paganel első dolga az volt, hogy "földrajzi szempontból" megfürödjék a folyó vörös agyag színezte vizében.
 Csodálkozva tapasztalta, hogy a víz meglehetősen mély, ezt azzal magyarázta, hogy az első nyári napsütésben fölengedett a hegyek hava.
 A folyó ráadásul túl széles volt, semhogy a lovak keresztülúszhatták volna.
 Szerencsére néhány ölnyivel feljebb fonott sövényhíd vezetett át a túlsó partra; indián szokás szerint bőrkötelek tartották a magasban.
@@ -2654,7 +2651,7 @@ Ezek a maradványok azonban nem kanyargó vonalban hevertek, mintha erejük fogy
 Nem is igen értették, hogyan kerülhetett ekkora csonthalmaz a viszonylag szűk területre.
 Paganel sem értette a többieknél jobban.
 Megkérdezte hát Thalcavét, aki töprengés nélkül megfelelt a kérdésre.
-A földrajztudós „lehetetlen!” felkiáltása meg a patagon határozott fejbólintása ugyancsak felcsigázta társaik kíváncsiságát.
+A földrajztudós "lehetetlen!" felkiáltása meg a patagon határozott fejbólintása ugyancsak felcsigázta társaik kíváncsiságát.
 - Mi ez hát?
 - tudakolták.
 - Égi tűz - felelte a földrajztudós.
@@ -2909,7 +2906,7 @@ Aztán a három lovas nyeregbe szállt.
 - Aztán igyekezzenek, hogy ne kelljen visszajönniük!
 - tette hozzá Paganel.
 A patagon, Glenarvan meg Robert némi szorongással látta, hogy a földrajztudós bölcsességére bízott kis csapat hamarosan eltűnt szemük elől.
-A „desierto de las Salinas”, a sós tavak pusztasága, melyen haladtak, nem más, mint egy agyagos síkság, melyet tíz láb magas satnya fácskák, apró mimózafajták, amit az indiánok curra mammelnek neveznek, meg jumék, azaz cserjeszerű, magas sziksótartalmú fák boríta­nak.
+A "desierto de las Salinas", a sós tavak pusztasága, melyen haladtak, nem más, mint egy agyagos síkság, melyet tíz láb magas satnya fácskák, apró mimózafajták, amit az indiánok curra mammelnek neveznek, meg jumék, azaz cserjeszerű, magas sziksótartalmú fák boríta­nak.
 Itt-ott nagy sótáblák verték vissza meglepő erővel a napsugarakat.
 Könnyen össze lehetett volna cserélni ezeket a barrerókat holmi vad hideg fagyasztotta jégtáblákkal, de a tűző nap nyomban éreztette a valóságot.
 A kopár, kiaszott földnek és a csillogó foltoknak ez az ellentéte sajátos jelleget kölcsönzött a pusztaságnak, szívesen elidőzött rajta a tekintet.
@@ -2990,7 +2987,7 @@ Thalcave megelőzhette volna társait, mert Thauka néhány óra alatt elvihette
 Bizonyosan gondolt is erre, de nyilvánvalóan nem akarta magára hagyni két társát a sivatag közepén, s ezért nehogy lemaradjanak, Thaukát lassúbb járásra kényszerítette.
 Nem volt könnyű dolog lépésre fogni; Thalcave lova ágaskodott, vadul nyerített, s nem annyira az erős kéz, hanem inkább gazdája szavai győzték meg.
 Thalcave valósággal beszél­getett lovával, s ha Thauka nem is válaszolt neki, azért megértette.
-A patagon valószínűleg nyomós érveket használt, mert rövid „vita” után Thauka jobb belátásra tért, s bár harapdálta a zabláját, de engedelmeskedett.
+A patagon valószínűleg nyomós érveket használt, mert rövid "vita" után Thauka jobb belátásra tért, s bár harapdálta a zabláját, de engedelmeskedett.
 Thauka megértette Thalcavét, de Thalcave is megértette Thaukát.
 Az értelmes állat fejlett érzékeivel nedvességet érzett a levegőben; vadul lélegzett, lefetyelt, csattogott a nyelvével, mintha már inná is az üdítő vizet.
 A patagon megértette: a víz már nem lehet messze.
@@ -3009,7 +3006,7 @@ Gazdáik akarva, akaratlan követték őket; megfürödtek, de eszükbe sem juto
 - mondogatta Robert, míg a folyó közepén csillapította szomját.
 - Mérsékeld magad, fiacskám - szólt Glenarvan, de ő sem járt elöl jó példával.
 Csak a gyors kortyolgatás zaja hallatszott.
-Thalcave lassan, kimérten, aprókat kortyolva ivott, de „hosszan, mint a lasszó”, ahogy a patagonok mondják.
+Thalcave lassan, kimérten, aprókat kortyolva ivott, de "hosszan, mint a lasszó", ahogy a patagonok mondják.
 Egyre csak ivott, félő volt, kiissza az egész folyót.
 - Végre!
 - mondta Glenarvan.
@@ -3469,7 +3466,7 @@ Ezrével legeltek ott a gaz­dájuk tüzes billogával megjelölt marhák, birk�
 A hegyek lábáig terjedő, kissé sós talaj kiválóan megfelel az állatoknak, és nagy­szerű takarmányt ad.
 Nem csoda hát, hogy ezt a vidéket választották az estanciák telepítésére.
 Ezeket a birtokokat általában egy majordomus és a helyettese igazgatja; ezer állatonként négy peón áll szolgálatukban.
-Ezek az emberek a bibliai pásztorok életét élik; nyájaik oly nagyok, mint az övéik, talán még a Mezopotámia síkságain legelésző nyájaknál is nagyobbak; de itt nincs családja a pásztornak, s a pampa nagy „estancierói” inkább marhakupecekre hasonlítanak, mint a bibliai idők pátriár­káira.
+Ezek az emberek a bibliai pásztorok életét élik; nyájaik oly nagyok, mint az övéik, talán még a Mezopotámia síkságain legelésző nyájaknál is nagyobbak; de itt nincs családja a pásztornak, s a pampa nagy "estancierói" inkább marhakupecekre hasonlítanak, mint a bibliai idők pátriár­káira.
 Ezt magyarázgatta Paganel a társainak, s ez alkalomból igen érdekes antropológiai42 fejtege­tésekbe kezdett a fajok összehasonlításáról.
 Az őrnagy nem titkolta, hogy még az ő érdeklődé­sét is felkeltette ez az elmefuttatás.
 Paganelnek arra is nyílt alkalma, hogy felhívja társai figyelmét egy, a lapos síkságokon igen gyakori, különös délibábra.
@@ -3568,12 +3565,12 @@ Pepe e dicséret hallatára összecsapta apró sarkait, s fegyverével tökélet
 - mondta az őrmester.
 - Egy napon ezredes, brigadéros!
 Manuel őrmester olyan elragadtatással beszélt, hogy nem akartak vitába szállni vele sem a fegyverforgatás mesterségének felsőbbrendűségéről, sem a harcias ivadékaira váró jövőről.
-Boldog volt, s mint Goethe mondja: „Semmi sem ábrándkép, ami boldoggá tesz bennünket.”
+Boldog volt, s mint Goethe mondja: "Semmi sem ábrándkép, ami boldoggá tesz bennünket."
 Thalcave nagy csodálkozására mindez eltartott egy negyedóráig.
 Az indián nem értette, hogy jöhet ki egyetlen torokból ennyi szó.
 Senki sem szakította félbe a parancsnokot.
 Mivel azonban egy őrmester - még egy francia őrmester is - előbb-utóbb kifogy a szóból, hát Manuel is elhallgatott, s felszólította vendégeit, kövessék otthonába.
-Az utazók beletörődtek, hogy megismerik Ipharaguerre asszonyt, ki „tisztes személyiségnek” látszott; ha ugyan ezt az óvilági szót lehet egy indián asszonnyal kapcsolatban használni.
+Az utazók beletörődtek, hogy megismerik Ipharaguerre asszonyt, ki "tisztes személyiségnek" látszott; ha ugyan ezt az óvilági szót lehet egy indián asszonnyal kapcsolatban használni.
 Majd, mikor eleget tettek minden kívánságának, az őrmester megkérdezte, minek köszönheti látogatásukat.
 Eljött a döntő pillanat, hogy előadják mondanivalójukat.
 Paganel franciául elmesélte neki a pampákon át tett útjuk történetét, végül megkérdezte, miért hagyták el az indiánok a vidéket.
@@ -3587,7 +3584,7 @@ Valóban senki!
 - Igen!
 Polgárháború...
 - Polgárháború?
-- kérdezte Paganel, s akaratlanul is „néger módra” beszélt.
+- kérdezte Paganel, s akaratlanul is "néger módra" beszélt.
 - Igen, a paraguayiak és a Buenos Aires-iak között - felelte az őrmester.
 - És?
 - És az indiánok mind északon, Flores tábornok nyomában.
@@ -3860,7 +3857,7 @@ Tekintetük hiába keresett menedéket.
 Az ég és a víz elvegyült a látóhatáron.
 A veszedelemtől megbokrosodott lovak inukszakadtából rohantak, lovasaik alig tudtak a nyeregben maradni.
 Glenarvan hátra-hátrapillantott.
-„A víz utolér bennünket” - gondolta.
+"A víz utolér bennünket" - gondolta.
 - Anda!
 Anda!
 - kiáltotta Thalcave.
@@ -4206,7 +4203,7 @@ Akárcsak ön, én is tévedtem, akárcsak ön, én is helytelenül értelmeztem
 - Mert ha elfogadja az Ausztrália szót, ugyanakkor el kell fogadnia, hogy ott indiánok vannak, amiről eddig senki sem hallott.
 Paganelt cseppet sem érte váratlanul ez az ellenérv.
 Kétségtelenül számított rá, s elmoso­lyodott.
-- Kedves Glenarvan - mondta -, korai a diadal, hamarosan „két vállra fektetem”, ahogy ezt mi franciák mondjuk.
+- Kedves Glenarvan - mondta -, korai a diadal, hamarosan "két vállra fektetem", ahogy ezt mi franciák mondjuk.
 Soha angolt így még nem vertek meg.
 Ez lesz a bosszú Crécyért és Azincourtért!47
 - Alig várom.
@@ -4244,13 +4241,13 @@ Glenarvan is kezdett tisztán látni, s már-már beadta a derekát.
 Íme, az okmány - mondta Paganel, s elővette az értékes papirost, melyet napok óta tanulmányozott.
 Mielőtt válaszolt volna, a földrajztudós néhány pillanatig néma csendben gondolkozott.
 Ujjával az irat szakadozott sorait követte, s határozott hangon, egyes szavakat külön hang­súlyozva beszélt:
-- A Glasgow-i háromárbocos Britannia 1862. június 7-én... - mondjuk, két vagy három napi, vagy hosszas „agonie”, azaz halálküzdelem után hajótörést szenvedett Ausztrália partjainál.
+- A Glasgow-i háromárbocos Britannia 1862. június 7-én... - mondjuk, két vagy három napi, vagy hosszas "agonie", azaz halálküzdelem után hajótörést szenvedett Ausztrália partjainál.
 Két matróz és Grant kapitány a szárazföld felé igyekeznek, s megpróbálnak partra jutni a kontinensen, vagy: partra szálltak, vagy: partra fognak szállni, ahol kegyetlen bennszülöttek foglyai, vagy: fogságába esnek.
 Ezt az okmányt stb.
 Világos?
 - Világos - felelte Glenarvan.
 - Bár a kontinens szó nem illik Ausztráliára, ami csak egy sziget!
-- Nyugodjon meg, kedves Glenarvan, a legkiválóbb földrajztudósok egyöntetűen „ausztráliai kontinensnek” nevezik ezt a szigetet.
+- Nyugodjon meg, kedves Glenarvan, a legkiválóbb földrajztudósok egyöntetűen "ausztráliai kontinensnek" nevezik ezt a szigetet.
 - Akkor hát, barátaim, csak azt mondhatom, előre, Ausztráliába!
 - kiáltott fel Glenarvan.
 - Az ég legyen velünk!
@@ -4267,7 +4264,7 @@ Nem reményvesztetten térnek vissza a Duncanra, s lady Helenának és Mary Gran
 Délután négy óra volt.
 Este hat órára tervezték a vacsorát.
 Paganel hatalmas lakomával akarta megünnepelni ezt a nagy napot.
-Élelmiszerkészletük azonban igen sovány volt, így hát azt ajánlotta Robertnek, menjenek el vadászni a „közeli erdőbe”.
+Élelmiszerkészletük azonban igen sovány volt, így hát azt ajánlotta Robertnek, menjenek el vadászni a "közeli erdőbe".
 Robert megtapsolta a jó ötletet.
 Fogták Thalcave puskaporos szaruját, megtisztogatták a pisztolyokat, sörétre töltötték őket, s elindultak.
 - Ne menjenek messzire - intette nagy komolyan az őrnagy a két vadászt.
@@ -4284,7 +4281,7 @@ Mikor Glenarvan és az őrnagy visszatértek a tűzhöz, első dolguk az volt, h
 A derék matróz egy tű és fonál segítségével csodálatos halászatba fogott.
 Több tucat mojarrá­nak nevezett apró hal, pompás lakoma ígérete fickándozott összehajtott ponchójában.
 Ekkor a vadászok is leereszkedtek az ombu csúcsáról.
-Paganel fekete fecsketojásokat hozott óvatosan, füzérnyi verebet, melyeket később „kövér pacsirta” néven tálalt fel.
+Paganel fekete fecsketojásokat hozott óvatosan, füzérnyi verebet, melyeket később "kövér pacsirta" néven tálalt fel.
 Robert ügyesen több hilguero nevű apró madarat lőtt; ezek a zöld és sárga tollú jószágok igen keresettek Montevideo piacán.
 Paganel, noha mintegy ötven módját ismerte a tojás elkészítésének, ezúttal beérte azzal, hogy megsütötte őket meleg hamuban.
 A szárított húsból, a kemény tojásból, a nyárson sült mojarrákból, verebekből és a hilguero-pecsenyéből felejthetetlen lakomát csaptak.
@@ -4305,7 +4302,7 @@ Sajnos nincsen vadállat a fán!
 - Sajnálja, hogy nincs vadállat?
 - De még mennyire!
 - De hiszen félni kell tőlük!
-- A „vad” szó tudományos értelemben nem létezik - felelte a tudós.
+- A "vad" szó tudományos értelemben nem létezik - felelte a tudós.
 - Hát azt azért, Paganel, nem hiteti el velem, hogy a vadállatok hasznosak!
 - mondta az őrnagy.
 - Mi hasznuk van?
@@ -4394,8 +4391,8 @@ Elmesélem, ha meghallgatják.
 - Volt egyszer - kezdte Paganel - a bagdadi kalifának, a nagy Harun al Rasidnak egy boldog­talan fia.
 Elment tanácsot kérni egy öreg dervishez.
 A bölcs öreg azt felelte neki, hogy a boldogságot nehéz megtalálni e világban.
-„Hanem azért tudok egy csalhatatlan módszert - mondta -, ennek segítségével megtalálhatod a boldogságot.” „Hogyan?” - kérdezte az ifjú herceg.
-„Öltsd magadra egy boldog ember ingét!” - felelte a dervis.
+"Hanem azért tudok egy csalhatatlan módszert - mondta -, ennek segítségével megtalálhatod a boldogságot." "Hogyan?" - kérdezte az ifjú herceg.
+"Öltsd magadra egy boldog ember ingét!" - felelte a dervis.
 A herceg megcsókolta az öregembert, s a varázseszköz keresésére indult.
 Ment, mendegélt.
 Bejárta a föld valamennyi fővárosát.
@@ -4407,11 +4404,10 @@ Ez sem segített.
 Nagy utat járt be, de nem talált a boldogságra.
 Végül kétségbeesetten, hogy annyi inget hiába öltött magára, egy szép napon nagy bánatosan visszatért apja palotájába.
 Útközben egy vidáman daloló szántóvetővel találkozott, az éppen az ekét tolta.
-„Íme, ez az ember boldog - gondolta magában -, vagy ha nem, a boldogság nem létezik a földön.” Odalépett hozzá.
-„Ember - szólította meg -, boldog vagy?” „Igen” - felelte a másik.
-„Semmit sem kívánsz?” „Semmit.” „Nem cserélnél egy királlyal?” „Nem én!” „Hát akkor add el nekem az ingedet!” „Az ingemet?
-Nincsen nekem ingem!”
-
+"Íme, ez az ember boldog - gondolta magában -, vagy ha nem, a boldogság nem létezik a földön." Odalépett hozzá.
+"Ember - szólította meg -, boldog vagy?" "Igen" - felelte a másik.
+"Semmit sem kívánsz?" "Semmit." "Nem cserélnél egy királlyal?" "Nem én!" "Hát akkor add el nekem az ingedet!" "Az ingemet?
+Nincsen nekem ingem!"
 XXV.
 Tűz és víz között
 Jacques Paganel meséjének nagy sikere volt.
@@ -4422,13 +4418,13 @@ Csak alvással fejezhették be méltóan ezt a mozgalmas napot.
 Az ombu lakóit nemcsak az árvíz viszontagságai fárasztották ki; a rendkívüli hőség is elcsigázta őket.
 Szárnyas lakótársaik máris jó példával jártak elöl; a hilguerok, a pampa csalogányai abbahagyták dallamos trilláikat, s a fa valamennyi madara eltűnt a lombok homályba borult sűrűjében.
 Leghelyesebb volt példájukat követni.
-Mielőtt azonban - Paganel szavai szerint - „fészkükbe tértek volna”, Glenarvan, Robert és a tudós fölmásztak a megfigyelőtoronyba, hogy utoljára még egy pillantást vessenek a vízi­sivatagra.
+Mielőtt azonban - Paganel szavai szerint - "fészkükbe tértek volna", Glenarvan, Robert és a tudós fölmásztak a megfigyelőtoronyba, hogy utoljára még egy pillantást vessenek a vízi­sivatagra.
 Kilenc óra lehetett.
 A nyugati látóhatár csillogó ködében éppen ekkor nyugodott le a nap.
 Az égboltnak ez a fele, egészen a zenitig forró párában úszott.
 A déli félteke ragyogó csillagképeire mintha könnyű fátyol borult volna, csak halványan pislákoltak.
 Azért még kivehetőek voltak, s Paganel, Glenarvan okulására is, felhívta Robert figyelmét erre a sark körüli övezetre, melyben különösen nagy fénnyel tündököltek a csillagok.
-Többek között megmutatta neki a Dél Keresztjét; ezt a négy, részint első, részint második nagyságrendbeli csillagból álló ferde négyzet alakú csillagképet, körülbelül a Déli-sark magasságában; meg a Centaurust, melyben mindössze nyolcezermilliárd mérföldnyire ott ragyog a Földhöz legköze­lebb álló csillag; a Magellán-felhőket, ezt a két hatalmas ködfoltot, melyből a nagyobbik kétszer akkora területet borít be, mint a Hold látható felülete; végül azt a „fekete lyukat”, melyben mintha egyetlen csillag sem volna.
+Többek között megmutatta neki a Dél Keresztjét; ezt a négy, részint első, részint második nagyságrendbeli csillagból álló ferde négyzet alakú csillagképet, körülbelül a Déli-sark magasságában; meg a Centaurust, melyben mindössze nyolcezermilliárd mérföldnyire ott ragyog a Földhöz legköze­lebb álló csillag; a Magellán-felhőket, ezt a két hatalmas ködfoltot, melyből a nagyobbik kétszer akkora területet borít be, mint a Hold látható felülete; végül azt a "fekete lyukat", melyben mintha egyetlen csillag sem volna.
 A tudós nagy bánatára, a mindkét féltekéről látható Orion még nem ragyogott kivehetően, de Paganel azért elmagyarázta két tanítványának a patagóniai kozmográfia51 egyik jellegzetes­ségét.
 A költői indiánok szemében az Orion nem egyéb, mint az égi mezőket járó vadász keze hajította hatalmas lasszó meg három bóla.
 A víztükörben, mint egy második égbolton tükröződő csillagképek lebilincselő látványt nyújtottak.
@@ -4479,10 +4475,10 @@ Paganel órájához közelítette a rovart, és fényénél láthatta: este tíz
 Glenarvan odament az őrnagyhoz meg a két matrózhoz, s tanácsokkal látta el őket az éjszakára.
 Heves viharra számíthattak.
 Az első mennydörgések után kétségtelenül feltámad a szél, s az ombut erősen megrázza majd.
-Glenarvan valamennyiüket felszólította, kössék magukat jó erősen a „fészkükhöz”.
+Glenarvan valamennyiüket felszólította, kössék magukat jó erősen a "fészkükhöz".
 Ha az égből eredő esőt nem is kerülhetik el, óvakodniuk kell a földön elterülő víztől, nehogy belepottyanjanak a fa törzsén megtörő vad árba.
 Jó éjszakát kívántak egymásnak, azonban nem sok reményük volt arra, hogy kívánságuknak foganatja lesz.
-Aztán valamennyien fölkapaszkodtak „légi ágyaikba”, ponchójukba burko­lóztak, s várták az álom jöttét.
+Aztán valamennyien fölkapaszkodtak "légi ágyaikba", ponchójukba burko­lóztak, s várták az álom jöttét.
 A hatalmas természeti jelenségek közeledte azonban bizonytalan nyugtalanságot kelt vala­mennyi érző szívben; ez ellen még a legerősebb lelkek sem tudnak küzdeni.
 Az ombu nyug­talan, szorongó lakói még le sem hunyták a szemüket, az első mennydörgés mindnyájukat ébren találta.
 Este tizenegy óra tájt távoli morajlást hallottak.
@@ -4625,7 +4621,7 @@ Túlságosan délre kerültek az estanciáktól és a saladeróktól, hogysem k�
 De mindössze negyvenmérföldnyi útról volt szó, és Thauka nyilván hajlandó lesz arra, hogy időnként hátára vegyen egy vagy akár két fáradt gyalogost.
 Harminchat óra alatt elérhetik az Atlanti-óceán partjait.
 Eljött az indulás pillanata; a vezető és társai maguk mögött hagyták a még víz borította mélyföldet, s magasabban fekvő síkságokon haladtak.
-Az argentin vidék ismét fölöltötte egyhangú képét, mindössze néhány európai kéz ültette facsoport magaslott ki a legelőkből, egyébként éppoly ritkán, mint a Sierra Tandil és a Sierra Tapalquem környékén; a „bennszü­lött fák” csak a hatalmas prérik szegélyéig meg a Corrientes-fok tájékára merészkedtek.
+Az argentin vidék ismét fölöltötte egyhangú képét, mindössze néhány európai kéz ültette facsoport magaslott ki a legelőkből, egyébként éppoly ritkán, mint a Sierra Tandil és a Sierra Tapalquem környékén; a "bennszü­lött fák" csak a hatalmas prérik szegélyéig meg a Corrientes-fok tájékára merészkedtek.
 Így telt el ez a nap.
 Másnap tizenöt mérföldnyivel a partok előtt már megérezték az óceán közelségét.
 A magasra nőtt füvet a virazon nevű furcsa szél döntötte meg, mely rendesen a nap vagy az éjszaka második felében fúj.
@@ -4665,7 +4661,7 @@ Egyedül Glenarvan virrasztott.
 A szél továbbra is erősen fújt, s az óceánon még látszott az elmúlt vihar nyoma.
 A torlódó hullámok mennydörgésszerű robajjal törtek meg a homokzátonyokon.
 Glenarvan nem tudott belenyugodni, hogy ilyen közel tudja a Duncant.
-Fel 
+Fel
 sem tételezte, hogy a hajó nem ért oda a megbeszélt találkozóra.
 Glenarvan október 14-én hagyta el a Talcahuano-öblöt, s november 12-én ért az Atlanti-óceán partjára.
 Ez alatt a harminc nap alatt, míg ők átkeltek Chilén, a Kordillerákon, a pampán, az argentin síkságon, a Duncannak volt ideje megkerülni a Horn-fokot, s eljuthatott a túlsó partra.
@@ -4677,9 +4673,9 @@ Malcolm-Castle lairdje érezte, hogy a sötétségben ott vannak mindazok, akik 
 A hullámok csillámló cseppjei borította kihalt parton bolyongott.
 Figyelt, hallgatózott.
 Néha úgy vélte, valami bizonytalan fényt lát a tengeren.
-„Nem tévedek - gondolta.
+"Nem tévedek - gondolta.
 - Hajó fényét láttam, a Duncanét!
-Ó, miért is nem tudja átjárni pillantásom a sötétséget!”
+Ó, miért is nem tudja átjárni pillantásom a sötétséget!"
 Ekkor eszébe jutott valami.
 Paganel azt állította, hogy nüktalop, vagyis hogy lát a sötétben.
 Indult, hogy felébressze Paganelt.
@@ -4694,7 +4690,7 @@ Jöjjön, szükségem van a szemére.
 - ámult Paganel, s közben éppen dörzsölte.
 - Igen, a szemére, hogy meglássa ebben a homályban a Duncant.
 Jöjjön!
-„Az ördögbe is a nüktalopiával” - gondolta Paganel, s ugyanakkor boldog volt, hogy Glenarvan hasznára lehet.
+"Az ördögbe is a nüktalopiával" - gondolta Paganel, s ugyanakkor boldog volt, hogy Glenarvan hasznára lehet.
 Felállt, elgémberedett tagjait rázogatva, s az ébredő emberek szokása szerint dörmögve követte barátját a partra.
 Glenarvan megkérte, nézze meg jól a tenger sötét látóhatárát.
 Paganel néhány percig lelkiismeretesen így is tett.
@@ -4804,7 +4800,6 @@ Egy óra múlva Robert elsőnek ugrott a Duncan fedélzetére, s Mary Grant nyak
 Így ért véget ez a Dél-Amerikán át nyílegyenesen haladó út.
 Sem hegyek, sem folyók nem téríthették el útjukból e rendíthetetlen utazókat, s ha emberi gonoszsággal nem is kellett megküzdeniük, a gyakran rájuk támadó természeti erők nehéz próbára tették rettenthetetlen bátorságukat.
 Második rész
-
 I. Ismét a hajón
 A viszontlátás első perceit zavartalan boldogságban töltötték.
 Glenarvan lord nem akarta, hogy a kutatóút eredménytelensége lehűtse barátai örömét, s ezért első szavai ezek voltak:
@@ -4857,10 +4852,10 @@ A gépésznek parancsot adtak, hogy tartsa állandó gőz alatt a gépet, hogy a
 A frissen borotvált őrnagy meg a magukat sebtében rendbe szedett utasok helyet foglaltak az asztal körül.
 Olbinett reggelije nagy sikert aratott.
 Kiválónak, még a pampabeli lakomáknál is jobbnak találták.
-Paganel valamennyi fogásból kétszer vett, „merő szórakozottságból”, mint mondta.
+Paganel valamennyi fogásból kétszer vett, "merő szórakozottságból", mint mondta.
 Ez a szerencsétlen szó arra indította lady Glenarvant, hogy megkérdezze, vajon a szeretetre méltó francia néha visszaesett-e szokásos bűnébe.
 Az őrnagy és Glenarvan lord mosolyogva összenézett.
-Paganel meg őszinte nevetésben tört ki, s „becsületszavára” ígérte, hogy ezentúl egyetlenegyszer sem lesz szórakozott az úton.
+Paganel meg őszinte nevetésben tört ki, s "becsületszavára" ígérte, hogy ezentúl egyetlenegyszer sem lesz szórakozott az úton.
 Aztán igen mulatságosan előadta, miféle kellemetlenség származott abból, hogy oly mélyrehatóan tanulmányozta Camões művét.
 - Végül is - tette hozzá befejezésül -, minden rossznak megvan a jó oldala, nem sajnálom a tévedésemet.
 - És miért nem, tisztelt barátom?
@@ -4872,7 +4867,7 @@ Két nyelven beszélek egy helyett.
 Megtapsolták Paganelt, az meg csak rendíthetetlenül evett.
 Egyszerre evett és beszélt.
 Egy valami azonban - amit Glenarvan nyomban észrevett - elkerülte a figyelmét; az, hogy John Mangles milyen megkülönböztetett figyelemmel bánik asztalszomszédjával, Mary Granttal.
-Lady Helena könnyed biccentéssel adta férje tudtára, hogy valóban „így állnak a dolgok”.
+Lady Helena könnyed biccentéssel adta férje tudtára, hogy valóban "így állnak a dolgok".
 Glenarvan meleg rokonszenvvel nézte a két fiatalt, s nyomban meg is szólította - persze nem ez ügyben - John Manglest.
 - Hát az út hogyan zajlott le, John?
 - kérdezte.
@@ -4885,7 +4880,7 @@ Glenarvan meleg rokonszenvvel nézte a két fiatalt, s nyomban meg is szólítot
 - mordult rá az őrnagy.
 - Önző!
 Csak azért adja ezt a tanácsot, hogy aztán szerezhessen a kötélből egy darabot!
-- Nézze, kedves Paganel - mondta Glenarvan -, az ember, ha csak a „mindenütt jelenvalóság” adományával nincsen megáldva, nem lehet egyszerre több helyen.
+- Nézze, kedves Paganel - mondta Glenarvan -, az ember, ha csak a "mindenütt jelenvalóság" adományával nincsen megáldva, nem lehet egyszerre több helyen.
 Minthogy ön a pampákon utazott, nem kerülhette meg ugyanakkor a Horn-fokot is!
 - Azért csak sajnálom!
 - vágott vissza a tudós.
@@ -5096,7 +5091,7 @@ Megművelt földet különben csak a szigetnek ezen a részén láthattak, másh
 Az utazók megvizsgálták e lávából keletkezett sziklákat, majd a síkság felé vették útjukat; számtalan, a hegycsúcs örök hava táplálta forrás csobogott itt is, ott is, zöld bokrok virítottak, csaknem annyi veréb ült rajtuk, mint virág; csak a tusseh, a húszlábnyi magas, óriási arundián emelkedett ki a zöldellő mezőségből; a ritka, de buján tenyésző növényzetet sűrű indákat hajtó, tüskés magvú bokrok, hatalmas, gubancos bozótok, cserjeszerű, igen szívós növények, a levegőt balzsamos illatukkal betöltő acerinák meg különféle mohák, vadzellerfélék és páfrá­nyok alkották.
 Érezhető volt, hogy örök tavasz gyakorolja jótékony hatását ezen a kiváltságos szigeten.
 Paganel a szokásos hévvel azon erősködött, hogy ez a sziget a híres Ogügia58.
-Azt ajánlotta lady Glenarvannak, keressen magának egy barlangot, vegye át Kalüpszó helyét a szigeten, s ő maga nem kíván egyebet, mint hogy a „szolgálattevő nimfák egyike” lehessen.
+Azt ajánlotta lady Glenarvannak, keressen magának egy barlangot, vegye át Kalüpszó helyét a szigeten, s ő maga nem kíván egyebet, mint hogy a "szolgálattevő nimfák egyike" lehessen.
 Így beszélgetve, ámuldozva tértek vissza alkonyatkor a hajóra.
 A falu körül marhacsordák, birkanyájak legeltek, s a negyven évvel ezelőtt meghonosított búza- és kukoricamezők, konyhakerti növények dús termésükkel még a főváros utcáira is benyomultak.
 Mikor Glenarvan lord visszatért a hajóra, a Duncan bárkái éppen megérkeztek.
@@ -5104,7 +5099,7 @@ Néhány óra alatt megkerülték a szigetet.
 Útjukon azonban nem akadtak a Britannia nyomára.
 A sziget körülhajózása tehát csak annyit eredményezett, hogy kutatóútjuk tervéből véglegesen kitörölhették a Tristan-szigetet.
 A Duncan tehát elhagyhatta ezt az afrikai szigetcsoportot, s folytathatta útját keletnek.
-Csak azért nem indultak el még aznap este, mert Glenarvan engedélyt adott a legénységnek, hogy vadásszanak a Falmouth-öbölben nyüzsgő „tengeri borjúnak, oroszlánnak, medvének és tengeri elefántnak” nevezett fókákra.
+Csak azért nem indultak el még aznap este, mert Glenarvan engedélyt adott a legénységnek, hogy vadásszanak a Falmouth-öbölben nyüzsgő "tengeri borjúnak, oroszlánnak, medvének és tengeri elefántnak" nevezett fókákra.
 Hajdanában igazi bálnák is szívesen keresték fel a sziget körüli vizet, de aztán annyi vadász üldözte, szigonyozta őket, hogy nem sok maradt belőlük.
 A fókák azonban még mindig csapatostul tanyáztak a parton.
 A jacht legénysége elhatározta hát, hogy egész éjjel vadászni fognak, másnap meg bőséges olajkészletet raktároznak el.
@@ -5119,7 +5114,7 @@ Ezek a ritkán látogatott szigetek mindaddig lakatlanok maradtak, míg 1811-ben
 Két társával januárban partra szállt, s hősiesen nekilátott a telepesmunkának.
 A Jóreménység foka angol kormányzója meg­tudta, hogy boldogulnak, így felajánlotta nekik Anglia védnökségét.
 Jonathan el is fogadta, s kunyhójára kitűzte az angol lobogót.
-Úgy mondják, békésen uralkodott „népén”, egy öreg olaszon meg egy portugál félvéren, míg egy napon, miközben birodalma partvidékét derítette fel, vízbe fulladt vagy vízbe fojtották, nem lehet pontosan tudni.
+Úgy mondják, békésen uralkodott "népén", egy öreg olaszon meg egy portugál félvéren, míg egy napon, miközben birodalma partvidékét derítette fel, vízbe fulladt vagy vízbe fojtották, nem lehet pontosan tudni.
 Eljött 1816.
 Napóleont száműzték a Szent Ilona-szigetre, s hogy biztonságosabban őrizhessék, Anglia két helyőrséget telepített a környékre: egyet Ascension szigetére, a másikat Tristan da Cunhára.
 A tristani helyőrség egy fokföldi tüzérszázadból és egy hottentotta gyalogosszakaszból állt.
@@ -5251,15 +5246,15 @@ Az Amsterdam-szigettől délre fekvő Szent Pál-sziget lakatlan hely, melyet eg
 Az Amsterdam-szigetnek meg, mely felé a dereglye a Duncan utasait vitte, éppenséggel tizenkét mérföld lehet a kerülete.
 Néhány önkéntes száműzött lakja, akik beletörődtek ebbe a sivár életmódba.
 Annak a halásztelepnek az őrei ezek az emberek, mely, akárcsak maga a sziget, egy bizonyos Otovan úr, egy Réunion-szigeti kereskedő birtoka.
-Ez az európai nagyhatalmak által még el nem ismert uralkodó hetvenöt-nyolcvanezer franknyi magánjövedelmet, „civillistát”61 élvez a cheilodactylus, helyesebben a tőkehal halászásának, besózásának és szállításának jövedelméből.
+Ez az európai nagyhatalmak által még el nem ismert uralkodó hetvenöt-nyolcvanezer franknyi magánjövedelmet, "civillistát"61 élvez a cheilodactylus, helyesebben a tőkehal halászásának, besózásának és szállításának jövedelméből.
 Az Amsterdam-szigetnek egyébként az a sors jutott, hogy francia legyen.
-Először, az „első lakó” jogán Camin, a Bourbon-szigeti Saint-Denis-be való hajótulajdonos birtoka volt, majd valami nemzetközi szerződés alapján egy lengyel kezére jutott, aki madagaszkári rabszol­gáival műveltette meg.
+Először, az "első lakó" jogán Camin, a Bourbon-szigeti Saint-Denis-be való hajótulajdonos birtoka volt, majd valami nemzetközi szerződés alapján egy lengyel kezére jutott, aki madagaszkári rabszol­gáival műveltette meg.
 Ahol lengyel van, ott van francia is, így a lengyel szigetből ismét francia sziget lett Otovan úr kezén.
 Mikor 1864. december 6-án a Duncan kikötött az Amsterdam-sziget partján, a szigetnek mindössze három lakosa volt, egy francia meg két mulatt; mindhárman a szigettulajdonos kereskedő szolgálatában állottak.
 Így tehát Paganel kezet szoríthatott egy honfitársával, a tiszteletre méltó agg Viot úrral.
 Ez a bölcs öreg igen udvariasan fogadta a sziget látogatóit.
 Boldog nap volt ez számára, hogy ilyen kedves idegeneket láthat vendégül.
-A Szent Péter-szigetet csak fókavadászok s nagy ritkán bálnavadászok látogatják, valamennyien igen durva népek, akik a „tengeri kutyáktól” nem sok tisztességtudást tanulhattak.
+A Szent Péter-szigetet csak fókavadászok s nagy ritkán bálnavadászok látogatják, valamennyien igen durva népek, akik a "tengeri kutyáktól" nem sok tisztességtudást tanulhattak.
 Viot úr bemutatta alattvalóit, a két mulattot; a sziget belsejében tanyázó néhány vaddisznóval meg az együgyű pingvinekkel ők hárman alkották a sziget lakosságát.
 A három szigetlakó háza egy hegyomlás formálta, délnyugatra fekvő természetes kikötő mélyében épült.
 A Szent Péter-sziget még jóval I. Otovan uralkodása előtt hajótörötteknek szolgált menedékül.
@@ -5279,7 +5274,7 @@ Ez a történet különben ugyanúgy kezdődik és úgy is fejeződik be, mint a
 Péron kapitány itt-tartózkodását azonban véres dráma teszi emlékezetessé, mely meglepően hasonlít azokra a képzeletbeli eseményekre, melyek visszatértekor Daniel Defoe hősére, Robinsonra várnak a szigetén.
 Péron kapitány négy matrózzal szállt partra, két angollal és két franciával.
 Az volt a feladatuk, hogy tizenöt hónapon át a tengeri oroszlánokra vadásszanak.
-A vadászat sikeres volt, de mikor eltelt a tizenöt hónap, s a hajó csak nem jött értük, mikor élelmiszerük lassacskán kifogyott, feszültté vált a „nemzetközi helyzet”.
+A vadászat sikeres volt, de mikor eltelt a tizenöt hónap, s a hajó csak nem jött értük, mikor élelmiszerük lassacskán kifogyott, feszültté vált a "nemzetközi helyzet".
 A két angol fellázadt Péron kapitány ellen, s csak azért nem pusztult el kezük között, mert honfitársai segítségére siettek.
 Ettől kezdve a két ellen­séges tábor éjjel-nappal kémlelte egymást, fegyverben állt, hol az egyik győzött, hol a másik, így éltek örök rettegésben, nyomorban.
 Az egyik párt kétségtelenül kiirtotta volna a másikat, ha egy angol hajó nem viszi haza a szerencsétleneket, akiket az Indiai-óceán szikláján így pártokra szakított a nemzetek közötti kicsinyes gyűlölködés.
@@ -5395,7 +5390,7 @@ Ugye, barátaim?
 - Ilyen nagy?
 - ámult az őrnagy.
 - Igen, Mac Nabbs, yardnyi pontossággal.
-Elhiszi-e, hogy egy ekkora ország jogosan viseli az iratban álló „földrész” nevet?
+Elhiszi-e, hogy egy ekkora ország jogosan viseli az iratban álló "földrész" nevet?
 - Igaza van, Paganel.
 - Még azt is hozzáteszem, hogy nemigen emlékeznek meg olyan utazóról, aki elveszett volna e hatalmas területen.
 Azt hiszem, egyedül Leichardt sorsa ismeretlen, de nem sokkal el­utazásom előtt a Földrajzi Társulatban úgy hallottam, hogy Mac Intyre valószínűleg a nyomára bukkant.
@@ -5574,7 +5569,7 @@ Rossz tréfa az egész!
 - Valóban nem ismerte ezt a történetet?
 - Sosem hallottam.
 De tiltakozom!
-Az angolok különben is „békaevőknek” neveznek minket!
+Az angolok különben is "békaevőknek" neveznek minket!
 Márpedig amitől fél az ember, azt nem eszi meg!
 - Ezt senki sem állítja, Paganel - felelte az őrnagy szerényen mosolyogva.
 Így történt, hogy a nagyszerű Purdey Moore et Dickson karabély Mac Nabbs őrnagy birtoká­ban maradt.
@@ -5697,11 +5692,11 @@ Glenarvan megértette, neki kell jó példát mutatnia, engedelmeskednie.
 Három társával együtt elhagyta a fedélzetet, csatlakozott a két nőhöz, akik aggódva várták az elemekkel vívott küzdelem kimenetelét.
 - Erélyes ember az én derék Johnom - mondta Glenarvan a társalgóba érve.
 - Igen - felelte Paganel -, az önök nagy Shakespeare-jének kormányosára emlékeztet engem, aki a Vihar című drámában így kiáltott a hajóján utazó királyra:
-„Menjenek innen!
+"Menjenek innen!
 Nem hallják, hogy bőgnek a szelek: mit törődnek ezek a király nevével?
 Csend!
 A kabinba!
-Ne zavarjanak!”64
+Ne zavarjanak!"64
 John Mangles eközben egy pillanatot sem veszített, mindent megtett, hogy kimentse a hajót a veszélyes helyzetből, melybe a hajócsavar sérülése miatt került.
 Hogy minél kevésbé térjenek el az eredeti útvonaltól, elhatározta, lelassítja a hajó menetét.
 Nem eresztette le tehát a vitor­lá­kat, hanem rézsút fordította, hogy ne dagassza őket a szél.
@@ -5877,7 +5872,7 @@ Paganel Patagóniában érvényes feltételezése nem volt érvényes Ausztráli
 Paganel ezt be is ismerte, mikor Mac Nabbs szóba hozta a kérdést.
 Nyilvánvaló volt tehát, hogy az iratban talált adatok csakis a hajótörés helyére vonatkozhatnak, következésképpen a palackot ott dobták a tengerbe, ahol a Britanniát a szerencsétlenség érte, vagyis Ausztrália nyugati partján.
 Azért az iratnak ez a végleges magyarázata, mint Glenarvan igen helyesen megjegyezte, nem zárja ki azt a feltételezést, hogy Grant kapitány fogságba esett.
-Erre az iratban is tesz célzást, s nem szabad megfeledkezni e szavakról: „ahol kegyetlen bennszülöttek fogságába esnek...” Ha azonban foglyok, akkor semmi értelme, hogy csak a 37. szélességi fokon keressék őket, hiszen bárhol másutt is lehetnek.
+Erre az iratban is tesz célzást, s nem szabad megfeledkezni e szavakról: "ahol kegyetlen bennszülöttek fogságába esnek..." Ha azonban foglyok, akkor semmi értelme, hogy csak a 37. szélességi fokon keressék őket, hiszen bárhol másutt is lehetnek.
 Ezt a kérdést hosszan megvitatták, s egyszer s mindenkorra így döntötték el: ha a Bernoulli-foknál nem találnak a Britannia nyomára, akkor Glenarvan nem tehet egyebet, mint hogy visszafordul Európába.
 Hasztalanul kutatott, de bátran, lelkiismeretesen teljesítette vállalt kötelességét.
 Mindez nagyon elszomorította a jacht utasait.
@@ -5965,7 +5960,7 @@ Az ír paraszt földbirtokossá vált, és noha még csak két éve gazdálkodot
 Nem volt többé az európaiak rab­szol­gája: önmaga ura lett, független ember a világ legszabadabb országában.
 Történetének hallatára a vendégek őszintén, szívből gratuláltak az ír telepesnek.
 Paddy O’Moore nyilvánvalóan bizalomért bizalmat várt cserébe, de nem erőszakolta a szót.
-Azok közé a tapintatos emberek közé tartozott, akik így gondolkoznak: „Íme, én ez vagyok, de tőletek nem kérdezem, kik vagytok.” Glenarvan szívesen beszélt volna a Bernoulli-foknál horgonyzó Duncanról, fáradhatatlan kitartással folytatott kutatásaikról.
+Azok közé a tapintatos emberek közé tartozott, akik így gondolkoznak: "Íme, én ez vagyok, de tőletek nem kérdezem, kik vagytok." Glenarvan szívesen beszélt volna a Bernoulli-foknál horgonyzó Duncanról, fáradhatatlan kitartással folytatott kutatásaikról.
 Nem szerette azonban a hosszú bevezetőket, így hát először a Britannia hajótörése felől kérdezősködött.
 Az ír válasza nem volt kedvező.
 Sohasem hallott a Britanniáról.
@@ -6149,7 +6144,7 @@ Ismertem hajótörésének és fogságának történetét.
 Tisztességes, teljes bizalomra méltó ember.
 Glenarvan válaszolni akart, hogy ő egy percig sem kételkedett Ayrton szavahihetőségében, mikor a matróz visszatért, és megmutatta szabályos matrózkönyvét.
 Az okmányt a Britannia tulajdonosa és Grant kapitány írta alá; Mary azonnal felismerte apja betűit.
-A papíron ez állt: „Tom Ayrton, első osztályú matróz, fertálymesteri minőségben a glasgow-i háromárbocos Britanniára szegődött.” Többé semmi kétség sem férhetett Ayrton személyazonosságához, mert nehezen lett volna elképzelhető, hogy a kezében levő irat nem az ő tulajdona.
+A papíron ez állt: "Tom Ayrton, első osztályú matróz, fertálymesteri minőségben a glasgow-i háromárbocos Britanniára szegődött." Többé semmi kétség sem férhetett Ayrton személyazonosságához, mert nehezen lett volna elképzelhető, hogy a kezében levő irat nem az ő tulajdona.
 - Most pedig - szólt Glenarvan - valamennyiük tanácsát kérem, s azonnal megbeszéljük, mi a teendő.
 Az ön véleménye, Ayrton, kiváltképpen becses, és igen hálás lennék, ha közölné velünk.
 Ayrton néhány pillanatig töprengett, majd így válaszolt:
@@ -6441,8 +6436,8 @@ Az utasok és a lovak egyaránt sokat szenvedtek a tolakodó kétszárnyúaktól
 Paganel nem állta meg szitkozódás nélkül, az ördögbe kívánta az ádáz szúnyogokat, melyek ugyancsak tolakodóan bökdösték hosszú testét.
 Estefelé néhány akácsövény vidította fel a tájat; itt-ott fehér gumifacsoportokat, messzebb friss keréknyomot pillantottak meg, majd európai eredetű fákat; olaj- és citromfákat, zöld tölgyeket, végül jókarban levő fakerítéseket.
 Nyolc óra tájt az Ayrton ösztökélésére gyor­sabban lépkedő ökrök elérték a Red-Gum állomást.
-„Állomás” névvel azokat a telepeket illetik a szárazföld belsejében, ahol Ausztrália legfőbb kincse, a szarvasmarha tenyészik.
-Az állattenyésztőket squattereknek, azaz „guggolók”-nak nevezik.
+"Állomás" névvel azokat a telepeket illetik a szárazföld belsejében, ahol Ausztrália legfőbb kincse, a szarvasmarha tenyészik.
+Az állattenyésztőket squattereknek, azaz "guggolók"-nak nevezik.
 A hatalmas területeken a vándorlásba belefáradt telepesnek valóban az az első dolga, hogy a földre kuporodjék.
 Red-Gum állomás elég jelentéktelen telep volt.
 Glenarvan mégis őszinte vendégszeretetre talált.
@@ -6509,7 +6504,7 @@ Nos, én azt mondom, ismétlem, állítom, hogy ennél különösebb vidék ninc
 Képzelődése, jellege, termékei, éghajlata, sőt még az is, ahogy egyszer majd megsemmisül, bámulatba ejtette, bámulatba ejti, és bámulatba fogja ejteni a világ vala­mennyi tudósát!
 Képzeljenek el, barátaim, egy kontinenst, melynek eredetileg partjai emel­kedtek ki roppant gyűrűként a habokból, melynek középső része talán egy félig elpárolgott beltengert zár magába, melynek folyói napról napra apadnak, ahol a nedvesség a levegőben és a talajban egyaránt ismeretlen, ahol a fák évente kérgüket hullatják le leveleik helyett, ahol a falevelek nem lapjukkal, hanem élükkel fordulnak a napnak, és nem vetnek árnyékot, ahol a fa gyakran eléghetetlen, ahol a kövek elolvadnak az esőben, ahol alacsonyak az erdők, és hatalmasra nő a fű, ahol különös állatok élnek, ahol a négylábú állatoknak csőre van, mint a hangyászsünnek meg a kacsacsőrű állatnak, melyek számára a természettudósoknak meg kellett alkotniuk a csőrös emlősök rendjét; ahol a kenguru szökdécsel egyenlőtlen hosszúságú lábain, ahol a birkáknak disznófeje van, ahol a róka fáról fára száll, ahol fekete a hattyú, ahol fészket rak a patkány, ahol a bower bird, a lugasrakó madár valóságos fogadótermekben látja vendégül szárnyas barátait, ahol a madarak minden emberi képzeletet felülmúlóan sokféle­képpen énekelnek, s igen sok ügyességről tesznek tanúságot: az egyik úgy ketyeg, mint az óra, a másik úgy csattog, mint az ostor, a harmadik a köszörű hangját utánozza, a negyedik mint ingaóra veri a másodperceket; ahol az egyik kacag napfelkeltekor, a másik meg sír napnyugtakor!
 Ó, furcsa, érthetetlen vidék; ha van önmagában ellentmondó, természetellenes föld, úgy hát ez az!
-Jogosan mondta a természettudós Grimard: „Íme, Ausztrália, melynek létezése az egyetemes törvények paródiája, vagy inkább a világ többi részeinek a képébe vágott kihívás!”
+Jogosan mondta a természettudós Grimard: "Íme, Ausztrália, melynek létezése az egyetemes törvények paródiája, vagy inkább a világ többi részeinek a képébe vágott kihívás!"
 Paganel villámgyorsan pergő szóáradatának mintha sohasem akart volna vége szakadni.
 A Földrajzi Társaság ékesszóló titkára immár nem volt ura önmagának.
 Csak beszélt, vadul hadonászott, villájával asztalszomszédjai testi épségét veszélyeztette.
@@ -6693,7 +6688,7 @@ Paganel éppen erről beszélt Robertnek.
 - Értem...
 - És a déli vidékek nyara e közelségből következően melegebb, mint az északiaké.
 - Valóban, Paganel úr.
-- Tehát mikor azt mondjuk, hogy a Nap „télen” van közelebb a Földhöz, akkor ez csak a mi számunkra, az északi félteke lakói számára érvényes.
+- Tehát mikor azt mondjuk, hogy a Nap "télen" van közelebb a Földhöz, akkor ez csak a mi számunkra, az északi félteke lakói számára érvényes.
 - Erre nem gondoltam - felelte Robert.
 - Hát ezentúl ne felejtsd el, fiacskám.
 Robert szívesen vette a kis kozmográfiai oktatást; végül még azt is megtudta, hogy a Victoria tartomány átlagos hőmérséklete 74 Fahrenheit-fok, azaz 23 Celsius-fok.
@@ -6789,8 +6784,8 @@ Január 12-én néhány homokkő domb bukkant fel északon; köztük a Forbes he
 Ott már igen megnehezült az útjuk.
 Alig haladtak.
 Az állatok nem akartak továbbmenni.
-„Egyre csak gránitsziklák!
-A tevék izzadnak a félelemtől” - írta Burke az útinaplójában.
+"Egyre csak gránitsziklák!
+A tevék izzadnak a félelemtől" - írta Burke az útinaplójában.
 A kutatók azonban nagy erőfeszítések árán mégis eljutottak a Turner folyó partjára, majd a Flinders felső folyásához; ez a folyó, melyet 1841-ben Stokes pillantott meg először, pálmaligetek és eukaliptuszfák között jut el a Carpentarie-öbölbe.
 Egymást követő mocsaras területek vallottak az óceán közelségéről.
 Az egyik teve beleveszett az ingoványba.
@@ -6829,8 +6824,8 @@ A három szeren­csétlen ettől kezdve a nardu nevű vízinövény ehető spór
 Sátorukban tűz ütött ki, tábori felszerelésük odaveszett.
 Ez a vég!
 Biztos halál várt rájuk.
-Burke magához hívta Kinget, s így szólt: „Már csak néhány órát élek; itt van az órám, a fel­jegy­zéseim.
-Ha meghalok, tegyen egy pisztolyt a kezembe, és hagyjon úgy, ahogy meghaltam, ne temessen el.” Ezek voltak Burke utolsó szavai; másnap reggel nyolc órakor kilehelte lelkét.
+Burke magához hívta Kinget, s így szólt: "Már csak néhány órát élek; itt van az órám, a fel­jegy­zéseim.
+Ha meghalok, tegyen egy pisztolyt a kezembe, és hagyjon úgy, ahogy meghaltam, ne temessen el." Ezek voltak Burke utolsó szavai; másnap reggel nyolc órakor kilehelte lelkét.
 King eszeveszetten, elborzadva bennszülött törzsek felkutatására indult.
 Mire visszatért, Wills is kiszenvedett.
 Kinget ausztrál bennszülöttek vették pártfogásukba; szeptemberben a Burke felkutatására indult Howitt vezette expedíció talált rá, ezzel egy időben Mac Kinley és Landsborough is keresésükre indult.
@@ -6890,7 +6885,7 @@ Az Indiai-óceán partján találta magát!
 - A tenger!
 A tenger!
 - kiált fel döbbenten Thring.
-A többiek odarohantak, s háromszor elnyújtott „éljen” kiáltással köszöntötték az Indiai-óceánt.
+A többiek odarohantak, s háromszor elnyújtott "éljen" kiáltással köszöntötték az Indiai-óceánt.
 Negyedszerre sikerült hát.
 Átkeltek a kontinensen!
 Stuart Sir Richard Macdonell kormányzónak tett ígéretéhez híven megmosta a kezét és az arcát a tenger vizében.
@@ -7088,7 +7083,7 @@ A vasút­igazgatóság mozdonyt küldött értük, hogy visszavigye őket Castl
 Glenarvan lord bemutatkozott a főfelügyelőnek, s beszédbe elegyedett vele meg a rendőrtiszt­tel.
 Ez utóbbi magas, szikár ember volt, rendíthetetlenül hidegvérű, s ha érző szíve volt is, ebből mit sem árultak el szenvtelen arcvonásai.
 Úgy állt a szerencsétlenség előtt, mint egy matematikus a megoldásra váró feladat előtt: megfejtésre törekedett, az ismeretlent akarta kideríteni.
-Így, mikor Glenarvan azt mondta: „Micsoda szerencsétlenség!”, nyugodtan így válaszolt:
+Így, mikor Glenarvan azt mondta: "Micsoda szerencsétlenség!", nyugodtan így válaszolt:
 - Ha csak az volna, uram.
 - Csak?!
 - kiáltott fel döbbenten Glenarvan.
@@ -7126,7 +7121,7 @@ A bennszülötteknek semmi részük nem volt a merényletben.
 S azzal felmutatott egy pár kettős vaskarikából kovácsolt, önműködő zárral ellátott bilincset.
 - Rövidesen alkalmam lesz rá, hogy újévi ajándékul ezzel a karpereccel lepjem meg őket.
 - Az a gyanúja, hogy...
-- Az „Őfensége hajóinak ingyenutasai” közül valók.
+- Az "Őfensége hajóinak ingyenutasai" közül valók.
 - Micsoda!
 Fegyencek!
 - kiáltott fel Paganel, aki ismerte ezt az ausztráliai gyarmatokon használatos képes kifejezést.
@@ -7453,7 +7448,7 @@ Ez még nem a bányavidék volt.
 A szekér kerekei csak másnap, az 1866-os év első napján vágtak nyomot e gazdag vidék útjain.
 Paganel és társai boldogok voltak, hogy útközben megpillanthatták az ausztráliai nyelven Geboornak nevezett híres hegyet.
 Ide, erre a helyre özönlöttek csapatostul a kalandorok, tolvajok és tisztességes emberek, az akasztanivalók meg akik akasztják őket.
-A nagy fel­fedezés hírére az 1851-es „aranyévben” a városokat, mezőket, hajókat tömegesen hagyták el a lakosok, a squatterek meg a tengerészek.
+A nagy fel­fedezés hírére az 1851-es "aranyévben" a városokat, mezőket, hajókat tömegesen hagyták el a lakosok, a squatterek meg a tengerészek.
 Az aranyláz járvánnyá vált, ragályossá, mint a pestis, és hányan meg hányan pusztultak bele, már azt hívén, kezükben a szerencse!
 Úgy mondták, a tékozló természet több mint huszonöt szélességi fok területen milliós kincseket vetett el a csodálatos Ausztráliában.
 Eljött az aratás ideje, s az aratók a termőföldekre siettek.
@@ -7530,8 +7525,8 @@ Az aranynak két természetes formája ismeretes: a darabos és a porarany.
 Vagy érc alakjában, áradmány földdel keveredve, vagy kvarckőbe ágyazva található.
 A talaj sajátosságaitól függően felületi ásással vagy mélyfúrással bányásszák.
 A darabos arany hegyi patakokban, völgyekben, szakadékokban található, nagyságától függően helyezkedik el: az első rétegekben a rögök, aztán a lemezek, majd a szilánkok.
-A porarany, melynek kvarcágyát a levegő elporlasztotta, néha valóságos kis halmokban gyűlik össze; ezeket a halmokat a bányászok „zsebecskének” nevezik.
-Némely ilyen „zsebecske” egész vagyont rejt magában.
+A porarany, melynek kvarcágyát a levegő elporlasztotta, néha valóságos kis halmokban gyűlik össze; ezeket a halmokat a bányászok "zsebecskének" nevezik.
+Némely ilyen "zsebecske" egész vagyont rejt magában.
 Az Alexander-hegyen leginkább az agyagrétegekben és a palakősziklák hézagaiban bá­nyásszák az aranyat.
 Itt találhatók az úgynevezett aranyfészkek, feltárásukkal szerencsés bányászok nemegyszer megütötték az aranymezők főnyereményét.
 A látogatók megvizsgálták a különböző aranymintákat, majd megtekintették a bank ásvány­tani múzeumát.
@@ -7769,7 +7764,7 @@ Vacsora után, mikor lady Glenarvan, Mary és Robert Grant már szobájába tér
 - kérdezte Glenarvan.
 - Olvassa - mondta az őrnagy, és átnyújtotta Glenarvannak az Australian and New Zealand Gazette egyik számát -, olvassa el, s meglátja, nem tévedett a rendőrtiszt.
 Glenarvan fennhangon a következőket olvasta fel:
-- „Sydney, 1866. január 2.
+- "Sydney, 1866. január 2.
 - Emlékezetes, hogy a december 29-ről 30-ra virradó éjjel vasúti sze­rencsétlenség történt a Camden-hídnál; a melbourne-sandhursti vasútvonalon, ötmérföld­nyire Castlemaine állomástól.
 A teljes sebességgel rohanó 11 óra 45 perces gyorsvonat a Lutton folyóba zuhant.
 A Camden-híd nyitva maradt a vonat érkezésekor.
@@ -7779,7 +7774,7 @@ A coroner a vizsgálat során arra a következtetésre jutott, hogy a merénylet
 A fegyencbanda huszonkilenc tagból áll, vezérük egy bizonyos Ben Joyce nevű veszedelmes bűnöző, aki néhány hónapja ismeretlen hajón érkezett Ausztráliába.
 A ható­ságok mindeddig nem tudták kézre keríteni.
 Felhívjuk a városok lakóit, a telepek squattereit és telepeseit, legyenek óvatosak, s kérjük, hogy haladéktalanul juttassanak el a rendőrségre minden olyan felvilágosítást, mely elősegítheti a nyomozást.
-J. P. Mitchell főfelügyelő”
+J. P. Mitchell főfelügyelő"
 Mikor Glenarvan befejezte az újságcikk felolvasását, Mac Nabbs a földrajztudós felé fordult, és így szólt hozzá:
 - Látja, Paganel, mégiscsak akadnak fegyencek Ausztráliában!
 - Szökött fegyencek!
@@ -7830,7 +7825,7 @@ A civilizáció még nem szabdalta fel élesen elhatárolt megyékre.
 Ez a tartomány legkevésbé ismert és legelhagya­tottabb része.
 Egy napon a bushmanok fejszéi majd kivágják erdeit, mezőin egy napon majd squatterek nyájai legelnek; most azonban szűzföld még; olyan, mint amikor kiemelkedett az Indiai-óceán habjaiból.
 Sivatag.
-Az angol térképeken ez a terület sokatmondóan a „Reserve for the blacks”, azaz „Feketék részére kijelölt terület” nevet viseli.
+Az angol térképeken ez a terület sokatmondóan a "Reserve for the blacks", azaz "Feketék részére kijelölt terület" nevet viseli.
 A gyarmatosítók ide szorították vissza kíméletlenül a bennszülötteket.
 A távoli síkságokon, áthatolhatatlan erdőkben mindössze néhány területet hagytak meg számukra, ott fog kihalni apránként az ausztráliai faj.
 Bármely fehér ember, telepes, bevándorló, squatter vagy bushman átlépheti a területek határát.
@@ -7847,7 +7842,7 @@ Iszonyúan kegyetlenek voltak.
 Úgy viselkedtek Ausztráliában, akár Indiában, ahol ötmillió hindu pusztult el; akár a Fokföldön, ahol a hottentották milliós népe százezres lélekszámra csökkent.
 Az ausztráliai bennszülötteket a rossz bánásmód s az iszákosság tizedeli; lassan kipusztulnak, s átadják helyüket egy embergyilkos civilizációnak.
 Igaz, egyes kormányzók rendeleteket hoztak a vérengző bushmanek ellen.
-Néhány ostorcsapással bün­tették azt a fehér embert, ki levágta egy bennszülött orrát vagy fülét, vagy lecsapta a kisujját, hogy „pipaszurkálót készítsen belőle”.
+Néhány ostorcsapással bün­tették azt a fehér embert, ki levágta egy bennszülött orrát vagy fülét, vagy lecsapta a kisujját, hogy "pipaszurkálót készítsen belőle".
 Hiábavaló fenyegetések!
 A tömeggyilkosság hatalmas méreteket öltött, egész törzsek tűntek el.
 Hogy csak egyetlen példát idézzünk, Van Diemen szigetén, ahol a század elején ötezer bennszülött élt, 1863-ra mindössze heten maradtak életben!
@@ -7900,7 +7895,7 @@ Ennek az adatnak alapján akarta Rienzi az emberszabású majmok, a pithecomorph
 Lady Helenának azonban még inkább igaza volt, mint Mac Nabbs-nak, mikor úgy gondolta, hogy ezeknek a megvetett bennszülötteknek is érző lelkük van.
 A vadállat és az ausztráliai bennszülöttek között a fajták áthághatatlan szakadéka tátong.
 Pascal, a francia filozófus helyesen mondta, hogy az emberi lény sehol sem vadállat.
-Ugyancsak bölcsen azt is hozzátette, hogy „de nem is angyal”.
+Ugyancsak bölcsen azt is hozzátette, hogy "de nem is angyal".
 Ám éppen lady Helena és Mary Grant viselkedése cáfolta a nagy gondolkodó állításának ezt a második felét.
 A két jólelkű nő leszállt a szekérről, és gyengéden ételt kínált fel a szeren­csétleneknek, akik visszataszító mohósággal mindent bekebeleztek.
 A bennszülöttek aligha­nem valami istennőnek vélték lady Helenát, vallási regéik szerint a fehér emberek hajdan feketék voltak, s csak haláluk után fehéredtek ki.
@@ -7913,9 +7908,9 @@ Ott feküdtek a földön, a tűző napon, mozdulatlanul, mint a halottak, s tal�
 Ennél hatásosabb csapdát nem is­mertek; valóban csak ausztráliai madár lehet olyan együgyű, hogy így hagyja magát megfogni!
 Közben az utasok jó szándékának láttán megszelídült bennszülöttek köréjük sereglettek, már-már tolakodó módon.
 Beszédük fütyülő, csettintő hangokból állt.
-Hanglejtésük néha igen lágy, behízelgő volt; gyakran ismételték ezt a szót: „Noki!
-Noki!” Szavaikat kísérő mozdulataik magyarázták az értelmét: „Adjatok!
-Adjatok!” - ez főleg az utazók apró személyes tárgyaira vonatkozott.
+Hanglejtésük néha igen lágy, behízelgő volt; gyakran ismételték ezt a szót: "Noki!
+Noki!" Szavaikat kísérő mozdulataik magyarázták az értelmét: "Adjatok!
+Adjatok!" - ez főleg az utazók apró személyes tárgyaira vonatkozott.
 Olbinett alig tudta megvédeni a csomagfülkét meg az éléstárat.
 A szerencsétlen kiéhezettek sóvár pillantásokat vetettek a szekérre.
 Lady Helena kérésére Glenarvan utasítást adott, hogy osszanak ki köztük egy kis ennivalót.
@@ -7989,7 +7984,7 @@ Glenarvan és társai elképedten bámultak; nem akartak hinni a szemüknek.
 - A bumeráng!
 - kiáltott fel Paganel.
 - Az ausztráliai bumeráng!
-És már szaladt is, hogy fölvegye a csodálatos szerszámot, és mint egy gyerek, megnézze, „mi van benne”.
+És már szaladt is, hogy fölvegye a csodálatos szerszámot, és mint egy gyerek, megnézze, "mi van benne".
 Valóban azt hihette az ember, hogy valami belső szerkezet, valami hirtelen kinyíló rugó irányítja.
 Nem így volt.
 A bumeráng egyetlen kemény, hajlított fadarabból készült; harminc-negyven hüvelyk hosszú volt.
@@ -8028,7 +8023,7 @@ A törzs élelme napokra biztosítva van.
 Ezért a vadászok mindent megtesznek, hogy az ilyen zsákmányt el ne szalasszák.
 De vajon hogyan terítik le a fürge állatot puskák, kutyák nélkül?
 Paganel a látványosságnak erre az igen érdekes részére volt kíváncsi.
-Az emu vagy „sisak nélküli kazuár”, a bennszülöttek moureukja kihalóban van Ausztrália síkságain.
+Az emu vagy "sisak nélküli kazuár", a bennszülöttek moureukja kihalóban van Ausztrália síkságain.
 Ennek a hatalmas, hat és fél láb magas madárnak a fehér húsa pulykáéra emlé­keztet: fejét szarulemez fedi, szeme világosbarna, csőre horgas, lába három erős karomban végződik, szárnya valóságos csonk, repülésre nem alkalmas; tollazata, azaz csaknem bundája, nyakán és mellén a legsötétebb.
 Ha nem is tud repülni, futni ugyancsak tud; a leggyorsabb paripával is felvehetné a versenyt.
 Csak ravaszsággal lehet elfogni, mégpedig igen nagy ravaszsággal.
@@ -8063,8 +8058,7 @@ Nem az ausztráliaiak majmok, hanem a majmok ausztráliaiak.
 - Mit mondanak?
 - kérdezte lady Helena.
 - Azt mondják - felelte az őrnagy -, hogy a majmok ugyanolyan emberek, mint ők maguk, csak sokkal ravaszabbak.
-Egy féltékeny néger így beszélt egy szelídített orangutánról, melyet a gazdája ellenszolgáltatás nélkül tartott el: „Őrá nem szól, pedig nem dolgozik.”
-
+Egy féltékeny néger így beszélt egy szelídített orangutánról, melyet a gazdája ellenszolgáltatás nélkül tartott el: "Őrá nem szól, pedig nem dolgozik."
 XVII.
 A milliomos állattenyésztők
 A 146. hosszúsági fok 15. percén töltött nyugodt éjszaka után az utazók január 6-án reggel foly­tatták útjukat a nagy kiterjedésű kerületben.
@@ -8093,10 +8087,10 @@ Ebben a pillanatban tiszta férfihang csendült fel.
 A zongoraszót ének kísérte.
 Paganel hitetlen­kedve hallgatta.
 Néhány pillanat múlva azonban felismerte a fülébe csendülő csodálatos dallamot.
-A Don Juan opera „Il mio tesoro tanto” kezdetű áriája volt.
-„Az ördögbe is!
+A Don Juan opera "Il mio tesoro tanto" kezdetű áriája volt.
+"Az ördögbe is!
 - gondolta a földrajztudós.
-- Bármily különösek is az ausztráliai madarak, még a világ legmuzikálisabb papagája sem énekelhet Mozartot!”
+- Bármily különösek is az ausztráliai madarak, még a világ legmuzikálisabb papagája sem énekelhet Mozartot!"
 Végighallgatta a mester fenséges művét.
 A tiszta éjszakában felhangzó édes dallam leírhatat­lan hatást keltett.
 Paganelt lenyűgözte a varázs.
@@ -8137,9 +8131,9 @@ A nyüzsgő sereget sok pásztor, de még több kutya őrizte.
 A bőgéssel, bégetéssel elvegyült a juhászkutyák ugatása, az ostorok éles csattogása.
 Keleten gumifák során akadt meg a tekintet; a fák fölött ott emelkedett a magasba a 7500 láb magas hatalmas Hottam-hegy.
 Minden irányban örökzöld fák sora nyílt.
-Itt-ott sűrű, hosszú leveleibe burkolózva, bozótként burjánzott a törpe pálmára emlékeztető, hat láb magas grass-tree, azaz „fű-fa”.
+Itt-ott sűrű, hosszú leveleibe burkolózva, bozótként burjánzott a törpe pálmára emlékeztető, hat láb magas grass-tree, azaz "fű-fa".
 A levegőt balzsamos illattal töltötték be a fehér virágokkal ékes babérfák.
-A „bennszülött” fákkal európai éghajlatról idetelepített fák vegyültek.
+A "bennszülött" fákkal európai éghajlatról idetelepített fák vegyültek.
 Az utazók boldog éljenzéssel üdvözölték a barack-, körte-, alma-, füge- meg narancsfákat, közöttük még tölgy is akadt.
 Az utazók már azon is csodálkoztak, hogy hazai fák árnyékában járnak, de a fák ágai közt repdeső selymes tollú satin-bird meg a feketébe és aranyba öltözött bársonymadarak valósággal elbűvölték őket.
 Most adódott először alkalmuk arra, hogy megcsodálják a menurát, a lantmadarat, melynek farka Orfeusz kecses hangszerének formájához hasonló.
@@ -8152,10 +8146,10 @@ Itt azonban Michel és Sandy Patterson úgy érezte, nekik kell bemutatkozniuk v
 Elmesélték hát történetüket.
 A történet megegyezett minden olyan értelmes és dolgos fiatal angol férfi élettörténetével, aki nem hisz abban, hogy a gazdagság felment a munka alól.
 Michel és Sandy Patterson egy londoni bankár fiai voltak.
-Mikor betöltötték huszadik életévüket, apjuk így szólt hozzájuk: „Íme, itt a pénzetek, fiúk.
+Mikor betöltötték huszadik életévüket, apjuk így szólt hozzájuk: "Íme, itt a pénzetek, fiúk.
 Menjetek el valami távoli gyarmatra, alapítsatok hasznos telepet, munkában tanuljátok meg, mi az élet.
 Ha sikerrel jártok, jó, ha nem, az sem számít.
-Nem fogom sajnálni a milliókat, ha ennek az árán emberré váltok.” A két fiatal férfi szót fogadott.
+Nem fogom sajnálni a milliókat, ha ennek az árán emberré váltok." A két fiatal férfi szót fogadott.
 Az ausztráliai Victoria gyarmatot választották, hogy ott vessék el az apai bankjegyeket, s ezt nem is bánták meg.
 Három éven belül felvirágzott a telep.
 Victoria tartományban, Új-Dél-Walesben és Dél-Ausztráliában több mint háromezer állomás van, egyiknek állattenyésztő squatter a vezetője, a másiknak settler, azaz főként földműveléssel foglalkozó telepes.
@@ -8246,10 +8240,10 @@ Mindeme hőstetteknél vitathatatlanul különb volt a kenguruvadászat.
 A kölykök sietve az anyák erszényébe bújtak, s az egész sereg hosszú sorban, futva menekült.
 Alig akad meglepőbb látvány a hatalmasakat ugró kengurunál; az állat hátsó lábai kétszer olyan hosszúak, mint mellső lábai; úgy pattannak el a talajról, mint a rugó.
 A menekülő csapat élén a macropus giganteusok egy pompás, öt láb magas példánya rohant.
-A bushmanek „öregúr”-nak nevezik őket.
+A bushmanek "öregúr"-nak nevezik őket.
 Négy-öt mérföldön át lankadatlanul üldözték az állatokat.
 A kenguruk nem fáradtak ki, a kutyák meg, jogosan tartva hegyes körmökkel felfegyverzett lábaiktól, nem is nagyon igyekeztek közelükbe kerülni.
-Végül a kengurucsapat kimerülten megállt; az „öregúr” egy fatörzsnek támaszkodva, védekező állásba helyezkedett.
+Végül a kengurucsapat kimerülten megállt; az "öregúr" egy fatörzsnek támaszkodva, védekező állásba helyezkedett.
 Az egyik vadászkutyát a lendület a közelébe sodorta.
 Egy pillanat múlva a nyomorult kutya a levegőbe röpült, s felszakított hassal zuhant vissza a földre.
 Az egész kutyafalka sem bírhatott volna ezekkel az erős erszényesekkel.
@@ -8268,7 +8262,7 @@ Köszönöm!
 - Vállaltam, hogy vigyázok rá - mondta John Mangles, és megszorította a fiatal lány reszkető kezét.
 Ezzel az eseménnyel be is fejeződött a vadászat.
 Ahogy kimúlt a főnökük, az erszényes sereg szétszéledt.
-Az „öregúr” tetemét a telepre szállították.
+Az "öregúr" tetemét a telepre szállították.
 Este hat óra volt.
 Nagyszerű vacsora várta a vadászokat.
 A kenguru farkából bennszülött módra készült levesnek igen nagy sikere volt.
@@ -8349,7 +8343,7 @@ A Bush-Inn, azaz Bozótkocsma tulajdonosa - ez a név állt a cégéren - durva,
 Rendszerint csak egy-egy utazó squatter vagy nyáját terelő pásztor tért be hozzá.
 A kocsmáros kelletlenül válaszolt a hozzá intézett kérdésekre.
 De ez is elég volt ahhoz, hogy Ayrton eligazodjék az úton.
-Glenarvan néhány koronával fizette meg a kocsmáros „szívessé­gét”.
+Glenarvan néhány koronával fizette meg a kocsmáros "szívessé­gét".
 Már éppen kifelé tartott a csapszékből, mikor egy falragaszra lett figyelmes.
 A gyarmati rendőrség hirdetménye volt.
 A perthi fegyencek szökését adta hírül, és vérdíjat tűzött ki Ben Joyce fejére.
@@ -8476,7 +8470,7 @@ Ayrton is így vélekedett, s hozzátette, ő sem érti a lovak hirtelen pusztul
 Ismét útnak indultak.
 A szekér sorra fogadta be az elfáradt gyalogosokat.
 Este, mindössze tízmérföldes út után megálltak, letáboroztak; nyugodt éjszakát töltöttek egy páfrányligetben.
-A lombok között hatalmas denevérek repdestek; ezek valóban rászolgáltak a „repülő róka” névre.
+A lombok között hatalmas denevérek repdestek; ezek valóban rászolgáltak a "repülő róka" névre.
 A következő nap, január 13-a baj nélkül telt el.
 Az előző napi balesetek nem ismétlődtek meg.
 Az expedíció minden tagja jó egészségben volt.
@@ -9038,7 +9032,7 @@ Glenarvan kérését is csak másodszorra hallotta meg.
 S azzal felnyitotta jegyzettömbjét.
 Kitépett egy tiszta lapot, s ceruzával a kezében várt.
 Glenarvan a következőket diktálta neki:
-„Utasítom Tom Austint, hogy maradéktalanul szálljon tengerre és vezesse a Duncant...”
+"Utasítom Tom Austint, hogy maradéktalanul szálljon tengerre és vezesse a Duncant..."
 Mikor Paganel leírta az utolsó szót, tekintete a földön heverő Australian and Zealand-re tévedt.
 Az összehajtott újság címének csak két utolsó szótagja látszott.
 Paganel ceruzája megállt, a tudós tökéletesen megfeledkezett Glenarvanról, a levélről, a diktálásról.
@@ -9062,7 +9056,7 @@ Felindultsága azonban nem tartott sokáig.
 Lassacskán megnyugodott, kihunyt a szemében csillogó öröm, leült a helyére, s nyugodtan így szólt:
 - Folytathatjuk, mylord, rendelkezésére állok.
 Glenarvan folytatta a levél diktálását, a végleges szöveg így hangzott:
-„Utasítom Tom Austint, hogy haladéktalanul szálljon tengerre, és vezesse a Duncant a 37. szélességi fokon Ausztrália keleti partjaira.”
+"Utasítom Tom Austint, hogy haladéktalanul szálljon tengerre, és vezesse a Duncant a 37. szélességi fokon Ausztrália keleti partjaira."
 - Ausztrália?
 - szólt Paganel.
 - Persze Ausztrália!
@@ -9314,17 +9308,17 @@ Jobb oldalát iszonyatos szúrás érte, és a földre zuhant.
 Még nem vesztette el az eszméletét.
 A gyilkosok halottnak vélték.
 Érezte, hogy átkutatják.
-Majd ezt hallotta: „Megvan a levél” - mondta az egyik fegyenc.
-„Add ide - mondta Ben Joyce.
-- Most már miénk a Duncan!”
+Majd ezt hallotta: "Megvan a levél" - mondta az egyik fegyenc.
+"Add ide - mondta Ben Joyce.
+- Most már miénk a Duncan!"
 Amikor Mac Nabbs elbeszélésének ehhez a részéhez ért, Glenarvan felhördült.
-„Fogjátok el a lovat - mondta Ben Joyce.
+"Fogjátok el a lovat - mondta Ben Joyce.
 - Két nap múlva a Duncanon leszek, hat nap múlva a Twofold-öbölben.
 Ott találkozunk.
 Őlordsága csapata akkor még javában ott tocsog majd a Snowy mocsarában.
 Keljetek át a kemplepieri hídon, menjetek a tengerparton, és várjatok rám.
 Majd csak megtalálom a módját, hogy a hajóra csempésszelek benneteket!
-És ha egyszer a nyílt tengeren járunk egy olyan hajóval, mint a Duncan, mi leszünk az urak az Indiai-óceánon!” - „Éljen Ben Joyce!” - kiáltották a fegyencek.
+És ha egyszer a nyílt tengeren járunk egy olyan hajóval, mint a Duncan, mi leszünk az urak az Indiai-óceánon!" - "Éljen Ben Joyce!" - kiáltották a fegyencek.
 Elővezették Mulrady lovát, és Ben Joyce vágtatva eltűnt a lucknow-i úton, a banda meg délkeletre a Snowy felé indult.
 Noha súlyosan megsebesült, Mulradynak maradt még annyi ereje, hogy a tábortól háromszáz lépésnyire vonszolja magát, oda, ahol félholtan rátaláltunk.
 - Íme, ezt beszélte el Mulrady - fejezte be Mac Nabbs.
@@ -9517,7 +9511,7 @@ Szerencsére Robert túzokfészekre bukkant, s a fészekben egy tucatnyi hatalma
 Olbinett forró hamuban megsütötte őket.
 Egy szakadék szélén növő porcsin nevű növénnyel körítve, ez volt az egész ebédjük 22-én.
 Az út nehezen volt járható.
-A homokos síkságot egy spinifex nevű tüskés növény borította, melyet Melbourneben „tarajos sünnek” neveznek.
+A homokos síkságot egy spinifex nevű tüskés növény borította, melyet Melbourneben "tarajos sünnek" neveznek.
 Rongyokra szaggatta a ruháikat, véresre karmolta a lábukat.
 A bátor nők azonban nem panaszkodtak, példát mutattak, bátran törtek előre; egy-egy szóval, pillantással bátorították a többieket.
 Este a Bulla-Bulla hegy lábánál, a Jungalla-patak partján telepedtek le.
@@ -9553,9 +9547,9 @@ Be kellett érniük ezzel a nyomorúságos, faágakból összetákolt, zsúpfede
 Wilson tüzet akart rakni, hogy elkészítsék a narduzkenyeret, ment és összeszedett egy halom száraz gallyat.
 Mikor azonban arra került a sor, hogy meggyújtsák a tüzet, sehogy sem boldogultak.
 A nagy timsótartalmú fa nem fogott tüzet.
-Ez volt az az „éghetetlen fa”, melyet Paganel Ausztrália különös termékei között már megemlített.
+Ez volt az az "éghetetlen fa", melyet Paganel Ausztrália különös termékei között már megemlített.
 Le kellett hát mondaniuk a tűzről, és a tűzzel együtt a kenyérről is, bele kellett törődniük, hogy nedves ruhákban aludjanak.
-A magas ágak között rejtőző „kacagó madarak” mintha csak a boldogtalan utazókból űztek volna gúnyt.
+A magas ágak között rejtőző "kacagó madarak" mintha csak a boldogtalan utazókból űztek volna gúnyt.
 Az utazók szenvedése már végéhez közeledett.
 Ideje volt.
 A két fiatal nő hősies erőfeszítést tett, de erejük óráról órára fogyott.
@@ -9600,10 +9594,10 @@ Negyedórával később már útban volt a távirat a melbourne-i hajózási üg
 Az utazók azután a Victoria-szállóba hajtattak.
 Két óra múlva Glenarvan táviratot kapott.
 Ez állt benne:
-„Glenarvan lord, Eden, Twofold-öböl.
+"Glenarvan lord, Eden, Twofold-öböl.
 Folyó hó 18-án Duncan ismeretlen rendeltetési helyre távozott.
 J. Andrew.
-S.B.”
+S.B."
 Glenarvan kiejtette kezéből a táviratot.
 Semmi kétség!
 A becsületes skót jacht kalózhajóvá lett Ben Joyce kezén!
@@ -9611,7 +9605,6 @@ A becsületes skót jacht kalózhajóvá lett Ben Joyce kezén!
 Úgy tűnt, végleg Grant kapitány nyomát vesztették, s a balsiker a hajó egész legénységének életébe került.
 Glenarvan lord alulmaradt a küzdelemben, a bátor kutatót, akit az ellene összefogó természeti erők nem bírtak le a pampákon, Ausztrália földjén legyőzte az emberi aljasság.
 Harmadik rész
-
 I.
 A Macquarie
 Elérkezett az a pillanat, mikor Grant kapitány kutatóinak végképpen fel kellett hagyniuk a reménnyel, hogy valaha is rátalálnak, hiszen mindenük odaveszett.
@@ -9882,8 +9875,8 @@ De egy ponton újra meg újra megtorpant.
 Majd emlékezetében újra sorra vette azokat a hajósokat, akik felderítették a déli tenger e két nagy szigetét.
 1642. december 13-án a holland Tasman, miután fölfedezte Van Diemen földjét, kikötött Új-Zéland ismeretlen partján.
 Néhány napon át a part mentén hajózott, majd 17-én hajói behatoltak egy tágas öbölbe; az öböl mélyén két sziget közt futó tengerszoros nyílott.
-Az északi sziget neve Ika-na-Maui volt, ami új-zélandi nyelven azt jelenti: „Maui hala”.
-A déli szigeté meg Tavai-Puna-Mu, azaz „A zöld nefritkövet termő bálna”.
+Az északi sziget neve Ika-na-Maui volt, ami új-zélandi nyelven azt jelenti: "Maui hala".
+A déli szigeté meg Tavai-Puna-Mu, azaz "A zöld nefritkövet termő bálna".
 Abel Tasman partra küldte csónakjait, s azok hamarosan két, bennszülöttekkel megrakott pirog kíséretében tértek vissza.
 Ezek a vademberek középtermetűek voltak; bőrük sárgás­barna, csontjaik kiugróak, hangjuk durva; fekete hajukat japán módra fogták össze, s nagy, fehér tollat tűztek bele.
 Az európaiak és a bennszülöttek első találkozása arra mutatott, hogy hosszan tartó, barátságos kapcsolat alakulhat ki közöttük.
@@ -9897,13 +9890,13 @@ Elhagyta ezt az öblöt, melyet azóta is Vérfürdő-öbölnek neveznek, majd a
 Ivóvízkészletét szerette volna fel­frissíteni, de erre nem csupán a heves hullámtorlódás, hanem a bennszülöttek ellenségeske­dése miatt sem kerülhetett sor.
 Végleg elhagyta hát ezt a szigetet, melynek a rendi ország­gyűlés tiszteletére a Staten-Land nevet adta.
 A holland hajós ugyanis azt képzelte, hogy ez a sziget a Tűzföldtől, Amerika déli csúcsától keletre fekvő, nemrégiben fölfedezett hasonló nevű szigetek közelében fekszik.
-Azt hitte, fölfedezte a „nagy déli kontinenst”.
-„Igen ám - gondolta Paganel -, csakhogy amit egy XVII.
-századbeli tengerész »kontinensnek« nevezett, azt egy XIX.
+Azt hitte, fölfedezte a "nagy déli kontinenst".
+"Igen ám - gondolta Paganel -, csakhogy amit egy XVII.
+századbeli tengerész "kontinensnek" nevezett, azt egy XIX.
 századbeli tengerész nem nevezheti így!
 Elképzelhetetlen, hogy ekkorát tévedett volna!
 Nem!
-Nem értem!”
+Nem értem!"
 Tasman fölfedezése csaknem egy egész évszázadra feledésbe merült; Új-Zéland mintha nem is létezett volna, mikor egy Surville nevű francia hajós a 35. szélességi fok 37. percén ismét rábukkant.
 Eleinte semmi panasza sem lehetett a bennszülöttekre; a szél azonban rettentő erővel dobálta a hajót, s az expedíció betegeit szállító dereglyét partra sodorta a vihar a Menedék-öbölben, Egy Nagui-Nui nevű törzsfőnök saját kunyhójában kifogástalanul fogadta a franciákat.
 Minden a legnagyobb rendben volt mindaddig, míg el nem lopták Surville egyik csónakját.
@@ -10075,7 +10068,7 @@ Crozet kapitány hasztalanul igyekezett rávenni Mariont, hogy vonja vissza ezt 
 Az új-zélandiak erre még fokozottabb figyelmet, szolgálatkészséget tanúsítottak a franciák iránt.
 A törzsfőnökök meghitt barátságban éltek a hajóstisztekkel.
 Takuri a fiát is sokszor magával vitte a hajóra, a fiú ilyenkor az egyik kabinban töltötte az éjszakát.
-Június 8-án, ünnepélyes szárazföldi látogatása alkalmával a bennszülöttek az ország „nagyfőnökévé” választották Mariont, s tiszteletük jeléül négy fehér tollal ékítették haját.
+Június 8-án, ünnepélyes szárazföldi látogatása alkalmával a bennszülöttek az ország "nagyfőnökévé" választották Mariont, s tiszteletük jeléül négy fehér tollal ékítették haját.
 Harminchárom nap telt el így, mióta a hajók a Sziget-öbölbe érkeztek.
 Az árbocozat javítási munkálatai jól haladtak, s a Motu-Aro patakjai lassacskán megtöltötték a hajó víztartályait.
 Crozet kapitány maga vezette a hajóácsok munkáját, s minden oka megvolt a bizakodásra, a vállalkozás sikeresnek ígérkezett.
@@ -10117,7 +10110,7 @@ Elibük sietett, s értesült a történtekről.
 Megtiltotta, hogy társaival közöljék, nem akarta, hogy bátorságukat veszítsék.
 A bennszülöttek csapatokba tömörülve megszállták a sziget valamennyi magasabb pontját.
 Crozet kapitány összeszedette a legfontosabb szerszámokat, a többit elásta, fölgyújtotta a fészereket, s hatvan emberével megkezdte a visszavonulást.
-A bennszülöttek követték őket, s így kiáltoztak: „Takuri mate Marion!” Takuri megölte Mariont!
+A bennszülöttek követték őket, s így kiáltoztak: "Takuri mate Marion!" Takuri megölte Mariont!
 Azt remélték, hogy megrémítik a matrózokat, ha tudatják velük főnökük halálát.
 Azok el­keseredett haragjukban neki akartak támadni a nyomorultaknak, Crozet kapitány csak nagy nehezen tudta visszatartani őket.
 Két mérföldet tettek meg így.
@@ -10158,8 +10151,8 @@ Egyik hajójának, a Furneaux kapitány parancsnoksága alatt álló Aventure-ne
 Nem tért vissza többé.
 Egy hadapród és hat tengerész ült benne.
 Furneaux kapitány nyugtalankodott, s kere­sésükre küldte Burney hadnagyot.
-Burney később így számolt be: „Arra a helyre érve, ahol a dereglye kikötött, olyan vérfürdő és olyan kegyetlenkedések nyomai tárultak elém, melyekről csak iszonyattal tudok beszélni.
-A homokban szanaszét emberi fejek, belek, tüdők hevertek, s a közelben kutyák falták a maradványokat.”
+Burney később így számolt be: "Arra a helyre érve, ahol a dereglye kikötött, olyan vérfürdő és olyan kegyetlenkedések nyomai tárultak elém, melyekről csak iszonyattal tudok beszélni.
+A homokban szanaszét emberi fejek, belek, tüdők hevertek, s a közelben kutyák falták a maradványokat."
 A véres felsorolás befejezéseképpen meg kell még említenünk a Brothers nevű vitorlást, melyet 1815-ben támadtak meg az új-zélandiak, majd 1820-ban Thompson kapitánnyal együtt legyilkolták a Boyd egész legénységét, végül Enararo törzsfőnök és emberei 1829-ben Valkitaa közelében kirabolták a sydneyi Hawes nevű hajót, és halomra öldösték matrózait.
 Ilyen volt az az Új-Zéland, mely felé a tompa agyú legénység a részeges kapitány parancs­nokságával a Macquarie-t vezette.
 IV.
@@ -10770,7 +10763,7 @@ Amíg a maorik nem lesznek tagjai a vegetáriánus egyesületnek, addig inkább 
 - Mert nincsenek állataik - felelte Paganel -, s ha ez nem is menti fel őket, de magyarázza kannibalizmusukat.
 Ezen a barátságtalan szigeten alig él négylábú állat vagy akár madár.
 Így tehát a maorik többnyire mindig emberhúst fogyasztottak.
-Ahogy a civilizált országokban van vadászidény, itt „emberevőidény” van.
+Ahogy a civilizált országokban van vadászidény, itt "emberevőidény" van.
 Ekkor megkezdődnek a nagy hajtóvadászatok, azaz háborúk, s egész nemzetségeket tálalnak fel a győztesek asztalán.
 - Így tehát ön szerint, Paganel - mondta Glenarvan -, az emberevés csak akkor fog megszűnni, ha juhok, ökrök, disznók nyüzsögnek majd Új-Zéland mezőin?
 - Csakis akkor, kedves lord, de még akkor is évekre lesz szükség ahhoz, hogy a maorik leszokjanak az új-zélandi húsról, melyet mindennél jobban szeretnek; a gyermekek még sokáig fogják azt szeretni, amit apjuk szeretett.
@@ -10803,22 +10796,21 @@ Egy portugál misszio­nárius egyszer egy nagyon beteg vén bennszülött asszo
 Csak néhány napja volt hátra.
 A jezsuita megtanította a kereszténység tanaira, melyeket a haldokló vita nélkül elfogadott.
 A lélek tápláléka után a testi eledelre is gondolt, s néhány európai nyalánkságot kínált az öregasszonynak.
-„Sajnos - felelte a beteg - az én gyomrom már nem bír semmiféle ételt.
-Csak egyvalamit kívánok enni, de azt senki sem tudja megszerezni nekem.” „Mi az?” - kérdezte a jezsuita.
-„Ó, fiam!
+"Sajnos - felelte a beteg - az én gyomrom már nem bír semmiféle ételt.
+Csak egyvalamit kívánok enni, de azt senki sem tudja megszerezni nekem." "Mi az?" - kérdezte a jezsuita.
+"Ó, fiam!
 Egy kisfiú keze volna az!
-Szívesen rágcsálnám a kis csontjait!”
+Szívesen rágcsálnám a kis csontjait!"
 - Nahát!
 - kiáltott fel Robert.
 - Valóban jó ez?
 - A második történet majd megfelel a kérdésedre, fiacskám - folytatta Paganel.
 - Egyszer egy misszionárius egy kannibál szemére vetette az emberevés rettenetes, isteni törvényekkel ellenkező szokását.
-„Meg aztán az emberhús nem is jó” - tette hozzá.
-„Atyám - felelte a bennszülött, és sóvár pillantást vetett a misszionáriusra.
+"Meg aztán az emberhús nem is jó" - tette hozzá.
+"Atyám - felelte a bennszülött, és sóvár pillantást vetett a misszionáriusra.
 - Mondja, hogy az Isten tiltja!
 De ne mondja, hogy rossz!
-Ha kóstolta volna!...”
-
+Ha kóstolta volna!..."
 VII.
 Partraszállás a rettegett vidéken
 Paganel kétségkívül igazat beszélt.
@@ -11051,7 +11043,7 @@ Mind­össze a különböző pontokon megtelepedett hittérítők vitték el az 
 Közülük néhányan, legfőképpen az anglikánok, igyekez­tek fölkészíteni az új-zélandi törzsfőnököket arra, hogy majd idővel hajtsák fejüket az angol járom alá.
 Az ügyesen megkörnyékezett főnökök aláírták a Victoria királynőhöz intézett levelet, melyben védnökségét kérték.
 Az éleslátóbbak érezték, hogy ostobaságot cselekedtek, egyikük nem sokkal azután, hogy aláírás gyanánt a levélre másolta a testére tetovált ábrát, ezeket a látnoki szavakat mondta:
-„Elvesztettük hazánkat, mostantól fogva már nem a mienk; az idegenek hamarosan eljönnek, és birtokba veszik, mi meg rabszolgáik leszünk.”
+"Elvesztettük hazánkat, mostantól fogva már nem a mienk; az idegenek hamarosan eljönnek, és birtokba veszik, mi meg rabszolgáik leszünk."
 1840. január 29-én a Herald nevű korvett valóban meg is érkezett a Sziget-öbölbe, az Ika-na-Maui szigettől északra.
 Hobson kapitány kiszállt a Korora-Reka nevű faluban.
 Felkérték a lakosokat, hogy gyűljenek össze a protestáns templomban.
@@ -11106,9 +11098,9 @@ Királlyá akarta választani a vén Potatut, s a Waikato és Waipa folyók köz
 Ez a Potatu egy inkább leleményes, mint bátor aggastyán volt, első minisztere azonban erélyes és értelmes férfi hírében állt; annak a Ngatihahua törzsnek volt a leszármazottja, mely az idegen meg­szállás előtt az aucklandi félszigeten élt.
 Ez a miniszter, William Thompson, valóságos lelke lett a függetlenségi háborúnak.
 Ügyesen megszervezte a maori csapatokat.
-Példájára egy taranaki törzsfőnök is hasonló gondolattal egyesítette a szétszórt törzseket; egy másik waikatói főnök „földvédő ligát” alapított, ami arra szolgált, hogy megakadályozza a bennszülötteket, hogy földjüket eladják az angoloknak.
+Példájára egy taranaki törzsfőnök is hasonló gondolattal egyesítette a szétszórt törzseket; egy másik waikatói főnök "földvédő ligát" alapított, ami arra szolgált, hogy megakadályozza a bennszülötteket, hogy földjüket eladják az angoloknak.
 Banketteket rendeztek, akár a civilizált országokban szokás a forradalom előtt.
-Az angol újságok kezdtek beszámolni ezekről a riasztó tünetekről, s a kormányt komolyan nyugtalanította a földvédő liga „felforgató” működése.
+Az angol újságok kezdtek beszámolni ezekről a riasztó tünetekről, s a kormányt komolyan nyugtalanította a földvédő liga "felforgató" működése.
 Egyszóval, az idegek pattanásig feszültek, a bomba bármely pillanatban robbanhatott.
 Csak egy szikra kellett hozzá, vagy még inkább: az érdekek heves összeütközése.
 - És ez az összeütközés?...
@@ -11123,8 +11115,8 @@ Ezen a napon dördült el az új-zélandi függetlenségi háború első puskal�
 - kérdezte John Mangles.
 - A maorik száma erősen megcsappant az utolsó évszázad során - felelte a földrajztudós.
 - 1769-ben Cook még négyszázezerre becsülte számukat.
-Az 1845-ös népszámlálás szerint a „védnökségi területen” élő bennszülöttek száma százkilencezerre csökkent.
-A lakosságot megtizedelte a „civilizáció”, a mészárlás, a járványos betegségek és a tüzes víz, azaz a pálinka.
+Az 1845-ös népszámlálás szerint a "védnökségi területen" élő bennszülöttek száma százkilencezerre csökkent.
+A lakosságot megtizedelte a "civilizáció", a mészárlás, a járványos betegségek és a tüzes víz, azaz a pálinka.
 A két szigeten még mindig él vagy kilencvenezer bennszülött, köztük harmincezer harcos, kik még hosszú ideig sakkban tarthatják az európai csapatokat.
 - Eddig eredményes volt a forradalom?
 - kérdezte lady Helena.
@@ -11330,12 +11322,12 @@ Hooker botanikus szerint Új-Zélandnak kétezer fajta növényét ismerik; köz
 Kevés virág van, nem is változatosak; évelő növény is alig akad, viszont annál több a haraszt, a pázsitfűféle és az ernyős virágú növény.
 Itt-ott néhány magas fa emelkedett ki a sötétzöld növények közül; a bíborvirágú metro­side­rosok, a norfolki fenyők, az ég felé törekvő ágazatú thujafák és az európai rokonaihoz hasonlóan szomorú ciprusféle, a rimu.
 Valamennyi fa törzsét számtalan páfrányféle lepte el.
-A nagy fák ágai között papagájok repkedtek fecsegve; néhány zöld karakiri, piros sávval a begyükön, fekete barkós taupók meg egy kacsa nagyságú, rőt tollú, tarka szárnyú papagáj, melyet a természettudósok „dél Nesztorának”78 neveztek el.
+A nagy fák ágai között papagájok repkedtek fecsegve; néhány zöld karakiri, piros sávval a begyükön, fekete barkós taupók meg egy kacsa nagyságú, rőt tollú, tarka szárnyú papagáj, melyet a természettudósok "dél Nesztorának"78 neveztek el.
 Az őrnagynak és Robertnek el sem kellett távolodniuk társaiktól, hogy elejtsenek néhány, a síkság alacsony bozótjainak tövében tanyázó szalonkát és foglyot.
 Olbinett, hogy ezzel is időt nyerjen, menet közben kopasztotta meg a madarakat.
 Paganelt kevésbé érdekelte a vadak tápértéke, ő egy jellegzetes új-zélandi madarat szeretett volna fogni.
 A természettudós kíváncsisága elaltatta benne az utazó éhségét.
-Eszébe jutott a benn­szülöttek tui madara, melyet gúnyos vihogása miatt „csúfoló-madár”-nak, fehér nyak­kendője és fekete csuhája miatt „plébános”-nak neveznek.
+Eszébe jutott a benn­szülöttek tui madara, melyet gúnyos vihogása miatt "csúfoló-madár"-nak, fehér nyak­kendője és fekete csuhája miatt "plébános"-nak neveznek.
 - Ez a tui - mondta Paganel az őrnagynak - télen úgy meghízik, hogy belebetegszik.
 Nem tud többé repülni.
 Ilyenkor csőrével fölszakítja a begyét, hogy megszabaduljon a hájtól, és könnyebbé váljon.
@@ -11353,7 +11345,7 @@ Elnagyolt formája, nevetséges mozdulatai mindig felkeltették az utazók érde
 Az Astrolabe és a Zélée nevű hajók nagy óceániai kutatóútja során a Tudományos Akadémia elsősorban azzal bízta meg Dumont d’Urville-t, hogy szerezzen egy ilyen különös madarat.
 Akármilyen jutalmat is ígért a bennszülötteknek, d’Urville egyetlen élő kivire sem tudott szert tenni.
 Paganel, szerencséjén örvendezve, összekötötte a két tyúkot, és vitézül magával is cipelte azzal, hogy majd a párizsi állatkertnek ajándékozza őket.
-Az örök bizakodó földrajztudós lelki szemével már látta is a csábító feliratot a legszebb ketrecen: „Jacques Paganel ajándéka”.
+Az örök bizakodó földrajztudós lelki szemével már látta is a csábító feliratot a legszebb ketrecen: "Jacques Paganel ajándéka".
 A kis csapat eközben fáradtság nélkül haladt a Waipa partján.
 A vidék néptelen volt; benn­szülötteknek nyomát sem látták, egyetlen ösvény sem sejtette, hogy emberek laknak erre.
 A folyó hol magas bozótok, hol hosszan elnyúló homokos partok között hömpölygött.
@@ -11467,7 +11459,7 @@ Mindeddig nem bántalmazták őket, de ellenállni hiába is próbáltak volna.
 Fegyvereik, lőszerük a bennszülöttek kezére került; saját golyóik terítették volna le őket.
 A bennszülöttek néhány angol szavából a foglyok megértették, hogy az angol csapatok vissza­szorították, megverték, megtizedelték a bennszülöttek seregét, így most a Waikato felső folyásához vonulnak vissza.
 A maorik főnöke makacsul ellenállt, a 42. ezred azonban sorra lemészárolta legjobb harcosait, ezért a főnök most visszatért, hogy felszólítsa a folyó menti törzseket, csatlakozzanak William Thompsonhoz, aki továbbra is rettenthetetlenül küzdött a hódítók ellen.
-A főnök a baljós Kai-Kumu nevet viselte, ez a szigetlakók nyelvén azt jelen­tette: „Aki megeszi ellensége végtagjait”.
+A főnök a baljós Kai-Kumu nevet viselte, ez a szigetlakók nyelvén azt jelen­tette: "Aki megeszi ellensége végtagjait".
 Bátor, merész ember volt, de kegyetlensége bátor­ságával is fölért.
 Irgalmat senki sem várhatott tőle.
 Az angol katonák jól ismerték a nevét; Új-Zéland kormányzója vérdíjat tűzött ki fejére.
@@ -11563,7 +11555,7 @@ Ebben nem is tévedett.
 Másnap reggel a csónak sebesen folytatta útját a folyón fölfelé.
 Tíz órakor rövid időre megállt a jobb parti síkságokon kanyargó kis folyó, a Pohainhenna torkolatánál.
 Itt egy tíz bennszülött vezette ladik csatlakozott Kai-Kumu csónakjához.
-A harcosok éppen csak köszöntötték egymást: airé mai ra, vagyis „jó egészséget”, s a két jármű máris együtt szelte tovább a vizet.
+A harcosok éppen csak köszöntötték egymást: airé mai ra, vagyis "jó egészséget", s a két jármű máris együtt szelte tovább a vizet.
 Az újonnan jöttek nemrégiben ütköztek meg az angol csapatokkal.
 Ruhájuk rongyokban lógott, fegyvereik véresek voltak, s rongyaik alól még vérző sebek látszottak.
 Komorak, hallgatagok voltak.
@@ -11711,7 +11703,7 @@ A szerencsétlen őrjöngő és vérbe borult maori asszonyok szörnyű látván
 A bennszülöttek kétségbeesésének még egy, számukra igen fontos oka volt.
 Nem csupán hozzátartozóik, barátaik halálát siratták, hanem azt is, hogy csontjaikat nem temethetik a családi sírba.
 A maorik hite szerint csak azok részesülnek a túlvilági életben, akiknek csontjait megőrizték a hozzátartozók.
-Nem a porladó testet becsülik, a maradandó csontokat gyűjtik össze gondosan: megtisztogatják, kifényesítik, még be is lakkozzák, és úgy helyezik el véglegesen az udupába, azaz a „dicsőség házába”.
+Nem a porladó testet becsülik, a maradandó csontokat gyűjtik össze gondosan: megtisztogatják, kifényesítik, még be is lakkozzák, és úgy helyezik el véglegesen az udupába, azaz a "dicsőség házába".
 A sírokon fából faragott szobrok állnak, melyekre tökéletes hűséggel másolják rá az elhunyt tetovált díszeit.
 Ma azonban üresen maradnak a sírok, a vallásos szertartásokra nem kerülhet sor; az elesettek csontjai - ha a vadkutyák fel nem falták - temetetlenül fehérlenek a csatamezőn.
 A fájdalom kettőzött erővel tört ki a bennszülöttekből.
@@ -11720,7 +11712,7 @@ Zuhogtak az átkok, egyre hevesebben hadonásztak.
 A kiabálást alighanem tettlegesség fogja követni.
 Kai-Kumu attól tartott, hogy törzse legféktelenebbjei kerekednek felül, azért a foglyokat az erődítmény túlsó végébe, egy meredek fennsíkon levő szent kunyhóba vezettette.
 Az erődít­mény ezen az oldalon meredek lejtőben végződött, s a kunyhó ennek a mintegy száz láb magas hegyoldalnak támaszkodott.
-Ebben a wareatuában, vagyis a „szentelt hajlék”-ban oktatták a papok, azaz arikik híveiket a háromszemélyű isten: az atya, fiú és a madár vagy lélek vallására.
+Ebben a wareatuában, vagyis a "szentelt hajlék"-ban oktatták a papok, azaz arikik híveiket a háromszemélyű isten: az atya, fiú és a madár vagy lélek vallására.
 A tágas, jól lezárt kunyhóban őrizték azokat a válogatott szent eledeleket, melyeket Maui-Ranga-Rangi isten papjai szájának segedelmével fogyaszt el.
 A foglyok itt egyelőre védve voltak a bennszülöttek haragjától, valamennyien leheveredtek a vászonfű gyékényekre.
 Lady Helenát testi-lelki ereje cserbenhagyta, s most férje karjaiba roskadt.
@@ -11764,7 +11756,7 @@ Glenarvan és társai, szorosan egymás mellett, átmentek az erődítmény udva
 A főnök körül ott álltak törzsének legfőbb harcosai.
 Ott volt közöttük az a maori is, akinek csónakja a Pohainhnna és a Waikato összefolyásánál csatlakozott Kai-Kumuhoz.
 Negyven év körüli, izmos, vad és kegyetlen arcú ember volt.
-Kara-Tete volt a neve, ami új-zélandi nyelven azt jelenti „hirtelen haragú”.
+Kara-Tete volt a neve, ami új-zélandi nyelven azt jelenti "hirtelen haragú".
 Kai-Kumu bizonyos tisztelettel bánt vele, és finom művű tetoválása is arról tanúskodott, hogy tekintélyes tisztséget foglal el törzsében.
 Éles szemű megfigyelő azonban könnyen megállapíthatta volna, hogy a két főnök vetélytárs.
 Az őrnagy úgy vette észre, hogy Kara-Tete befolyása némi árnyékot vet Kai-Kumura.
@@ -11876,7 +11868,7 @@ Minden remény odaveszett, már Mac Nabbs sem bizakodott, pedig őt nem egykönn
 John Mangles csaknem eszét vesztette az öccsétől elszakított, kétségbe­esett Mary láttán.
 Glenarvan lady Helena iszonyú kérésére gondolt: lady Helena inkább férje kezétől kíván meghalni, mintsem hogy a kínszenvedést vagy a rabszolgasorsot vállalja.
 Vajon lesz-e elegendő bátorsága a szörnyű tett végrehajtására?
-„És Mary, mi jogon ölhetném meg Maryt?” - gondolta John vérző szívvel.
+"És Mary, mi jogon ölhetném meg Maryt?" - gondolta John vérző szívvel.
 Szökésre nem is gondolhattak.
 A wareatua bejáratát tíz állig fölfegyverzett harcos őrizte.
 Elérkezett február 13-a reggele.
@@ -12373,7 +12365,7 @@ Két nap múlva már bottal üthetik a nyomunkat!
 Most már valamennyien hallani akarták Paganel kalandjait.
 Különös módon, az amúgy bőbeszédű emberből szinte harapófogóval kellett kihúzni minden egyes szót.
 Ő, aki annyira szeretett mesélni, most csak kitérően válaszolgatott barátainak.
-„Kicserélték ezt a Paganelt” - gondolta Mac Nabbs.
+"Kicserélték ezt a Paganelt" - gondolta Mac Nabbs.
 Valóban, az érdemes földrajztudósnak még a külseje sem volt a régi.
 Nyakig vászonfű kendőjébe burkolózott, és kerülte a túl kíváncsi tekinteteket.
 Valamennyiüknek feltűnt, milyen zavart, akárhányszor róla esett szó, de tapintatosan úgy tettek, mintha észre sem vennék.
@@ -12384,7 +12376,7 @@ Kevesebb szerencsével járt, mint az ifjú Grant, mert ő egyenesen egy maori t
 A tábor főnöke jól megtermett, értelmes bennszülött volt; szemmel láthatóan különb törzse valamennyi harcosánál.
 Kifogástalanul beszélt angolul; orrát a földrajztudós orrához dörgölve köszöntötte a vendéget.
 Paganel azon tűnődött, hogy vajon fogolynak vagy szabad embernek tekintik-e. Mikor látta, hogy egy lépést sem tehet anélkül, hogy a főnök szívélyesen el ne kísérje, tudta, mihez tartsa magát.
-A főnök neve Hihi volt, azaz „napsugár”.
+A főnök neve Hihi volt, azaz "napsugár".
 Korántsem volt gonosz ember.
 A földrajztudós szemüvege és messzelátója nagy tiszteletre gerjesztette.
 Nemcsak jótéteményeivel, de erős vászonfű kötelekkel is igyekezett szorosra fűzni kettejük barátságát.
@@ -12431,7 +12423,7 @@ Nem egykönnyen fognak könyvtárat létesíteni a maorik között!
 - Olvasd föl, John!
 - mondta Glenarvan.
 John fölolvasta a puskaportól megkímélt verssort.
-- 91. zsoltár: „Mivel hogy ragaszkodik hozzám, megszabadítom őt.”
+- 91. zsoltár: "Mivel hogy ragaszkodik hozzám, megszabadítom őt."
 - Barátaim - szólt Glenarvan -, el kell mondanunk e szavakat drága és hősies társnőinknek.
 E szavak reményt öntenek a szívbe.
 Glenarvan és társai a meredek ösvényen visszakapaszkodtak a csúcsra.
@@ -12872,7 +12864,7 @@ A kerülők, az útjukba álló akadályok, a rossz tájékozódás ötödével 
 Pedig még jó kétnapi gyalogút állt előttük a partig, s most új erőre, fokozott éberségre volt szükségük, mert ismét bennszülöttekkel népes vidékre érkeztek.
 Valamennyien leküzdötték fáradtságukat, és másnap hajnalban a kis csapat ismét útnak indult.
 A jobbra maguk mögött hagyott Ikirangi-hegy és balra a háromezer-hétszáz láb magasba nyúló Hardy-hegy között igen keserves útjuk volt.
-Itt mintegy tízmérföldnyi hosszú síkság terült el előttük; a síkságot shupple-jack, azaz joggal „fojtogató indá”-nak nevezett hajlékony lián nőtte be.
+Itt mintegy tízmérföldnyi hosszú síkság terült el előttük; a síkságot shupple-jack, azaz joggal "fojtogató indá"-nak nevezett hajlékony lián nőtte be.
 Minden egyes lépésnél belegabalyodott kezük, lábuk; a liánok kígyóként tekeredtek az utazók teste köré.
 Két napon át csak baltával nyithattak maguknak utat, csak így harcolhattak a százfejű hidrával, ezzel a kellemetlen, szívós növénnyel, amit Paganel szívesen sorolt volna a növényállatok rendjébe.
 Ezen a síkságon vadászni sem lehetett, így a vadászok nem tehettek szert a napi zsákmányra.
@@ -12969,7 +12961,7 @@ Fölismert bennünket!
 Kalapjával integet!
 John fejszét markoló keze fönnakadt a levegőben.
 Újabb ágyúgolyó süvített el a fejük fölött; kettéhasította a legközelebbi pirogot.
-A Duncanon hatalmas „éljen” harsant.
+A Duncanon hatalmas "éljen" harsant.
 A rémült bennszülöttek eszeveszetten menekültek a partra.
 - Ide!
 Ide hozzánk!
@@ -13119,7 +13111,7 @@ S azzal összefogta sovány testén a ruhafoszlányokat, és vadul begombolkozot
 Azt ugyanis estemben eltörtem...
 Erre a válaszra ismét kitört a nevetés.
 A derék földrajztudós barátai megnyugodtak: Paganel épségben megúszta az ágyúkalandot.
-„Micsoda szemérmes ez a földrajztudós!” - gondolta az őrnagy.
+"Micsoda szemérmes ez a földrajztudós!" - gondolta az őrnagy.
 Paganel közben magához tért a nagy megrázkódtatásokból, s most felelnie kellett az elkerülhetetlen kérdésre.
 - Feleljen őszintén, Paganel - mondta Glenarvan.
 - Beismerem, hogy szórakozottsága ezúttal megmentette az életünket.
@@ -13559,7 +13551,7 @@ Túl gyorsan megfeledkezik az előző következtetésekről.
 - Semmi, továbbra is az austral, azaz délövi vidéket jelöli.
 - Jól van.
 Hát az indi szótöredék, mely először indiánt, majd indigéne-t, azaz bennszülöttet jelentett?
-- Hát most harmadszor és utoljára - felelte Paganel - úgy magyarázom, hogy ez az indigence, azaz „nélkülözés” szó első két szótagja.
+- Hát most harmadszor és utoljára - felelte Paganel - úgy magyarázom, hogy ez az indigence, azaz "nélkülözés" szó első két szótagja.
 - És a contin?
 - kiáltott fel Mac Nabbs.
 - Még mindig kontinenst jelent?
@@ -13573,15 +13565,15 @@ Másodszor: bizonyos részek erőltetettnek tűnnek majd, lehet, hogy rosszul fo
 Magyarázatom alapjául a francia szöveg szolgál, s ne felejtsék, hogy egy angol írta, aki esetleg nem volt tisztában a sajátosan francia kifejezések értékével.
 Most, hogy mindezt elmondtam, hozzákezdek.
 Ezzel Paganel a szavakat lassan tagolva a következő szöveget olvasta fel:
-„Le 27 juni 1862, le trois-mâts Britannia, de Glasgow a sombré après une longue agonie dans les mers australes sur les côtes de la Nouvelle-Zealande.
+"Le 27 juni 1862, le trois-mâts Britannia, de Glasgow a sombré après une longue agonie dans les mers australes sur les côtes de la Nouvelle-Zealande.
 Deux matelots et le capitaine Grant ont pu y aborder.
 Là, continuellement en proie à une cruelle indigence, ils ont jeté ce document par ... de longitude et 37º11’ de latitude.
-Venez à leur secours ou ils sont perdus.”
+Venez à leur secours ou ils sont perdus."
 Vagyis:
-„A glasgow-i Britannia nevű háromárbocos 1862. június 27-én hosszú hányódás után hajótörést szenvedett a déli tengeren, Új-Zéland partjain.
+"A glasgow-i Britannia nevű háromárbocos 1862. június 27-én hosszú hányódás után hajótörést szenvedett a déli tengeren, Új-Zéland partjain.
 Két matróza és Grant kapitány sikeresen partra jutott.
 Állandó, kegyetlen nélkülözések közepette a hosszúság ... fokán és a szélesség 37. fokának 11. percén tengerbe vetették ezt az iratot.
-Siessetek segít­sé­günkre, különben végünk van.”
+Siessetek segít­sé­günkre, különben végünk van."
 Paganel elhallgatott.
 Értelmezése elfogadható volt.
 De éppen azért, mert ugyanolyan valószerű volt, mint az előzőek, ugyanúgy téves is lehetett.
@@ -13663,7 +13655,7 @@ John nem tévedett.
 - Bizonyára bennszülöttek - felelte Paganel.
 - Akkor nem hagyhatjuk itt a fertálymestert.
 - Nem - felelte az őrnagy -, még a bennszülötteket sem bánthatjuk meg ilyen ajándékkal.
-- Keresünk egy másik lakatlan szigetet - mondta Glenarvan, aki nem állta meg mosolygás nélkül az őrnagy „tapintatát”.
+- Keresünk egy másik lakatlan szigetet - mondta Glenarvan, aki nem állta meg mosolygás nélkül az őrnagy "tapintatát".
 - Megígértem Ayrtonnak, hogy megkímélem az életét, és az ígéretemet be akarom tartani.
 - Mindenesetre, legyünk óvatosak - mondta Paganel -, az új-zélandiaknak megvan az a rossz szokásuk, mint hajdan a cornwalli rablóknak, hogy bolygó fénnyel vezetik tévútra a hajókat.
 Nem kizárt, hogy a Mária Terézia bennszülöttei is ismerik ezt a fogást.
@@ -13686,7 +13678,7 @@ A növendék fiút emberré érlelte a balsors.
 Kitalálta, miféle gondolatok zaklatják nővérét.
 Megfogta Mary kezét.
 - Mary - mondta neki -, ne add föl a reményt.
-Emlékezz apánk szavára: „A bátorság mindent helyettesít ezen a földön.” Legyünk hát mi is olyan rendíthetetlenül bátrak, mint ő. Eddig te dolgoztál énérettem, nővérkém, most én akarok dolgozni teérted.
+Emlékezz apánk szavára: "A bátorság mindent helyettesít ezen a földön." Legyünk hát mi is olyan rendíthetetlenül bátrak, mint ő. Eddig te dolgoztál énérettem, nővérkém, most én akarok dolgozni teérted.
 - Drága Robert!
 - sóhajtotta a fiatal lány.
 - Meg kell mondanom valamit - folytatta Robert.
@@ -13823,8 +13815,8 @@ Megfogta Robert kezét, s így szólt hozzá:
 - Apád hangját hallottad, gyermekem?
 - Igen, mylord.
 Onnan a hullámok közül!
-Azt kiáltotta: „Hozzám!
-Hozzám!”
+Azt kiáltotta: "Hozzám!
+Hozzám!"
 - Fölismerted a hangját?
 - Igen, fölismertem a hangját, mylord!
 Igen, esküszöm!
@@ -14056,18 +14048,18 @@ Melyiket akarják hallani?
 - Egy név híján egyformák.
 - Akkor hát mondja el a francia szöveget - mondta Glenarvan -, ezt kímélte meg leginkább a víz, főként erre alapítottuk magyarázatainkat.
 - Szó szerint így hangzik - felelte Harry Grant.
-„Le 27 juin 1862; le trois-mâts Britannia, de Glasgow, s’est perdu à quinze cents lieues de la Patagonie, dans l’hémisphère austral.
-Portés à terre, deux matelots et le capitaine Grant on atteint l’ile Tabor...”
+"Le 27 juin 1862; le trois-mâts Britannia, de Glasgow, s’est perdu à quinze cents lieues de la Patagonie, dans l’hémisphère austral.
+Portés à terre, deux matelots et le capitaine Grant on atteint l’ile Tabor..."
 - Micsoda?
 - kiáltott fel Paganel.
 Harry Grant folytatta:
-„Là, continuellement en proie à une cruelle indigence, ils ont jeté ce document par 153º de longitude et 37º11’ de latitude.
-Venez à leur secours, on ils sont perdus.”
+"Là, continuellement en proie à une cruelle indigence, ils ont jeté ce document par 153º de longitude et 37º11’ de latitude.
+Venez à leur secours, on ils sont perdus."
 Vagyis:
-„A glasgow-i háromárbocos Britannia 1862. június 27-én Patagóniától ezerötszáz mérföld­nyire hajótörést szenvedett a déli féltekén.
+"A glasgow-i háromárbocos Britannia 1862. június 27-én Patagóniától ezerötszáz mérföld­nyire hajótörést szenvedett a déli féltekén.
 Két matróz és Grant kapitány partra vetődött a Tabor-szigeten.
 Állandó kegyetlen nélkülözések közepette a 153. hosszúsági fokon és a 37. szélességi fok 11. percén tengerbe vetették ezt az iratot.
-Siessetek segítségükre, különben elvesztek.”
+Siessetek segítségükre, különben elvesztek."
 A Tabor név hallatára Paganel fölugrott, majd nem állta tovább szó nélkül.
 - Hogyhogy Tabor-sziget!?
 - kiáltott fel.
@@ -14083,7 +14075,7 @@ Nem volt az semmi a mellett a csapás mellett, mely a földrajzi tények részé
 Csaknem teljes egészében megfejtette a megfejthe­tetlen iratot!
 Patagónia, Ausztrália, Új-Zéland neve kétségtelen bizonyossággal sorra fölmerült gondolataiban.
 A contin szótöredék, melyet először continent-nak, azaz szárazföldnek értel­mezett, apránként elnyerte valódi értelmét: continuelle, azaz állandó.
-Az indi szótöredéket először indiens-né, azaz „indiánok”-ká, majd indigenes, vagyis „bennszülöttek” szóvá egészítette ki, de végül rájött, hogy valódi értelme indigence, azaz nélkülözés.
+Az indi szótöredéket először indiens-né, azaz "indiánok"-ká, majd indigenes, vagyis "bennszülöttek" szóvá egészítette ki, de végül rájött, hogy valódi értelme indigence, azaz nélkülözés.
 Csak a csonka abor szó tévesztette meg a földrajztudós éles eszét!
 Paganel makacsul az aborder, azaz partra száll ige töredékének tartotta, pedig valójában a Mária Terézia-sziget francia neve volt, annak a szigetnek a neve, ahol a Britannia hajótöröttjei menedéket találtak!
 Könnyen tévedhetett, hiszen a Duncan angol térképein Mária Terézia-néven szerepel ez a sziget!
@@ -14172,7 +14164,7 @@ Miért jár Paganel szüntelenül állig gombolt ruhában, miért húzza egésze
 Az őrnagy roppant kíváncsi volt ennek a különös hóbortnak az okára.
 Hiába faggatta, hiába tett célzá­sokat, hiába gyanúsítgatta, Paganel a szó szoros értelmében nem gombolkozott ki.
 Még akkor sem, mikor a Duncan az Egyenlítőn haladt át, s a fedélzeti pallók között még a kátrány is megolvadt az ötvenfokos hőségben.
-„Olyan szórakozott, hogy azt hiszi, Pétervárott vagyunk!” - gondolta az őrnagy, mikor látta, hogy a földrajztudós úgy burkolózik köpenyébe, mintha már a higany is megfagyott volna a hőmérőben.
+"Olyan szórakozott, hogy azt hiszi, Pétervárott vagyunk!" - gondolta az őrnagy, mikor látta, hogy a földrajztudós úgy burkolózik köpenyébe, mintha már a higany is megfagyott volna a hőmérőben.
 Május 9-én, ötvenhárom nappal azután, hogy elhagyták a talcahuanói öblöt, John Mangles megpillantotta a Clear-fok világítótornyának fényét.
 A jacht befordult a Szent György-csatornába, átkelt az Ír-tengeren, és május 10-én befutott a Clyde-öbölbe.
 Tizenegy órakor kikötött Dumbartonban.

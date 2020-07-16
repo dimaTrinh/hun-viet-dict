@@ -1,11 +1,8 @@
 ﻿ALEXANDRE DUMAS
-
 A HÁROM TESTŐR
-
 ELSŐ KÖTET
-
 ELŐSZÓ
-melyben megnyugtatjuk a tisztelt olvasót, hogy most következő történetünk hőseinek, 
+melyben megnyugtatjuk a tisztelt olvasót, hogy most következő történetünk hőseinek,
 bár nevük végződése -os és -is, semmi közük a mitológiához
 Körülbelül egy esztendeje, amikor a Királyi Könyvtárban anyagot gyűjtöttem könyvemhez, XIV.
 Lajos történetéhez, véletlen D’Artagnan úr emlékirataira, bukkantam; Pierre Rouge-nál nyomták Amsterdamban; így szokták rendszerint e korban a szerzők, ha meg akarták írni az igazságot, de nem ragaszkodtak ahhoz, hogy hosszabb-rövidebb időt töltsenek a Bastille-ban.
@@ -22,9 +19,9 @@ E szokatlan nevek annyira feltüzelték kíváncsiságunkat, hogy e perctől fog
 Egész fejezetet kitöltene, ha csupán a címét sorolnánk fel annak a töméntelen könyvnek, melyeket evégből böngésztünk, s ez talán fölöttébb tanulságos, de minden bizonnyal meg­lehetősen unalmas lenne olvasóinknak.
 Ezért csupán annak közlésére szorítkozunk, hogy amikor eredménytelen kutatásaink után már-már feladtunk minden reményt, és abba akartuk hagyni búvárkodásainkat, végül is, nagyhírű és tudós barátunk, Paulin Páris tanácsait követve, a 4772 vagy 4773-as sz.
 alatt - már nem emlékszünk egészen biztosan -, egy infolio kéziratra akadtunk, mely ezt a címet viselte:
-„La Fčre gróf úr emlékiratai némely eseményekrol, melyek XIII.
+"La Fčre gróf úr emlékiratai némely eseményekrol, melyek XIII.
 Lajos király uralkodásának vége felé és XIV.
-Lajos király uralkodásának kezdetén történtek Franciaországban.”
+Lajos király uralkodásának kezdetén történtek Franciaországban."
 Ez a kézirat volt végső reményünk, képzelhetik hát, micsoda öröm volt, amikor belelapoz­tunk, és a huszadik lapon Athos, a huszonhetediken Porthos és a harmincegyediken Aramis nevére bukkantunk.
 Úgy éreztük, valóságos csoda történt, hogy korunkban, amikor a történetírás tudománya oly magas fokot ért el, egy teljesen ismeretlen kéziratot sikerült felfedeznünk.
 Tüstént engedélyért folyamodtunk hát, hogy kinyomassuk; úgy gondoltuk, legalább idegen poggyásszal jussunk be a Történelem és Széptudományi Akadémiára, ha már - mint igen valószínű - a sajátunk nem nyitja meg előttünk a Francia Akadémia kapuit.
@@ -158,7 +155,7 @@ A nemes úr eközben ismét elfoglalta helyét az ablak mögött, és meglehető
 - Úgy - szólott hidegen az ismeretlen -, akkor hát álruhás királyi herceg.
 - Csak azért mondom, nemes uram - folytatta a fogadós -, jó lesz, ha szemmel tartja.
 - És dühében senkit nem emlegetett?
-- De igen; zsebére ütött, és így beszélt: „Meglátjuk, mit szól majd Tréville úr, ha megtudja, hogyan bánnak védenceivel.”
+- De igen; zsebére ütött, és így beszélt: "Meglátjuk, mit szól majd Tréville úr, ha megtudja, hogyan bánnak védenceivel."
 Az idegen felfigyelt.
 - Tréville úr?
 Tréville úr nevét említette és a zsebére ütött?...
@@ -724,7 +721,7 @@ Amint homloka a másik vállának ütközött, az felkiáltott, sőt felüvölt�
 Alig jutott azonban az első lépcsőfokig, egy acélos csukló derékon ragadta, és megállította.
 - Siet!
 - kiáltotta a testőr sápadtan, mint a halál.
-- Ezen a címen nekem ront, azt mondja, „Bocsánat”, és azt hiszi, minden rendben?
+- Ezen a címen nekem ront, azt mondja, "Bocsánat", és azt hiszi, minden rendben?
 Korántsem, barátocskám.
 Azt hiszi, amiért az imént végighallgatta, milyen keményen beszél velünk Tréville úr, most már maga is ugyanígy bánhat velünk?
 Ne áltassa magát, pajtikám; maga nem Tréville úr.
@@ -899,8 +896,8 @@ A jelen pillanatban is azt hajtogatta ugyan magában, hogy a halál fia, de esze
 Leendő ellen­feleinek jellemvonásait latolgatta, és egyre világosabban látta saját helyzetét.
 Athost őszinte bocsánatkéréssel köszönti majd; a testőr nagyúri viselkedése, komoly külseje igen megnyerő; remélte, hogy elnyeri barátságát.
 Azután abban a hitben ringatózott, hogy Porthost a kard­szíjjal fogja sakkban tartani; hiszen, ha a testőr nem öli meg azonnal, ő boldog-boldogtalan­nak elmondja a titkot, és ha ügyesen kihegyezi a történetet, Porthosnak mindenki a szeme közé nevet, nem lesz maradása; végül, ami a sunyi Aramist illeti, az már igazán nem sok vizet zavar; ha eljut odáig, könnyűszerrel elintézi, vagy legalábbis azt a módszert követve, melyet Ceasar javasolt Pompeius katonái ellen, az arcát sebzi meg, és örök életére elcsúfítja szabályos vonásait, melyekre olyan büszke.
-Mindezeken túl D’Artagnan jelleme a rendíthetetlen eltökéltségen nyugodott: atyja tanácsai alapozták ezt meg, nagyjából a következő formában: „Ne tűrj el senkitől semmit, csupán a királytól, a bíborostól és Tréville úrtól.” Ezért nem is ment, hanem szinte repült a Sarutlan Karmeliták kolostorához.
-Az ablaktalan, nagy épületet kopár rét szegélyezte, a Barátok Rétjének mintegy függeléke: itt szoktak találkozni azok, akiknek „sürgős ügyei” nem tűrtek halasztást.
+Mindezeken túl D’Artagnan jelleme a rendíthetetlen eltökéltségen nyugodott: atyja tanácsai alapozták ezt meg, nagyjából a következő formában: "Ne tűrj el senkitől semmit, csupán a királytól, a bíborostól és Tréville úrtól." Ezért nem is ment, hanem szinte repült a Sarutlan Karmeliták kolostorához.
+Az ablaktalan, nagy épületet kopár rét szegélyezte, a Barátok Rétjének mintegy függeléke: itt szoktak találkozni azok, akiknek "sürgős ügyei" nem tűrtek halasztást.
 Amikor D’Artagnan megpillantotta a rendház mellett húzódó keskeny üres telket, Athos már öt perce várt rá; éppen akkor ütötte a delet.
 Szóval pontos volt, a pontosság mintaképe, és a legszőrszálhasogatóbb párbaj szakértő sem vethetett volna semmit a szemére.
 Athosnak azóta is szörnyen fájt a sebe, jóllehet Tréville úr seborvosa közben átkötötte; most egy sarokkövön ült, úgy várta ellenfelét; éppoly nyugodt és méltóságteljes volt, mint mindig.
@@ -1262,10 +1259,10 @@ De el sem esett, fel sem adta a harcot, hanem La Trémouille úr palotája felé
 D’Artagnan pedig, mivel maga sem tudta, milyen súlyos ellenfele második sérülése, fürgén követte, és harmadik döfése minden bizonnyal végzett volna vele, ha az utcáról felharsanó kiáltozás le nem jut a labdaházig.
 Meghallotta ezt a gárdista két cimborája, akik az imént tanúi voltak az összeszólalkozásnak D’Artagnan és a gárdista között, majd azt is látták, hogy a szóváltás után eltávozik; ezek most kivont karddal előrerohantak a kocsma udvarából, és a győztesre támadtak.
 De máris ott termett Athos, Porthos és Aramis, és amikor a két gárdista szorongatni kezdte fiatal bajtársukat, visszavonulásra kényszerítették őket.
-E pillanatban Bernajoux összeesett, a gárdisták pedig, mivel négy ellen csupán ketten maradtak, segítségért kiáltottak: „Ide a Trémouille-ból!” A kiáltozásra minden épkézláb ember kitódult a palotából, a négy cimborára rontott, mire azok is kiabálni kezdtek: „Ide testőrök!”
+E pillanatban Bernajoux összeesett, a gárdisták pedig, mivel négy ellen csupán ketten maradtak, segítségért kiáltottak: "Ide a Trémouille-ból!" A kiáltozásra minden épkézláb ember kitódult a palotából, a négy cimborára rontott, mire azok is kiabálni kezdtek: "Ide testőrök!"
 Ez a segélykiáltás rendszerint nem maradt eredménytelen; mindenki tudta, hogy a testőrök a bíboros ellenségei, és mindenkinek tetszett, hogy utálják a bíborost.
 Ezért valamennyi alakulat gárdistái, ha csak, amint Aramis nevezte, nem a Vörös Herceg parancsolt nekik, többnyire a király testőrei mellé álltak az efféle csetepatékban.
-Éppen arra járt három királyi gárdista Des Essarts úr századából, ketten máris a négy cimbora segítségére siettek, a harmadik pedig Tréville úr palotája felé rohant, kiáltozva: „Ide, testőrök, ide!” Tréville úr palotájában, mint mindig, most is nagy volt a nyüzsgés: azonnal rohant mindenki, hogy bajtársaiknak segítsenek: a tusa mind nagyobb méreteket öltött, de a testőrök oldalán volt az erő; a bíboros gárdistái és La Tremouille úr emberei a palotába kényszerültek, és még elég jókor bezárták a kapukat, nehogy ellenségeik velük együtt betörjenek az épületbe.
+Éppen arra járt három királyi gárdista Des Essarts úr századából, ketten máris a négy cimbora segítségére siettek, a harmadik pedig Tréville úr palotája felé rohant, kiáltozva: "Ide, testőrök, ide!" Tréville úr palotájában, mint mindig, most is nagy volt a nyüzsgés: azonnal rohant mindenki, hogy bajtársaiknak segítsenek: a tusa mind nagyobb méreteket öltött, de a testőrök oldalán volt az erő; a bíboros gárdistái és La Tremouille úr emberei a palotába kényszerültek, és még elég jókor bezárták a kapukat, nehogy ellenségeik velük együtt betörjenek az épületbe.
 A sebesültet már ezt megelőzően odavitték, méghozzá, mint említettük, igen gyatra állapotban.
 A testőrök és szövetségeseik között forrpontra jutott a hangulat; már azon tanakodtak, mivel torolják meg La Trémouille úr inasainak pimaszságát, amiért rátámadtak a király testőreire; legjobb volna, javasolták egyesek, a palotát felgyújtani.
 A lelkes javaslat lelkes visszhangra talált, amikor szerencsére tizenegyet ütött az óra; D’Artagnan és cimborái hirtelen észbe kaptak, hogy közeledik a kihallgatás; sajnálták volna, ha a jó tréfából kimaradnak, ezért lehűtötték a felhevült kedélyeket.
@@ -1337,7 +1334,7 @@ Tréville úr csak nem jött: eltávoztak, és izgatottan várták, mi lesz.
 Tréville úr merészen belépett a király dolgozó­szobájába, és látta, hogy Őfelsége igen harapós kedvében üldögél egy karosszékben, és lovaglóostora nyelével csizmáját verdesi; de ez egy csöppet sem zavarta: rendületlenül megkérdezte, hogy szolgál az egészsége.
 - Rosszul, uram, rosszul - felelt a király -, unatkozom.
 Igen, az unalom volt XIII.
-Lajos leggyötrelmesebb betegsége; a király nemegyszer karonfogta valamelyik udvaroncát, behúzta egy ablakmélyedésbe, és így szólt hozzá: „Hogyishívják úr, unatkozzon velem!”
+Lajos leggyötrelmesebb betegsége; a király nemegyszer karonfogta valamelyik udvaroncát, behúzta egy ablakmélyedésbe, és így szólt hozzá: "Hogyishívják úr, unatkozzon velem!"
 - Hogyan!
 Felséged unatkozik!
 - szólt Tréville úr.
@@ -1537,7 +1534,7 @@ Mindenről beszélt, csupán tudós tárgyról nem; arra hivatkozott, hogy kora 
 Fellépése nem volt oly előkelő, mint Athosé; érezte is e téren alsóbb­rendű­ségét, és ismeretségük kezdetén emiatt gyakran igazságtalan volt hozzá, és káprázatos ruházkodással igyekezett túlszárnyalni.
 Athos azonban, ahogy egyszerű testőrzubbonyát viselte, ahogy hátravetette a fejét, vagy előre tette a lábát, egy szempillantás alatt kivívta magának az őt megillető helyet, és a második vonalba utasította Porthost, bárhogy is páváskodott az.
 Porthos azzal vigasztalódott, hogy Tréville úr várószobáját és a Louvre gárdistáinak őrhelyeit telekürtölte hódításaival, amiről Athos mindig hallgatott; miután pedig Porthos a hivatali nemesség soraiból átlépett a kardforgató nemesek sorába, és bírónék helyett bárónék szoknyája körül legyeskedett, mindenki tudta, hogy most már csak külföldi hercegnőket tüntet ki kegyeivel, de csak akkor, ha fülig szerelmes belé a hölgy - ennél alább igazán nem adja.
-Van egy régi közmondás: „Amilyen az úr, olyan a szolgája.” Térjünk is át Athos inasáról Porthos inasára, Grimaud-ról Mousquetonra.
+Van egy régi közmondás: "Amilyen az úr, olyan a szolgája." Térjünk is át Athos inasáról Porthos inasára, Grimaud-ról Mousquetonra.
 Mousqueton normandiai volt; eredetileg Boniface-nak hívták, de gazdája a sokkal hangza­tosabb Mousquetonra változtatta ezt a békésen hangzó nevet.
 Amikor Porthos szolgálatába állt, csupán azt kötötte ki, hogy ruhát és lakást kap, de fejedelmit; mindössze napi két óra szabad időre tartott igényt: ezalatt másfajta elfoglaltsággal egyéb úton-módon szerzi meg megélhetési költségeit.
 Porthos ráállt az alkura: jobbat nem is álmodhatott.
@@ -1597,9 +1594,9 @@ Beletörődött hát, hogy pillanatnyilag készpénznek veszi mindazt, amit a m�
 Addig is, úgy tekintette, hogy Athos maga Achilles, Porthos a nagy Ajax, Aramis pedig a szűzi Hippolytos.
 A négy fiatalember egyébiránt vígan élte világát; Athos kártyázott, de állandó balszerencse üldözte.
 Mégsem kért soha egy fillért sem barátaitól, jóllehet az ő erszénye mindig rendelkezésükre állt; ha pedig becsületszóra játszott, már reggel hatkor felverte hitelezőjét, hogy esti adósságát kifizesse.
-Porthosnak voltak „vad napjai”: ha ilyenkor nyert, hetyke volt és szórta a pénzt; ha vesztett, napokig színét sem látták, s amikor megjelent, sápadt és nyúzott volt a képe, de pénz csörgött a zsebében.
+Porthosnak voltak "vad napjai": ha ilyenkor nyert, hetyke volt és szórta a pénzt; ha vesztett, napokig színét sem látták, s amikor megjelent, sápadt és nyúzott volt a képe, de pénz csörgött a zsebében.
 Aramis soha nem kártyázott.
-A rossz testőr és az elviselhetetlen „szesztestvér” eszményképe volt.
+A rossz testőr és az elviselhetetlen "szesztestvér" eszményképe volt.
 Szenvedett, ha nem dolgozhatott.
 Egyszer-másszor lakmározásaik kellős közepén, amikor a bor már a cimborák fejébe szállt, és mindenki úgy belemerült a beszélgetésbe, mintha hosszú órákat készülne még az asztalnál tölteni, Aramis az órájára pillantott, bájosan mosolyogva fölkelt, és elköszönt a társaságtól: bocsánatot kért: találkája van egy kazuistával6; fontos lelkiismereti kérdésben várja tanácsát.
 Máskor azért hagyta őket faképnél, mert dolgozatot kellett írnia; kérte barátait, ne zavarják.
@@ -1654,7 +1651,7 @@ D’Artagnan felébresztette Planchet-t és ráparancsolt, nyisson ajtót.
 Abból, hogy D’Artagnan felébresztette Planchet-t, ne vonjon le téves következtetést az olvasó; ne higgye, hogy éjszaka volt, vagy még nem jött el a reggel.
 Korántsem!
 Éppen akkor ütötte a négyet.
-Két órája sincs, hogy Planchet ebédet kért gazdájától, és csupán ezt a közmondást kapta: „Aki alszik, ebédel.” Planchet tehát elaludt és ebédelt.
+Két órája sincs, hogy Planchet ebédet kért gazdájától, és csupán ezt a közmondást kapta: "Aki alszik, ebédel." Planchet tehát elaludt és ebédelt.
 Elég egyszerű, polgárkülsejű férfi lépett be.
 Planchet ebéd utáni csemegének örömest végigélvezte volna a beszélgetést; a polgár azonban közölte D’Artagnannal, hogy fontos és bizalmas mondanivalója van, és négyszemközt kíván maradni vele.
 D’Artagnan kiküldte Planchet-t, és leültette látogatóját.
@@ -1915,11 +1912,11 @@ Nagyon kérem folytassa, Aramis.
 - Váratlanul egy magas, barna férfi, úri modorú... szóval olyasféle mint D’Artagnan embere...
 - Lehet, hogy ugyanaz - szólt közbe a gascogne-i.
 - Lehet - folytatta Aramis... -, hozzám lépett, nyomában, vagy tíz lépésnyire, öt-hat más alak.
-Aztán kifogástalanul udvariasan megszólított: „Herceg úr,” - majd a hölgyhöz fordult, aki belém karolt - „és kegyed is, asszonyom...”
+Aztán kifogástalanul udvariasan megszólított: "Herceg úr," - majd a hölgyhöz fordult, aki belém karolt - "és kegyed is, asszonyom..."
 - A teológus unokahúgához?
 - Csend legyen, Porthos!
 - mondta Athos - ez már igazán több a soknál.
-- „Szíveskedjenek beszállni ebbe a hintóba, kérem, ne tiltakozzanak, ne üssenek zajt.”
+- "Szíveskedjenek beszállni ebbe a hintóba, kérem, ne tiltakozzanak, ne üssenek zajt."
 - Buckinghamnek nézte Aramist!
 - kiáltott D’Artagnan.
 - Én is azt hiszem - válaszolt Aramis.
@@ -2017,7 +2014,7 @@ Nagy ember vagy, D’Artagnan; majd ha Tréville úr helyére kerülsz, kérlek,
 - Kezet a szívre, és esküdj!
 - kiáltott egyszerre Athos és Aramis.
 A példa hatott, Porthos, bár magában dohogott - szívére tette a kezét, a négy barát egyszerre ismételte D’Artagnan után az eskümintát:
-„Mindenki egyért, egy mindenkiért.”
+"Mindenki egyért, egy mindenkiért."
 - Rendben van, most pedig mindenki haza - szólt D’Artagnan, mintha eddig is csak parancsolgatott volna egész életében -, és jól vigyázzunk, mert e percben nagy fába vágtuk a fejszét; a bíboros az ellenfelünk.
 EGY TIZENHETEDIK SZÁZADI PATKÁNYFOGÓ
 A patkányfogó nem újkeletű találmány; mihelyt a kialakuló társadalom rendőrséget szervezett, a rendőrség feltalálta a patkányfogót.
@@ -2196,7 +2193,7 @@ Hármat kopogtatott: kettőt elég erősen egymás után, utána halkabban, hoss
 - Menjen a Louvre Lajtorja utcai kapujához; kérje a kukucskálónál Germaint.
 - Helyes.
 És aztán?
-- Ha Germaine megkérdezi, mit akar, két szót feleljen neki „Tours és Bruxelles”.
+- Ha Germaine megkérdezi, mit akar, két szót feleljen neki "Tours és Bruxelles".
 Erre azonnal rendelkezésre áll.
 - És hogyan rendelkezzem?
 - Kihívatja La Porte urat, a királyné szobainasát.
@@ -2562,8 +2559,8 @@ De hát miért?
 - A négy fekete alak, akiket ki tetszett dobni, nyakunkra hozta a gárdistákat.
 - Miért nem mondta meg a nevét?
 Miért nem mondta, hogy semmi köze a dologhoz?
-- Isten ments, uram; sőt odahúzott magához, s a fülembe súgta: „Most az a fontos, hogy a gazdád maradjon szabad, ne én; ő mindent tud, én meg semmit.
-Azt hiszik majd, hogy lefogták, s ezzel időt nyer; három nap múlva elárulom, ki vagyok, s akkor nem tehetnek mást, mint hogy szabadon bocsátanak.”
+- Isten ments, uram; sőt odahúzott magához, s a fülembe súgta: "Most az a fontos, hogy a gazdád maradjon szabad, ne én; ő mindent tud, én meg semmit.
+Azt hiszik majd, hogy lefogták, s ezzel időt nyer; három nap múlva elárulom, ki vagyok, s akkor nem tehetnek mást, mint hogy szabadon bocsátanak."
 - Brávó, Athos!
 - dörmögte D’Artagnan - ráismerek nemes szívére!
 És mit csináltak a fogdmegek?
@@ -2650,7 +2647,7 @@ Germain különben is a királyné embere volt, s ha valami közbejött volna, m
 Miután a herceg és a fiatalasszony bejutott az udvarba, mintegy huszonöt lépésnyit haladtak előre a fal tövében, azután Bonacieux-né benyitott egy kis személyzeti ajtón, mely nappal nyitva állt, éjszakára azonban rendszerint zárva volt; most kinyílott, mindketten beléptek, vaksötét vette őket körül, Bonacieux-né azonban e részen a Louvre-ban ismert minden zegzugot, mert itt lakott a személyzet.
 Bezárta maguk mögött az ajtót, kézen fogta a herceget, néhány lépésnyire előre tapogatózott, megkapaszkodott egy korlátban, lábával megkeresett egy lépcsőt, és megindult felfelé: a herceg magában számolt: két emelet.
 Akkor az asszony jobbra tért, megindult egy hosszú folyosón, lement az első emeletre, néhány lépéssel ismét továbbhaladt, kulcsot dugott egy zárba, kinyitott egy ajtót, és a herceget előretolta egy szobába, melyben mindössze egyetlen mécses pislákolt.
-„Mindjárt jönnek, milord - mondta a hercegnek -, kegyeskedjék itt várakozni.” Majd eltávozott ugyanazon az ajtón, ráfordította a kulcsot, s a herceg a szó legszorosabb értelmében fogoly volt.
+"Mindjárt jönnek, milord - mondta a hercegnek -, kegyeskedjék itt várakozni." Majd eltávozott ugyanazon az ajtón, ráfordította a kulcsot, s a herceg a szó legszorosabb értelmében fogoly volt.
 Azonban meg kell mondanunk, bármily egyedül volt is Buckingham herceg, pillanatnyi félelmet sem érzett; mindig kereste a kalandot, kereste a regényes helyzeteket: ilyen természete volt.
 Merész, sőt vakmerő és vállalkozó szellemű férfi lévén, nem első ízben tette kockára életét efféle kalanddal; megtudta, hogy az állítólagos üzenet Ausztriai Annától, amely miatt Párizsba jött nem egyéb, mint kelepce, ha már azonban így alakult a helyzet, rögtön kiaknázta, és nem tért vissza Angliába, hanem értésére adta a királynénak, hogy nem távozik, amíg nem láthatja.
 A királyné először határozottan visszautasította, de később megriadt, hogy a herceg elkeseredésében valami őrültséget csinál.
@@ -2853,7 +2850,7 @@ Mit csinált vele?
 - Elrabolták!
 - mondta a biztos.
 - Ejha!
-Az „ejha!” hallatára Bonacieux úgy érezte, hogy még jobban táncol lába alatt föld.
+Az "ejha!" hallatára Bonacieux úgy érezte, hogy még jobban táncol lába alatt föld.
 - Elrabolták!
 - folytatta a biztos - és tudja-e, ki rabolta el?
 - Azt hiszem, ismerem az illetőt.
@@ -2948,7 +2945,7 @@ Nem ismeri?
 - Hiszen azt mondta, hogy D’Artagnannak hívják.
 - Én?
 - Igen, maga.
-- Azaz, hogy megkérdezték tőlem: „Uraságod D’Artagnan úr?” Én meg azt feleltem: „Azt hiszik?” A gárdisták azt felelték, hogy biztosan az vagyok.
+- Azaz, hogy megkérdezték tőlem: "Uraságod D’Artagnan úr?" Én meg azt feleltem: "Azt hiszik?" A gárdisták azt felelték, hogy biztosan az vagyok.
 Nem akartam velük feleselni.
 Különben ember vagyok, én is tévedhetek.
 - Uram, uraságod a törvény méltóságába gázol.
@@ -3155,9 +3152,9 @@ Majd azon leszünk, hogy visszaüssünk.
 - A királynét igen felkavarta a dolog, és a vastag pirosító alatt is látszott, hogy belesápad.
 - És aztán?
 És aztán?
-- Fölkelt székéről, és remegő hangon így szólt: „Hölgyeim, várjanak, tíz perc múlva vissza­jövök.” Kinyitotta hálófülkéje ajtaját, és távozott.
+- Fölkelt székéről, és remegő hangon így szólt: "Hölgyeim, várjanak, tíz perc múlva vissza­jövök." Kinyitotta hálófülkéje ajtaját, és távozott.
 - Miért nem küldött Lannoy asszony nyomban értesítést?
-- Semmit sem lehetett tudni bizonyosan; a királyné különben is azt mondta: „Hölgyeim, várjanak” - ő pedig nem merte megszegni a királyné parancsát.
+- Semmit sem lehetett tudni bizonyosan; a királyné különben is azt mondta: "Hölgyeim, várjanak" - ő pedig nem merte megszegni a királyné parancsát.
 - És mennyi ideig volt szobáján kívül a királyné?
 - Háromnegyed óráig.
 - Egyik hölgye sem kísérte el?
@@ -3234,9 +3231,9 @@ Most pedig, ugye zsebre teszi ezt a csekélységet, és remélem, nem válunk el
 - Bőven lesz rá alkalom, ne féljen, rendkívüli élvezet számomra, ha magával társalkodhatom.
 - Igazán, kegyelmes uram!...
 - Viszontlátásra, Bonacieux úr, viszontlátásra.
-A bíboros búcsút intett, Bonacieux pedig válaszul földig hajolt, azután hátrálva távozott, és amikor az előszobába ért, a bíboros hallotta, hogy nem tudja magába fojtani boldogságát, és torka szakadtából kiabál: „Éljen Őeminenciája!
+A bíboros búcsút intett, Bonacieux pedig válaszul földig hajolt, azután hátrálva távozott, és amikor az előszobába ért, a bíboros hallotta, hogy nem tudja magába fojtani boldogságát, és torka szakadtából kiabál: "Éljen Őeminenciája!
 Éljen a kegyelmes úr!
-Éljen a nagy bíboros.” A bíboros mosolyogva hallgatta Bonacieux mester rajongásának lelkendező megnyilatkozását, s amint a rőfös ordibálása mindinkább eltávolodott, megszólalt:
+Éljen a nagy bíboros." A bíboros mosolyogva hallgatta Bonacieux mester rajongásának lelkendező megnyilatkozását, s amint a rőfös ordibálása mindinkább eltávolodott, megszólalt:
 - Nos, most már ez is életre-halálra az én emberem.
 Majd a legnagyobb figyelemmel tanulmányozni kezdte La Rochelle térképét, mely, amint említettük, íróasztalán volt kiteregetve; vonalat húzott rajta ceruzával; itt húzódik majd a híres gát, másfél év múlva ez zárja majd el az ostromlott város kikötőjét.
 Egészen elmélyedt stratégiai elképzeléseibe, midőn kinyílt az ajtó, és belépett Rochefort.
@@ -3313,7 +3310,7 @@ Igaz is, Eminenciás uram - folytatta Tréville, és a bíboroshoz fordult -, Ca
 - Fel, igazán kedves!
 - szólt a bíboros, és dühösen összeszorította az ajkát.
 - Tehát Athos úr látogatóban járt egyik barátjánál, aki éppen nem tartózkodott otthon - folytatta Tréville úr -, Felséged gárdistája, a fiatalember, Des Essarts úr századában, egyébiránt Béarnba valósi; azonban alig hogy Athos kényelembe helyezte magát barátjánál, és várakozás közben, egy könyvben lapozgatott, katonák és fogdmegek sáskahada rontott a házra, több kaput betört...
-A bíboros figyelmeztetésül a király felé intett: „Épp erről az ügyről beszéltem az imént.”
+A bíboros figyelmeztetésül a király felé intett: "Épp erről az ügyről beszéltem az imént."
 - Tudunk róla - szólt közbe a király -, a mi érdekünkben történt.
 - Akkor hát - szólt Tréville - szintén Felséged érdekében fogták el egyik ártatlan testőrömet, Felséged érdekében kísérték végig az utcán két fegyveres őr között, mint egy gonosztevőt; Felséged érdekében hurcolták meg az orcátlan csőcselék előtt ezt a derék urat, aki tízszer ontotta vérét Felségedért, és bármikor készen áll ugyanerre.
 - Ej!
@@ -3598,7 +3595,7 @@ Aki benne van ebben a levélben, mind meglakol érdeme szerint: a királyné sem
 - Egy szót sem erről, Felség!
 Ments isten, hogy miattam bármi kellemetlenség érje a királynét!
 Mindig ellenségei közé számított, holott Felséged a megmondhatója, hogy mindig szívvel-lélekkel az ő pártján álltam, még Felséged ellenében is.
-Persze ha Felséged becsületén ejtene csorbát, akkor, nem tagadom, én mondanám ki először a szót: „Nincs kegyelem, Felség, a bűnért bűnhődnie kell!” De szerencsére erre semmi ok, Felséged épp most bizonyosodott meg róla újólag.
+Persze ha Felséged becsületén ejtene csorbát, akkor, nem tagadom, én mondanám ki először a szót: "Nincs kegyelem, Felség, a bűnért bűnhődnie kell!" De szerencsére erre semmi ok, Felséged épp most bizonyosodott meg róla újólag.
 - Úgy van, bíboros úr - felelt a király -, mint mindig, most is igaza van, ámde a királyné mégiscsak rászolgált haragomra.
 - Inkább Felséged szolgált rá az övére, és nagyon megérteném, ha mélyen sértve érezné magát: Felséged túl szigorú volt vele szemben!...
 - Ezután is mindig így bánok ellenségeimmel, herceg, és Eminenciád ellenségeivel is; nem riadok meg a rangjuktól, és nem félek, hogy keménységem veszélybe sodor.
@@ -3781,7 +3778,7 @@ Alighogy hazatért, a derék rőfös nyomban elmondta feleségének szerencsés 
 A félórácska öt napig váratott magára, s ezt egyéb körülmények között kissé sokallta volna Bonacieux mester, ám amióta látogatóban volt a bíborosnál, s amióta Rochefort gróf őhozzá járt látogatóba, ugyancsak volt min elmélkednie.
 Amint tudjuk, semmi nem tölti ki úgy az időt, mint az elmélkedés.
 Tegyük még hozzá, hogy Bonacieux elmélkedései során felettébb rózsás színben látta a világot.
-Rochefort „kedves Bonacieux barátomnak” szólította, és folyton azt húzta a fülébe, hogy a bíboros rendkívül nagyra becsüli.
+Rochefort "kedves Bonacieux barátomnak" szólította, és folyton azt húzta a fülébe, hogy a bíboros rendkívül nagyra becsüli.
 A rőfös máris úgy érezte, elindult a nagyság és gazdagság felé.
 Persze Bonacieux-né sem fecsérelte idejét, ő azonban, valljuk meg, nem szőtt nagyravágyó terveket; gondolatai akarva, akaratlan egyre csak azt a csinos és vakmerő fiatalembert rajzották körül, aki oly lángoló szerelmesnek mutatkozott, Bonacieux-né tizennyolc esztendős volt, amikor férjhez adták; férje baráti körén kívül nem volt más társasága, Bonacieux urat pedig az Isten sem arra teremtette, hogy ábrándjaikba foglalják az asszonyok, főként, ha érzelmeik túlemelkednek társadalmi helyzetükön.
 Bonacieux-nén nem fogott az alantas csábítás, ám a nemesi cím varázsa, főképp ebben az időben, szinte ellenállhatatlan volt a polgárságra, D’Artagnan pedig nem csupán nemesi címet, hanem gárdista zubbonyt is viselt, s a hölgyek ennél csupán a testőruniformist értékelték magasabbra.
@@ -3954,7 +3951,7 @@ Egy csöppet sem.
 - Szóval a viszontlátásra?
 - Hamarosan.
 Bonacieux kezet csókolt feleségének, aztán elsietett.
-- Hát - mondta Bonacieux-né, amint férje becsapta a kaput, és ő magára maradt -, egyéb sem hiányzott, mint hogy „megbíborosodjon” ez az ökör!
+- Hát - mondta Bonacieux-né, amint férje becsapta a kaput, és ő magára maradt -, egyéb sem hiányzott, mint hogy "megbíborosodjon" ez az ökör!
 Én meg felelősséget vállaltam érte, ígéretet tettem drága jó királynémnak... Jaj, istenem, istenem!
 Azt hiszi majd, én is csak spion vagyok!
 No, Bonacieux uram!
@@ -4036,7 +4033,7 @@ Igen, igaza van, szabadságot kell kérnem.
 - Mi?
 - kérdezte D’Artagnan, látva, hogy Bonacieux-né habozik.
 - Attól tartok, hogy nincs pénze.
-- „Attól tart?” Ez túl szép kifejezés - szólt D’Artagnan elmosolyodva.
+- "Attól tart?" Ez túl szép kifejezés - szólt D’Artagnan elmosolyodva.
 - Tessék - folytatta Bonacieux-né, azzal kinyitott egy szekrényt, egyik fiókjából elővette a zacskót, melyet alig félórája oly szerelmesen becézgetett a férje -, tessék, itt ez a pénz.
 - A bíboros pénze!
 - kacagott fel D’Artagnan.
@@ -4351,7 +4348,7 @@ Ha már vásárra viszem a bőröm - szólt Porthos -, talán csak megtudhatom k
 - Nem azért mondom - szólalt meg Aramis -, de én is helyeslem Porthos kérdését.
 - Talán számadással tartozik nekünk a király?
 Soha!
-Őfelsége csupán annyit mond: „Uraim, harcolni fogunk Gascogne-ban vagy Flandriában, menjenek, harcoljanak” - s az urak nyomban indulnak.
+Őfelsége csupán annyit mond: "Uraim, harcolni fogunk Gascogne-ban vagy Flandriában, menjenek, harcoljanak" - s az urak nyomban indulnak.
 Hogy miért?
 Bánja az ördög.
 - D’Artagnannak igaza van - szólt Athos -, itt van Tréville úrtól három szabadságos levél, s itt van háromszáz arany, fene bánja, kitől.
@@ -4483,7 +4480,7 @@ Azzal egy nyaláb szalmára mutatott.
 - Én se szívelem - tette hozzá Athos.
 Planchet kilépett az ablakon, keresztbe feküdt az ajtó előtt.
 Grimaud pedig bezárkózott az istállóba, és vissza kiáltott, hogy reggel ötre a négy lóval együtt útra készen áll.
-Az éjszaka elég nyugodalmas volt, hajnali kettőkor megpróbálták ugyan kinyitni az ajtót, Planchet azonban talpra ugrott és nagyot kiáltott: „Ki az?”, mire azt felelték tévedés, és az éji látogató eltávozott.
+Az éjszaka elég nyugodalmas volt, hajnali kettőkor megpróbálták ugyan kinyitni az ajtót, Planchet azonban talpra ugrott és nagyot kiáltott: "Ki az?", mire azt felelték tévedés, és az éji látogató eltávozott.
 Hajnali négykor nagy zenebona tört ki az istállóban.
 Grimaud fel akarta kelteni az istálló­fiúkat, s azok agyba-főbe verték.
 Amikor kitárták az ablakot, ott hevert szegény fiú eszmélet­lenül, villanyéllel törték be a fejét.
@@ -4654,7 +4651,7 @@ D’Artagnan és Planchet egy-egy hátaslovat fogadott, egy vezető nyargalt el�
 D’Artagnan nem ismerte Londont, egy szót sem tudott angolul, de leírta Buckingham nevét egy papírosra, s így útba igazították a herceg palotája felé.
 A herceg Windsorban volt vadászaton a királlyal.
 D’Artagnan kihívatta a herceg belső inasát; az minden útjára elkísérte gazdáját és tökéletesen beszélt franciául; D’Artagnan elmondta, hogy fontos ügyben épp most érkezett Párizsból, élet-halál kérdése forog kockán, és tüstént beszélnie kell a gazdájával.
-D’Artagnan oly magabiztosan viselkedett, hogy Patrice - így hívták a miniszter „házi miniszterét” - hitelt adott szavainak.
+D’Artagnan oly magabiztosan viselkedett, hogy Patrice - így hívták a miniszter "házi miniszterét" - hitelt adott szavainak.
 Felnyergeltetett két lovat, és vállalta, hogy elkíséri a fiatal gárdistát.
 Planchet mozdulni sem bírt, úgy szedték le a lóról; ereje a végére járt.
 D’Artagnan most is keményen állta a sarat.
@@ -4825,8 +4822,8 @@ De ezen felül is, talán a kisujjamat sem mozdítottam volna soha, ha örömet 
 - Jól mondja, milord; hisz éppen most, amikor háborúra kerül a sor, be kell vallanom, kegyelmedet csupán angolnak, tehát ellenségnek tekintem, és jobb szívvel venném, ha a csatatéren találkoznánk, mint a windsori parkban vagy a Louvre folyosóin.
 Mindez különben a világért sem akadályoz meg abban, hogy pontról pontra végre ne hajtsam küldetésemet, és szükség esetén életemet ne adjam érte.
 De hadd mondjam el még egyszer: amit teszek, magamért teszem, és személy szerint ezért Kegyelmed semmiképpen sem tartozik most, másodízben sem több köszönettel, mint amikor első ízben láttuk egymást.
-- „Büszke akár egy skót”... - így mondják mifelénk - dörmögte Buckingham.
-- Mifelénk pedig így: „Büszke, akár egy gascogne-i” - felelte D’Artagnan.
+- "Büszke akár egy skót"... - így mondják mifelénk - dörmögte Buckingham.
+- Mifelénk pedig így: "Büszke, akár egy gascogne-i" - felelte D’Artagnan.
 - Minálunk Gascogne-ban van Skócia.
 D’Artagnan köszönt a hercegnek, és távozni készült.
 - Nono!
@@ -5136,7 +5133,7 @@ Vigyázzon, kedves D’Artagnan, az ellenség ajándéka nem hoz szerencsét; va
 - Persze, hogy van - felelte D’Artagnan, bár az első deklinációt sem tudta soha bemagolni, és tudatlanságával mindig kétségbeejtette preceptorát -, persze hogy van, miért ne volna?
 - Hát van is, bizonyosan - mondta Tréville úr, aki időről időre belekontárkodott az irodalomba -, éppen Benserade úr9 idézte nemrégiben... hogyis van csak... no megvan, ez az!
 ... Timeo Danaos et dona ferentes.
-Vagyis: „Félj az ellenségtől, ha ajándékot hoz is.”
+Vagyis: "Félj az ellenségtől, ha ajándékot hoz is."
 - Ez a gyémánt nem az ellenségtől származik, uram - szólt erre D’Artagnan -, a királyné adta.
 - A királyné!
 Hohó!
@@ -5543,7 +5540,7 @@ Beszélj már!
 - És te mit feleltél?
 - Hogy ez lehetetlen, mert, amint maga is látja, nem tetszik itthon lenni.
 - Mit mondott erre?
-- Azt, hogy feltétlenül tessék hozzá benézni még a mai napon, aztán még azt is a fülembe súgta: „Mondd meg a gazdádnak, hogy Őeminenciája igen-igen kedveli, és talán a szerencséje függ ettől a látogatástól.”
+- Azt, hogy feltétlenül tessék hozzá benézni még a mai napon, aztán még azt is a fülembe súgta: "Mondd meg a gazdádnak, hogy Őeminenciája igen-igen kedveli, és talán a szerencséje függ ettől a látogatástól."
 - A bíboros úr kelepcéje elég otromba ezúttal - felelte mosolyogva a fiatalember.
 - Magam is láttam, hogy kelepce, és azt feleltem, biztosan kétségbe tetszik majd esni, ha vissza tetszik érkezni.
 - És hova ment a gazdád?
@@ -5622,7 +5619,7 @@ Jócskán előlegeztünk ugyanis Porthos úrnak, és éppen ma reggel jelentette
 - Magam sem tudom, uram.
 - Hogyhogy nem tudja?
 Ki tudhatná, ha maga nem?
-- Igaz uram, de egy fogadós sokszor nem mondhatja el, amit tud, főként, ha azt mondják neki: „Ne szólj szám, nem fáj fejem.”
+- Igaz uram, de egy fogadós sokszor nem mondhatja el, amit tud, főként, ha azt mondják neki: "Ne szólj szám, nem fáj fejem."
 - No jó!
 De azért meglátogathatom?
 - Hogyne uram.
@@ -5744,7 +5741,7 @@ Legyen hát egész nyugodt, kedves fogadós uram, és bánjon vele továbbra is 
 - Ne féljen, nem eszik olyan forrón, ahogy főzik.
 Azzal D’Artagnan felment a lépcsőn; a fogadós most már kissé nyugodtabb volt, mert valamelyest nagyobb biztonságban tudta két legdrágább kincsét: a pénzét meg az életét.
 A lépcső tetején, a folyosó legszembetűnőbb ajtaján tintával írt óriási fekete 1-es szám volt látható; D’Artagnan bekopogtatott, s amikor belülről kikiáltották, hogy szabad, belépett.
-Porthos ágyban feküdt és „hogy ki ne jöjjön a gyakorlatból”, Mousquetonnal kártyázott; eközben a tűz előtt egy sor fogoly forgott a nyárson, a nagy kandalló két sarkán meg egy-egy kondér fortyogott, ínycsiklandó illatot árasztva: egyfelől nyúlpaprikás, másfelől halászlé szagát.
+Porthos ágyban feküdt és "hogy ki ne jöjjön a gyakorlatból", Mousquetonnal kártyázott; eközben a tűz előtt egy sor fogoly forgott a nyárson, a nagy kandalló két sarkán meg egy-egy kondér fortyogott, ínycsiklandó illatot árasztva: egyfelől nyúlpaprikás, másfelől halászlé szagát.
 Egy kis asztalon s a komód márványlapján üres palackok sorakoztak.
 Alig pillantotta meg barátját Porthos, nagyot rikkantott örömében.
 Mousqueton pedig tiszte­lettel fölállt, átadta helyét, és megvizitálta a két bográcsot: úgy látszott, különös figyelmet szentel nekik.
@@ -5777,7 +5774,7 @@ Azt hiszem, itt szörnyen unatkozik.
 Még a zsebemben volt a hetvenöt arany, és szórakozni akartam; itt volt egy úriember átutazóban, megkértem jöjjön fel hozzám, gondoltam, meghívom, kockázzunk egy kicsit.
 Elfogadta a meghívást, s aztán, mi tagadás, hetvenöt aranyam az ő zsebébe vándorolt; a lovamról nem is beszélek, az csak ráadás volt.
 De hát magával mi van, kedves D’Artagnanom?
-- Sebaj, kedves Porthos, senki sem lehet mindenben szerencsés - felelte D’Artagnan: - „Kártyaveszteség, szerelmi nyereség” - mondja a közmondás.
+- Sebaj, kedves Porthos, senki sem lehet mindenben szerencsés - felelte D’Artagnan: - "Kártyaveszteség, szerelmi nyereség" - mondja a közmondás.
 Akit a szerelemben így üldöz a szerencse, azon a kártya bosszút áll, de aki ilyen nagy kópé, az rá sem hederít, bármily csapodár is Fortuna istenasszony!
 Hiszen itt van a hercegnője, az csak biztosan segít, ugyebár?
 - Tudja, hogy van ez, kedves D’Artagnan: a baj sosem jár egyedül - felelte Porthos, rendkívül könnyedén -, írtam is neki, hogy sürgős szükségem volna ötven aranyra, mert olyan helyzetbe jutottam...
@@ -5980,7 +5977,7 @@ prorsus admirabile!
 Én azonban persze kellő alázattal, megvallottam a nagytudományú tisztelendő uraknak, hogy tanulmányaim némileg megszenvedték az őrségben töltött éjszakákat és a király szolgálatát.
 Otthonosabban mozognék tehát, facilius natans, a magam választotta tárgykörben, mert olyan az a teológia fogas kérdéseihez képest, mint a filozófia területén az erkölcstan a metafizikához képest.
 D’Artagnan mélységesen unta, a plébános úgyszintén.
-- Mily csodás „expoziálós”!
+- Mily csodás "expoziálós"!
 - kiáltott fel a jezsuita.
 - Expositio10 - ismételte a plébános, hogy ő is mondjon valamit.
 - Quemadmodum inter coelorum immensitatem.11
@@ -5992,9 +5989,9 @@ nézze csak, milyen remek lehetőséget ad ez a glossza.
 - Mózes, az Úr szolgája... csupán szolgája, jegyezze meg!
 Mózes kézzel osztja az áldást, mások tartják a két karját, miközben a zsidók megverik ellenségeiket; tehát két kézzel osztja az áldást.
 Különben az evangéliumban is ez áll: Imponite manus, nem pedig manum.
-- „Helyezzétek rá kezeiteket”, nem pedig „kezeteket”.
+- "Helyezzétek rá kezeiteket", nem pedig "kezeteket".
 - Helyezzétek rá kezeiteket - ismételte a plébános, kezével mutatva.
-- Szent Péternek viszont, s a pápák az ő utódai, így szólt az Úr: Porrige digitos - folytatta a jezsuita, - Azaz: „Tartsátok fel ujjaitokat.” Érti már?
+- Szent Péternek viszont, s a pápák az ő utódai, így szólt az Úr: Porrige digitos - folytatta a jezsuita, - Azaz: "Tartsátok fel ujjaitokat." Érti már?
 - Hogyne - válaszolta Aramis, és látszott rajta, úgy érzi magát, mintha hájjal kenegetnék -, csakhogy fölöttébb bonyodalmas a dolog.
 - Ujjaitokat!
 - folytatta a jezsuita - tehát Szent Péter az ujjaival áld.
@@ -6011,7 +6008,7 @@ Ebből én - folytatta a jezsuita - két ekkora kötetet tudnék összeírni.
 D’Artagnan hüledezett.
 - Persze - szólt Aramis -, a dolgozat igen szép, nem is tagadom, ám egyben azt is érzem, hogy meghaladja erőmet.
 Nézze, kedves D’Artagnan, én ezt a szöveget választottam; mondja csak, hogy tetszik magának: Non inutile est desiderium in oblatione, vagyis:
-„Nem haszontalan a bánkódás, amikor az Úrnak áldozunk.”
+"Nem haszontalan a bánkódás, amikor az Úrnak áldozunk."
 - Megállj!
 - kiáltott fel a jezsuita - ez a tétel csaknem eretnekség, majdnem ugyanezt állítja Augustinusában a fő-fő eretnek Jansénius,12 akinek könyvét a hóhér keze előbb-utóbb máglyára veti.
 Vigyázzon, fiatal barátom, kegyedet hamis tanok csalogatják, a vesztébe rohan!
@@ -6037,7 +6034,7 @@ Nem igaz, D’Artagnan?
 - Hogy az istenbe ne volna igaz!
 - kiáltott fel a testőr.
 A plébános meg a jezsuita megvonaglott, mintha gombostű volna a székükben.
-- Én ebből a szillogizmusból indulok ki: a világi életnek megvan a varázsa, én lemondok a világról, és ez áldozat, márpedig az Írás szórul szóra ezt mondja: „Áldozzatok az Úrnak.”
+- Én ebből a szillogizmusból indulok ki: a világi életnek megvan a varázsa, én lemondok a világról, és ez áldozat, márpedig az Írás szórul szóra ezt mondja: "Áldozzatok az Úrnak."
 - Színtiszta igazság - mondták Aramis ellenfelei.
 - Erről - folytatta Aramis, és amint az előbb a kezét emelgette, hogy bőre kifehéredjen most a fülét dörzsölgette, hogy az meg kipiruljon -, erről írtam is egy picike rondót, tavaly megmutattam Voiture15 úrnak, s a nagy ember ugyancsak nem fukarkodott a bókjaival.
 - Rondót!
@@ -6054,7 +6051,7 @@ Te aki sírsz, gyászolva szép világod,
 S örömtelen vonszolod napjaid
 Véget érnek egyszerre kínjaid
 Mihelyt könnyed Istennek ajánlod,
-       Te aki sírsz.
+Te aki sírsz.
 D’Artagnan és a plébános szemlátomást megtisztelve érezte magát.
 A jezsuita nem engedett nézetéből.
 - Ne keverjünk világi ízlést a teológiába.
@@ -6113,7 +6110,7 @@ Hiszen tudja, milyen erőszakot tettem magamon, mikor felöltöttem a testőrzub
 - Egy szót sem tudok semmiről.
 - Nem tudja, miért hagytam ott a szemináriumot?
 - Nem én.
-- Hallgassa meg hát a történetem; különben is az Írás arra int: „Tegyetek bűnvallomást egymásnak.” - Én kegyednek most bűnvallomást teszek, D’Artagnan.
+- Hallgassa meg hát a történetem; különben is az Írás arra int: "Tegyetek bűnvallomást egymásnak." - Én kegyednek most bűnvallomást teszek, D’Artagnan.
 - Én pedig előre megadom a feloldozást, ne mondja, hogy rossz ember vagyok.
 - Szent dolog ez, barátom, ne tréfáljon vele.
 - Beszéljen hát, hallgatom.
@@ -6354,8 +6351,8 @@ Egész személyében volt valami titokzatos, s ez még nagyobb érdeklődést ke
 - Szegény Athos!
 - töprengett D’Artagnan - talán már nem is él, méghozzá az én hibámból, mert én rántottam magammal olyasmibe, aminek nem tudja az okát, sosem ismeri meg a következményét, és nem lát belőle semmi hasznot.
 - Nem is számítva azt, uram - felelte Planchet -, hogy valószínűleg neki köszönhetjük az életünket.
-Tetszik emlékezni, mit kiabált: „Oldjatok kereket, D’Artagnan!
-Engem lefognak!” S amikor kilőtte minden pisztolyát, micsoda pokoli zenebonát csapott a kardjával!
+Tetszik emlékezni, mit kiabált: "Oldjatok kereket, D’Artagnan!
+Engem lefognak!" S amikor kilőtte minden pisztolyát, micsoda pokoli zenebonát csapott a kardjával!
 Mintha legalább húsz ember vagdalkozott volna: sőt, húsz veszett ördög!
 Ez a beszéd ugyancsak felszította D’Artagnan buzgalmát; a fiatalember megsarkantyúzta lovát, bár annak semmi szüksége nem volt bíztatásra, és most még sebesebben vágtatott lovasával.
 Délelőtt tizenegy óra tájban megpillantották Amiens-t; fél tizenkettőkor megérkeztek az átkozott fogadó kapujához.
@@ -6775,7 +6772,7 @@ Szinte már sajnálni kezdem.
 - Hát igen, túladtam rajta.
 - Tessék?
 - Így történt a dolog: reggel hatkor ébredtem, kegyed úgy aludt, akár a bunda, s nem tudtam mihez kezdeni; még mindig ködös volt a fejem a tegnapi dorbézolástól; lementem a nagyterembe, és láttam, hogy a mi egyik angolunk lóra alkuszik egy kupeccel, mert az ő lova tegnap kidőlt, szél érte.
-Közelebb kerültem, s amikor meghallottam, hogy száz aranyat kínál egy almáspejért, megszólítottam: „Istenuccse, nemes uram, az én lovam is eladó.”
+Közelebb kerültem, s amikor meghallottam, hogy száz aranyat kínál egy almáspejért, megszólítottam: "Istenuccse, nemes uram, az én lovam is eladó."
 - Méghozzá milyen szép!
 - felelte ő - tegnap láttam, tisztelt barátjának az inasa tartotta kötőféken.
 - Megér száz aranyat uraságodnak?
@@ -7103,7 +7100,7 @@ A négy filozófus tanácstalan volt, csak bámultak egymásra; fegyelem dolgáb
 - Itt nem sok a becsülgetni való - válaszolt Aramis -, már megcsináltuk a számvetést; ha spártai fukarsággal számítjuk is, másfélezer frankra van szükségünk fejenkint.
 - Négyszer tizenöt az hatvan vagyis hatezer frank - szólt Athos.
 - Én pedig - mondta D’Artagnan -, úgy hiszem, megússzuk fejenként ezerrel, bár szám­vetésem nem annyira spártai, mint fiskálisi...
-Porthos felrezzent a „fiskális” kifejezésre.
+Porthos felrezzent a "fiskális" kifejezésre.
 - Aha, van egy ötletem!
 - szólalt meg.
 - Az is valami; engem jelenleg még az ötlet árnyéka is elkerül - szólt közbe hidegen Athos -, D’Artagnan pedig, uraim, úgy hiszem kissé meghibbant az örömtől, hogy közénk tartozhat ezentúl!
@@ -7131,7 +7128,7 @@ Mousqueton kenyérhajat gyűjtött; Bazin, az örök ájtatos éjjel-nappal a te
 A három jó barát - mert miként említettük Athos megesküdött, hogy egy szalmaszálat sem tesz keresztbe a fölszerelésért -, a három jó barát ilyeténképpen mindennap már hajnalban szétszéledt, és késő éjszaka tért haza.
 Naphosszat őgyelegtek az utcán, szemügyre vették a kockaköveket, nem hullatta-e a földre valamelyik járókelő zsebéből erszényét.
 Azt hihette volna az ember, nyomot szimatolnak, oly figyelmesen járkáltak fel s alá.
-Amikor összetalál­koztak, kétségbeesett tekintetük ezt kérdezte egymástól: „Találtál valamit?”
+Amikor összetalál­koztak, kétségbeesett tekintetük ezt kérdezte egymástól: "Találtál valamit?"
 Az első jó gondolat Porthos fejéből pattant ki, és mivel konokul ragaszkodott ötletéhez, a tettek mezejére is ő lépett először.
 A derék Porthos a tettek embere volt.
 D’Artagnan egy szép napon megpillantotta, amint a Szent Lupus templom felé ballag, és ösztönösen a nyomába szegődött; Porthos belépett a megszentelt falak közé, előbb azonban megpödörte a bajszát, és lesimította szakállát, ami nála mindig határozottan hódító szándékra utalt.
@@ -7371,7 +7368,7 @@ Planchet forgatta a levelet jobbra, forgatta balra, azután kenyere lévén a fe
 - Nekem?
 - kérdezte D’Artagnan - nincs itt valami tévedés?
 - Már hogy a csudába volna!
-Hiszen a szobacica azzal adta át: „A gazdádnak.” Nekem pedig uraságod a gazdám, és ezért... Hű, micsoda szemrevaló leányzó ez a szobacicus!
+Hiszen a szobacica azzal adta át: "A gazdádnak." Nekem pedig uraságod a gazdám, és ezért... Hű, micsoda szemrevaló leányzó ez a szobacicus!
 D’Artagnan fölnyitotta a levelet, és ezt olvasta:
 Nem is tudja, mennyire érdeklődik egy bizonyos személy az egészsége iránt; nagyon érdekelné, mikor épül fel annyira, hogy az erdőben sétálgasson.
 Holnap Az Aranykelme Rétjének Fogadójában egy vörös-fekete ruhás szobainas várja válaszát.
@@ -7449,7 +7446,6 @@ Aramis most is a versén dolgo­zott; bezárkózott Athos dolgozójába, és ké
 Athos palackért intett Grimaud-nak.
 D’Artagnan pedig kis tervecskét forralt; meglátjuk még, hogyan hajtotta végre; valami regényes-bájos kalandot remélt a dologtól, legalábbis erre vallott az arcán időről időre átsuhanó mosoly, mely ábrándjait beragyogta.
 MÁSODIK KÖTET
-
 ANGOLOK ÉS FRANCIÁK
 A mondott időben a négy jó barát meg a négy lakáj megjelent a Luxembourg palota mögött egy kecske-legelőnek hagyott üres telken.
 Athos pénzt nyomott a kecskepásztor markába és eltávolította.
@@ -7640,7 +7636,7 @@ Ha Coquenard úr még legény a talpán, esze ágában sem lett volna Porthos ur
 Porthos nem fogta fel a gúnyt, sőt együgyűséget látott benne, és elmosolyodott nagy bajsza alatt.
 Coquenard-né asszony tudta, hogy az együgyű ügyész ritka madár, s ezért ő is mosolygott, de főként fülig pirult.
 Amint Porthos belépett, az ügyész nyugtalanul pillantott egy nagy szekrényre, mely szemközt állt tölgyfa íróasztalával.
-Jóllehet a szekrény formája nem olyan volt, mint álmaiban látta, Porthos kitalálta, hogy ez lehet a boldogító „láda”, és titokban a kezét dörzsölgette, hogy a valóság jó hat lábbal megtoldja ábrándjait.
+Jóllehet a szekrény formája nem olyan volt, mint álmaiban látta, Porthos kitalálta, hogy ez lehet a boldogító "láda", és titokban a kezét dörzsölgette, hogy a valóság jó hat lábbal megtoldja ábrándjait.
 Coquenard mester nem feszegette tovább a rokonság ág-bogait, hanem nyugtalan pillantását a szekrényről Porthosra vetette, és csupán ennyit szólt:
 - Remélem, öcsémuram, mielőtt visszautazik vidékre, egyszer majd szerencséltet bennünket ebédre, nem igaz, Coquenard-né asszony?
 A döfés ezúttal Porthosnak elevenébe talált: lehetetlen volt észre nem vennie; úgy látszik, Coquenard-né is felfigyelt rá, mert így válaszolt:
@@ -7671,8 +7667,8 @@ a vendégek szeme kerekre nyílt, félő volt, hogy kiesik a helyéből.
 - Látszik, hogy szereti a családját Coquenard-né asszony - szólalt meg az ügyész szinte szívettépően mosolyogva -, ugyancsak kivágja a rezet az unokaöccse kedvéért.
 A szegény tyúk sovány volt, porhüvelyét ripacsos bőr védelmezte, oly vastag, hogy a csontjai semmiképp sem tudták átlyukasztani, holott szemlátomást ezen igyekeztek.
 Nyilván csak szorgos keresés után akadhattak rá a tyúk-ketrec legsötétebb zugában, ahol meghúzódott, hogy aggkori végelgyengülésben lelje halálát.
-„Az angyalát!
-- gondolta Porthos - szomorú az élet: tisztelem becsülöm az öregkort, de nem levesben - pecsenyében.”
+"Az angyalát!
+- gondolta Porthos - szomorú az élet: tisztelem becsülöm az öregkort, de nem levesben - pecsenyében."
 És körültekintett, csatlakoznak-e véleményéhez, ámde épp ellenkezőleg, mást se látott, mint csupa csillogó szemet, melyek máris falták megvetése tárgyát, a mennyei tyúkot.
 Coquenard-né maga elé húzta a tálat, ügyesen levágta a tyúk két fekete lábát, és férje tányérjára helyezte; lemetszette az állat nyakát, s azt a fejével együtt saját tányérjára tette; a szárnyat Porthos részére nyisszantotta le, és a tyúkot csaknem érintetlenül adta vissza ugyanannak a szolgálónak, aki az imént behozta; a dicső szárnyas eltűnt a szemek elől; a testőrnek még arra sem maradt ideje, hogy az arcokon végigtanulmányozza a csalódásnak jellemtől, vérmérséklettől függő változatait.
 Ezután egy tál lóbabot hoztak be a tyúk helyett; a malomkerék nagyságú tálon mintha néhány birkacsont mutatkozott volna; első pillantásra az volt a látszat, mintha némi hús is volna rajtuk.
@@ -7685,7 +7681,7 @@ Porthos bátortalanul majszolta a tyúk szárnyát, és végigfutott a hátán a
 Ő is felhajtott egy félpohárnyit a mérséklettel adagolt borból; megállapította, hogy montreuili vinkó, a bicska is kinyílik tőle minden borszakértő zsebében.
 Az ügyész elnézte, hogy vedeli tisztán a bort, és felsóhajtott.
 - Nem kóstolja meg a babot, kedves Porthos öcsém?
-- kérdezte Coquenard-né, de hangján megérzett, hogy azt akarja mondani: „Ha jót akar, ne kóstolja meg!”
+- kérdezte Coquenard-né, de hangján megérzett, hogy azt akarja mondani: "Ha jót akar, ne kóstolja meg!"
 - Vigyen el az ördög, ha megkóstolom!
 - dörmögte Porthos maga elé...
 Majd hangosan:
@@ -7943,7 +7939,7 @@ Hogy miért forgott kockán milady hitele a bíborosnál, arról sem tudott Kett
 D’Artagnan másnap ismét jelentkezett nála.
 Milady gyilkos kedvében volt, D’Artagnan sejtette, hogy azért dühöng, mert nem kapott levelet Wardes gróftól.
 Ketty belépett, milady azonban rendkívül nyersen bánt vele.
-A lány D’Artagnanra pillantott, és pillantása ezt mondotta: „Látja, mit szenvedek maga miatt!”
+A lány D’Artagnanra pillantott, és pillantása ezt mondotta: "Látja, mit szenvedek maga miatt!"
 Mégis, találkozásuk vége felé már-már szinte dorombolt a szép tigris: mosolyogva hallgatta D’Artagnan kellemkedését, sőt csókra nyújtotta kezét.
 D’Artagnan eltávozott, s most már végképp nem tudta, hányadán áll, de mindig helyén volt az esze, továbbra is tette hát a szépet miladynek, ám közben új tervet kovácsolt.
 Az ajtóban találkozott Kettyvel, és ma este is felment hozzá.
@@ -8201,7 +8197,7 @@ Ketty lépett be, szorbetet hozott.
 Úrnője aranyos volt hozzá, kegyesen mosolygott, de jaj!
 szegény leány borús kedvében még csak észre sem vette milady kedveskedését.
 D’Artagnan felváltva szemlélgette a két nőt, és szíve mélyén kénytelen volt bevallani, hogy a természet megtévedt, amikor megalkotta őket: az úri hölgynek hitvány, haszonleső lelket, a szobalánynak királynői szívet adott.
-Tíz órakor a miladyn a nyugtalanság jelei mutatkoztak, D’Artagnan pedig megértette, miért; az asszony az órát nézte, felállt, leült, és mosolya ezt mondta D’Artagnannak: „Igen, maga nagyon kedves fiú, de még kedvesebb volna, ha távozna!”
+Tíz órakor a miladyn a nyugtalanság jelei mutatkoztak, D’Artagnan pedig megértette, miért; az asszony az órát nézte, felállt, leült, és mosolya ezt mondta D’Artagnannak: "Igen, maga nagyon kedves fiú, de még kedvesebb volna, ha távozna!"
 D’Artagnan felállt, fogta a kalapját; milady csókra nyújtotta kezét, a fiatalember érezte a könnyű kéz szorítását, és jól tudta, hogy nem kacérságot kell belőle kiolvasnia, hanem hálát, amiért elmegy.
 - Őrülten szereti ez a nő - dörmögte.
 Aztán eltávozott.
@@ -8254,8 +8250,8 @@ Ez a szörnyeteg, ez ő volt.
 - kérdezte milady.
 - Nagyon - felelte jobb híján D’Artagnan.
 - Ne féljen - suttogta milady -, megbosszulom még, irtózatosan!
-„A teremtésit!
-- gondolta D’Artagnan -, még nincs itt a vallomás pillanata.”
+"A teremtésit!
+- gondolta D’Artagnan -, még nincs itt a vallomás pillanata."
 Beletelt némi időbe, amíg e rövid párbeszéd után visszanyerte nyugalmát, ámde bosszúért lihegő szándékai, melyek idehozták, közben nyomtalanul szertefoszlottak.
 Hihetetlen hatalma volt fölötte ennek a nőnek: gyűlölte és egyben imádta; sosem hitte volna, hogy egy szívben megférhet két ilyen ellentét, sőt nemcsak megférhet, hanem támogatja is egymást furcsa, szinte démoni szerelemmé ötvöződve.
 Eközben egyet ütött az óra, búcsúzni kellett; D’Artagnan az elválás pillanatában már csupán azt sajnálta, hogy mennie kell; szenvedélyesen búcsúztak el egymástól, és újabb pásztorórában állapodtak meg, egy hét múlva.
@@ -8532,7 +8528,7 @@ Gondolhatjuk, milyen visszhangot vert a jelző D’Artagnan szíve mélyén.
 - Köszönöm, vitéz barátom!
 - kiáltotta milady - és mikor?
 - Holnap, vagy ebben a pillanatban; amikor akarja.
-Milady csaknem rávágta: „Ebben a pillanatban”, de azután meggondolta; mégiscsak tapintat­lanság volna D’Artagnannal szemben ez a sürgetés.
+Milady csaknem rávágta: "Ebben a pillanatban", de azután meggondolta; mégiscsak tapintat­lanság volna D’Artagnannal szemben ez a sürgetés.
 Különben is ezeregy oka volt az óvatosságra, ezeregy tanácsa védelmezője számára, hogy tanúk nélkül számoljon le a gróffal.
 Ehhez néhány szóval maga D’Artagnan járt a kezére.
 - Holnap - mondta miladynek -, bosszút állok, vagy meghalok.
@@ -8711,7 +8707,7 @@ Ketty nagyon is jól értette: szempillantás alatt virágmintás szoknyát, nő
 Még éppen jókor: milady máris csengetett, és felverte az egész palotát.
 A kapus épp abban a pillanatban eresztette ki D’Artagnant, amikor milady, ugyancsak hiányos öltözékben, feléje kiáltott, az ablakból:
 - Ne nyiss kaput!
-HOGYAN SZEREZTE MEG ATHOS, 
+HOGYAN SZEREZTE MEG ATHOS,
 FÖLÖTTÉBB KÉNYELMESEN, A FELSZERELÉSÉT
 A fiatalember menekült, az asszony pedig tehetetlenül rázta utána az öklét.
 Amikor D’Artagnan eltűnt az utcasarkon, milady ájultan roskadt le a szobában.
@@ -9074,7 +9070,7 @@ Egyfolytában ügettek a chaillot-i útig; alkonyodóban volt a nap, kocsik jöt
 Végre negyedórai várakozás után, a közben teljesen beállott esti szürkületben egy kocsi közeledett teljes vágtában Sčvres felől az országúton; D’Artagnan valahogy előre érezte, hogy ez hozza azt a személyt, aki a találkára hívta; a fiatalember maga is csodálkozott, oly vadul kezdett zakatolni a szíve.
 És szinte ugyanabban a pillanatban egy női arc hajolt ki a kocsi­abla­kon, a nő ajkára szorította két ujját, mint aki titoktartásra int, vagy csókot dob; D’Artagnan halkan felkiáltott örömében: az asszony, vagy inkább a látomás - mert a kocsi oly gyorsan suhant tova, mint az álomkép -, a látomás Bonacieux-né volt.
 D’Artagnan az intelem ellenére önkéntelenül vágtára sarkantyúzta a lovát, és néhány ugrással utolérte a kocsit, de az üvegablakot már zárva találta: a látomás szertefoszlott.
-D’Artagnannak eszébe jutott az intelem: „Ha kedves az élete és azoké, akik szeretik, ne mozduljon, tegyen úgy, mintha semmit se látott volna.”
+D’Artagnannak eszébe jutott az intelem: "Ha kedves az élete és azoké, akik szeretik, ne mozduljon, tegyen úgy, mintha semmit se látott volna."
 Rögtön meg is állt, nem mintha saját magát féltené, hanem a szegény asszonyért remegett, aki nyilván nagy kockázatot vállalt ezzel a találkával.
 A kocsi tovább robogott az országúton, míg csak el nem nyelte Párizs, és el nem tűnt szemük elől.
 D’Artagnan még mindig egy helyben állt, mint a sóbálvány: nem tudta mire vélni a dolgot.
@@ -9417,7 +9413,7 @@ Célját kétféleképpen érhette el: vagy a helyszínen kutatja át, vagy pajz
 Az utóbbi módozatot választotta, s épp abban a pillanatban vette nyakába gyilkosát, amikor az ellenség tüzelni kezdett.
 Enyhe ütés, az izmok közé csapódó három lövedék tompa csattanása, egy utolsó kiáltás, majd a haláltusa vonaglása jelezte, hogy D’Artagnan épp annak az embernek köszönheti életét, aki nem sok híján gyilkosa lett.
 Visszatért a futóárokba, s a holtsápadt sebesült mellé a földre dobta a hullát.
-Azután máris felvette a leltárt: egy bőrtárca, egy erszény, benne pénz, nyilván a bandita „tiszteletdíjának” egyik részlete; kockavető pohár és néhány játékkocka; ez volt a halott hagyatéka.
+Azután máris felvette a leltárt: egy bőrtárca, egy erszény, benne pénz, nyilván a bandita "tiszteletdíjának" egyik részlete; kockavető pohár és néhány játékkocka; ez volt a halott hagyatéka.
 A poharat meg a kockákat otthagyta a földön, ahová hullottak, az erszényt a sebesültnek hajította, majd mohón kinyitotta a tárcát.
 Néhány lényegtelen iromány után a következő levél akadt a kezébe; ezt kereste, ezért vitte vásárra a bőrét:
 Ha már elszalasztotta azt a nőt, és engedte, hogy menedéket leljen a zárdában, ahová sosem lett volna szabad eljutnia, most azon legyen, hogy legalább a férfit megkaparintsa, mert ha nem, kamatostul megfizet a tőlem kapott száz aranyért; az én kezem messzire elér.
@@ -9461,10 +9457,10 @@ D’Artagnan, mint említettük, ismét nyugalmasabban töltötte napjait; így 
 Azonban november első napjaiban egy reggel mindenre magyarázatot kapott: levele érkezett Villeroi-ból:
 Kedves D’Artagnan úr!
 Athos, Porthos és Aramis úr nálam mulatozott, s igen jól érezte magát, úgyhogy a várbíró úr, aki felettébb zord férfiú, néhány napi laktanyafogsággal büntette széles és hangos jókedvüket, én azonban, parancsuk szerint, elküldöm uraságod­nak ezt a tizenkét butélia anjou-i bort, melyet az urak nagyon sokra becsülnek; azt óhajtják, igyék egészségükre kedvenc borukból.
-Parancsukat teljesítve mély tisztelettel maradok 
+Parancsukat teljesítve mély tisztelettel maradok
 Uraságodnak legalázatosabb és legtisztelőbb szolgája.
 Godeau
- a testőr urak fogadósa.
+a testőr urak fogadósa.
 - Soha jobbkor!
 - ujjongott D’Artagnan.
 - Jól megy soruk, és nem felednek el, aminthogy nekem is eszembe jutottak, amikor bajban voltam; szíves örömest iszom is az egészségükre, de iszom ám, csakhogy nem egyedül.
@@ -9477,8 +9473,8 @@ Elérkezett a lakoma ideje, megjött a két vendég, helyet foglaltak, s az éte
 Planchet kendőt kanyarított a karjára, úgy szolgált fel; Fourreau a dugókat rángatta ki a butéliákból, Brisemont pedig - így hívták a lábadozót - kis üvegekbe fejtette le a bort, mely, úgy látszik, megseprősödött az út megrázkódtatásaitól.
 Az első butélia alja meglehetősen zavaros volt; Brisemont egy pohárba töltötte ezt a seprőt, D’Artagnan pedig hagyta, hogy megigya, mert a szegény ördög most is csak alig lézengett.
 A vendégek elfogyasztották a levest, és éppen ajkukhoz emelték volna az első poharat, amikor hirtelen megdördült az ágyú a Lajos-erődnél és az Új-erődnél; a gárdisták azt gondolták, az ostromlottak vagy az angolok váratlanul támadásba kezdtek, s tüstént kardjuk után kaptak; D’Artagnan sem habozott sokat, követte példájukat, és valamennyien elrohantak, hogy a helyükön legyenek.
-Ám alighogy a kantinból kijutottak, kiderült, mi okozta a nagy harci zajt: „Éljen a király!
-Éljen a bíboros úr!” - harsogott mindenfelől, és minden irányból pergett a dob.
+Ám alighogy a kantinból kijutottak, kiderült, mi okozta a nagy harci zajt: "Éljen a király!
+Éljen a bíboros úr!" - harsogott mindenfelől, és minden irányból pergett a dob.
 A király ugyanis, mint említettük, nem győzte tovább türelemmel, megállás nélkül vágtatott át két postaállomáson, s épp abban a pillanatban érkezett a táborba egész háznépével és tízezer főnyi segédcsapattal: elővédjét és utóvédjét testőrei szolgáltatták.
 D’Artagnan századával együtt sorfalat állt, és odaintett barátainak, akik le nem vették róla szemüket, meg Tréville úrnak, aki azonnal ráismert.
 A király üdvözlésének ceremóniája után a négy jó barát csakhamar összeölelkezett.
@@ -9883,7 +9879,7 @@ Van azonban egy sokkal félelmetesebb ellenségem is, mint a kis Bonacieux-né.
 - Akkor hát mi sem egyszerűbb: szerezze meg a bizonyítékot, és én a Bastille-ba juttatom.
 - Köszönöm, kegyelmes uram!
 és azután?
-- Aki a Bastille-ba kerül, annak nincs „és azután” - mondta tompán a bíboros.
+- Aki a Bastille-ba kerül, annak nincs "és azután" - mondta tompán a bíboros.
 - Ej, az angyalát!
 - folytatta.
 - Bárcsak én tudnék oly könnyen túladni ellenségeimen, amily könnyen túladok a kegyed ellenségein, bárcsak ilyen emberek ellen kérne tőlem szabad kezet!...
@@ -10595,8 +10591,8 @@ Egyre tartott a lövöldözés, de a négy cimbora már túljárt a lőtávolon,
 Tehát, uraim, többé egy szót sem az egészről.
 Mindenki lát bennünket, elénk jönnek; úgy látom, diadalmenetet fogunk tartani.
 Valóban, mint említettük, az egész tábor olyan volt, mint egy nyüzsgő hangyaboly; több mint kétezren nézték végig a négy jó barát szerencsés kimenetelű hárijánoskodását, mint valami szórakoztató előadást, ám hogy mi rejlett a vakmerő vállalkozás hátterében, azt még csak nem is gyanították.
-„Vivát, gárdisták!
-Vivát, testőrök!” - zengett mindenfelől.
+"Vivát, gárdisták!
+Vivát, testőrök!" - zengett mindenfelől.
 Busigny úr elsőnek szorított kezet Athosszal, és elismerte, hogy elvesztette a fogadást.
 Utána a dragonyos meg a svájci következett, a svájci meg a dragonyos után pedig sorra a többi cimbora.
 Vége-hossza nem volt a sok szerencsekívánatnak, kézfogásnak, ölelésnek, és jót kacagtak a La Rochelle-ieken; szóval olyan felfordulás kerekedett, hogy a bíboros szinte zendülésre gondolt, és elküldte gárdistáinak kapitányát, La Houdiničre-t, nézzen utána, mi történt.
@@ -10689,21 +10685,21 @@ Persze mondanom sem kell, hogyha levelet írunk Winter lordnak, és abban orszá
 - Államtitkokat, udvari intrikákat szellőztetünk - folytatta, eleget téve az intelemnek D’Artagnan -, akkor persze elevenen megnyúznak valamennyiünket; de az Isten szerelmére, Athos, ne feledje - hisz saját maga mondta az imént -, hogy családi ügyben írunk neki; egyes-egyedül azért, hogy mihelyt milady Londonba érkezik, menten kihúzhassa a méregfogát, és ne árthasson nekünk.
 Én tehát nagyjából a következő levelet írnám neki:
 - Halljuk - szólt Aramis, és jó előre kritikus ábrázatot öltött.
-- „Uram és kedves barátom...”
+- "Uram és kedves barátom..."
 - No persze!
-„Kedves barátom” - egy angolnak - szólt közbe Athos -, nem is rossz kezdet!
+"Kedves barátom" - egy angolnak - szólt közbe Athos -, nem is rossz kezdet!
 Bravó, D’Artagnan!
 Ha csupán csak ennyit ír, azért is felnégyelik, nemhogy élve megnyúznák.
 - Hát jó!
-Akkor csak egyszerűen annyit írok: „Uram.”
-- Sőt, akár „Milord” - szólt Athos, aki sokat adott a jó modorra.
-- „Milord, talán még emlékszik a Luxembourg-palota mögötti üres telekre, ahol kecskék legelnek...”
+Akkor csak egyszerűen annyit írok: "Uram."
+- Sőt, akár "Milord" - szólt Athos, aki sokat adott a jó modorra.
+- "Milord, talán még emlékszik a Luxembourg-palota mögötti üres telekre, ahol kecskék legelnek..."
 - Most meg a Luxembourg!
 remek!
 Most meg azt hiszik majd, hogy az anyakirálynéra céloz!
 Nagyon elmés - szólt Athos.
-- Hát akkor kezdjük egyszerűen így: „Milord, talán még emlékszik egy bizonyos üres telekre, ahol valaki megmentette az életét?”
-- Kedves D’Artagnan - szólt közbe Athos megint -, úgy látom, sosem tanul meg bánni a tollal: „Ahol valaki megmentette az életét!” Piha!
+- Hát akkor kezdjük egyszerűen így: "Milord, talán még emlékszik egy bizonyos üres telekre, ahol valaki megmentette az életét?"
+- Kedves D’Artagnan - szólt közbe Athos megint -, úgy látom, sosem tanul meg bánni a tollal: "Ahol valaki megmentette az életét!" Piha!
 Ez csúnya volt.
 Úriemberek közt nem teszik szóvá az ilyen szolgálatokat.
 Sértő dolog felhánytorgatni a jótéteményt.
@@ -10722,8 +10718,8 @@ szedje össze az eszét, mert ezúttal én szedem ízekre, amit ír, afelől nyu
 - Én sem - fűzte hozzá Porthos.
 D’Artagnan és Athos rövid ideig szótlanul nézte egymást.
 Végül Athos, miután megrágta mondanivalóját, s arca még a szokottnál is sápadtabb színt öltött - bólintott beleegyezésül, és D’Artagnan tudomásul vette, hogy beszélhet.
-- Nos - fordult Aramishoz -, hát ezt kell elmondani: „Milord, a sógornője közönséges gonosztevő, aki meg akarta öletni lordságodat, hogy örökségét megkaparintsa.
-De nem mehetett férjhez lordságod öccséhez, mert Franciaországban már házasságot kötött, miután...”
+- Nos - fordult Aramishoz -, hát ezt kell elmondani: "Milord, a sógornője közönséges gonosztevő, aki meg akarta öletni lordságodat, hogy örökségét megkaparintsa.
+De nem mehetett férjhez lordságod öccséhez, mert Franciaországban már házasságot kötött, miután..."
 D’Artagnan elhallgatott, és Athosra pillantott a szavakat keresve.
 - Elkergette a férje - fejezte be Athos.
 - Mert tüzes bélyeget visel - folytatta D’Artagnan.
@@ -10791,7 +10787,7 @@ Kedves unokahúgom...
 - Ó!
 - szólt közbe Athos - az ügyes személy tehát rokona!
 - Elsőfokú unokahúgom - válaszolt Aramis.
-- Akkor hát legyen „unokahúgom”!
+- Akkor hát legyen "unokahúgom"!
 Aramis tovább olvasott:
 Kedves unokahúgom, Őeminenciája a bíboros úr, akit Isten tartson meg Francia­or­szág javára, s a királyság ellenségeinek romlására, maholnap végez La Rochelle-ben a zendülő eretnekekkel: nagyon valószínű, hogy az angolok segély-hajóhada színét sem látja majd a várnak; az sem vakmerőség talán, ha azt mondom: majdnem bizonyos, hogy Buckingham úr valami nagy esemény miatt el sem indulhat Angliából.
 Őeminenciája az elmúlt, a jelen és alkalmasint az eljövendő időknek is legdicsőbb politikusa.
@@ -10822,7 +10818,7 @@ Behívták Planchet-t, ellátták utasításokkal; D’Artagnan már tájékozta
 - Kabátom hajtókájában viszem majd a levelet - mondta Planchet -, s ha elfognak, lenyelem.
 - Hisz akkor nem tudod teljesíteni a megbízást - mondta D’Artagnan.
 - Ha ma este megkapom a levelet másolatban, holnapra fejből megtanulom.
-D’Artagnan barátaira pillantott, mintha ezt mondaná: „No mit mondtam?”
+D’Artagnan barátaira pillantott, mintha ezt mondaná: "No mit mondtam?"
 - Most pedig - folytatta Planchet-hoz intézve a szót -, nyolc nap alatt meg kell találnod Winter lordot, újabb nyolc nap alatt vissza kell érned: ez összesen tizenhat nap; ha az indulástól számított tizenhatodik napon este nyolckor nem vagy itt, egy fillért sem látsz - hacsak öt percet késel is.
 - Akkor kérem, vásároljon nekem egy órát, uram - mondta Planchet.
 - Tessék az enyém - szólt Athos, könnyed nagylelkűséggel átnyújtva neki az órát -, és becsüld meg magad.
@@ -10844,7 +10840,7 @@ No de ne félj, azért nem haragusznak.
 Úgy döntöttek, Planchet másnap reggel nyolc órakor indul útnak, hogy, mint mondotta, éjszaka fejből megtanulhassa a levelet.
 Ilyeténképpen épp egy fél napot nyert, azt a parancsot kapta, hogy a tizenhatodik napon este nyolcra ismét a táborban legyen.
 Reggel, amikor éppen fel akart szállni a lóra, D’Artagnan, aki szíve mélyén, akarva-akaratlan a herceghez húzott, félrevonta Planchet-t.
-- Figyelj rám - szólt hozzá -, ha átnyújtottad a levelet Winter lordnak, s ha a lord elolvasta, még ezt mondod neki: „Óvják Buckingham herceg őkegyelmességét, mert valaki meg akarja ölni.” Ez rendkívül komoly és fontos üzenet, Planchet, még a barátaim sem tudják, hogy ilyen titkot bízok rád, és írásba akkor sem adnám, ha a kapitányom maga parancsolná.
+- Figyelj rám - szólt hozzá -, ha átnyújtottad a levelet Winter lordnak, s ha a lord elolvasta, még ezt mondod neki: "Óvják Buckingham herceg őkegyelmességét, mert valaki meg akarja ölni." Ez rendkívül komoly és fontos üzenet, Planchet, még a barátaim sem tudják, hogy ilyen titkot bízok rád, és írásba akkor sem adnám, ha a kapitányom maga parancsolná.
 - Ne féljen semmit, uram - mondta Planchet -, majd meglátja, hogy rám lehet számítani.
 Azzal Planchet felpattant tüzes lovára, elvágtatott, és meg sem állt, míg húsz mérföldre onnan el nem ért a postaállomásra.
 Kissé nyomasztotta ugyan a testőrök három ígérete, de különben semmi sem zavarta kitűnő hangulatát.
@@ -11203,9 +11199,9 @@ Kísérőt is adok, ne féljen; s ha megpróbálna visszatérni Angliába, vagy 
 Milady figyelmesen hallgatott, tágra nyitva lángban égő szemét.
 - Most azonban - folytatta Winter lord - itt marad, ebben a várban; a falak vastagok, az ajtók erősek, a rácsok szilárdak; szobájának ablaka egyébiránt magasan a tenger fölött van, embereim tűzbe mennek értem, éberen őrködnek kegyed lakosztálya körül, és szemmel tartanak minden kijáratot, mely az udvarra vezet; ha pedig esetleg kijutna is az udvarra, még három rácson kell keresztültörnie.
 Parancsom egészen világos: egy lépés, egy mozdulat, egyetlen szökésre utaló szó: azonnal tüzelnek; ha megölnék kegyedet, az angol igazság­szolgáltatás remélhetőleg megköszöni majd, hogy megkíméltem ettől a fáradságtól.
-Mint látom, arcvonásaira ismét nyugalom költözik, tekintete ismét önbizalmat sugároz, mintha azt mondaná: „Eh!
+Mint látom, arcvonásaira ismét nyugalom költözik, tekintete ismét önbizalmat sugároz, mintha azt mondaná: "Eh!
 mit nekem az a két-három hét; nem szorulok én senkire, majd csak eszembe jut addig valami; most sem hagy cserben a sátán, kerítek én magamnak áldozatot.
-Két hétbe sem telik - gondolja -, kijutok én innen.” No, próbálja meg!
+Két hétbe sem telik - gondolja -, kijutok én innen." No, próbálja meg!
 Milady látta, hogy olvasnak gondolataiban, és karjába vájta a körmét; elnyomta minden indulatát, és azon volt, hogy semmi egyéb ne fejeződjék ki vonásain, csupán a rettegés.
 Winter lord pedig folytatta:
 - Már látta, már ismeri azt a tisztet, aki távollétemben a vár egyetlen parancsnoka lesz: azt hiszem, kegyed már tapasztalhatta, hogy nem tréfál a paranccsal, mert ahogy kegyedet ismerem, nyilván megpróbálta szóra bírni az úton Portsmouth-tól idáig.
@@ -11244,16 +11240,16 @@ Ez a kivégzés nagyon lehűtötte a forró fejeket: beletörődtek, hogy inkáb
 Úgy gondolták, ez a halálnem mégiscsak lassúbb, és nem is olyan bizonyos, mint a kötél általi.
 Az ostromlók pedig hébe-korba elfogtak egy-egy La Rochelle-i hírvivőt, aki Buckinghamhez igyekezett, vagy egy-egy kémet, akit Buckingham küldött a La Rochelle-iekhez.
 Mindkét esetben gyorsan végére jártak az ügynek.
-A bíboros úr egyetlen szót mondott csupán: „Kötélre!” A királyt meghívták az akasztásra.
+A bíboros úr egyetlen szót mondott csupán: "Kötélre!" A királyt meghívták az akasztásra.
 Őfelsége unottan jelent meg, úgy helyezkedett el, hogy jól lássa a művelet minden részletét; jobb híján ezzel is elszórakozott valamelyest, és türelmesebben viselte az ostromot, mindazonáltal tovább unatkozott, minden második szavában Párizst emlegette, úgyhogy hírvivők és kémek híján Őeminenciája minden képzelőtehetsége ellenére, felettébb kínos helyzetbe jutott volna.
 Közben egyre múlt az idő, s a La Rochelle-iek még mindig ellenálltak.
 A legutóbb elfogott kémtől egy levelet vettek el a franciák.
-A levél közölte ugyan Buckinghammel, hogy a város a végromlás szélén áll, de nem azzal fejeződött be, hogy: „Ha két héten belül nem jön segítség, megadjuk magunkat”, hanem: „Ha két héten belül nem jön segítség, mind egy szálig éhen pusztulunk.”
+A levél közölte ugyan Buckinghammel, hogy a város a végromlás szélén áll, de nem azzal fejeződött be, hogy: "Ha két héten belül nem jön segítség, megadjuk magunkat", hanem: "Ha két héten belül nem jön segítség, mind egy szálig éhen pusztulunk."
 A La Rochelle-ieknek tehát csupán egyetlen reménységük maradt: Buckingham.
 Úgy várták, mint a Messiást.
 Ha egy napon biztos hírt kaptak volna, hogy Buckinghamre hiába számítanak, nyilvánvaló, hogy reményeikkel bátorságuk is szertefoszlott volna.
 Várta is türelmetlenül a bíboros a hírt Angliából, hogy Buckingham nem érkezik meg.
-A királyi tanács gyakran latolgatta, nem volna-e jó rohammal venni be a várost, de sosem szánták rá magukat, először is úgy ítélték: La Rochelle bevehetetlen, meg aztán, bármint vélekedjenek is, a bíboros jól tudta, hogy aki vállalja az iszonyatot, hogy ezúttal francia kard ontson francia vért, az hatvan évvel visszafelé forgatja a politika kerekét, a bíboros pedig az volt a maga korában, akit manapság a „haladás emberének” szoktak nevezni.
+A királyi tanács gyakran latolgatta, nem volna-e jó rohammal venni be a várost, de sosem szánták rá magukat, először is úgy ítélték: La Rochelle bevehetetlen, meg aztán, bármint vélekedjenek is, a bíboros jól tudta, hogy aki vállalja az iszonyatot, hogy ezúttal francia kard ontson francia vért, az hatvan évvel visszafelé forgatja a politika kerekét, a bíboros pedig az volt a maga korában, akit manapság a "haladás emberének" szoktak nevezni.
 Ha ugyanis 1628-ban lerontják La Rochelle-t, és kardélre hánynak három-négyezer hugenottát, erről mindenkinek az 1572-es Szent Bertalan-éj jutott volna eszébe és jóllehet a király, mint jó katolikus, csöppet sem riadt vissza az ilyen erőszakos elintézés gondolatától, a terv mégis mindig megbukott az ostromló generálisok legfőbb ellenérvén: La Rochelle, hacsak ki nem éheztetik, bevehetetlen.
 A bíborost egyre mardosta a félelem megbízottja, a szörnyű nő miatt: jól sejtette, hogy az asszony jelleme különös keverék: félig kígyó, félig oroszlán.
 Talán csak nem árulta el?
@@ -11264,7 +11260,7 @@ De miért nem ad?
 Különben megbízott miladyben, és méltán: érezte, hogy az asszony múltja olyasmit takar, amit csupán az ő vörös palástja rejthet el; azt is érezte, hogy akár ezért, akár azért, milady az ő híve, mert csupán tőle remélhet hathatós védelmet szorult helyzetében.
 Döntött tehát: egyedül folytatja a háborút, és a siker felé vezető úton külső erőktől csupán annyit remél, mint a váratlan jószerencsétől.
 Tovább építtette a La Rochelle kiéheztetését szolgáló nevezetes gátat, és miközben le nem vette szemét a boldogtalan városról, a mély nyomorúságnak s a hősi erőnek erről a székhelyéről, s váltig idézgette XI.
-Lajosnak jelmondatát, aki neki éppúgy politikai előfutára volt, mint ő maga Robespierre-nek; idézgette a jelmondatot, mely Tristan komának29 is jelmondata volt: „Oszd meg és uralkodj rajta!”
+Lajosnak jelmondatát, aki neki éppúgy politikai előfutára volt, mint ő maga Robespierre-nek; idézgette a jelmondatot, mely Tristan komának29 is jelmondata volt: "Oszd meg és uralkodj rajta!"
 IV.
 Henrik, amikor Párizst ostromolta, kenyeret és más élelmet dobáltatott át a falakon; a bíboros ehelyett cédulákat szórt a La Rochelle-iek közé arról, milyen igazságtalan, önző és barbár módon bánnak velük a vezetőik: dúskálnak a gabonában, ahelyett hogy szétosztanák; azt az elvet követik - mert nekik is vannak elveik -, hogy nem baj ha a nők, gyerekek és öregek éhen halnak, csak a falakat védő férfiak maradjanak erősek, egészségesek.
 Mindeddig ez az elv, akár önfeláldozásból, akár az ellentmondás lehetetlensége folytán, nem maradt egy­sze­rűen írott malaszt, hanem valóra is vált, bár nem fogadták el maradéktalanul; miután azonban feltünedeztek a bíboros röpiratai, hamarosan csorbát szenvedett.
@@ -11646,9 +11642,9 @@ Egy óra múlva bejöttek az asztalért, és milady megállapította, hogy Felto
 Tehát fél tőle, és nem akarja túl gyakran látni.
 Mosolyognia kellett, és a fal felé fordult, mert oly diadalmas volt ez a mosolygás, hogy könnyen leleplezhette volna.
 Várt még egy félórát, s amikor az ódon várban minden elcsendesedett, amikor csupán a tengerár soha nem szűnő robaja hallatszott, a végtelen óceán zihálása, milady csengő, dallamos, tiszta hangon énekelni kezdte a puritánok akkoriban legkedveltebb zsoltárának első szakaszát.
-Uram, elhagysz magunkra minket, 
-Hogy erőnket próbára tedd, 
-De aztán jutalmul fejünket 
+Uram, elhagysz magunkra minket,
+Hogy erőnket próbára tedd,
+De aztán jutalmul fejünket
 Győzelmes pálmaággal övezi szent kezed.
 Távolról sem volt ragyogó ez a vers, a puritánok azonban, mint jól tudjuk, költészet dolgában nem voltak kényesek.
 Milady énekelt, és közben feszülten figyelt; az ajtajában őrködő katona megállt, mintha kővé változott volna.
@@ -11672,8 +11668,8 @@ Bámulatosan telt, szenvedélyes, isteni hangja olyan varázsos erővel ruházta
 Felton úgy érezte magát, mintha azt az angyalt hallaná, aki a három ifjút vigasztalta a lángoló kemencében.
 Milady tovább énekelt:
 De közeledik örök Isten,
-Szabadulásunk napja már, 
-S ha csalódnánk reménységünkben, 
+Szabadulásunk napja már,
+S ha csalódnánk reménységünkben,
 Megváltásunk lesz majd a mártirium s halál.
 Az ördöggel cimboráló félelmetes nő szívét-lelkét beleadta dalába, és végképpen felkavarta vele az ifjú tisztet: Felton hirtelen benyitott, és milady látta, hogy most is oly sápadt, mint rendesen, de szeme lángban ég, és egészen zavaros.
 - Miért énekel így, asszonyom, és miért ezen a hangon?
@@ -11943,9 +11939,9 @@ Ez meg az erősebbhez, a szerencsésebbhez pártol, hogy porba sújtsa a gyengé
 Én pedig magát teszem felelőssé szégyenemért és gyalázatomért Isten és az emberek előtt.
 Bármily érzéketlen volt is Felton, vagy bármennyire igyekezett is annak látszani, ezúttal hiába hadakozott a fölébe kerekedő titokzatos hatalommal; itt állott előtte ez a bűbájos, hófehér női alak, ez a sugárzó látomás; hol zokogott, hol fenyegetőzött, hol vergődésével, hol szépségével igézte - túl nagy próbatétel volt ez szegény, rajongó lelkének, túl nagy teher eszének, melyet rabláncra vertek az esztelen hit ábrándképei; túl nagy teher volt a szívének, melyet éppúgy marcangoltak az isteni szeretet lángjai, mint az emberek sorvasztó gyűlölete.
 Milady észrevette vergődését, ösztönösen megérezte, hogy az összeütköző szenvedélyek heve parázsként izzik az ifjú rajongó ereiben, s mint az ügyes hadvezér, amikor győztes csatakiáltással a meghátráló ellenségre ront, felállt helyéről, s mint valami gyönyörű pogány papnő, mint valami ihletett keresztény szűz, megindult a férfi felé: karját kitárta, nyaka csupasz volt, haja zilált, fél kezével szemérmesen keblére vonta ruháját, szemében megint fellobbant az a láng, amelyik egyszer már annyira felkavarta a puritán ifjú érzéseit; és különben oly lágy hangján, mely alkalomadtán oly rémületesre vált, vadul zengte:
-Vesd oda a mártírt Bálnak, 
+Vesd oda a mártírt Bálnak,
 Vértanút az oroszlánnak.
-Nyiss forrást a hóhér-szívben, 
+Nyiss forrást a hóhér-szívben,
 A mélységből kérlek, Isten...
 Feltont megbabonázta a furcsa szózat; mintha gyökeret vert volna lába.
 - Kicsoda kegyed, kicsoda?
@@ -11963,7 +11959,7 @@ Hiszel, de azért annak kezére adsz, akinek hitetlensége és kicsapongása az 
 Én!
 Asszonyom, miket beszél?
 - Szemük van a látásra - kiáltotta milady -, de nem látnak; fülük a hallásra, de nem hallanak.
-- Igen - mondta Felton, és végigsimította verejtékes homlokát, mintha gyökerestül szakítaná ki elméjéből a kétkedést -, igen, megismerem, ez a hang beszél hozzám álmaimban; igen, megismerem, ez az angyal jelenik meg előttem éjjelente, ez harsogja tele álmatlanul hánykolódó lelkemet: „Sújts le rá, mentsd meg Angliát, mentsd meg önmagadat, hogy el ne érjen a halál, míg le nem veted a gonoszt!” Beszéljen hát!
+- Igen - mondta Felton, és végigsimította verejtékes homlokát, mintha gyökerestül szakítaná ki elméjéből a kétkedést -, igen, megismerem, ez a hang beszél hozzám álmaimban; igen, megismerem, ez az angyal jelenik meg előttem éjjelente, ez harsogja tele álmatlanul hánykolódó lelkemet: "Sújts le rá, mentsd meg Angliát, mentsd meg önmagadat, hogy el ne érjen a halál, míg le nem veted a gonoszt!" Beszéljen hát!
 - kiáltotta.
 - Beszéljen!
 most már értem!
@@ -12095,7 +12091,7 @@ Ha elveszteget egy, két, három évet, az örökkévalóságot vesztegeti el; m
 Szenvedélyeinek vihara egyébiránt csak fokozta erejét, s ha teste csupán egy pillanatra is magára ölthette volna lelke méreteit, leomlottak volna körülötte a börtönfalak.
 Valami mindezeken túl is aggasztotta: a bíboros.
 Mit gondolhat, mit szólhat a bizalmatlan, nyugtalan, gyanakvó hercegérsek, hogy oly rég nem hallotta hírét; mit gondolhat Richelieu, aki nem csupán egyetlen támasza, egyetlen pártfogója a jelenben, hanem eljövendő boldogulásának és bosszúterveinek legfőbb eszköze is?
-Az asszony jól ismerte Richelieu-t, tudta, hogy ha kudarccal tér haza, hiába emlegeti a börtönt, hiába panaszkodik megkínzatása miatt, a bíboros higgadtan és gúnyosan válaszol, mint afféle hitetlen, aki erejének és lángelméjének tudatából meríti hatalmát: „Miért hagyta, hogy elfogják!”
+Az asszony jól ismerte Richelieu-t, tudta, hogy ha kudarccal tér haza, hiába emlegeti a börtönt, hiába panaszkodik megkínzatása miatt, a bíboros higgadtan és gúnyosan válaszol, mint afféle hitetlen, aki erejének és lángelméjének tudatából meríti hatalmát: "Miért hagyta, hogy elfogják!"
 Milady minden erejét megfeszítette, és lelke legmélyén Felton nevét hajtogatta.
 Ez volt az egyetlen reménysugár, mely elhatolt hozzá, a kárhozat mélységeibe, s mint a kígyó, ha felgöngyöli, majd ismét kitárja teste gyűrűit, hogy újra meg újra megbizonyosodjon erejéről, ő is már jó előre át- meg átfonta Feltont kifogyhatatlan képzelete ezer bogával.
 Közben pedig telt-múlt az idő, a futó órák mintha egyre-másra keltegették volna az alvó harangokat; érc-nyelvük minden ütése szíven találta a fogoly asszonyt.
@@ -12152,7 +12148,7 @@ Felton elvette tőle, s az asztalra helyezte, úgy, ahogyan megállapodott a fog
 Milady követte szemével, és elégedetten bólintott.
 - Most pedig - szólalt meg -, figyeljen.
 Fölösleges felszólítás volt; az ifjú tiszt ott állt előtte, és leste minden szavát.
-- Felton - kezdte milady, és szomorúan, ünnepélyesen csengett a hangja -, ha tulajdon húga, apjának leánya így szólna kegyedhez: „Sajnos, meglehetősen szép vagyok, máris tőrt vetettek ifjúságomnak, de én ellenálltam; körülvettek százféle cselszövéssel, aljas erőszakkal, de én ellenálltam, káromolták hitemet, káromolták az Istent, akit imádok, mivel Istenemhez és hitemhez folyamodtam segítségért, de ellenálltam, egyre-másra megaláztak, s amikor látták, hogy lelkemet el nem veszíthetik, eltökélték, hogy örök életemre bemocskolják testem, végül...”
+- Felton - kezdte milady, és szomorúan, ünnepélyesen csengett a hangja -, ha tulajdon húga, apjának leánya így szólna kegyedhez: "Sajnos, meglehetősen szép vagyok, máris tőrt vetettek ifjúságomnak, de én ellenálltam; körülvettek százféle cselszövéssel, aljas erőszakkal, de én ellenálltam, káromolták hitemet, káromolták az Istent, akit imádok, mivel Istenemhez és hitemhez folyamodtam segítségért, de ellenálltam, egyre-másra megaláztak, s amikor látták, hogy lelkemet el nem veszíthetik, eltökélték, hogy örök életemre bemocskolják testem, végül..."
 Milady elhallgatott, és keserű mosoly játszadozott az ajkán.
 - Végül - sürgette Felton -, végül?...
 - Végül egy este elvégezték, hogy ha meg nem törhették, hát legalább megbénítják ellen­állásomat; egy este altató mákonyt kevertek az ivóvizembe, alig fejeztem be vacsorámat, lassankint ismeretlen kábulatba süllyedtem.
@@ -12381,7 +12377,7 @@ Térdre borult az asszony előtt, mint a régi keresztények a szentéletű, vé
 A bélyeget nem is látta már, csupán a szépség nyűgözte le.
 - Bocsásson meg!
 - kiáltotta Felton - bocsásson meg nekem.
-De milady ezt olvasta ki a szeméből: „Szeretem, szeretem!”
+De milady ezt olvasta ki a szeméből: "Szeretem, szeretem!"
 - Mit bocsássak meg?
 - kérdezte.
 - Hogy csatlakoztam üldözőihez.
@@ -12901,7 +12897,7 @@ Milord,
 Mindarra, amit kegyedért és kegyed miatt szenvedtem, mióta ismerem - könyör­gök, ha valamit is ad lelki nyugalmamra, hagyja félbe hatalmas fegyverkezését Franciaország ellen, és szüntesse meg azt a háborút, melyről fennhangon azt hirdetik, hogy nyílt oka a hit, titokban pedig azt, hogy leplezett oka kegyed irán­tam érzett szerelme.
 Ez a háború nem csupán Franciaországra és Angliára hozhat végromlást, hanem olyan balsorsot idézhet kegyedre is, mely örök szomorúságba döntene.
 Milord, az életére törnek, vigyázzon, s az élete, mihelyt azt látom, hogy lordságod nem ellenségem, az élete mindennél kedvesebb nekem.
-Igaz híve 
+Igaz híve
 Anna
 Buckingham megfeszítette minden maradék életerejét, hogy végighallgassa a felolvasást, azután, mintha keserű csalódást okozott volna számára a levél, ezt kérdezte:
 - Nincs számomra semmi egyéb, szóbeli üzenete, La Porte?
@@ -13056,7 +13052,7 @@ D’Artagnan meg kibontotta a papirost.
 - Egy szó az egész!
 - mondta D’Artagnan.
 - Úgy van - szólt Aramis -, egy falu vagy város neve.
-- „Armentičres” - olvasta Porthos.
+- "Armentičres" - olvasta Porthos.
 - Hírét sem hallottam soha!
 - Saját kezűleg írta fel ezt a város- vagy falunevet - kiáltott fel Athos.
 - Na jó - mondta D’Artagnan -, őrizzük meg jól ezt a papirost.
@@ -14486,7 +14482,7 @@ Másrészt milady tömérdek gazsága, hatalma, ördögi egyénisége nemegyszer
 Titokban szinte örült, hogy örökre megszabadult veszélyes cinkosától.
 Lassan darabokra tépte a papírt, melyet D’Artagnan nagylelkűen átadott neki.
 - Végem van - gondolta D’Artagnan.
-Mélyen meghajolt a bíboros előtt, mintha azt mondaná: „Uram, legyen meg a Te akaratod.”
+Mélyen meghajolt a bíboros előtt, mintha azt mondaná: "Uram, legyen meg a Te akaratod."
 A bíboros az asztalhoz lépett, és csak úgy állva, néhány sort vetett egy csaknem egészen teleírt pergamenre, majd rányomta pecsétjét.
 - Most írja alá az ítéletemet - mondta magában D’Artagnan -, megkímél a Bastille-tól s a bírósági huzavonától.
 Igazán szép tőle.

@@ -1,7 +1,5 @@
 ﻿EMILY BRONTË
-
 ÜVÖLTŐ SZELEK
-
 Első fejezet
 Most tértem vissza látogatásomból; földesuramnál voltam: ő az egyedüli szomszédom, akiről szólni fogok.
 Valóban szép ez a tájék.
@@ -18,14 +16,14 @@ Megtiszteltetésnek érzem, hogy ideérkezésem után nyomban kifejezhettem ön 
 - Thrushcross Grange az enyém, uram - szakított félbe.
 - És nem engedném, hogy bárki is terhemre legyen, ha módomban áll megakadályozni.
 Kerüljön beljebb!
-A felszólítást összeszorított foggal dünnyögte, mintha azt akarta volna mondani: „Menjen a patvarba!” A kertajtó, melynek támaszkodott, nem nyílt ki, hogy komolyan vehessem meghívását.
+A felszólítást összeszorított foggal dünnyögte, mintha azt akarta volna mondani: "Menjen a patvarba!" A kertajtó, melynek támaszkodott, nem nyílt ki, hogy komolyan vehessem meghívását.
 De talán épp ez a körülmény bírt rá, hogy mégis elfogadjam.
 Érdekelt ez az ember, aki még nálam is zárkózottabb.
 Mikor látta, hogy lovam szügye már a kertajtónak feszül, kivette kezét a zsebéből, leakasztotta a láncot, és sietve elindult előttem az úton.
 Amint az udvarba értünk, odakiáltott valakinek:
 - Joseph, vezesse el Lockwood úr lovát, és hozzon fel bort.
-„Valószínűleg nincs több cselédje - gondoltam magamban.
-- Nem csoda, ha gaz veri fel az udvart, és a sövény is csak azért nem burjánzik el, mert a tehenek lelegelik.”
+"Valószínűleg nincs több cselédje - gondoltam magamban.
+- Nem csoda, ha gaz veri fel az udvart, és a sövény is csak azért nem burjánzik el, mert a tehenek lelegelik."
 Joseph időses, sőt öreg ember volt, talán nagyon öreg, de csupa erő és egészség.
 - Uram, segíts!
 - fohászkodott magában panaszos hangon, miközben elvezette a lovamat.
@@ -40,7 +38,7 @@ Mielőtt átléptem volna a küszöböt, hátramaradtam, hogy megcsodáljam a ho
 Felül - omlatag griffmadarak és pucér kisfiúk között - felfedeztem az 1500-as évszámot és a Hareton Earnshaw nevet.
 Szívesen fűztem volna mindehhez néhány megjegyzést, és a ház rövid történetét is meghallgattam volna, ha a morc tulajdonos elmondja, ő azonban úgy állt a küszöbön, mint aki gyors belépésemre vagy végleges távozásomra vár, tehát nem akartam növelni türelmetlenségét, mielőtt a ház belsejét látom.
 Egy lépés, s már benn álltam a család lakószobájában: előszobának vagy folyosónak nyomát sem leltem.
-Ez az a szoba, melyet ezen a vidéken „háznak” neveznek.
+Ez az a szoba, melyet ezen a vidéken "háznak" neveznek.
 Konyha és fogadószoba egyben.
 De azt hiszem, Szelesdombon a konyha a ház egy másik részébe szorult, mert valamelyik belső helyiségből élénk beszélgetést és konyhaeszközök zörgését hallhattam; a tágas tűzhely közelében sütő-, kenyérsütő- vagy főzőeszköznek nyomát sem láttam, ugyanígy rézserpenyők és ónfazekak sem díszítették a falat.
 Igaz ugyan, hogy a terem egyik végében hatalmas óntálak sora fénylett, ezüst korsókkal és edényekkel tarkázva, melyek egy terebélyes, tölgyfa pohárszéken tornyozódtak egészen föl a tetőig.
@@ -146,7 +144,7 @@ Eszem ágába sincs!
 Sűrűbben kezdett esni a hó.
 Még egyszer megragadtam a kilincset, hogy ismét meg­próbálkozzam, mikor egy fiatalember jelent meg, kabát nélkül, vállán vasvilla.
 Intett, hogy kövessem, és miután átmentünk a mosókonyhán s egy kikövezett térségen, hol szénarakást, szivattyút és egy galambdúcot láttam, végre megérkeztünk a tágas, meleg, barátságos terembe, ahol első alkalommal fogadtak.
-Szénből, tőzegből és fából rakott tűz lobogott meghitt sugárzással, s a bőséges vacsorára megterített asztal mellett most láthattam először a „fiatal­asszonyt”, kinek létezéséről mindeddig nem is tudtam.
+Szénből, tőzegből és fából rakott tűz lobogott meghitt sugárzással, s a bőséges vacsorára megterített asztal mellett most láthattam először a "fiatal­asszonyt", kinek létezéséről mindeddig nem is tudtam.
 Meghajoltam és vártam, hogy hellyel kínáljon.
 Rám nézett némán és érzéketlenül.
 - Rossz idő - jegyeztem meg.
@@ -238,11 +236,11 @@ Az egyik negyven év körül járt, és ebben a megállapodott korban a férfiak
 Ez az álom hanyatló éveink csalóka vigasza lesz.
 A másik alig látszott tizenhétnek.
 Ekkor átvillant rajtam:
-„Ez a fajankó, aki mellettem hörpöli teáját, és mosdatlan kezébe fogja a kenyeret, ez lesz a férj, bizonyára ő a fiatal Heathcliff.
+"Ez a fajankó, aki mellettem hörpöli teáját, és mosdatlan kezébe fogja a kenyeret, ez lesz a férj, bizonyára ő a fiatal Heathcliff.
 Így jár az, aki élve eltemetkezik.
 Hozzáment ehhez a paraszthoz, mert nem tudja, hogy vannak különbek is.
 Szomorú sors!
-Gondom lesz rá, hogy megbánja választását.”
+Gondom lesz rá, hogy megbánja választását."
 Ez utóbbi gondolat talán kérkedésnek látszik, pedig nem az.
 Szomszédom egészen vissza­taszító volt; ami pedig engem illet, nemegyszer tapasztaltam, hogy tudnék hódítani.
 - Ez a menyem - mondotta házigazdám, s ezzel megerősítette gyanúmat.
@@ -305,7 +303,7 @@ Jaj annak: most nem mondom meg, mi történik vele, de még megláthatod.
 Most menj.
 De ne feledd: szemmel tartalak.
 A kis boszorkány szép szemében gonoszkodó fény villant, és Joseph tántorogva, rimánkodva, őszinte rémületben hagyta el a szobát.
-„Átkozott, átkozott!” - hajtogatta.
+"Átkozott, átkozott!" - hajtogatta.
 Úgy gondoltam, a fiatalasszony kedvét leli az ilyen hátborzongató tréfákban, és most, hogy egyedül maradtunk, megpróbáltam nehéz helyzetemre terelni figyelmét.
 - Asszonyom - mondottam komolyan -, meg kell bocsátania, ha zavarom.
 Önhöz fordulok, s ezt azért merészelem, mert ilyen archoz csak jóságos szív járulhat.
@@ -397,14 +395,14 @@ Súlyos kábulatomban fejemet az ablaknak támasztottam és egyre betűztem: Cat
 Alig maradtam így öt percig, villogó fehér betűk váltak ki a homályból, kísértetekként: a levegő megtelt Catherine-ekkel.
 Mikor felkeltem, hogy elűzzem magamtól ezt a tolakodó nevet, észrevettem, hogy gyertyám kanóca az egyik ódon kötetre hajlik, és égett borjúbőr szaga tölti meg a fülkét.
 Megigazítottam a gyertyát, és egyaránt szenvedve a hidegtől, valamint állandó émelygéseim­től, felültem és kinyitottam térdemen a megsérült kötetet.
-Biblia volt, igen finom betűkkel, de dohos szag áradt belőle; a címlapon ezt a bejegyzést találtam: „Catherine Earnshaw könyve” s egy csaknem negyedszázados évszámot.
+Biblia volt, igen finom betűkkel, de dohos szag áradt belőle; a címlapon ezt a bejegyzést találtam: "Catherine Earnshaw könyve" s egy csaknem negyedszázados évszámot.
 Becsuktam a könyvet, másikat ütöttem fel, majd ismét másikat, mindegyiket szemügyre vettem, sorjában.
 Catherine gondosan válogatta össze könyveit, melyek használt állapotukban arról tanúskodtak, hogy gyakran, ha nem is mindig rendeltetésük szerint használta őket: alig volt fejezet, mely mellett ne ékeskedett volna tollal, esetleg irónnal odavetett bejegyzés, vagy valami hasonló, úgyhogy egy körömnyi hely sem maradt a könyvben fehéren.
 Itt-ott mondattöredékeket találtam, másutt szabályszerű naplót alkottak a kiforratlan, gyermekes írással rótt sorok.
 Egy fehér lap homlokán - milyen drága kincs lehetett egy-egy ilyen lap Catherine-nek!
 - ügyetlen, de találó vonásokkal felrajzolt torzkép ábrázolta, nagy örömömre, Joseph barátomat.
 Tüstént felébredt érdeklődésem az ismeretlen Catherine iránt, és elkezdtem kibetűzni a félig elmosódott írásjeleket.
-„Borzasztó vasárnap!
+"Borzasztó vasárnap!
 - Így kezdődött a következő fejezet.
 - Bárcsak visszajöhetne apám.
 Hindley ugyancsak kevéssé tudja pótolni őt... Kegyetlenül bánik Heathcliff-fel... H. meg én fel fogunk lázadni... Ma este tettük meg az első lépést.
@@ -450,20 +448,19 @@ Pajtásom azonban már türelmetlenkedik!
 Ő azt javasolja, lopjuk el a tejesasszony nagy köpenyét, terítsük magunkra, és csatangoljunk egyet a lápon!
 Jó gondolat!
 Majd ha belép az öreg, azt hiheti, hogy jóslata beteljesedett.
-Ott se lesz hidegebb és nedvesebb, mint idebenn!”
+Ott se lesz hidegebb és nedvesebb, mint idebenn!"
 Úgy látszik, Catherine megkísérelte megvalósítani tervét, mert a következő mondatban más tárgyra tér át, mégpedig panaszos hangon!
-„Sose hittem volna, hogy Hindley így megríkasson!
+"Sose hittem volna, hogy Hindley így megríkasson!
 Úgy fáj a fejem, hogy nem tudom a párnán tartani!
 Csak azért sem engedek neki!
 Szegény Heathcliff!
 Hindley úgy bánik vele, mint egy csavargóval, nem engedi, hogy velünk legyen, velünk étkezzék!
 Megtiltotta, hogy együtt játsszunk, és azzal fenyegetőzött, hogy kiűzi a házból, ha nem tartjuk meg parancsait.
 Még atyánkat is hibáztatta (hogy is merészelt ilyet?
-), amiért túlságosan elnéző volt H. irányában, és esküdözött, hogy ő majd megmutatja!”
-
+), amiért túlságosan elnéző volt H. irányában, és esküdözött, hogy ő majd megmutatja!"
 El-elnyomott az álom a megsárgult lap fölött, és szemem a kézírásról a nyomtatott sorokra tévedt.
-Piros betűs címet láttam: „Hetvenszer Hét és az Első a Hetvenegyedik Hét közül.
-Nagytiszteletű Jabes Branderham szentbeszéde, melyet Gimmerton Sough kápolnájában elmondott.” Miközben félig öntudatlanul azon törtem a fejem, mire is mehetett Jabes Branderham a tárgyával, hátradőltem az ágyon és elaludtam.
+Piros betűs címet láttam: "Hetvenszer Hét és az Első a Hetvenegyedik Hét közül.
+Nagytiszteletű Jabes Branderham szentbeszéde, melyet Gimmerton Sough kápolnájában elmondott." Miközben félig öntudatlanul azon törtem a fejem, mire is mehetett Jabes Branderham a tárgyával, hátradőltem az ágyon és elaludtam.
 Sajnos, a rossz tea és a rossz hangulat következményei hamar mutatkoztak.
 Mi más okozhatta volna, hogy ilyen rossz éjszakát töltöttem?
 Semmihez sem hasonlíthatom, mióta csak tudom, mi a szenvedés.
@@ -474,7 +471,7 @@ Nehezen haladtunk előre, és útitársam szüntelenül korholt, amiért a zará
 Rájöttem, hogy ezt nevezte zarándokbotnak.
 Először nem értettem, mi szükségem volna efféle fegyverre, hogy tulajdon lakásomba bejussak.
 Később világosság gyúlt bennem.
-Nem is hazafelé tartottunk, hanem Jabes Branderham prédikációjára, ki a „Hétszer hét” textusáról fog prédikálni.
+Nem is hazafelé tartottunk, hanem Jabes Branderham prédikációjára, ki a "Hétszer hét" textusáról fog prédikálni.
 Egyikünk - Joseph, a prédikátor, vagy jómagam - elkövette az első bűnt a hetvenegyedik hét közül: ezt nyilvánosan fejére olvassák, majd kiközösítik.
 Megérkeztünk a kápolnába.
 Sétáim során kétszer-háromszor elhaladtam már előtte; egy kis lankán fekszik, két domb között, meglehetősen magasan, a mocsár közelében, melynek tőzeges sara, úgy mondják, épségben őrzi meg az ott nyugvó holttesteket.
@@ -586,7 +583,7 @@ Pirultam hebehurgyaságomon.
 De anélkül, hogy el akartam volna árulni, mennyire tudatában vagyok elkövetett tapintatlanságomnak, sietve hozzátettem:
 - Az az igazság, uram, hogy éjszakám felét...
 Elhallgattam.
-Először azt akartam mondani: „E régi könyvek olvasásával töltöttem.” De észbe kaptam, s így folytattam: - ... az ablak szélére írott név olvasásával töltöttem.
+Először azt akartam mondani: "E régi könyvek olvasásával töltöttem." De észbe kaptam, s így folytattam: - ... az ablak szélére írott név olvasásával töltöttem.
 Egyhangú szórakozás, de elalvás előtt épp annyit ér, mintha magamban számolnék...
 - Mi jut eszébe, hogy így beszél velem?
 - kiáltott fel Heathcliff mennydörgő hangon, vad hévvel.
@@ -693,11 +690,11 @@ Miután egy percig így elgondolkozott, öklét térdén pihentetvén, a visszae
 - Maga bizonyára sok változást láthatott.
 - Sokat!
 Sok bajt is!
-„Most Heathcliff családjára terelem a beszélgetést!
+"Most Heathcliff családjára terelem a beszélgetést!
 - határoztam el magamban.
 - Hálás téma volna!
 Különösen a szép fiatal özvegy történetét szeretném ismerni.
-Vajon erről a vidékről származik-e, vagy idegen, kit ezek a morc őslakók nem akarnak befogadni?” Ezzel a szándékkal kérdeztem hát meg Deannét, miért adja bérbe Heathcliff Thrushcross Grange-et, és miért lakik jóval szerényebb és egyszerűbb környezetben?
+Vajon erről a vidékről származik-e, vagy idegen, kit ezek a morc őslakók nem akarnak befogadni?" Ezzel a szándékkal kérdeztem hát meg Deannét, miért adja bérbe Heathcliff Thrushcross Grange-et, és miért lakik jóval szerényebb és egyszerűbb környezetben?
 - Talán nem elég gazdag ahhoz, hogy fenntartsa a birtokot?
 - Nem elég gazdag!
 Senki sem tudja, uram, mennyi pénze van neki, s vagyona minden évben növekszik.
@@ -993,20 +990,20 @@ Elég!
 - Még mindig nem mondta meg, Heathcliff, hol hagyta Catherine-t.
 - Mondottam már, hogy nagyot nevettünk - folytatta.
 - A Linton gyerekek meghallották, és hanyatt-homlok az ajtóhoz szaladtak.
-Csend volt egy darabig, majd nagy ordítozást hallottunk: „Jaj, mama, mama!
+Csend volt egy darabig, majd nagy ordítozást hallottunk: "Jaj, mama, mama!
 Jaj, papa, mama!
-Jaj, segítség!” - valami hasonlót kiabáltak.
+Jaj, segítség!" - valami hasonlót kiabáltak.
 Rettenetes zajt csaptunk, hogy még jobban megijesszük őket, majd elengedtük az ablak párkányát, mert hallottuk, hogy félrehúzzák a reteszeket, és jobbnak láttuk menekülni.
 Kézen fogtam Cathyt, és magammal vonszoltam, mikor hirtelen a földre bukott.
-„Menekülj, Heathcliff, menekülj!
+"Menekülj, Heathcliff, menekülj!
 - suttogta.
-- Ránk eresztették a bulldogot, és most nem enged el!” Bokájába harapott a dög: hallottam dühös morgását.
+- Ránk eresztették a bulldogot, és most nem enged el!" Bokájába harapott a dög: hallottam dühös morgását.
 Cathy azonban meg se mukkant, nem bizony!
 Szégyellte volna, még ha egy megvadult tehén öklelte volna is fel!
 De annál jobban ordítottam én: úgy átkozódtam, hogy a földkerekség minden ördögét elijesztettem volna.
 Megragadtam egy követ, és az állat állkapcsai közé szorítottam, hogy minden erőmmel beledugjam a torkába.
 Végül is előkerült egy nyomorult szolga, kezében istállólámpával.
-„Fogd meg, Skulker, fogd meg!” - kiáltozta.
+"Fogd meg, Skulker, fogd meg!" - kiáltozta.
 De mindjárt alább adta, mihelyt megpillantotta Skulker zsákmányát; addig szorongatta a kutya torkát, míg az végre elengedte Cathy lábát; vérvörös nyelve fél méternyire kilógott a pofájából, szájából véres nyál csorgott.
 Felemelte Cathyt, aki félájult volt, nem annyira a félelemtől, mint inkább a fájdalomtól.
 Bevitte a házba; követtem, fenyegetőzve és szitkozódva.
@@ -1132,7 +1129,7 @@ Leszegett fejjel kirohant a szobából, az úr s az úrnő nagy nevetése közbe
 Miután eleget tettem szobalányi kötelességeimnek az újonnan érkezett mellett, és a tésztát a sütőbe raktam, karácsony estéjéhez méltó, nagy és barátságosan pattogó tüzet élesztettem a teremben s a konyhában, majd leültem az asztal mellé, és azzal szórakoztam, hogy karácsonyi énekeket daloltam, nem törődve Joseph rosszallásával, aki szerint ezek a túlságosan vidám énekek már valóságos világi nóták.
 Később visszavonult szobájába, hogy egyedül ájtatos­kodjon.
 Earnshaw és felesége lefoglalta Cathy figyelmét azokkal az apróságokkal, melyeket a Linton gyerekeknek vásároltak, hogy szívességüket némiképp viszonozzák.
-Másnapra meghívták őket, hogy az ünnepnapot Szelesdombon töltsék, de Lintonné csak egy feltétellel fogadta el a meghívást: kikötötte, hogy kedveseit tartsák távol attól a „csúnya szájú, gonosz gyerektől”.
+Másnapra meghívták őket, hogy az ünnepnapot Szelesdombon töltsék, de Lintonné csak egy feltétellel fogadta el a meghívást: kikötötte, hogy kedveseit tartsák távol attól a "csúnya szájú, gonosz gyerektől".
 Ilyen körülmények közt maradtam hát egyedül.
 Beszívtam a piruló kalács fűszeres illatát, elgyönyörködtem a ragyogó konyhafelszerelésben, a csillogó fagyönggyel díszített faliórában, a tálcán sorakozó ezüstkupákban, melyek nemsokára megtelnek a fűszeres sörrel, és min­denek­előtt fáradozásaim legfőbb tárgyában, a ragyogóra súrolt és sepert konyhakövezetben.
 Magamban azzal a benső elismeréssel illettem őket, melyet alaposan megérdemelek, és eszembe jutott, hogy az öreg Earnshaw mindig akkor jött le, mikor már minden tiszta volt, derék lánynak nevezett, és egy shillinget csúsztatott kezembe karácsonyi ajándékként.
@@ -1241,9 +1238,9 @@ A vendégek lassan megnyugodtak az ízes ebéd láttán.
 Megéheztek az úton, és most könnyen megvigasztalódtak, mivel egyiküknek sem esett komoly baja.
 Earnshaw bőséges adagokat szelt, felesége pedig vidám társalgással fűszerezte a lakomát.
 Széke mögött álltam, és rosszul esett látnom Catherine száraz szemét, közönyös arcát, amint nekifogott a tányérján heverő libaszárny felvágásának.
-„Milyen érzéketlen gyermek - gondoltam magamban.
+"Milyen érzéketlen gyermek - gondoltam magamban.
 - Mily kevéssé törődik régi játszó­pajtásának bánatával.
-Nem hittem volna, hogy ennyire önző!”
+Nem hittem volna, hogy ennyire önző!"
 Egy falatot vitt szájához, de visszatette tányérjára: arca kipirult, szeme könnybe lábadt.
 Villáját a földre ejtette, és gyorsan az asztal alá hajolt, hogy elrejtse fájdalmát.
 Nem soká tartottam érzéketlennek, mert láthattam, hogy valóságos kínszenvedés neki az egész nap, és alig várja, hogy egyedül lehessen, vagy Heathcliffhez szaladhasson, akit kulccsal zárt szobá­jába a gazda.
@@ -1260,7 +1257,7 @@ Catherine azonban nem állott meg az emeleten, hanem továbbment, a padlásszoba
 Az egy ideig makacsul hallgatott; Cathy azonban nem tágított, és végül rá tudta bírni, hogy szót váltsanak a deszkafalon keresztül.
 Hagytam, hadd beszélgessenek a szegény gyerekek, nem akartam zavarni őket, mikor azonban láttam, hogy nemsokára vége lesz az éneknek, s a zenészeket itallal kínálják, felmásztam a létrán, hogy figyelmeztessem Catherine-t. De ahelyett, hogy az ajtónál találtam volna, a szobából hallottam a hangját.
 A kis huncut kimá­szott a padlásablakon, onnét pedig majomügyességgel egy másik ablakon bemászott a padlás­szobába; a legnagyobb nehézséggel tudtam csak rábírni, hogy jöjjön ki.
-Mikor visszajött, Heathcliff is követte; Cathy azt akarta, hogy vezessem a fiút a konyhába, mivel Joseph a szomszédba látogatott el, hogy megmeneküljön „az ördögi kántálás” hangjaitól, ahogy ő az ilyesmit nevezte.
+Mikor visszajött, Heathcliff is követte; Cathy azt akarta, hogy vezessem a fiút a konyhába, mivel Joseph a szomszédba látogatott el, hogy megmeneküljön "az ördögi kántálás" hangjaitól, ahogy ő az ilyesmit nevezte.
 Tudtukra adtam, hogy eszem ágában sincs összejátszani velük, de mivel a fogoly a tegnapi vacsora óta böjtölt, beleegyeztem, hogy most az egyszer szemet hunyok, amikor Hindley urat kijátsszák.
 Így hát lejött, és én zsámolyt tettem a tűz elé, majd meg­kínáltam minden jóval.
 Ő azonban nem jól érezte magát, alig evett valamit, és visszautasított, valahányszor szórakoztatni akartam.
@@ -1344,10 +1341,10 @@ Szívesen cserélnék magával, hisz teljesen a magáé lesz, ha az úrnő lehun
 - Úgy látszik; de azért nagyon bátran viselkedik, és úgy beszél, mintha azt hinné, megéri még, hogy ember lesz a gyerekéből.
 Egész bolond az örömtől, hisz a kicsike olyan szép.
 Az ő helyében biz én nem halnék meg, hisz már csak a ránézéstől is jobban lennék, akármit is mond Kenneth.
-Archer asszony épp levitte a kis angyalt a nappaliba, hogy megmutassa az úrnak, s ennek arca épp kezdett felderülni már, mikor odalépett hozzá Kenneth, ez az öreg vészmadár, s fülébe súgta: „Tudja meg, Earnshaw: isteni csoda, hogy eddig is megmaradt a felesége, és megajándékozhatta ezzel a gyerekkel.
+Archer asszony épp levitte a kis angyalt a nappaliba, hogy megmutassa az úrnak, s ennek arca épp kezdett felderülni már, mikor odalépett hozzá Kenneth, ez az öreg vészmadár, s fülébe súgta: "Tudja meg, Earnshaw: isteni csoda, hogy eddig is megmaradt a felesége, és megajándékozhatta ezzel a gyerekkel.
 Mikor ideérkezett, alig hittem, hogy soká húzza még; de most meg kell magának mondanom; a tél valószínűleg végezni fog vele.
 Ne essék kétségbe, és ne siránkozzék, ezen már nem lehet segíteni.
-Magának pedig jobban kellett volna vigyáznia, hogy kit vesz el!”
+Magának pedig jobban kellett volna vigyáznia, hogy kit vesz el!"
 - Mit felelt erre az úr?
 - kérdeztem.
 - Azt hiszem, nagyot káromkodott; de én nem sokat hederítettem rá, csak a kisbabát akartam minél előbb látni - s elragadtatással írta le, hogy milyen volt.
@@ -1421,7 +1418,7 @@ Ez, amit most lát, a hétköznapi arca.
 Catherine megőrizte kapcsolatait a Linton családdal, hol annak idején öt hetet töltött.
 Mivel semmi sem csábította arra, hogy társaságukban lelkének fonákját kimutassa, s józan ésszel csak restellhette volna durvaságát ott, ahol mindenki oly udvariasan bánt vele, akaratlanul is meghódította az idős hölgyet és urat nyíltszívűségével.
 Isabella csodálta, testvére pedig szívből-lélekből imádta: ezek a sikerek kezdettől fogva hízelegtek hiúságának, hisz rendkívüli becsvágy fűtötte, s arra bírták, hogy kétszínű életet éljen, noha senkit sem akart meg­tévesz­teni.
-Abban a házban, ahol csak úgy emlegették Heathcliffet, mint „közönséges gonosztevőt”, vagyis mint aki „rosszabb az állatnál”, ügyelt, hogy ne úgy viselkedjék, mint ő; de otthon semmi kedvet sem mutatott olyan udvariassághoz, melyen amúgy is csak nevettek volna, s eszébe sem jutott megfékezni izgága természetét, mikor ezzel sem tiszteletet, sem dicséretet nem tudott volna kivívni magának.
+Abban a házban, ahol csak úgy emlegették Heathcliffet, mint "közönséges gonosztevőt", vagyis mint aki "rosszabb az állatnál", ügyelt, hogy ne úgy viselkedjék, mint ő; de otthon semmi kedvet sem mutatott olyan udvariassághoz, melyen amúgy is csak nevettek volna, s eszébe sem jutott megfékezni izgága természetét, mikor ezzel sem tiszteletet, sem dicséretet nem tudott volna kivívni magának.
 Edgar ritkán merészkedett odáig, hogy nyíltan jött volna el Szelesdombra.
 Félt Earnshaw rossz hírétől és viszolygott attól, hogy találkoznia kell vele.
 Ennek ellenére olyan udvariasan fogadtuk, ahogy csak kitelt tőlünk.
@@ -1533,16 +1530,16 @@ Linton közbelépett:
 - mondotta megütközve a hazugság és a vadság kettős bűnén, amit bálványa szeme láttára követett el.
 - Távozz a szobából, Ellen!
 - mondotta, tetőtől talpig remegve.
-A kis Hareton, aki mindenhová követett engem, s mellettem ült a földön, könnyeim láttára maga is sírva fakadt, és panaszkodni kezdett a „rossz Cathy nénire”, akinek dühe most a szerencsétlen gyermek ellen fordult.
+A kis Hareton, aki mindenhová követett engem, s mellettem ült a földön, könnyeim láttára maga is sírva fakadt, és panaszkodni kezdett a "rossz Cathy nénire", akinek dühe most a szerencsétlen gyermek ellen fordult.
 Megfogta vállánál, és úgy megrázta, hogy szegénykének arca egészen ólomszínűre vált; Linton meggondolatlanul megragadta a lány kezeit, hogy kiszabadítsa a gyereket.
 Egy szempillantás alatt szabad volt az egyik kéz, s az elképedt fiatal­ember érezhette arcán, olyan súllyal, mely a tréfának még lehetőségét is kizárta.
 Fel­dúltan lépett hátra.
 Haretont karjaimba kaptam, s a konyhába menekültem vele, de nyitva hagytam az ajtót, mert kíváncsi voltam, mint fogják elintézni vitájukat.
 A megsértett látogató sápadtan kereste meg a kalapját, ajka remegett.
-„Nagyon helyes!
+"Nagyon helyes!
 - gondoltam magamban.
 - Fogadd meg a figyelmeztetést és távozzál.
-Nagyon kedves tőle, hogy még idejében ízelítőt adott valódi természetéből.”
+Nagyon kedves tőle, hogy még idejében ízelítőt adott valódi természetéből."
 - Hová megy?
 - kérdezte most Catherine, és az ajtó felé indult.
 Linton oldalt került, és megpróbált kijutni.
@@ -1574,9 +1571,9 @@ Utána mentem, hogy bátorítsam.
 - Rosszabb, mint egy elkényeztetett gyermek.
 Legjobban tenné, ha tüstént hazamenne, mert különben még beteg is lesz, csak azért, hogy bennünket keserítsen.
 Az ingatag Linton oldalt pillantott az ablak felé: hazamenni éppúgy nem tudott, mint ahogy egy macska sem képes otthagyni a félig megölt egeret vagy a nagyjából felfalt madarat.
-„Semmi sem tudja megmenteni!
+"Semmi sem tudja megmenteni!
 - gondoltam.
-- Végzetét nem tudja elkerülni, vakon repül felé!”
+- Végzetét nem tudja elkerülni, vakon repül felé!"
 Így is történt: hirtelen sarkon fordult, berohant a házba, becsapta az ajtót maga mögött, s mikor később átnéztem hozzájuk, hogy hírül adjam a holtrészegen hazatért Earnshaw érkezését, aki az egész házat fel akarta forgatni (ez volt a szokása ilyen állapotban), úgy találtam, hogy a civódás csak szorosabbra fogta kapcsolatukat, megtörte az ifjúi félénkség jegét, s arra késztette őket, hogy levetvén a barátság álruháját, szerelmüket egymásnak megvallják.
 Hindley érkezésének hírére Linton a lovához szaladt, Catherine pedig a szobájába.
 Szaladtam, hogy elbújtassam a kis Haretont s kivegyem a töltényeket az úr vadászfegyveréből, mert tébolyult önkívületében rendszerint a puskával szeretett játszani, azoknak életét veszé­lyez­tetvén, akik ellene mertek szegülni, vagy egyszerűen túlságosan magukra vonták figyelmét.
@@ -1693,10 +1690,10 @@ Ismét belekezdtem az énekbe; még nem felejtettem el iménti szavait és visel
 - Munkáját végzi az istállóban.
 - Nem jelentkezett, úgy látszik, elaludt.
 Hosszú csend következett, mialatt egy könnyet láttam Catherine szeméről a padlóra hullani.
-„Szégyellné csúf viselkedését?
+"Szégyellné csúf viselkedését?
 - gondoltam magamban.
 - Ez meglepne.
-Ám kezdje, ahogy akarja, én nem segítek neki!”
+Ám kezdje, ahogy akarja, én nem segítek neki!"
 Tévedtem; ő nemigen törődött azzal, ami nem érintette közvetlenül.
 - Istenem!
 - kiáltott fel.
@@ -2134,10 +2131,10 @@ Mély és idegen csengésű hang volt; mégis, abban, ahogy nevemet mondotta, vo
 Megfordultam, nem minden félelem nélkül, hogy lássam, ki szólott: mert a kapuk zárva voltak, és nem láttam senkit az előbb, mikor a lépcső felé mentem.
 Valami megmozdult a tornácon: odaléptem és magas termetű, sötét ruhába öltözött, fekete képű és hajú férfit láttam.
 A falnak dőlt, s kezét a kilincsen tartotta, mintha az ajtót készült volna kinyitni.
-„Ki lehet ez?
+"Ki lehet ez?
 - gondoltam.
 - Earnshaw úr?
-Nem, hisz ez nem az ő hangja!”
+Nem, hisz ez nem az ő hangja!"
 - Egy órája várok már - folytatta az ismeretlen, miközben újból és újból végigmértem -, s közben itt mindenütt halálos csend volt.
 Nem mertem belépni.
 Meg sem ismer?
@@ -2416,7 +2413,7 @@ Rábízni a szívedet épp annyi lenne, mintha kis kanáridat téli hidegben a p
 Egyedül azért született benned ez az ábránd, mivel semmit, de semmit sem tudsz a jelleméről.
 Könyörgöm, ne hidd, hogy jóindulat és szeretet kincsei lakoznak sötét külseje mögött!
 Nem nyers gyémánt ő, és nem is gyöngyöt rejtő kagyló: könyörtelen és kegyetlen, valóságos farkas!
-Sohasem mondom neki, hogy: „Hagyd békén ezt vagy azt az ellenségedet, mivel hitvány és kegyetlen dolog volna, ha ártanál nekik!”, hanem azt, hogy: „Hagyd őket békén, mert nem tűrném, hogy bántsd őket!” Úgy összetörne, mint egy verébtojást, ha egyszer terhére lennél, Isabella.
+Sohasem mondom neki, hogy: "Hagyd békén ezt vagy azt az ellenségedet, mivel hitvány és kegyetlen dolog volna, ha ártanál nekik!", hanem azt, hogy: "Hagyd őket békén, mert nem tűrném, hogy bántsd őket!" Úgy összetörne, mint egy verébtojást, ha egyszer terhére lennél, Isabella.
 Tudom, hogy képtelen volna Linton lányt szeretni.
 De azért el tudna venni a vagyonodért és az örökségedért: a kapzsiság a fő szenve­délye lesz lassanként.
 Ilyennek festem le hát neked őt, jóllehet barátja vagyok, olyannyira, hogy ha komolyan közeledett volna hozzád, talán még féken is tartottam volna a nyelvemet, s hagytam volna, hogy a csapdájába essél.
@@ -2449,7 +2446,7 @@ Miért lakik Szelesdombon, olyas­valakinél, akit gyűlöl?
 Azt mondják, Earnshaw még rosszabb, mióta nála van.
 Állandóan együtt éjszakáznak: Hindley kölcsönt vett fel a földjére, és csak iszik, kártyázik.
 Alig egy hete találkoztam Gimmertonban Josephfel, és beszéltem vele.
-„Nelly, mondotta, egy szép napon még bírósági vizsgálat szakad a fejünkre.
+"Nelly, mondotta, egy szép napon még bírósági vizsgálat szakad a fejünkre.
 A minap is majdnem levágták az egyiknek az ujját, mikor meg akarta akadályozni, hogy az az ember leszúrja őket, akár egy borjút.
 Mármint a gazda, hisz tudja, az addig úgyse marad veszteg, míg törvény elé nem viszik.
 Nem fél az ítélettől: nem fél ő sem Pétertől, sem Páltól, sem Jánostól, sem Mátétól... senkitől se!
@@ -2460,7 +2457,7 @@ Nem mesél semmit az életmódjáról, mikor odaát jár maguknál?
 Hát ez csak így megy mindig: akkor kel fel, mikor a nap lemegy; azután csak kockajáték, pálinka járja, bezárt ablakoknál, gyertyavilág mellett, másnap délig.
 Utána a szobájába megy az oktondi, és ordít, káromkodik, hogy a becsületes emberek befogják a fülüket szégyenletükben.
 Megelégedetten számolja a pénzét a fickó, eszik, alszik, s ha kedve tartja, átrándul társalogni a szomszédja feleségével.
-Valószínűleg elmeséli Catherine asszonyságnak, mint vándorol zsebébe az apja pénze, és mint nyitja majd ki a kaput, hogy az apja fia mielőbb az országútra kerüljön.” Hát én csak annyit mondok, Linton kisasszony, hogy ez a Joseph vén szamár ugyan, de nem szokott hazudni, és ha igaz, amit Heathcliff viselkedéséről mond, akkor remélem, nem jut eszébe, hogy ilyen férjet kívánjon magának!
+Valószínűleg elmeséli Catherine asszonyságnak, mint vándorol zsebébe az apja pénze, és mint nyitja majd ki a kaput, hogy az apja fia mielőbb az országútra kerüljön." Hát én csak annyit mondok, Linton kisasszony, hogy ez a Joseph vén szamár ugyan, de nem szokott hazudni, és ha igaz, amit Heathcliff viselkedéséről mond, akkor remélem, nem jut eszébe, hogy ilyen férjet kívánjon magának!
 - Te is velük tartasz, Ellen - felelte.
 - Nem akarom tovább hallgatni a rágalmaidat.
 Nagyon gonosz lehetsz, ha arról akarsz meggyőzni, hogy nincs e világon boldogság!
@@ -2561,10 +2558,10 @@ Soká néztem a viharvert követ, s egy lyukra lettem figyelmes a lábánál, me
 Megborzongtam e percben: egy pillanatra mintha testi szememmel láttam volna, hogy a gyerek felemeli fejét, és rám tekint.
 A látomás hirtelen eltűnt, de utána tüstént ellenállhatatlan vágy fogott el, hogy Szelesdombra menjek.
 Babonás előérzet ösztökélt tervem megvalósítására.
-„Hátha meghalt!
+"Hátha meghalt!
 - gondoltam.
 - Vagy talán halál fenyegeti!
-Ez a jelenés talán a halál előhírnöke volt!”
+Ez a jelenés talán a halál előhírnöke volt!"
 Amily mértékben közeledtem a házhoz, úgy fokozódott izgalmam is: mikor végre meg­pillantottam, minden tagomban remegtem.
 A látomás megelőzött: ott állt előttem, a kerítésnek támaszkodva.
 Ez volt legalábbis első gondolatom, mihelyt a barna szemű, kócos kisfiút megpillantottam, aki a rácsok közé szorította friss arcocskáját.
@@ -2823,7 +2820,7 @@ Mindeddig eléggé bölcsen óvakodott kihívni haragomat maga ellen.
 Meg kell értetned vele, mennyire káros volna, ha eltérne ettől a mérséklettől; emlékeztesd szenvedélyességemre, mely dühöngésig fajulhat, ha felizgatnak.
 Szeretném, ha nem vágnál ilyen közömbös arcot, és több buzgalmat mutatnál irántam.
 Szenvtelenségem, mellyel utasításait fogadtam, valóban dühítő lehetett, mert Lintonné teljesen őszintén és nyíltan beszélt velem.
-De úgy gondoltam, hogy aki már előre kiterveli, mint húzhatna hasznot saját dührohamaiból, elég akaraterővel rendelkezhetik ahhoz is, hogy megfékezze magát; semmi kedvem sem volt „megijeszteni” férjét, amint mondotta, és növelni gondjait az ő önzése miatt.
+De úgy gondoltam, hogy aki már előre kiterveli, mint húzhatna hasznot saját dührohamaiból, elég akaraterővel rendelkezhetik ahhoz is, hogy megfékezze magát; semmi kedvem sem volt "megijeszteni" férjét, amint mondotta, és növelni gondjait az ő önzése miatt.
 Így hát egy szót sem szóltam, mikor megláttam az urat, aki épp a nappali felé igyekezett; de visszafordultam, hogy kihallgassam, folytatni akarják-e civódá­sukat.
 Elsőnek Linton szólalt meg:
 - Maradj ott, ahol vagy, Catherine - mondotta, és hangjában nem volt semmi harag, csak szomorúság és fájdalom.
@@ -3230,7 +3227,7 @@ Nem tudom elhinni!
 Miközben beszélt, az ajtó felé vezette a leányt és megkérte, mondja el, miből gondolja ezt.
 - Hát az úton találkoztam egy fiúval, aki tejért jött ide - dadogta -, és az megkérdezte, nincs-e valami baj minálunk?
 Azt hittem, az asszonyom betegségéről beszél, és azt feleltem: de van!
-Erre ő azt mondja: „Bizonyára már üldözik is őket.” Csodálkozva néztem rá.
+Erre ő azt mondja: "Bizonyára már üldözik is őket." Csodálkozva néztem rá.
 Látta, hogy nem tudok semmiről, erre elmesélte, hogy egy úr és egy hölgy megállott a kovácsnál, Gimmertontól két mérföldnyire, valamivel éjfél után, hogy az egyik ló patkóját megigazítsák; a kovács leánya felkelt, hogy megnézze, kik azok?
 Felismerte mindkettejüket.
 A férfi, meg mer rá esküdni, hogy Heathcliff volt; őt különben sem lehet mással összetéveszteni; egyfontos arannyal fizetett az apjának.
@@ -3350,7 +3347,7 @@ Nemrég lettem Heathcliff felesége... s ő ide hozott engem... úgy hiszem, az 
 - Igen... épp most érkeztünk meg.
 De otthagyott a konyha küszöbén, s mikor be akartam lépni, a maga fia, aki úgy látszik, házőrzőnek csapott fel, egy bulldog segítségével visszavonulásra kényszerített.
 - Tehát megtartotta a szavát a gazember!
-- dörmögte jövendő házigazdám, és a sötétet kémlelte a hátam megett, vajon ott van-e Heathcliff; majd nagyokat káromkodott, és elmondotta, mit fog csinálni, ha rájön, hogy becsapta őt ez a „rohadék”.
+- dörmögte jövendő házigazdám, és a sötétet kémlelte a hátam megett, vajon ott van-e Heathcliff; majd nagyokat káromkodott, és elmondotta, mit fog csinálni, ha rájön, hogy becsapta őt ez a "rohadék".
 Már megbántam, hogy ezen a második ajtón bekopogtam, és további szitkaira sem lévén kíváncsi, legszívesebben eltűntem volna a szeme elől, még mielőtt szitkai végére jut; tervemet azonban nem tudtam megvalósítani, mert rám szólt, hogy kerüljek beljebb, majd bezárta és lelakatolta az ajtót.
 Nagy tűz égett a kandallóban, és ez volt az egyedüli fény a nagy szobában, melynek padlója már mindenütt egyforma szürke volt; az ónedények, melyeknek csillogását annyiszor megbámultam kislány koromban, ugyanolyan színűek voltak, mint a padló, a sok portól és piszoktól.
 Megkérdeztem, hívhatom-e a szobalányt, hogy hálószobámba vezessen?
@@ -3452,7 +3449,7 @@ Be kell vallanom, elég kezdetleges étel lett belőle, mire a tányérokba önt
 Négy tányér állt az asztalon: egy nagy köcsög tejet hoztak be még, melyet Hareton rögtön megragadott: úgy itta, hogy kiöntötte a felét.
 Tiltakoztam és rá akartam bírni, hogy töltse ki csészébe a maga részét.
 Kijelentettem, hogy nem iszom abból az italból, melyet ilyen piszkosan kezelnek.
-Az öreg nem mulasztotta el megbotránkozni finnyásságomon; biztosított, hogy én sem vagyok különb a gyereknél, és nincs mitől tartanom, „hisz egészséges”; nem értette, mint lehetek ilyen képzelődő.
+Az öreg nem mulasztotta el megbotránkozni finnyásságomon; biztosított, hogy én sem vagyok különb a gyereknél, és nincs mitől tartanom, "hisz egészséges"; nem értette, mint lehetek ilyen képzelődő.
 Közben a kis csirkefogó tovább hörpölt, s kihívóan nézett felém, miközben nyála belefolyt a köcsögbe.
 - Külön akarok étkezni!
 Nincs valami külön szobájuk, amit úgy hívnak, hogy szalon?
@@ -3471,7 +3468,7 @@ Időnként kinyitott egy-egy ajtót, és benézett a szobákba, melyek mellett e
 - mondotta végül, kitárván egy rozoga deszkaajtót.
 - Arra épp jó lesz, hogy egy kis levest megegyék benne.
 Van egy halom gabona a sarokban; ha fél, hogy bepiszkolja a szép selyemruháját, terítsen egy zsebkendőt fölé!
-A „szoba” amolyan kamraféle volt, melyben maláta és vetőmag árasztott rossz szagot; nagy zsákok állottak körös-körül, a helyiség közepe azonban szabad volt.
+A "szoba" amolyan kamraféle volt, melyben maláta és vetőmag árasztott rossz szagot; nagy zsákok állottak körös-körül, a helyiség közepe azonban szabad volt.
 - No hát!
 - kiáltottam fel dühösen.
 - Ez mégsem olyan hely, hogy itt töltsem az éjszakát!
@@ -3547,7 +3544,6 @@ Gyűlölöm... és nagyon szerencsétlen vagyok... ostoba voltam!
 Vigyázzon, egy szót se tudjanak meg mindebből Thrushcross Grange-ben.
 Mindennap várom... remélem, nemhiába.
 Isabella
-
 Tizennegyedik fejezet
 Mihelyt elolvastam a levelet, gazdámhoz siettem.
 Jelentettem neki, hogy húga megérkezett Szelesdombra, s levelében kifejezte fájdalmát Lintonné betegsége felett, valamint vágyát, hogy testvérét láthassa; hozzáfűztem, hogy nagyon szeretné, ha közvetítésemmel mielőbb jelét vehetné Linton bocsánatának.
@@ -3756,14 +3752,13 @@ Végül elaltattam aggályaimat, ezerszer is megfogadva magamban, hogy ez a szó
 Utam azonban szomorúbb volt visszafelé, mint mikor reggel elindultam, s csak rossz előérzetek közepette tudtam magam rászánni, hogy átadjam a levelet úrnőmnek.
 De itt van már Kenneth, lemegyek és megmondom neki, mennyivel jobban érzi magát.
 Olyan hosszú a történetem mint a böjti nap - ahogy mifelénk mondani szokás -, jut még belőle jó néhány délelőttre.
-„Olyan hosszú, mint egy böjti nap, és olyan szomorú is!
+"Olyan hosszú, mint egy böjti nap, és olyan szomorú is!
 - gondoltam, miközben a jó asszony lement, hogy fogadja a doktort.
 - Nem olyan történet, amilyenben üdülést találnék!
 De hát mindegy!
 Deanné keserű füveiből értékes orvosságokat fogok kivonni.
 Mindenekelőtt óvakodom Catherine Heathcliff szeme ragyogásától.
-Ugyancsak szép helyzetbe kerülnék, ha szívem ott találnám veszíteni ennél a fiatal teremtésnél, s ha kiderülne, hogy a lány pontos mása az anyjának.”
-
+Ugyancsak szép helyzetbe kerülnék, ha szívem ott találnám veszíteni ennél a fiatal teremtésnél, s ha kiderülne, hogy a lány pontos mása az anyjának."
 Tizenötödik fejezet
 Megint elmúlt egy hét, s minden nap közelebb hoz a tavaszhoz, a gyógyuláshoz.
 Végig­hallgattam szomszédom történetét több folytatásban, aszerint, mennyi szabad időt tudott szakítani magának gazdasszonyom, fontosabb elfoglaltságai közepette.
@@ -3834,9 +3829,9 @@ Miért ne szenvednél?
 Én is szenvedek!
 El fogsz felejteni?
 Boldog leszel, ha majd a föld alatt pihenek?
-Azt fogod mondani húsz év múlva: „Ez itt Catherine Earnshaw sírja.
+Azt fogod mondani húsz év múlva: "Ez itt Catherine Earnshaw sírja.
 Szerettem valaha, és fájt, hogy elvesztettem, de most már vége!
-Sokakat szerettem azóta, gyermekeim ma kedvesebbek nekem, mint ő volt valaha, és ha meghalok, nem fogok örülni, hogy ismét megtalálom, inkább az elvesztésüket fájlalom majd.” Ezt fogod mondani, Heathcliff?
+Sokakat szerettem azóta, gyermekeim ma kedvesebbek nekem, mint ő volt valaha, és ha meghalok, nem fogok örülni, hogy ismét megtalálom, inkább az elvesztésüket fájlalom majd." Ezt fogod mondani, Heathcliff?
 - Ne kínozz, vagy azt akarod, hogy megőrüljek, akárcsak te?
 - kiáltott fel fogait csikorgatva a férfi, s kiszabadította a fejét.
 Közömbös szemlélőnek furcsa és borzalmas látványt nyújthatott ez a két ember.
@@ -3963,10 +3958,10 @@ Eddig még maga sem volt képes ilyen ördögi cselekedetre.
 Mindnyájan elveszünk, az úr, az úrnő... s a cseléd.
 Kezemet tördeltem és jajveszékeltem; a zaj hallatára Linton is meggyorsította lépteit.
 Zavaromban valóságos örömet okozott, mikor láttam, hogy Catherine karja hátrahullott, feje pedig vállára csuklott.
-„Elájult vagy meghalt!
+"Elájult vagy meghalt!
 - gondoltam.
 - Annál jobb!
-Inkább haljon meg, mint hogy így szenvedjen tovább, környezete terhére és gyötrelmére.”
+Inkább haljon meg, mint hogy így szenvedjen tovább, környezete terhére és gyötrelmére."
 Edgar egy ugrással a váratlan vendégnél termett, döbbenettől és haragtól sápadtan.
 Mi volt a szándéka?
 - nem tudnám megmondani, de Heathcliff minden szónak útját vágta azzal, hogy karjába tette feleségének látszólag élettelen testét.
@@ -4038,12 +4033,12 @@ Megpróbálta kimondani Catherine nevét, de nem volt rá képes.
 Összeszorította ajkát, és hangtalanul küzdött a kínnal, mely legyűrte; ugyanakkor kihívó, vad pillantást vetett felém.
 - Hogyan halt meg?
 - kérdezte végül, s valami támasztékot keresett háta mögött, mert bármily kemény ember volt is, minden ízében reszketett.
-„Szegény feje!
+"Szegény feje!
 - gondoltam.
 - Neked is csak olyan a szíved és az idegeid, mint a többi felebarátodé.
 Miért akarod hát elrejteni?
 Gőgöddel nem vezeted félre Istent!
-Addig kísérted, míg ki nem préseli belőled a szégyen jajkiáltását!”
+Addig kísérted, míg ki nem préseli belőled a szégyen jajkiáltását!"
 - Oly szelíden halt meg, akárcsak egy bárány - feleltem kérdésére.
 - Felsóhajtott és kinyújtó­zott, mint a gyermek, aki most tér magához álmából, majd elalszik ismét.
 Öt perc múlva még vert egy kissé a szíve, majd minden elcsendesült.
@@ -4200,7 +4195,7 @@ Ami engem illet, bármennyire bánkódtam is Catherine halálán, nem tudtam meg
 Annyira összeszedtem magam, hogy sírás nélkül tudtam végighallgatni Joseph örökös feddéseit, s már nem egészen úgy jártam-keltem a házban, mint egy megrémült tolvaj.
 El se hiszi talán, hogy sírni szoktam Joseph beszédei miatt!
 De Hareton és ő valóban rettenetes társaság.
-Inkább maradok egyedül Hindleyvel, és hallgatom végig káromkodását, hogysem a „kis úrfival” és hűséges védnökével, ezzel a visszataszító vénemberrel tartsak.
+Inkább maradok egyedül Hindleyvel, és hallgatom végig káromkodását, hogysem a "kis úrfival" és hűséges védnökével, ezzel a visszataszító vénemberrel tartsak.
 Ha Heathcliff otthon van, nagyon gyakran kell az ő társaságukba menekülnöm, vagy lakatlan, nyirkos szobákban dideregnem.
 Ha ő nincs otthon, amint a múlt héten is történt, egy asztalt s egy széket állítok a tűz mellé, és nem törődöm vele, mivel tölti Earnshaw az idejét, aminthogy őt sem érdekli, hogy én mit csinálok.
 Most, hogy nem ingerlik, sokkal nyugodtabb, mint máskor: komorabb, levertebb és nem annyira dühös.
@@ -4268,7 +4263,7 @@ Szívem mélyén azt gondoltam (s lelkiismeretem sohasem furdalt ezért), hogy v
 Miközben gondolataimba merültem, egy ökölcsapás csattant az ablakon, mely száz darabra tört, s a keretben már meg is jelent a sápadt arc, szemében baljós fényekkel.
 Válla azonban nem fért be a keresztléc miatt: nyugodtan mosolyogtam rá, azt hivén, bizton­ságban vagyok.
 Haja és ruhája fehér volt a hótól, hegyes emberevő-fogai dühösen villogtak a sötétben.
-- Isabella, engedj be, mert megbánod - „vicsorgott”, ahogy Joseph mondaná.
+- Isabella, engedj be, mert megbánod - "vicsorgott", ahogy Joseph mondaná.
 - Nem akarok részt venni egy gyilkosságban - feleltem.
 - Hindley úr lesben áll, kezében töltött pisztoly és kés.
 - Engedj be a konyhaajtón!
@@ -4589,9 +4584,9 @@ Mindjárt arra gondoltam, hogy a Peniston-sziklák felé kell keresnem.
 Elértem az országutat, és úgy siettem, mintha fizetnének minden mérföldért.
 Az út egyik kanyarulatában feltűnt Szelesdomb; de Catherine-t nem láttam sem a közelben, sem a távolban.
 A sziklák másfél mérföldnyire lehettek Heathcliff házától, mely maga is négy mérföldnyire fekszik Thrushcross Grange-től, úgyhogy attól tartottam, nem érek oda besötétedés előtt.
-„Hátha leesett, mikor fel akart mászni!
+"Hátha leesett, mikor fel akart mászni!
 - gondoltam.
-- Talán meg is halt, vagy csontját törte!”
+- Talán meg is halt, vagy csontját törte!"
 Félelmem egyre növekedett, és végül már boldog megkönnyebbülést éreztem, mikor a tanya mellett elhaladtomban megpillantottam Charlie-t, a legvadabb vadászkutyát: dagadt fejjel, vérző füllel egy ablak alatt feküdt.
 Kinyitottam a kerti kaput, és vadul dörömbölni kezdtem a ház ajtaján.
 Az asszonyt, aki ajtót nyitott, ismertem Gimmertonból; most itt szolgált Earnshaw halála óta.
@@ -4663,7 +4658,7 @@ A gazdájáé?
 Még inkább elpirult, de most már más okból, majd magában szitkozódva hátat fordított.
 - Ki az ő gazdája?
 - folytatta a tapintatlan kislány.
-- A „mi házunkról” beszélt és a „mi embereinkről”.
+- A "mi házunkról" beszélt és a "mi embereinkről".
 Azt hittem, a tulajdonos fia.
 Hisz sohasem szólított kisasszonynak, pedig ugye, így kellett volna tennie, ha cseléd?
 Erre a gyerekes beszédre Hareton úgy elsötétült, mint egy viharfelhő.
@@ -4727,7 +4722,7 @@ Azt hiszem, Heathcliff nemigen sanyargatta őt testileg; kemény természetű vo
 Rosszindulatát inkább úgy elégítette ki, hogy vadócnak nevelte.
 Sohasem tanították meg írni vagy olvasni; sohasem rótták meg rossz szokásaiért, hacsak magának eltartójának nem volt velük terhére; sohasem próbálták előbbre vinni az erény útján, nem tiltották el semmi rossztól.
 Amint hallottam, Joseph nagyban hozzá­járult félreneveléséhez, mégpedig téves engedékenységével, mellyel a fiúnak, mint a régi család fejének, hízelegni és kedvében járni igyekezett.
-Catherine-t és Heathcliffet mindig azzal vádolta gyermekkorukban, hogy „megbotránkoztató viselkedésükkel” végső próbára teszik gazdája türelmét, s ezzel kényszerítik arra, hogy az italban leljen vigaszt; most viszont Hareton válláról arra hárított minden hibát, aki javait bitorolta.
+Catherine-t és Heathcliffet mindig azzal vádolta gyermekkorukban, hogy "megbotránkoztató viselkedésükkel" végső próbára teszik gazdája türelmét, s ezzel kényszerítik arra, hogy az italban leljen vigaszt; most viszont Hareton válláról arra hárított minden hibát, aki javait bitorolta.
 Bármennyit káromkodott Hareton, és bármily elítélendően viselkedett, Joseph óvakodott megróni őt ezért.
 Úgy látszott, mintha öröme telnék benne, hogy mind mélyebbre süllyed a rosszban.
 Elismerte, hogy a fiút elzüllesztették, s lelkére kárhozat vár, de úgy gondolta, hogy mindezért Heathcliffet terheli a felelősség.
@@ -4735,7 +4730,7 @@ Tőle fogják számon kérni e lélek elvesztét: ebben a gondolatban végtelen 
 Joseph beleoltotta Haretonba a név és származás gőgjét.
 Ha merte volna, még a gyűlöletét is felébresztette volna benne a jelenlegi tulajdonos iránt; de ez utóbbitól szinte babonásan félt már, és így érzelmeit csak alig hallható célzásokban merte kifejezni, valamint abban, hogy lelke mélyén a Gondviselés büntető bosszúját idézte fejére.
 Nem állítom, hogy teljesen tisztában voltam az életmóddal, melyet ez idő tájt Szelesdombon folytattak; csak hallomásból értesültem egyes dolgokról, magam kevés eseménynek lehettem szemtanúja.
-A falusiak elbeszéléseiből annyit megtudhattunk, hogy Heathcliff nagyon „szűkmarkú”, a tanyásokkal pedig szigorúan, sőt durván bánik.
+A falusiak elbeszéléseiből annyit megtudhattunk, hogy Heathcliff nagyon "szűkmarkú", a tanyásokkal pedig szigorúan, sőt durván bánik.
 A ház azonban asszonyi vezetés alatt ismét visszanyerte régi kényelmét, többé nem ismétlődtek meg azok a jelenetek, melyek Hindley idejében mindennaposak voltak.
 A gazda túlságosan sötét kedvében volt ahhoz, hogy mások társaságát keresse, akár jó, akár rossz lett volna az; egyébként most is ilyen.
 Mindez azonban nem viszi előre történetemet.
@@ -4750,7 +4745,7 @@ Felfedte előtte a Tündérbarlang és még vagy húsz más, hasonló hely titk�
 Kegyvesztett létemre azonban nem részesülhettem azoknak a dolgoknak leírásában, melyeket a kislány útján tapasztalt.
 Annyit mégis kitalálhattam, hogy kísérője nagy kegyben állt nála érkezésemig, s aztán meg nem sértette azzal, hogy szolgaként kezelte, s a háziasszony a sértés viszonzásaként unoka­testvérének nem mondotta Haretont.
 Különösen szívére vette a fiú durva szavait.
-Őt, aki Thrushcross Grange-ben „szerelmem”, „drágám”, „kis királyném”, „angyalom” volt mindenki számára, ilyen durván megsértette egy idegen!
+Őt, aki Thrushcross Grange-ben "szerelmem", "drágám", "kis királyném", "angyalom" volt mindenki számára, ilyen durván megsértette egy idegen!
 Ez nem ment a fejébe, és csak nagy nehezen tudtam rávenni, hogy ne közölje sérelmeit apjával.
 Megmagyaráztam neki, hogy Linton nagyon haragszik a régi ház lakóira, és szerfölött megneheztelne, ha tudomására jutna, hogy lánya ott járt.
 Különösen azt hangsúlyoztam, hogy ha elárulja hanyagságomat apja rendelkezéseivel szemben, talán el is kell távoznom.
@@ -4760,7 +4755,7 @@ Tizenkilencedik fejezet
 Fekete szegélyű levél jelezte, hogy urunk hamarosan visszatér.
 Isabella meghalt.
 Azért írt, hogy rendeljem meg a gyászruhát leányának, fiatal unokaöccsének pedig készítsek elő egy szobát, mindennel, ami szükséges.
-Catherine ugrált örömében, hogy viszontláthatja apját, s a legvérmesebb képzelődéseknek adta magát át „igazi” unokaöccsét illetően.
+Catherine ugrált örömében, hogy viszontláthatja apját, s a legvérmesebb képzelődéseknek adta magát át "igazi" unokaöccsét illetően.
 Végre eljött megérkezésük oly nehezen várt estéje.
 Kora reggel óta tett-vett, intézte a maga apró-cseprő dolgait, este pedig új fekete ruhájában - szegény gyermek!
 nagynénje halála nem okozott neki mélyebb fájdalmat - addig kérlelt, míg rá tudott venni, hogy elébe menjünk apjának a birtok határáig.
@@ -4829,7 +4824,7 @@ Leszárította könnyeit, halovány mosoly derült ki arcán.
 - Hisz itt minden rendben lesz - mondotta a gazdám, miután egy percig figyelmesen nézte őket.
 - Rendben, ha itt tudjuk tartani, Ellen.
 Egy magakorabeli gyermek társasága új lelket önt majd belé, és ha igazán akarja, talán még meg is erősödik.
-„Igen, ha itt tudjuk őt tartani!” - gondoltam magamban; nem tudtam leküzdeni szomorú előérzetemet, hogy ez gyenge remény csupán.
+"Igen, ha itt tudjuk őt tartani!" - gondoltam magamban; nem tudtam leküzdeni szomorú előérzetemet, hogy ez gyenge remény csupán.
 De hogyan tudna élni egy ilyen törékeny lény odaát?
 Apja és Hareton milyen példa, milyen társaság lenne a számára?!
 Kétségeinkre hamar megkaptuk a feleletet, hamarább, mint reméltem volna.
@@ -4943,7 +4938,7 @@ Mégis, igyekezzék kedves és szíves lenni hozzá; természetesen jobban fogja
 Ugye, én akkor nem is hasonlítok rá?
 - Nem nagyon!
 - feleltem.
-„Egyáltalán nem!” - gondoltam magamban, és szánalommal néztem útitársam fehér arcbőrét, törékeny vonalait és anyjától örökölt nagy, álmodozó szemét, fénytelen volt és élénkség híján; kivéve azokban a pillanatokban, mikor valami ingerlékenység hatására gyulladt ki.
+"Egyáltalán nem!" - gondoltam magamban, és szánalommal néztem útitársam fehér arcbőrét, törékeny vonalait és anyjától örökölt nagy, álmodozó szemét, fénytelen volt és élénkség híján; kivéve azokban a pillanatokban, mikor valami ingerlékenység hatására gyulladt ki.
 - Milyen különös, hogy sohase látogatta meg mamát és engem!
 - dünnyögte.
 - Látott-e valaha?
@@ -5045,9 +5040,9 @@ Az anyja is ilyen volt... egyikünk sem volt elég tiszta neki ahhoz, hogy elves
 - Adjon neki olyasvalamit, amit meg tud enni, és kész!
 Mit szokott enni, Nelly?
 Forralt tejet vagy teát ajánlottam, s mindjárt utasították is a szakácsnét.
-„Nos - gondoltam -, az apa önzése talán még hasznára is válik a gyereknek.
+"Nos - gondoltam -, az apa önzése talán még hasznára is válik a gyereknek.
 Tisztában van törékeny alkatával, s azzal, hogy óvatosan kell vele bánnia.
-Majd megvigasztalom Edgar urat, ha elmesélem neki Heathcliff legújabb bolondériáját.”
+Majd megvigasztalom Edgar urat, ha elmesélem neki Heathcliff legújabb bolondériáját."
 Nem lévén több okom a maradásra, lassan távozni készültem, miközben Linton épp egy barátságos juhászkutya közeledését igyekezett félénken elhárítani.
 De sokkal inkább résen volt, hogysem becsaphattam volna.
 Abban a percben, mikor betettem magam mögött az ajtót, sikoltást hallottam, és néhány kétségbeesett kiáltást:
@@ -5060,7 +5055,7 @@ Felültem Minnyre, és ügetésre nógattam.
 Huszonegyedik fejezet
 Szomorú nap virradt ránk a kis Cathyvel.
 Boldogan kelt fel, alig várván, hogy viszontláthassa unokaöccsét; távozásának híre olyan vad sírást és zokogást váltott ki belőle, hogy Edgarnak kellett őt megnyugtatni azzal, hogy nemsokára visszajön.
-De hozzátette azt is, hogy: „ha vissza tudom őt hozni” - amit nemigen remélhettünk.
+De hozzátette azt is, hogy: "ha vissza tudom őt hozni" - amit nemigen remélhettünk.
 Ez az ígéret alig nyugtatta meg, de az időnek nagyobb hatalma volt, és noha később megkérdezte még néha, mikor jön vissza Linton, a kisfiú vonásai lassanként úgy elmosódtak emlékezetében, hogy meg sem ismerte, mikor találkozott vele.
 Valahányszor dolgom akadt Gimmertonban, sohasem mulasztottam el, hogy megkérdezzem szomszédunk háziasszonyától, hogyan érzi magát a fiatalúr; mert Linton csaknem olyan elzártan élt, mint Catherine, és sohasem lehetett látni.
 Megtudtam tőle, hogy egészsége gyenge, és meglehetősen terhére van a környezetének.
@@ -5117,7 +5112,7 @@ Ez a vidék Heathcliff tulajdona volt, és most megszidta a kis vadorzót.
 - Én nem vettem ki, és nem találtam egyet sem - mondotta éppen, amikor nagy keservesen odaértem, s odanyújtotta nekik üres kezét, hogy meggyőzze őket állításáról.
 - Nem akartam elvenni belőlük, csak papa mesélte, hogy sok a fészek errefelé, és szerettem volna látni a tojásaikat.
 Heathcliff gonosz mosollyal kísért pillantást vetett felém, amely azt jelentette, hogy tudja, kivel beszél, s ennek következtében nem a legjobb szándékok hevítik őt.
-Megkérdezte, ki ez a „papa”?
+Megkérdezte, ki ez a "papa"?
 - Edgar Linton, a Thrushcross Grange ura - felelte Catherine.
 - Gondoltam, hogy nem tudja, ki vagyok, különben nem beszélt volna így velem.
 - Úgy gondolja hát, hogy papája általános tiszteletnek és becsülésnek örvend?
@@ -5524,7 +5519,7 @@ Szétturkáltam a pernyét, és egy csomó szenet öntöttem fölé.
 Ő pedig szó nélkül, szívében halálos sértettség érzésével szobájába vonult.
 Én lementem, jelenteni gazdámnak, hogy fiatal úrnőm rosszulléte csaknem megszűnt már, de úgy találtam, helyesebb, ha fekve marad még kissé.
 Nem volt hajlandó ebédelni, de az uzsonnán megjelent, sápadtan, vörös szemekkel, de - meglepetésemre - látszólag megadva magát sorsának.
-Másnap reggel kis darab papíron válaszoltam a levélre; ezt írtam: „Kérjük a fiatalurat, ne küldjön több levelet Linton kisasszonynak, mert nem fogja megkapni.” Ezentúl a tejesfiú üres zsebekkel érkezett.
+Másnap reggel kis darab papíron válaszoltam a levélre; ezt írtam: "Kérjük a fiatalurat, ne küldjön több levelet Linton kisasszonynak, mert nem fogja megkapni." Ezentúl a tejesfiú üres zsebekkel érkezett.
 Huszonkettedik fejezet
 Vége felé járt a nyár, s ránk köszöntött a korai ősz.
 Szent Mihály napja elmúlott már, de ez évben késett az aratás, és néhány földünkön még lábon állt a gabona.
@@ -5638,7 +5633,7 @@ Maga is érzi, hogy nem halhat meg senki a szerelemtől olyasvalaki iránt, akit
 - Nem gondoltam rá, hogy valaki hallgatózik!
 - dörmögte a meglepett fickó.
 - Kedves Deanné, nagyon szeretem magát, de nem szeretem a kétkulacsosságát - tette hozzá fennhangon.
-- Hogyan hazudhatott olyan szemérmetlenül, hogy én gyűlölöm ezt a „szegény gyermeket”?
+- Hogyan hazudhatott olyan szemérmetlenül, hogy én gyűlölöm ezt a "szegény gyermeket"?
 És hogyan találhatott ki mumushistóriákat, hogy elriassza küszöbömtől?
 Catherine Linton, már nevére is megrezdül a szívem, drága kislányom, távol leszek hazulról egész héten.
 Menjen és nézze meg, igazat mondottam-e?
@@ -6061,7 +6056,7 @@ De teázás után gyönyörű holdfényes idő volt; lóra pattantam, és útkö
 Ügetve mentem át a kertjükön, és mikor befordultam a ház mögött, Earnshaw-ba botlottam, aki megfogta lovam kantárját, és kért, jöjjek be a főkapun.
 Megsimogatta Minny nyakát, és azt mondotta, jó állat: úgy látszott, szóra akar bírni.
 Én csak annyit mondtam, hagyja békén a lovamat, mert meg találja rúgni.
-Parasztos kiejtéssel azt felelte: „Az ű rúgása nem sokat árthat nekem” - és mosolyogva nézte Minny lábát.
+Parasztos kiejtéssel azt felelte: "Az ű rúgása nem sokat árthat nekem" - és mosolyogva nézte Minny lábát.
 Legszívesebben kóstolót adtam volna neki belőle, de már előrement, hogy kinyissa a kaput.
 Mikor félrehúzta a reteszt, a homlokzat felirata felé pillantott, és hivalkodással vegyes ostoba félszegséggel így szólt:
 - Catherine kisasszony!
@@ -6070,7 +6065,7 @@ Már el tudom olvasni!
 - kiáltottam.
 - Halljuk csak!
 Maga igazán megokosodott.
-Szótagról szótagra nyögve kisilabizálta: „Hareton Earnshaw.”
+Szótagról szótagra nyögve kisilabizálta: "Hareton Earnshaw."
 - És a számjegyek?
 - mondottam bátorító hangon, látván, hogy megállott.
 - Azokat még nem tudom elolvasni.
@@ -6163,7 +6158,7 @@ Nagyon szerettem volna elmenni, de rendkívül izgatott állapotban voltam: volt
 Harmadnap összeszedtem bátorságomat: nem tudtam tovább elviselni a bizonytalanságot, és még egyszer kilopózkodtam.
 Öt órakor indultam, gyalog, és azt reméltem, észrevétlenül tudok besurranni a házba, és eljutok Linton szobájáig.
 A kutyák azonban felriadtak közeledtemre.
-Zillah fogadott, és tudtomra adta, hogy a „fiú szépen javul”, és egy tiszta kis szobába vezetett, melynek padlóját szőnyeg fedte, s melyben kimondhatatlan örömömre megpillantottam Lintont, amint egy kis pamlagon feküdt, és egyik könyvemet olvasta.
+Zillah fogadott, és tudtomra adta, hogy a "fiú szépen javul", és egy tiszta kis szobába vezetett, melynek padlóját szőnyeg fedte, s melyben kimondhatatlan örömömre megpillantottam Lintont, amint egy kis pamlagon feküdt, és egyik könyvemet olvasta.
 De egy álló órán keresztül meg sem szólított, pillantást sem vetett rám: ilyen szerencsétlen természete van, Ellen.
 És ami végképp kétségbeejtett és elképesztett: azt mondotta, én vagyok oka mindennek, és Hareton nem hibás.
 Minthogy csak indulatosan felelhettem volna neki, felkeltem, és elhagytam a szobát.
@@ -6300,7 +6295,7 @@ Huszonhatodik fejezet
 Túl voltunk már a nyár derekán, mikor Edgar nehéz szívvel engedett könyörgéseiknek, és lóhátra ülhettünk Catherine-nel, hogy felkeressük unokaöccsét.
 Fülledt idő volt: a napot felhők fedték, de a páráktól és ködöktől súlyos égbolt nem ígért esőt.
 Az útjelző kő mellett adtunk egymásnak találkozót, az útkereszteződésnél.
-Odaérve azonban csak egy kis pásztor­fiút találtunk, aki tudtunkra adta, hogy „a fiatalúr” a domboldalon vár bennünket, és nagyon megköszönné, ha valamivel tovább mennénk.
+Odaérve azonban csak egy kis pásztor­fiút találtunk, aki tudtunkra adta, hogy "a fiatalúr" a domboldalon vár bennünket, és nagyon megköszönné, ha valamivel tovább mennénk.
 - Akkor Linton úrfi elfeledte gazdám első feltételét - jegyeztem meg.
 - Ő ugyanis ragaszkodott hozzá, hogy Thrushcross Grange területén maradjunk.
 Így azonban rövidesen elhagyjuk azt.
@@ -6822,14 +6817,14 @@ Hiába találta ki ezt a mesét: minden ki fog derülni!
 - Nem ő találta ki!
 Az egész falu erről beszél.
 Azt mesélik, hogy ott vesztek a mocsárban.
-Mikor visszajöttem, így szóltam Earnshaw-hoz: „No hát, furcsa dolgok történtek itt, Hareton úr, amióta elmentem.
-Milyen kár ezért a szép kisasszonyért s ezért a derék Nelly Deanért.” Rám bámult: gondoltam, nem hallott semmiről, mire elmeséltem neki, mit hallottam.
-Csak hallgatott, majd elmosolyodott, és így szólt: „Ha benn is voltak a mocsárban, már kijöttek belőle, Zillah.
+Mikor visszajöttem, így szóltam Earnshaw-hoz: "No hát, furcsa dolgok történtek itt, Hareton úr, amióta elmentem.
+Milyen kár ezért a szép kisasszonyért s ezért a derék Nelly Deanért." Rám bámult: gondoltam, nem hallott semmiről, mire elmeséltem neki, mit hallottam.
+Csak hallgatott, majd elmosolyodott, és így szólt: "Ha benn is voltak a mocsárban, már kijöttek belőle, Zillah.
 Nelly Dean jelenleg épp a maga szobájában van: ha felmegy, mondja meg neki, hogy elmehet.
 Itt van a kulcs.
 A mocsár vize kissé összezavarta a fejét, és azon nyomban haza akart szaladni, mint egy félbolond.
 De itt tartottam, amíg eszére nem tért.
-Kérje meg, menjen rögtön Thrushcross Grange-be, és jelentse, hogy a fiatal hölgy idejében el fog indulni, hogy részt vehessen apja temetésén.”
+Kérje meg, menjen rögtön Thrushcross Grange-be, és jelentse, hogy a fiatal hölgy idejében el fog indulni, hogy részt vehessen apja temetésén."
 - Edgar úr meghalt?
 - kiáltottam fel elfulladó hangon.
 - Ó, Zillah, Zillah!
@@ -7001,7 +6996,7 @@ Huszonkilencedik fejezet
 A temetés estéjén fiatal úrnőmmel a könyvtárban ültünk, s hol a bennünket ért veszteségen merengtünk bánatosan - sőt kétségbeesetten -, hol pedig azt találgattuk, mit ígér a sötét jövő?
 Megegyeztünk benne, hogy Catherine számára az lenne a legjobb megoldás, ha Thrushcross Grange-ben lakhatna, legalább addig, amíg Linton él, akinek szintén megengednék, hogy ideköltözzék; én továbbra is gazdasszony maradnék itt.
 Ez a lehetőség azonban túlságosan előnyösnek látszott, hogysem remélhettük volna.
-Mégis reménykedtem, és új erőt merítettem a gondolatból, hogy itt maradhatnék a házban, folytathatnám foglalkozásomat, és mindezek felett szeretett úrnőm oldalán élhetnék, mikor az inas - egyike az elbocsátottaknak, aki azonban még nem távozott el a házból - berontott a szobába, és jelentette, hogy „az az ördögi Heathcliff” most jön át az udvaron: bezárja a kaput az orra előtt?
+Mégis reménykedtem, és új erőt merítettem a gondolatból, hogy itt maradhatnék a házban, folytathatnám foglalkozásomat, és mindezek felett szeretett úrnőm oldalán élhetnék, mikor az inas - egyike az elbocsátottaknak, aki azonban még nem távozott el a házból - berontott a szobába, és jelentette, hogy "az az ördögi Heathcliff" most jön át az udvaron: bezárja a kaput az orra előtt?
 Ha elég ostobák lettünk volna ezt a megoldást választani, akkor sem maradt volna rá elég időnk.
 Még annyi fáradságot sem vett magának, hogy kopogjon vagy bejelentesse magát: most ő volt itt a gazda, és úgy élt ezzel a jogával, hogy szó nélkül rontott be hozzánk.
 A hírt hozó inas hangja nyomán rögtön a könyvtárat kereste.
@@ -7091,12 +7086,12 @@ Temetésének napján esett a hó.
 Kimentem este a temetőbe.
 Jeges szél fújt, akárcsak télen, körös-körül csend honolt.
 Nem kellett tartanom attól, hogy fajankó férje erre jár ebben az órában: és másnak sem lehetett dolga errefelé.
-Mivel egyedül voltam, és tudtam, hogy csak két yardnyi porhanyós föld választ el bennünket egymástól, így szóltam magamhoz: „Még egyszer karjaim közt akarom tartani őt.
-Ha hidegnek érzem, azt fogom gondolni, északi szél fú, s attól fázom: ha nem mozdul, azt képzelem, alszik.” Kerestem egy ásót a fészerben, és teljes erőmből dolgozni kezdtem.
+Mivel egyedül voltam, és tudtam, hogy csak két yardnyi porhanyós föld választ el bennünket egymástól, így szóltam magamhoz: "Még egyszer karjaim közt akarom tartani őt.
+Ha hidegnek érzem, azt fogom gondolni, északi szél fú, s attól fázom: ha nem mozdul, azt képzelem, alszik." Kerestem egy ásót a fészerben, és teljes erőmből dolgozni kezdtem.
 Az ásó már beleütközött a koporsóba: két kezemmel vájtam tovább.
 A fa recsegni kezdett a csavaroknál.
 Majdnem célnál voltam, amikor sóhajtást véltem hallani felülről, a sír pereméről, mintha fölém hajolna valaki.
-„Ha fel tudnám emelni a fedelét - gondoltam -, azt sem bánnám, ha mindkettőnket elföldelnének.” És még vadabbul rángattam a koporsó fedelét... Másik sóhajtást hallottam, egészen a fülem mellett.
+"Ha fel tudnám emelni a fedelét - gondoltam -, azt sem bánnám, ha mindkettőnket elföldelnének." És még vadabbul rángattam a koporsó fedelét... Másik sóhajtást hallottam, egészen a fülem mellett.
 Úgy éreztem, meleg lehelet vegyül az ólmos esőbe.
 Tudtam, hogy nem lehet húsból, vérből való élőlény a közelben, de amily biztos, hogy a sötétben megérezni valakinek közeledtét, még ha szemmel nem láthatjuk is, annyira csalhatatlanul éreztem, hogy Cathy mellettem van: nem alattam, hanem a földön.
 Hirtelen megkönnyebbülés tört fel a szívemből, és átjárta minden tagomat.
@@ -7185,9 +7180,9 @@ Keljen fel rögtön, és értesítse őt.
 Azzal otthagyott.
 Negyedóra hosszat maradtam így, hallgatózva és remegve.
 Semmi sem mozdult, csendes volt az egész ház.
-„Valószínűleg tévedett - gondoltam.
+"Valószínűleg tévedett - gondoltam.
 - Bizonyára jobban van már.
-Nem érdemes őket zavarni.”
+Nem érdemes őket zavarni."
 Azzal ismét lecsukódott a szemem.
 Álmomat azonban újból megzavarta éles csengetése... egyetlen csengőnk ez, s külön Linton használatára szerelték fel.
 Gazdám kikiabált, nézzem meg, mi a baj, s mondjam meg nekik, ne merjenek még egyszer ilyen lármát csapni.
@@ -7320,8 +7315,8 @@ Együtt léptünk be.
 Catherine-t találtam ott: épp főzeléket készített ebédre.
 Sokkal mogor­vábbnak láttam és kevésbé élénknek, mint első alkalommal.
 Alig tekintett föl, és az udvarias­sági formák ugyanolyan megvetésével folytatta munkáját, mint máskor, ügyet sem vetett üdvözlő szavaimra, köszönésemre.
-„Nem olyan kedves - gondoltam -, amilyennek Deanné szavai nyomán elképzeltem.
-Gyönyörű, az igaz, de messze van attól, hogy angyal legyen!”
+"Nem olyan kedves - gondoltam -, amilyennek Deanné szavai nyomán elképzeltem.
+Gyönyörű, az igaz, de messze van attól, hogy angyal legyen!"
 Earnshaw mogorván rászólt, hogy vigye ki edényeit a konyhába.
 - Vigye ki maga!
 - felelte és mihelyt kész volt munkájával, ellökte azokat magától.
@@ -7443,9 +7438,8 @@ Catherine mindenben engedelmeskedett neki, talán nem is akart ellenszegülni.
 Vadócok és embergyűlölők között bizonyára nem tudta megbecsülni a különb embereket, ha találkozott velük.
 Ebédem, melyet a komor, hallgatag Heathcliff és a teljesen néma Hareton között költöttem el, nem volt túlzottan szórakoztató, és ezért elég korán búcsút is vettem tőlük.
 A hátsó kijáraton át szerettem volna távozni, hogy még utolszor láthassam Catherine-t, és bosszanthassam Josephet, de Hareton azt a parancsot kapta, hogy vezesse elő lovamat, s házigazdám is kijött velem a kapuig, úgyhogy tervemet nem tudtam megvalósítani.
-„Milyen sivár életük lehet ebben a házban - gondoltam, miközben lefelé tartottunk az úton.
-- Tündérmesénél is szebb történet lehetett volna, ha összekerülünk, Catherine meg én, amint derék nevelőnője elképzelte, és együtt térünk vissza a főváros színes nyüzsgésébe.”
-
+"Milyen sivár életük lehet ebben a házban - gondoltam, miközben lefelé tartottunk az úton.
+- Tündérmesénél is szebb történet lehetett volna, ha összekerülünk, Catherine meg én, amint derék nevelőnője elképzelte, és együtt térünk vissza a főváros színes nyüzsgésébe."
 Harminckettedik fejezet
 Ez év szeptemberében északon jártam vadászaton egy barátomnál, és útközben, anélkül hogy sejtettem volna, tizenöt mérföldnyire megközelítettem Gimmertont.
 Egy országút menti fogadó istállólegénye épp a lovakat itatta, mikor egy szekér ment el mellettünk, megrakva frissen learatott zabbal, mely egészen zöld volt még.
@@ -7588,11 +7582,11 @@ Azt mondotta, nem hiszi, hogy egyhamar visszajönnek... a fiatalok?
 Mindennap meg kell őket korholnom a késői séták miatt; de nem sokat törődnek az intelmeimmel.
 Igyék legalább egy kis öreg sört!
 Jót fog tenni magának: fáradtnak látszik.
-Kisietett, mielőtt még megakadályozhattam volna; hallottam az öreg Joseph méltatlankodását: „Botrány, hogy ilyen korban még szeretőket tart.
+Kisietett, mielőtt még megakadályozhattam volna; hallottam az öreg Joseph méltatlankodását: "Botrány, hogy ilyen korban még szeretőket tart.
 És méghozzá a gazda terhére megvendégeli őket!
-Szégyen, gyalázat, hogy nyugodtan kell tűrni az ilyesmit!”
+Szégyen, gyalázat, hogy nyugodtan kell tűrni az ilyesmit!"
 Nem méltatta őt feleletre, és egy perc múlva megjelent, kezében nagy ezüstkupa, melyből kicsordult a hab; illően megdicsértem tartalmát, mire ő belekezdett Heathcliff történetének folytatásába.
-„Furcsa” véget ért, hogy az ő szavát használjam.
+"Furcsa" véget ért, hogy az ő szavát használjam.
 - Körülbelül két héttel a maga távozása után - mondta Deanné - Szelesdombra rendeltek, aminek örömmel engedelmeskedtem, Catherine kedvéért.
 Első találkozásunk nagyon lesújtott és elszomorított; annyira megváltozott, mióta nem láttam!
 Heathcliff nem magyarázta meg, miért változtatott a véleményén: egyszerűen csak annyit mondott, hogy szüksége van rám, és fárasztja Catherine jelenléte.
@@ -7710,7 +7704,7 @@ Hogy azt akarom: legyünk jó barátok!
 Meggyőzte erről a csók Haretont?
 Magam sem tudom.
 Egy-két percig azon igyekezett, hogy elrejtse az arcát, mikor pedig föltekintett, nagyon zavartnak látszott, és nem tudta, merre nézzen.
-Catherine közben papirosba csomagolt egy szép könyvet: átkötötte szalaggal, és ráírta a címzést „Hareton Earnshaw úr” - majd engem kért fel követnek, hogy juttassam el a címzettnek.
+Catherine közben papirosba csomagolt egy szép könyvet: átkötötte szalaggal, és ráírta a címzést "Hareton Earnshaw úr" - majd engem kért fel követnek, hogy juttassam el a címzettnek.
 - Mondja meg neki, hogy ha elfogadja, megtanítom őt helyesen olvasni - mondta.
 - Ha visszautasítja, akkor felmegyek, és nem ugratom többé.
 Átadtam a csomagot, és elismételtem az üzenetet, miközben úrnőm izgatottan figyelt engem.
@@ -7738,7 +7732,7 @@ Végül magához hívta Haretont, aki felkelt a helyéről.
 Én felmegyek a szobámba.
 Ez a hely nemigen alkalmas és illő minekünk: legjobb, ha felszedjük a sátorfánkat.
 - Jöjjön, Catherine - mondottam.
-- Nekünk is „fel kell szednünk a sátorfánkat”.
+- Nekünk is "fel kell szednünk a sátorfánkat".
 Befejeztem a vasalást: hajlandó feljönni velem?
 - Még nyolc óra sincs!
 - mondotta, miközben kelletlenül felemelkedett a helyéről.
@@ -8010,8 +8004,8 @@ Higgye el, hogy előbb-utóbb megfázik, lázt kap: már most is van valami baja
 Menjen és ne legyen terhemre.
 Engedelmeskedtem.
 Mikor elmentem mellette, észrevettem, hogy olyan gyorsan lélegzik, szinte kapkodja a levegőt.
-„Igen - gondoltam magamban -, beteg lesz.
-Ugyan mit is csinálhatott?” Délben leült az asztalhoz, velünk ebédelt és hagyta, hogy jól megrakjam a tányérját, mintha csak reggeli böjtjéért akarta volna kárpótolni magát.
+"Igen - gondoltam magamban -, beteg lesz.
+Ugyan mit is csinálhatott?" Délben leült az asztalhoz, velünk ebédelt és hagyta, hogy jól megrakjam a tányérját, mintha csak reggeli böjtjéért akarta volna kárpótolni magát.
 - Nem fáztam meg, és nincs is lázam, Nelly - mondotta, reggeli szavaimra célozva.
 - Alig várom, hogy egy jót egyem.
 Elővette villáját és kését, neki akart látni az evésnek, mikor láthatólag elment a kedve az ebédtől.
@@ -8027,8 +8021,8 @@ Azt mondta, jöjjek vissza magához.
 Csodálkozott, hogy más társaságát is keresem.
 Tányérját a tűzhely rácsára tettem, hogy az étel melegen maradjon.
 Egy-két óra múlva, mikor már üres volt a szoba, visszajött, de egyáltalán nem látszott nyugodtnak; ugyanaz a természet­ellenes örömtől sugárzó arc - mert valóban természetellenes volt -, fekete szemöldöke alatt ugyanaz a vértelen arcszín; néha-néha valami mosolyfélében kivillantak a fogai; össze­didergett, de nem úgy, ahogy hidegtől vagy fáradtságtól remeg valaki, hanem ahogy a kifeszített húr rezeg, mikor hozzáérünk... nem is remegés volt ez, hanem valami borzongás.
-„Megkérdezem tőle, mi a baja - tettem fel magamban.
-- Ki más kérdezné meg tőle?” Azzal felkiáltottam:
+"Megkérdezem tőle, mi a baja - tettem fel magamban.
+- Ki más kérdezné meg tőle?" Azzal felkiáltottam:
 - Valami jó hírt hallott, Heathcliff úr?
 Sokkal derűsebb, mint máskor.
 - Honnét hallanék jó hírt?
@@ -8076,14 +8070,14 @@ Kirohantam borzalmas félelmemben, és így szóltam Josephnek:
 Joseph összeszedett némi parazsat a serpenyőbe, de hamarosan visszahozta a tálcával együtt, melyen a vacsora állott, és kijelentette, hogy Heathcliff már lefekszik, és reggelig már nem eszik.
 Hallottuk is, amint felment, de nem a saját szobájába, hanem abba, amelyikben a fülkés ágy áll, s melynek ablaka, amint már mondottam, elég széles ahhoz, hogy ki lehessen bújni rajta.
 Az az érzésem támadt, hogy valószínűleg újabb éjszakai kirándulásra készül, és nem akarja, hogy tudjunk róla.
-„Csak nem hullaevő vagy vámpír?” - tűnődtem.
+"Csak nem hullaevő vagy vámpír?" - tűnődtem.
 Olvastam már ilyen megtestesült, undorító démonokról.
 Majd arra gondoltam, hogy én pesztráltam őt gyermekkorában, tanúja voltam serdülésének, szemmel követtem egész életét; ostobaság lenne ilyesmire gondolni.
 - De honnét jött ez a kis fekete purdé, akit vesztére hozott házába az a derék ember?
 - kérdeztem babonásságomban, és utána rögtön el is aludtam.
 Félálomban próbáltam magyarázatot találni származására; folytattam elmélkedéseimet ott, ahol éber állapotban abbahagytam, magam előtt láttam életének minden ijesztő részletét, végül elképzeltem halálát és temetését.
 Ebből nem maradt más emlékem, csak az, hogy nagy bosszúságomra nekem kellett megszerkesztenem sírfeliratát, és nekem kellett tárgyalnom a sírásóval.
-Mivel nem volt családneve, és nem ismertük életkorát, meg kellett elégednünk azzal az egyszerű szóval: „Heathcliff.” Így is történt: nem tehettünk mást.
+Mivel nem volt családneve, és nem ismertük életkorát, meg kellett elégednünk azzal az egyszerű szóval: "Heathcliff." Így is történt: nem tehettünk mást.
 Ha bemegy a temetőbe, nem olvashat mást a sírkövön, csak azt az egy szót és halálának időpontját.
 Hajnal felé kitisztult az agyam.
 Felkeltem és lementem a kertbe, mihelyt pitymallott, hogy megnézzem, vannak-e lábnyomok az ablak alatt.
@@ -8203,9 +8197,9 @@ Jobban érzi magát; hagyják békén.
 A doktor eltávozott.
 Az éjszaka nagyon lucskos volt: csak úgy dőlt az eső, egészen virradatig.
 Mikor körüljártam reggel a házat, észrevettem, hogy gazdám ablaka tárva-nyitva áll, és beesik rajta az eső.
-„Nem lehet az ágyában - gondoltam -, hisz akkor valószínűleg teljesen átázott.
+"Nem lehet az ágyában - gondoltam -, hisz akkor valószínűleg teljesen átázott.
 Bizonyára felkelt vagy elment hazulról.
-De nem sokat teketóriázom, odamegyek és megnézem.”
+De nem sokat teketóriázom, odamegyek és megnézem."
 Mikor sikerült egy másik kulccsal kinyitnom az ajtót, a fülkés ágyhoz szaladtam, mert a szoba teljesen üres volt.
 Széttártam ajtaját és benéztem.
 Heathcliff ott feküdt hanyatt.

@@ -1,8 +1,6 @@
 ﻿
 STEFAN ZWEIG
 SAKKNOVELLA
-
-
 A szokott járás-kelés, sürgés-forgás uralkodott a nagy személyszállító gőzös fedélzetén, mely éjfélkor indul el New York kikötőjéből Buenos Aires felé.
 Ott tolongtak a szárazföldi vendégek, hogy búcsút mondjanak barátaiknak, ferdesapkás sürgönyhordó fiúk rohantak a termeken át, s egy-egy nevet kiáltoztak.
 Mások koffereket, virágokat cipeltek.
@@ -99,7 +97,7 @@ De az el nem mondott csiszolt mondatokért bőségesen kárpótolta őket Czento
 Ugyanis, alighogy felkelt a sakkasztal mellől, ahol verhetetlen bajnoknak bizonyult, óhatatlanul groteszk, csaknem komikus alakká vedlett át.
 Ünnepélyes, fekete öltönye, pompás nyakkendője, kissé hivalkodó nyakkendőtűje, gondosan manikűrözött körmei ellenére, mozdulataiban, modorában ugyanaz a korlátolt parasztfiú maradt, aki annak idején a pap szobáját söpörte fel.
 A kollégák mulatságára és bosszúságára esetlenül és szinte szemérmetlen nyíltsággal, kicsinyes, sőt gyakran közönséges kapzsisággal váltotta aprópénzre tehetségét és hírnevét.
-Városról városra utazott, a legolcsóbb hotelszobát szemelte ki, a legsiralmasabb egyletekben játszott, ha megfizették a kívánt honoráriumot; szappanreklámokon díszelgett a képe, sőt odaadta a nevét „A sakkjáték filozófiája” című könyvhöz, melyet valamilyen kis galíciai diák írt egy élelmes kiadó megbízásából, s mit sem törődött a konkurrensek gúnyolódásával, kik pontosan tudták, hogy Czentovic három mondatot sem tud helyesen leírni.
+Városról városra utazott, a legolcsóbb hotelszobát szemelte ki, a legsiralmasabb egyletekben játszott, ha megfizették a kívánt honoráriumot; szappanreklámokon díszelgett a képe, sőt odaadta a nevét "A sakkjáték filozófiája" című könyvhöz, melyet valamilyen kis galíciai diák írt egy élelmes kiadó megbízásából, s mit sem törődött a konkurrensek gúnyolódásával, kik pontosan tudták, hogy Czentovic három mondatot sem tud helyesen leírni.
 Mint a szívós akaratú embereknek általában, neki sem volt érzéke a komikum iránt.
 Mióta a világ­bajnokságot elnyerte, úgy érezte, hogy ő a földkerekség legfontosabb embere.
 S az a tudat, hogy ezeket az okos, kifinomult, szellemes írókat és társalgókat saját birodalmukban győzte le, s mindenekelőtt az a nyilvánvaló tény, hogy náluknál többet keres, korábbi félszegségét hideg és többnyire esetlen formában megnyilvánuló büszkeséggé változtatta.
@@ -125,7 +123,7 @@ A társalgóban, dohányzóban, bárban sohasem mutatkozott.
 Amint ezt bizalmas kérdezősködésem eredményeképpen sikerült a stewardtól megtudnom, a nap nagy részét kabinjában tölti, és hatalmas sakktábla fölött játszmákat tanulmányoz, játszmákat gyakorol.
 Három nap múlva már komolyan bosszantott, hogy ügyes elhárító taktikája eredmé­nye­sebbnek bizonyult makacs ismerkedési szándékomnál.
 Sohasem nyílott még alkalom életemben, hogy egy sakkmesterrel személyes ismeretséget kössek, s minél jobban igyekeztem beleélni magam e típus lelkivilágába, annál elképzelhetetlenebbnek éreztem, hogy emberi elme egy életen át kizárólag hatvannégy fekete és fehér négyzet körül keringjen.
-A magam tapasztalatából is igen jól ismerem a „királyi játék” vonzóerejét.
+A magam tapasztalatából is igen jól ismerem a "királyi játék" vonzóerejét.
 Jól ismertem ezt a játékot, mely egyedül áll az emberteremtette játékok között, mert teljesen kivonja magát a véletlen zsarnoki uralma alól, és a győzelmi pálmát kizárólag a szellemnek, helyesebben a szellemi tevékenység egy bizonyos válfajának adja át.
 De nem sértő korlátozás-e a sakkot egyszerűen játéknak nevezni?
 Nem tudomány, nem művészet-e egyúttal, mely úgy lebeg e kategóriák között, mint Mohamed koporsója ég és föld között?
@@ -150,7 +148,7 @@ De végül is eszembe jutott, hogy a vadászoknak úgy sikerül legkönnyebben a
 Vajon mi keltheti fel jobban egy sakkjátékos érdeklődését, mint hogyha valaki sakkozni kezd a közelében.
 Nem voltam soha életemben komoly sakkjátékos, mégpedig annál az egyszerű oknál fogva, hogy a sakkal mindig csak felületesen, csupán a magam mulatságára foglalkoztam.
 Ha le is ültem egy órára a sakktábla mellé, ez sohasem azért történt, hogy megerőltessem az agyamat, hanem éppen ellenkezőleg, azért, hogy feloldjak valami szellemi feszültséget.
-Én csak „játszottam” a szó legszorosabb értelmében, míg az igazi sakkozó nem is sakkjátékos, hanem sakkmunkás.
+Én csak "játszottam" a szó legszorosabb értelmében, míg az igazi sakkozó nem is sakkjátékos, hanem sakkmunkás.
 De a sakkban, mint a szerelemben, nélkülözhetetlen a partner, s jelen pillanatban nem tudtam, van-e a hajón más sakkamatőr?
 Hogy előcsaljam őket rejtekükből, együgyű csapdát eszeltem ki.
 Leültem feleségemmel a dohányzóban a sakktábla elé, holott ő még nálam is gyöngébben játszik.
@@ -172,7 +170,7 @@ Tény az, hogy mikor észrevette, hogy illetéktelenül belekontárkodunk mester
 Éppen McConnoron volt a sor.
 S már ez az egyetlen lépés elegendőnek bizonyult ahhoz, hogy Czentovic lássa, menynyire érdemtelen dilettáns próbálkozásunk a mester további figyelmére.
 Ahogy mi ösztönösen félretoljuk a könyvkereskedésben a felkínált rossz detektívregényt, s még csak fel se lapozzuk, ugyanolyan mozdulattal fordult el a sakktáblánktól, s elhagyta a dohányzót.
-„Megméretett és könnyűnek találtatott” - gondoltam magamban, és kissé bosszantott ez a hűvös, megvető pillantás.
+"Megméretett és könnyűnek találtatott" - gondoltam magamban, és kissé bosszantott ez a hűvös, megvető pillantás.
 S hogy valamiképpen levezessem ingerültségemet, így szóltam McConnorhoz:
 - Úgy látszik, a mester nem volt a lépésével megelégedve.
 - Micsoda mester?
@@ -188,7 +186,7 @@ Nem, nem ismerem.
 Hogy nem akarom-e megszólítani és az asztalunkhoz hívni?
 Ezt is elhárítottam, mégpedig azzal a megokolással, hogy Czentovic tudtommal nem óhajt új ismeretségeket kötni.
 Különben is mi érdeke fűződnék egy világbajnoknak ahhoz, hogy leereszkedjék magunkfajta, harmadrangú játékosokhoz.
-Nos, jobb lett volna, ha olyan öntelt ember előtt, mint McConnor, nem használom a „harmad­rangú játékos” kifejezést.
+Nos, jobb lett volna, ha olyan öntelt ember előtt, mint McConnor, nem használom a "harmad­rangú játékos" kifejezést.
 Haragosan hátravetette magát a székben, és ellentmondást nem tűrő hangon jelentette ki, hogy a maga részéről nem hiszi, hogy Czentovic visszautasítaná egy gentleman udvarias meghívását.
 Na, ő majd gondoskodik róla, bízzam csak rá.
 Kívánsága szerint röviden ecseteltem a sakkbajnok pályafutását és jellemét.
@@ -223,8 +221,8 @@ Abban is igaza van, hogy borsos árakat szab.
 Minden szakmában az igazi mesterek egyúttal a legjobb üzletemberek is.
 Ami pedig engem illet, szeretem a tiszta ügyeket, inkább fizetek bankóval, semmint hogy Czentovic kegyet gyako­rol­jon velem, és végül nekem kelljen köszönetet mondanom.
 Vesztettem már egyetlen estén többet is, mint kétszázötven dollárt, a klubban, és ráadásul még csak nem is játszottam világbajnokkal.
-„Harmadrangú játékosnak” nem szégyen, ha Czentovictól vereséget szenved.
-Nevettem magamban, milyen mélyen megbántottam McConnor önérzetét ezzel az ártatlan „harmadrangú játékos”-sal.
+"Harmadrangú játékosnak" nem szégyen, ha Czentovictól vereséget szenved.
+Nevettem magamban, milyen mélyen megbántottam McConnor önérzetét ezzel az ártatlan "harmadrangú játékos"-sal.
 De miután hajlandó volt a drága mulatság költségeit fedezni, semmi ellenvetésem sem lehetett erősen túlzott önérzetével szemben, hiszen ennek köszönhettem, hogy végre mégis sikerül majd megismerkednem a csodabogárral.
 Azonnal értesítettük a nagy eseményről azt a négy-öt urat, akik mind ez ideig sakkjáté­kosoknak mondták magukat, s hogy a járás-kelés ne zavarja játékunkat, nemcsak a saját asztalunkat foglaltuk le jó előre, hanem a szomszédos asztalokat is.
 Másnap a megbeszélt órában teljes létszámban megjelent kis csapatunk.
@@ -232,7 +230,7 @@ McConnor foglalta el természetesen a fő helyet a mester helyével szemben.
 Egyik vastag szivarról a másikra gyújtott, hogy levezesse valahogyan idegességét, s újra meg újra az órájára pillantott.
 De a világbajnok, mint ezt barátom elbeszéléséből előre sejtettem, jó tíz percig váratott magára, s ez csak növelte megjelenésének varázsát.
 Nyugodt, méltóságteljes léptekkel közeledett asztalunkhoz.
-Be sem mutatkozott, mintha azt akarta volna mondani: „Tudjátok, ki vagyok és hogy ti kik vagytok, az nem érdekel.” Rutinos, száraz modorban tette meg a szükséges előkészületeket.
+Be sem mutatkozott, mintha azt akarta volna mondani: "Tudjátok, ki vagyok és hogy ti kik vagytok, az nem érdekel." Rutinos, száraz modorban tette meg a szükséges előkészületeket.
 Minthogy szimultán partit a hajón a szükséges sakktáblák híján nem játszhat, azt indítványozta, hogy együttesen játsszunk ellene.
 Minden lépés után átmegy a terem másik végében levő asztalhoz, hogy tanácskozásunkat ne zavarja.
 Ahogy ellenlépésünket megtettük, csöngessünk egy kanállal a poharunkon, minthogy asztali csengővel sajnálatos módon nem rendelkezünk.
@@ -264,7 +262,7 @@ Czentovic mozdulatlanul ült a helyén.
 A kép a második játszma alatt sem változott.
 Csupán néhány érdeklődővel gyarapodott és élénkült a kör.
 McConnor meredten tekintett a sakktáblára, mintha akaratával delejezné a figurákat.
-Éreztem, hogy szíves-örömest adna ezer dollárt, ha diadalittasan kiálthatná hűvös ellenfele arcába, hogy: „Matt!” Különös módon akaratlanul ránk is átterjedt némiképp becsvágyának láza.
+Éreztem, hogy szíves-örömest adna ezer dollárt, ha diadalittasan kiálthatná hűvös ellenfele arcába, hogy: "Matt!" Különös módon akaratlanul ránk is átterjedt némiképp becsvágyának láza.
 Minden lépés fölött sokkalta szenvedélyesebben vitatkoztunk, mint a megelőző játszmánál, és utolsó pillanatban mindig visszatartotta egyikünk a másikát, mielőtt közös elhatározással jelt adtunk volna Czentovicnak, hogy visszatérjen asztalunkhoz.
 Végre elérkeztünk a tizenhetedik húzáshoz, s mindnyájunk meglepetésére meglepően előnyösnek látszó helyzet állott elő.
 Sikerült ugyanis a c-vonalon álló parasztot az utolsó előtti c2-es kockára hoznunk, csak egy lépés: előretoljuk c1-re, s királynőre cserélhetjük.
@@ -394,7 +392,7 @@ Ezért adtam neki egy kis előnyt.
 S miközben szokott hanyag mozdulattal felállt, üzleti hangon hozzáfűzte:
 - Ha az úr vagy az urak holnap újból játszani óhajtanak, három órától rendelkezésükre állok.
 Nem bírtunk elfojtani egy halvány mosolyt.
-Mindannyian tisztában voltunk vele, hogy Czentovic nem nagylelkűségből adott „egy kis előnyt” ismeretlen segítőtársunknak, s hogy ezzel a gyermeteg kifogással akarta leplezni balsikerét.
+Mindannyian tisztában voltunk vele, hogy Czentovic nem nagylelkűségből adott "egy kis előnyt" ismeretlen segítőtársunknak, s hogy ezzel a gyermeteg kifogással akarta leplezni balsikerét.
 Annál erősebb lett bennünk a vágy, hogy végre megtörjük hideg gőgjét.
 Vad harcivágy szállt meg mindnyájunkat, békés hajó­lakókat.
 Ellenállhatatlanul vonzott a szédítő lehetőség, hogy éppen a mi hajónkon, az óceán kellős közepén ragadják el a sakkbajnoktól a pálmát, s a csodálatos eseményt szétkürtölnék a világ minden tája felé a sajtóirodák.
@@ -459,7 +457,7 @@ Ez avatatlan érdeklődőkkel szemben kitűnő védekezésnek bizonyult.
 Az osztrák hatóságok nem sejtették ezekben az években, hogy a császári ház titkos futárjai a legfontosabb postájukat éppen a mi kis jelentéktelen, negyedik emeleti irodánkba hozták és onnan vitték.
 A nemzetiszocialisták viszont, mielőtt még felfegyverezték volna a világ ellen hatalmas hadseregüket, egy másik, éppen olyan veszélyes és éppen olyan jól kiképzett hadsereget szerveztek a szomszédos államokban.
 Az elégedetlenek, a háttérbe szorultak, a sértettek légióját.
-Minden hivatalba, minden üzembe befészkelődtek az ilyen „sejtek”, mindenütt, egészen Dollfuss és Schuschnigg privát szobájáig ott voltak, ott hallgatóztak a kémeik.
+Minden hivatalba, minden üzembe befészkelődtek az ilyen "sejtek", mindenütt, egészen Dollfuss és Schuschnigg privát szobájáig ott voltak, ott hallgatóztak a kémeik.
 Még a mi szürke kis irodánkban is volt egy emberük, amint ezt, sajnos, később megtudtam.
 Csak egy szánalmas, tehetségtelen ügyvédbojtár volt.
 Pap ismerősöm ajánlására vettem magamhoz, mégpedig pusztán azért, hogy fenntartsam egy szabályos ügyvédi iroda látszatát.
@@ -468,7 +466,7 @@ A postát soha nem nyithatta fel, a fontos leveleket magam írtam gépen, másol
 A lényeges okmányokat magam vittem haza, és titkos megbeszéléseinket kizárólag a kolostor perjeli irodájában és a nagybátyám rendelőjében folytattuk.
 Elővigyázatossági rendszabályainkkal sikerült annyit elérnünk, hogy ez a titkos megfigyelő semmi lényegeset meg nem tudhatott.
 De valamilyen szerencsétlen véletlen folytán a becsvágyó és hiú legényke észrevette, hogy bizalmatlanok vagyunk vele szemben, s hogy a háta mögött sok érdekes dolog történik.
-Talán távollétemben az egyik futár óvatlanul „őfelségéről” beszélt, nem pedig Bern báróról, amint azt megbeszéltük.
+Talán távollétemben az egyik futár óvatlanul "őfelségéről" beszélt, nem pedig Bern báróról, amint azt megbeszéltük.
 De az is lehet, hogy a gazember felbontotta titokban az egyik levelet.
 Akármint történt, tény, hogy megbízást kért Münchenből vagy Berlinből arra, hogy figyelhessen bennünket.
 Csak jóval később, letartóz­tatásom után jutott eszembe, hogy az utóbbi hónapokban hirtelen elszállt szokott lustasága, s buzgalmában több ízben felajánlotta, hogy leveleimet postára adja.
@@ -489,7 +487,7 @@ Feltételezték, és nem alaptalanul, hogy valahol, rablódühüktől védett he
 Ezért vittek el már az első napon, hogy jól bevált módszerükkel kicsal­ják belőlem titkomat.
 Ezért nem vitték koncentrációs táborokba az én kategóriámba tartozó embereket, akikből pénzt vagy fontos titkokat akartak kicsikarni.
 Ezért részesítették őket különleges elbánásban.
-Emlékszik talán még rá, hogy kancellárunkat és Rothschild bárót, miután családjából milliókat akartak kipréselni, nem zárták drótsövénnyel körülzárt fogoly­táborba, hanem látszólagos kedvezéssel, elegáns szállodába, a „Hotel Metropol”-ba, amely egyúttal a Gestapo főhadiszállása volt.
+Emlékszik talán még rá, hogy kancellárunkat és Rothschild bárót, miután családjából milliókat akartak kipréselni, nem zárták drótsövénnyel körülzárt fogoly­táborba, hanem látszólagos kedvezéssel, elegáns szállodába, a "Hotel Metropol"-ba, amely egyúttal a Gestapo főhadiszállása volt.
 Itt mindegyikük külön szobát kapott.
 Nekem, a szürke embernek is ebben a megtiszteltetésben volt részem.
 Hotel, saját szoba!
@@ -639,9 +637,9 @@ Végül már a köpeny közelébe kerültem.
 Szándékosan összekulcsoltam a kezem, hogy feltűnés nélkül megérinthessem a kabátot.
 Megtapogattam az anyagot, és valóban valami szögletes tárgyra tapintottam rá, hajlékony volt és finoman zizegett - könyv volt!
 Könyv!
-Hirtelen átvillant agyamon a gondolat: „Lopd el a könyvet!
+Hirtelen átvillant agyamon a gondolat: "Lopd el a könyvet!
 Hátha sikerül, elrejted majd celládban, s akkor majd olvasol, olvasol, olvasol.
-Újból könyvhöz jutottál!” Alig ébredt fel bennem ez a gondolat, s máris, mint valami méreg áradt szét tes­tem­ben.
+Újból könyvhöz jutottál!" Alig ébredt fel bennem ez a gondolat, s máris, mint valami méreg áradt szét tes­tem­ben.
 Zúgott a fülem, vert a szívem, kezem hideg lett, mint a jég, s megtagadta az engedel­mességet.
 De mikor felocsúdtam első kábulatomból, halkan, ravaszul közelebb lopóztam a köpenyhez, hátamon összekulcsolt kézzel, följebb és följebb nyomtam a könyvet a zsebben, s közben szemmel tartottam az őrt is, s aztán... s aztán egy kis nyomás, könnyed, óvatos mozdulat, s hirtelen kezemben fogtam a meglehetősen kis terjedelmű könyvecskét.
 Most rémültem csak meg saját cselekedetemtől.
@@ -676,7 +674,7 @@ Kedvetlenül lapozgattam benne, hátha találok valami olvasnivalót, bevezetőt
 De nem volt benne más, csak egyes mesterjátszmák puszta, négyszögletes diagrammája, s ezek alatt eleinte érthetetlen jelek: a2-a3, f1-g3.
 Algebrának éreztem, melyhez nem találtam meg a kulcsot, csak lassanként jöttem rá nyitjára, hogy az abc betűk a függőleges sorokat, a számok pedig 1-8-ig a vízszintes sorokat jelölik, és a bábuk mindenkori állását határozzák meg.
 Így aztán ezek a geometriai ábrák mégiscsak emberi nyelven szólaltak meg.
-„Esetleg sikerül valamilyen sakktáblát összeeszkábálnom a cellámban - gondoltam - s akkor majd megpróbálom a partikat lejátszani.” Égi jelnek éreztem, hogy az ágytakaróm véletlenül kockás volt.
+"Esetleg sikerül valamilyen sakktáblát összeeszkábálnom a cellámban - gondoltam - s akkor majd megpróbálom a partikat lejátszani." Égi jelnek éreztem, hogy az ágytakaróm véletlenül kockás volt.
 Megfelelően hajtogatva sikerült végül is hatvannégy kockát kapnom.
 A könyvet elrejtettem a matrac alá, s kitéptem belőle az első oldalt.
 Utána kenyérmorzsából, melyet a kenyéradagomból tördeltem le, komikusan tökéletlen sakkfigurákat gyúrtam, királyt, királynőt és így tovább.
@@ -818,13 +816,13 @@ Olyan meleg, jóleső érzés töltött el, hogy először fel sem akartam nyitn
 Percekig feküdtem így, és kábult érzékeim kéjesen élvezték ezt a súlyos, tompa, langyos nyugalmat.
 Egyszerre csak, mintha hangokat hallottam volna a hátam mögött, eleven, emberi hangokat, szavakat.
 El sem tudja képzelni elragadtatásomat, hiszen hónapok, sőt majdnem egy év óta, csak bíráim kemény, éles, gonosz szavait hallhattam.
-„Álmodsz!
+"Álmodsz!
 - mondtam magamnak.
 - Álmodsz, nehogy kinyisd a szemed!
 Hadd tartson még az álom, mert ha felébredsz, újból az átkozott cellát látod magad körül.
 Az asztalt, a mosdót, a széket, a tapétát, ugyanazt a mintát.
 Álmodsz!
-Álmodjál tovább!”
+Álmodjál tovább!"
 De a kíváncsiságom felülkerekedett.
 Lassan, óvatosan kinyitottam a szemem, és csodák csodája, más szobában voltam.
 Igazi szoba volt, szélesebb, tágasabb, mint a hotel-cellám.
@@ -844,8 +842,8 @@ Fehér főkötő takarta a fejét.
 Kéjes borzongás futott át testemen: egy év óta nem láttam női arcot.
 Boldogan bámultam a csodálatos jelenségre.
 Vad, szenvedélyes pillantást vethettem rá, mert szelíden leintett.
-„Csak nyugalom, nyugalom.
-Feküdjön szépen.”
+"Csak nyugalom, nyugalom.
+Feküdjön szépen."
 De én csak a hangjára figyeltem.
 Ember volt, aki most megszólalt.
 Hát élnek még olyan emberek a földön, akik nem faggatnak, nem kínoznak?
@@ -872,28 +870,28 @@ Ismerte családomat, s olyan tisztelettel ejtette ki nagybátyám, a császár k
 Később különféle kérdéseket intézett hozzám.
 Mindenekelőtt azt kérdezte - és ez meglepett - hogy matematikus vagyok-e vagy kémikus.
 Megmondtam, hogy egyik sem.
-„Különös - mormolta.
+"Különös - mormolta.
 - Lázálmában szüntelenül furcsa képleteket kiáltott: c3, meg c4.
-Egyikünk sem értette.”
+Egyikünk sem értette."
 Meg akartam tudni, mi történt velem.
 Különös mosoly jelent meg az ajkán.
-„Ó, nem veszedelmes.
+"Ó, nem veszedelmes.
 Egy kis akut idegzavar - s miután óvatosan körültekintett, halkan hozzáfűzte: - Hiszen nagyon is érthető.
-Március tizenharmadika óta, ugyebár?”
+Március tizenharmadika óta, ugyebár?"
 Bólintottam.
-„Nem csoda e mellett a módszer mellett.
+"Nem csoda e mellett a módszer mellett.
 Nem ön az első.
-No de, ne féljen, nem lesz semmi baj.”
+No de, ne féljen, nem lesz semmi baj."
 Megnyugtató hangján, jóindulatú tekintetén éreztem, hogy jó helyen vagyok.
 Két nap múlva a derék doktor meglehetősen nyíltan elmondta, hogy mi történt.
 Az őr meghallotta, hogy hangosan kiáltozom a cellámban.
 Eleinte azt hitte, hogy valaki behatolt hozzám, és azzal verekszem.
-De alig jelent meg az ajtómban, rávetettem magam, s ilyesmit kiáltoztam vadul: „Lépj már, te gyáva, lépj már, te gazember!” Torkon akartam ragadni, s oly vadul estem neki, hogy segítségért kiáltott.
+De alig jelent meg az ajtómban, rávetettem magam, s ilyesmit kiáltoztam vadul: "Lépj már, te gyáva, lépj már, te gazember!" Torkon akartam ragadni, s oly vadul estem neki, hogy segítségért kiáltott.
 Mikor roham közben orvoshoz akartak cipelni, kitéptem magam a kezeik közül, a folyosóablakhoz rohantam, kivertem az üveget, s akkor sebeztem fel a kezem.
 Még láthatja a mély sebeket.
 Az első éjszakákon valami agylázfélém volt, de most már nincs semmi baj.
-„Erről természetesen inkább nem teszek jelentést az uraknak, mert még előbb-utóbb visszaviszik.
-Bízzék bennem, megteszek minden tőlem telhetőt.”
+"Erről természetesen inkább nem teszek jelentést az uraknak, mert még előbb-utóbb visszaviszik.
+Bízzék bennem, megteszek minden tőlem telhetőt."
 Hogy mit jelentett rólam ez a jóindulatú orvos kínzóimnak, nem tudom.
 Tény, hogy sikerült elérnie, amit akart.
 Szabadon bocsátottak.
@@ -921,7 +919,7 @@ S ekkor történt, hogy megfeledkezve az udvariasság legelemibb szabályairól,
 Teljesen ösztönös cselekedet volt, amikor visszatartottam, egy impulzív mozdulat, mint mikor az ember gondolkozás nélkül megragadja a korláton áthajoló gyereket.
 Csak később vettem észre, hogy tolakodásommal milyen súlyos illetlenséget követtem el.
 Biztosítottam dr. B.-t, mennyire örültünk mindnyájan, hogy a szerencsés véletlen folytán megismerkedtünk vele, s hogy mindezek után, amit elmondott, számomra kétszeresen vonzó lesz a holnapi játszma.
-Dr. B. idegesen intett: 
+Dr. B. idegesen intett:
 - Kérem, komolyan mondom, ne várjanak tőlem túl sokat, csak próba a számomra... Meg szeretném kísérelni, vajon... vajon... valóban képes vagyok-e egy valódi sakkpartit játszani, valódi sakktáblán, valóságos figurákkal s egy élő partnerrel... mert egyre jobban kételkedem benne, hogy az a száz vagy talán ezer parti, melyet annak idején játszottam, igazi sakkparti volt-e s nem csupán valamilyen álom-sakk.
 Lázálom-sakk vagy lázálom-játék, melyben, mint az álomban szokásos, átugortam a közbenső fokokat.
 Remélem, nem gondolja, hogy azt hiszem magamról, hogy meg tudok mérkőzni egy sakkmesterrel, s méghozzá a világ első sakkmesterével.
@@ -940,7 +938,7 @@ A mániákus könnyen visszaesik, sohasem gyógyul meg tökéletesen.
 S ha valakinek sakkmérgezése volt, még ha ki is gyógyult belőle, kerülje el messze a sakkasztalt.
 Szóval, azt hiszem, értjük egymást.
 Csak egy próbaparti és kész!
-Másnap, pontosan a megbeszélt órában találkoztunk a dohányzóban, a „királyi játék” két újabb rajongójával bővült.
+Másnap, pontosan a megbeszélt órában találkoztunk a dohányzóban, a "királyi játék" két újabb rajongójával bővült.
 Eljött a hajó két tisztje is, kimenőt kértek, hogy a mérkőzést végignézhessék.
 Czentovic se váratott magára most, mint az első alkalommal.
 S a színválasztás után megkezdődött a homo obscurissimus és a híres világbajnok játszmája.
@@ -984,7 +982,7 @@ Mindannyian önkéntelenül a sakktábla fölé hajoltunk, hogy közelebbről l�
 Első pillantásra nem láttuk, mennyiben veszélyezteti ez Czentovic helyzetét.
 Barátunk kijelentése tehát későbbi fejleményekre vonatkozhatik, melyet mi, dilettánsok nem tudtunk előre kiszámítani.
 Czentovic volt közülünk az egyetlen, akire a kihívás semmi hatást nem gyakorolt.
-Éppen olyan megrendíthetetlen nyugalommal ült a helyén, mintha nem is hallotta volna a sértő „készen vagyunk” felkiáltást.
+Éppen olyan megrendíthetetlen nyugalommal ült a helyén, mintha nem is hallotta volna a sértő "készen vagyunk" felkiáltást.
 S nem történt semmi.
 Mindannyian önkéntelenül visszafojtottuk lélegzetünket.
 Az óra ketyegése hallatszott csupán, melyet a gondolkozási idő ellenőrzésére tettünk az asztalra.

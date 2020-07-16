@@ -1,9 +1,6 @@
 ﻿JULES VERNE
-
 NYOLCVAN NAP ALATT A FÖLD KÖRÜL
-
 TARTALOM
-
 ELSŐ FEJEZET - Egy megállapodásról, melynek értelmében Phileas Fogg és Passepartout kölcsönösen gazdává, illetve inassá fogadja egymást
 MÁSODIK FEJEZET - Passepartout megbizonyosodik róla, hogy álmai ezúttal valóra váltak
 HARMADIK FEJEZET - Egy beszélgetésről, mely Phileas Foggnak sokba kerülhet
@@ -41,7 +38,6 @@ HARMINCNEGYEDIK FEJEZET - Passepartout rossz, de meglehetősen eredeti szóját�
 HARMINCÖTÖDIK FEJEZET - Passepartout nem várja meg, hogy gazdája kétszer megismételje parancsát
 HARMINCHATODIK FEJEZET - Phileas Fogg árfolyama ismét felszökik
 HARMINCHETEDIK FEJEZET - Kiderül, hogy Phileas Fogg nem sokat nyert a világ körüli utazással, mindössze a boldogságot találta meg
-
 ELSŐ FEJEZET - Egy megállapodásról, melynek értelmében Phileas Fogg
 és Passepartout kölcsönösen gazdává, illetve inassá fogadja egymást
 1872-ben a Saville Row 7. szám alatt (Burlington Gardens) - e házban halt meg 1814-ben Sheridan - Phileas Fogg esq.,1 a londoni Reform Club tagja lakott, aki, bár nyilvánvalóan minden igyekezetével azon fáradozott, hogy semmivel ne irányítsa magára a közfigyelmet, mégis a klub egyik legkülönösebb és legfigyelemreméltóbb tagja volt.
@@ -58,7 +54,7 @@ Nem volt tagja sem az Angol Királyi Akadémiának, sem a Londoni Akadémiának,
 Egyszóval nem tartozott semmiféle egyesülethez, bár ezek ugyancsak burjánzanak Anglia fővárosában, kezdve a Szájharmonikaegyesülettől egészen az Entomológiai Egyesületig, mely elsősorban az ártalmas rovarok pusztításának célját tűzte zászlajára.
 Phileas Fogg a Reform Club tagja volt, semmi más.
 Aki csodálná, hogy kerülhetett ez a titokzatos gentleman e tekintélyes társaság tagjai közé, az érje be annyival, hogy a Baring testvérek ajánlására, akiknél korlátlan hitele volt.
-Ez egy­magában kezeskedik „szolidságáról”, melyet annak köszönhetett, hogy csekkjeit rendszeresen látra2 fizették, a folytonosan „követel” egyenleget mutató folyószámlája terhére.
+Ez egy­magában kezeskedik "szolidságáról", melyet annak köszönhetett, hogy csekkjeit rendszeresen látra2 fizették, a folytonosan "követel" egyenleget mutató folyószámlája terhére.
 Szóval gazdag volt Phileas Fogg?
 Kétségkívül.
 De a legjobban értesültek sem tudták, hogyan szerezte vagyonát, Mister Fogghoz fordulni pedig e kérdéssel igazán a legkevésbé sem lett volna ildomos.
@@ -123,14 +119,14 @@ Azzal Phileas Fogg felkelt, bal kezébe vette, majd gépiesen fejére tette kala
 Passepartout hallotta, amint az utcai bejáró becsapódik: új gazdája lépett ki rajta; aztán még egyszer becsapódik: ezúttal elődje, James Forster távozott.
 Passepartout egyedül maradt a Saville Row-i házban.
 MÁSODIK FEJEZET - Passepartout megbizonyosodik róla, hogy álmai ezúttal valóra váltak
-„Szavamra mondom - gondolta magában Passepartout, aki még nem heverte ki az első pillanatok meglepetését -, elevenség dolgában új gazdám bízvást vetekszik Tussaud mama társulatával!”
-Jegyezzük meg itt, hogy Tussaud mama „társulata” megszólalásig élethű viaszfigurákból áll; magyarán szólva panoptikum; Londonban igen szép számú közönség látogatja.
+"Szavamra mondom - gondolta magában Passepartout, aki még nem heverte ki az első pillanatok meglepetését -, elevenség dolgában új gazdám bízvást vetekszik Tussaud mama társulatával!"
+Jegyezzük meg itt, hogy Tussaud mama "társulata" megszólalásig élethű viaszfigurákból áll; magyarán szólva panoptikum; Londonban igen szép számú közönség látogatja.
 Phileas Fogg csupán néhány pillanatig volt szeme előtt, de Passepartout ezalatt gondosan és éppoly gyorsan szemügyre vette leendő gazdáját.
 A ház ura negyvenéves lehetett, arca szép és nemes metszésű, termete magas, még enyhe pocakja sem rútította el, haja és pofaszakálla szőke, homloka sima, szeme sarkában még nem mutatkoztak szarkalábak, arcbőre inkább halvány, mint vérmes, fogazata remek.
-A legnagyobb mértékben meglehetett benne az a tulajdonság, melyet a fiziognómusok „tevékeny nyugalom”-nak neveznek: közös jellem­vonása mindazoknak, akik mellőzik a sok hűhót, de annál tevékenyebbek.
+A legnagyobb mértékben meglehetett benne az a tulajdonság, melyet a fiziognómusok "tevékeny nyugalom"-nak neveznek: közös jellem­vonása mindazoknak, akik mellőzik a sok hűhót, de annál tevékenyebbek.
 Szenvtelen nyu­galmán, tekintetének tisztaságán, soha meg nem rebbenő szempilláján meglátszott, hogy az a fajta jól sikerült típusa a hidegvérű angolnak, amilyenre gyakran bukkan az ember az Egyesült Királyságban; Angelica Kauffmann ecsetje csodálatosan örökítette meg kissé akadémikus külsejüket.
 Ha életmódjának különféle megnyilvánulásait tekintjük, meg kell állapítanunk, hogy ez az úriember minden ízében kiegyensúlyozott, rendíthetetlenül szilárd egyéniség volt; oly sikerült példány, mint egy Leroy- vagy Earnshaw-kronométer.
-Igen, Phileas Fogg maga volt a megtestesült pontosság, s ez „kezének-lábának kifejezésén” is meglátszott, mert, akárcsak az állatoknál, a végtagok az embernél is a szenvedélyek meg­nyilatkozásának szervei.
+Igen, Phileas Fogg maga volt a megtestesült pontosság, s ez "kezének-lábának kifejezésén" is meglátszott, mert, akárcsak az állatoknál, a végtagok az embernél is a szenvedélyek meg­nyilatkozásának szervei.
 Phileas Fogg az a fajta matematikailag pontos ember volt, aki soha nem siet, de mindig készen áll, és gazdaságosan beosztja minden lépését, minden mozdulatát.
 Soha nem lépett többet a kelleténél, mindig a legrövidebb úton járt.
 Nem merengett, a mennyezetre függesztve tekintetét.
@@ -138,7 +134,7 @@ Kezét sem mozdította fölöslegesen.
 Senki nem látta felhevülten, megzavarodva.
 Senki a világon nem volt nála kényelmesebb, mégis mindig időben érkezett.
 Mindazonáltal az is érthető, hogy egyedül és úgyszólván teljesen társadalmi kapcsolatok nélkül élt.
-Tudta, hogy az életben a súrlódások elkerülhetetlenek, de mivel a súrlódás késedelmet okoz, ő nem „súrlódott” senkivel.
+Tudta, hogy az életben a súrlódások elkerülhetetlenek, de mivel a súrlódás késedelmet okoz, ő nem "súrlódott" senkivel.
 Jean viszont, a mi Passepartout-nk, ez a Párizsba valósi igazi párizsi, mióta Angliában lakott, és Londonban inaskodott - ennek öt éve már -, hiába keresett olyan gazdát, aki mellett megállapodhatott volna.
 Passepartout-ban semmi nem volt a Frontinek vagy Mascarille-ok4 jelleméből, akik sunyi módon folyvást szimatolnak, szemrebbenés nélkül, könyörtelenül bonyolítják ügyleteiket, és alapjában véve pimasz csibészek.
 Nem.
@@ -155,7 +151,7 @@ Mindeddig azonban nem nagyon kedvezett neki a sors.
 Sehol sem bírt gyökeret verni.
 Tíz házat végigpróbált.
 Valamennyiben szeszélyes, kiszámíthatatlan, kalandos vagy utazni vágyó gazdára akadt; ebből pedig Passepartout-nak már elege volt.
-Legutóbbi gazdája, az ifjú Lord Longsferry, parlamenti képviselő, gyakran tért haza a rendőrök hátán, miután éjszakáit a Hay-Market „oysters-room”-jaiban5 töltötte.
+Legutóbbi gazdája, az ifjú Lord Longsferry, parlamenti képviselő, gyakran tért haza a rendőrök hátán, miután éjszakáit a Hay-Market "oysters-room"-jaiban5 töltötte.
 Passepartout, aki mindennél többre tartotta, ha gazdája tiszteletre méltó, bátorkodott udvariasan szóvá tenni a történteket, azonban nem talált tetszésre, és - csomagolt.
 Eközben értesült róla, hogy Phileas Fogg esq.
 inast keres.
@@ -170,14 +166,14 @@ Passepartout könnyűszerrel megtalálta a saját szobáját a második emeleten
 Tetszett neki.
 Villanycsengők, hallócsövek kötötték össze a földszinttel és az első emelettel.
 A kandalló párkányán villamos ingaóra jelezte az időt, összhangban Phileas Fogg hálószobájának ingaórájával; a két szerkezet ugyanabban a pillanatban ugyanazt a másodpercet mutatta.
-„Ez kell nekem!” - gondolta magában Passepartout.
+"Ez kell nekem!" - gondolta magában Passepartout.
 Az ingaóra felett egy feljegyzést pillantott meg a szobájában: rajta a szolgálat napirendje.
 Phileas Fogg szabályszerűen reggel nyolckor kelt, és fél tizenkettőkor távozott ebédelni a Reform Clubba; az aprólékos házirend e két időpont között az alábbiak szerint intézkedett; nyolc óra huszonhárom perc: tea és pirítós kenyér felszolgálása; kilenc óra harminchét: meleg víz a borotválkozáshoz; kilenc óra negyven: fésülködés stb.
 Azután délelőtt tizenegy óra harminc perctől éjfélig - ekkor tért nyugovóra a rendszerető gentleman - mindenre volt feljegyzés, utasítás, szabály.
 Passepartout örömmel elmélkedett a napirenden, és máris eszébe véste különféle cikkelyeit.
 A háziúr ruhatárán meglátszott a gazdagság és a szakértelem.
 Valamennyi nadrágon, kabáton, mellényen sorszám függött; ugyanaz a szám szerepelt egy listán, mely az évszaknak megfelelően feltüntette, melyik ruhát mely napon kell hordani.
-Épp ilyen „menetrendjük” volt a cipőknek is.
+Épp ilyen "menetrendjük" volt a cipőknek is.
 Egyszóval a Saville Row-i házban - mely a dicső, de korhely Sheridan idején a bohémség szentélye lehetett - most minden jómódra, kényelmes életre vallott.
 Könyvtár sehol, könyvek sehol; de miért is?
 Hiszen a Reform Clubban Mr. Foggnak két könyvtár állott rendelkezésére, az egyik szépirodalmi, a másik jogi-politikai.
@@ -185,22 +181,21 @@ A hálószobában közepes nagyságú páncél­szek­rény állt; tűztől, bet
 Fegyvernek, vadászatra, hadakozásra szolgáló szerszámnak nyoma sem volt a házban.
 Minden a legbékésebb foglalatosságokra vallott.
 Passepartout tüzetesen szemügyre vette a lakást, széles ábrázatára mosoly terült, majd kezét dörzsölve, vidáman ismét így morfondírozott:
-„Ez kell nekem!
+"Ez kell nekem!
 Remek!
 Ez a Mr. Fogg épp nekem való.
 Házias, rendszerető.
 Pontos, akár egy gépezet.
-Nos, én szívesen szolgálok egy ilyen gépezetet!”
-
+Nos, én szívesen szolgálok egy ilyen gépezetet!"
 HARMADIK FEJEZET - Egy beszélgetésről, mely Phileas Foggnak sokba kerülhet
 Phileas Fogg fél tizenkettőkor lépett ki Saville Row-i házából, és miután jobb lábát ötszáz­hetvenötször bal lába elé, illetve bal lábát ötszázhetvenhatszor jobb lába elé helyezte, megérkezett a Reform Club hatalmas pall-malli épületébe, melynek felépítése kereken hárommillióba került.
 Phileas Fogg azonnal az ebédlőbe ment, melynek kilenc ablaka szép kertre néz; a fák koronáját már bearanyozta az ősz.
 Itt elfoglalta szokott helyét; az asztal terítve várta.
-Előétel, elsőrendű „reading sauce”-szal6 ízesített főtt hal, mushroom-mal7 fűszerezett, vörösre sült roastbeaf8, rebarbarával, zöld ribizlivel készült lepény, egy darab chester sajt - ebből állt az ebédje; az egészet néhány csésze kitűnő teával öblítette le; a teakeveréket külön a Reform Club részére szállították.
+Előétel, elsőrendű "reading sauce"-szal6 ízesített főtt hal, mushroom-mal7 fűszerezett, vörösre sült roastbeaf8, rebarbarával, zöld ribizlivel készült lepény, egy darab chester sajt - ebből állt az ebédje; az egészet néhány csésze kitűnő teával öblítette le; a teakeveréket külön a Reform Club részére szállították.
 A gentleman tizenkettő negyvenhétkor felkelt az asztaltól, és a fényűzően berendezett nagyszalon felé indult, melynek falait festmények díszítették, gazdagon aranyozott keretben.
 Itt egy inas átnyújtotta neki a Times egy felvágatlan példányát; Phileas Fogg mesteri ügyességgel látott hozzá az újság szétbontásának fáradságos feladatához; látszott, hogy nagy gyakorlata van ebben a nehéz mutatványban.
 A lap olvasása három óra negyvenöt percig foglalta le Phileas Foggot, azután áttért a Standardre; ezzel töltötte idejét vacsoráig.
-Második étkezése ugyanúgy zajlott le, mint az ebédje; most azonban „royal british sauce” is gazdagította az étlapot.
+Második étkezése ugyanúgy zajlott le, mint az ebédje; most azonban "royal british sauce" is gazdagította az étlapot.
 Húsz perccel hat óra előtt a gentleman ismét megjelent a nagyszalonban, és a Morning Chronicle olvasásába merült.
 Fél órával később szállingózni kezdtek a Reform Club többi tagjai, és elhelyezkedtek a kandalló körül, melyben kőszéntűz lobogott.
 Phileas Fogg szokott társasága volt; mind szenvedélyes whistező, akárcsak ő: Andrew Stuart mérnök, John Sullivan és Samuel Fallentin bankár, Thomas Flanagan sörgyáros, Gauthier Ralph, az Angol Bank egyik igazgatója - gazdag és tekintélyes személyiség valamennyi, még itt a klubban is, az ipar és a pénzügy legnagyobb nevei között.
@@ -227,7 +222,7 @@ Arany, ezüst, bankjegyek, mindez szabadon hozzáférhető, és úgyszólván sz
 Végül is senki tisztességét nem lehet kétségbe vonni.
 Sőt valakitől, aki az angol szokásokat kitűnően ismeri, ezt a történetet hallottam: a bank egyik termében járt, és szeretett volna közelebbről szemügyre venni egy 3,5-4 kilós aranyrudat, mely a pénztáros asztalán hevert; felvette, megnézte, továbbadta a szomszédjának, az ismét továbbadta, az aranyrúd kézről kézre járt, egy homályos folyosó végén eltűnt, és csupán fél óra múlva foglalta el helyét az asztalon: a pénztáros közben fel sem pillantott munkájából.
 Szeptember 29-én nem egészen így esett a dolog.
-A bankjegyköteg nem tért vissza, és amikor a remek toronyóra elütötte az ötöt a „drawing-office”9 fölött, a hivatali idő végét jelezve, az Angol Bank már csak egyet tehetett: veszteséglistára írhatta az ötvenötezer fontot.
+A bankjegyköteg nem tért vissza, és amikor a remek toronyóra elütötte az ötöt a "drawing-office"9 fölött, a hivatali idő végét jelezve, az Angol Bank már csak egyet tehetett: veszteséglistára írhatta az ötvenötezer fontot.
 Beismerték hát a lopást annak rendje és módja szerint, és válogatott, rendkívül ügyes detektíveket küldtek szét a főbb kikötőkbe: Liverpoolba, Glasgow-ba, Le Havre-ba, Szuezba, New Yorkba stb.
 Siker esetén kétezer font (ötvenezer frank) jutalmat és a visszaszerzett összeg öt százalékát ígérték nekik.
 A nyomozás azonnal megkezdődött; amíg az eredményről nem értesültek, a detektíveknek egy feladatuk volt: gondosan szemmel tartani a kikötőbe érkező vagy onnan induló utasokat.
@@ -276,7 +271,7 @@ Hongkong-Jokohama (Japán), gőzhajó	6 nap
 Jokohama-San Francisco, gőzhajó	22 nap
 San Francisco-New York, vasút	7 nap
 New York-London, gőzhajó és vasút	9 nap
-                                                                   Összesen 	80 nap
+Összesen 	80 nap
 - Úgy van, nyolcvan nap - kiáltott fel Andrew Stuart, és figyelmetlenségből magasabb lapot akart ütni alacsonyabb lapjával -, de csak ha nem számítjuk a rossz időt, az ellenszelet, hajótörést, vonatkisiklást stb.
 - Akkor is, ha számítjuk - válaszolt Phileas Fogg a játék mellől, mert a vita most már a whistre sem volt tekintettel.
 - Akkor is, ha a hinduk vagy indiánok felszedik a síneket!
@@ -305,7 +300,7 @@ Azonban figyelmeztetem, hogy a költségek önt terhelik.
 - kiáltott fel Andrew Stuart, mert kezdte már kihozni sodrából partnerének makacskodása.
 - Tudja mit?
 Inkább játsszunk!
-- Akkor osszon újra - válaszolt Phileas Fogg -, mert ez „renonsz”.
+- Akkor osszon újra - válaszolt Phileas Fogg -, mert ez "renonsz".
 Andrew Stuart lázasan nyúlt a kártya után, aztán hirtelen az asztalra tette.
 - Rendben van, Fogg úr - jelentette ki -, fogadok négyezer fontba!...
 - Kedves Stuart - szólalt meg Fallentin -, nyugodjon meg.
@@ -456,7 +451,7 @@ De alig hagyta el Sydenhamot a vonat, Passepartout kétségbeesett kiáltást ha
 Phileas Fogg, amikor Londonból elindult, aligha gyanította, milyen nagy port ver föl eluta­zása.
 A fogadás híre először a Reform Clubban terjedt el, és valósággal lázba ejtette a tisz­teletre méltó klub tagjait.
 Azután a riporterek révén ez a láz a klubról átterjedt az újságokra, azoktól pedig elkapta a közönség egész Londonban, sőt az egész Egyesült Királyságban.
-A „világ körüli út kérdését” olyan szenvedélyesen és vadul tárgyalták, vitatták, boncolgatták, mintha valamilyen új Alabama-ügy16 lett volna.
+A "világ körüli út kérdését" olyan szenvedélyesen és vadul tárgyalták, vitatták, boncolgatták, mintha valamilyen új Alabama-ügy16 lett volna.
 Az egyik tábor Phileas Fogg pártjára állt, a másik - és csakhamar ez lett az uralkodó többség - ellene foglalt állást.
 Egy ilyen világ körüli út - nem elméletben vagy papíron, hanem a jelenlegi közlekedési eszközökkel s igen minimális idő alatt - nemcsak lehetetlen, hanem egyenesen őrült vállalkozás!
 A Times, a Standard, az Evening Star, a Morning Chronicle és más húsz, nagy példány­számban megjelenő lap Mr. Fogg-gal szemben foglalt állást.
@@ -466,8 +461,8 @@ Rendkívül szenvedélyes hangú, de logikus cikkek jelentek meg a kérdésről.
 Mindenki tudja, milyen érdeklődés kíséri Angliában mindazt, aminek a földrajzhoz bármi köze van.
 Falta is minden olvasó a Phileas Fogg-ügynek szentelt hasábokat, felsőbb és alsóbb körökben egyaránt.
 Az első napokban a kalandosabb természetűek - elsősorban a hölgyek - mellette voltak, főként mikor az Illustrated London News, a Reform Club irattárában őrzött fényképe nyomán, arcképét is közölte.
-Néhány merészebb gentleman kijelentette: „Miért ne, végtére is!
-Láttunk már különb dolgokat is!” Főként a Daily Telegraph olvasói beszéltek így.
+Néhány merészebb gentleman kijelentette: "Miért ne, végtére is!
+Láttunk már különb dolgokat is!" Főként a Daily Telegraph olvasói beszéltek így.
 De hamarosan kiderült, hogy ez a lap is veszít állhatatosságából.
 Október 7-én a Királyi Földrajzi Társaság Közlönyében hosszú cikk jelent meg.
 Minden szempontból megtárgyalta a kérdést, és bebizonyította, hogy a vállalkozás nyilvánvalóan esztelenség.
@@ -487,24 +482,24 @@ Mindenki tudja, hogy Angliában a fogadók valóságos táborba tömörülnek; s
 A fogadás benne van az angol ember vérében, így aztán nem csupán a Reform Club különböző tagjai fogadtak tetemes összegekben Phileas Foggra vagy ellene, hanem a közönség legszélesebb körei is bekapcsolódtak a mozgalomba.
 Phileas Foggot, akár egy versenylovat, mintegy törzskönyvbe jegyezték.
 Egyben tőzsdei valuta is lett; azonnal jegyezni kezdték a londoni tőzsdén.
-A „Phileas Fogg” állandóan forgalomban volt, névértékben vagy felárral vették-kínálták; óriási forgalmat bonyolított le.
+A "Phileas Fogg" állandóan forgalomban volt, névértékben vagy felárral vették-kínálták; óriási forgalmat bonyolított le.
 De elutazása után az ötödik napon, miután a Földrajzi Társaság Közlönye megjelent, a kínálat erősen megnövekedett.
-A „Phileas Fogg” zuhant.
+A "Phileas Fogg" zuhant.
 Kötegszám akartak tőle szabadulni.
 Először ötöt kínáltak egy ellenében, azután tízet, majd hamarosan csak húszért, ötvenért, százért fogadtak rá!
 Ekkor már csak egyetlen híve maradt: Lord Albermale, egy béna öregúr.
 A tiszteletre méltó gentle­man karosszékéhez volt szögezve, és minden pénzt megadott volna érte, ha körül­utazhatja a világot, akár tíz év alatt is.
 Ötezer fontba (100 000 frank) fogadott Phileas Foggra.
-S amikor bebizonyították neki, hogy a terv éppoly ostoba, amilyen haszontalan, mindössze ennyit felelt: „Ha a dolog megvalósítható, az a helyes, ha elsőnek angol ember valósítja meg!”
+S amikor bebizonyították neki, hogy a terv éppoly ostoba, amilyen haszontalan, mindössze ennyit felelt: "Ha a dolog megvalósítható, az a helyes, ha elsőnek angol ember valósítja meg!"
 Így állt tehát az ügy; Phileas Fogg tábora egyre jobban megcsappant; mindenki ellene fordult, nem is egészen alaptalanul; most már csak százötven, majd kétszáz ellenében fogadtak rá, amikor, elutazása után hét nappal, egy teljesen váratlan fordulat következtében már fabatkát sem adtak volna érte.
 E napon este kilenc órakor ugyanis a londoni rendőrség főkapitánya a következő táviratot kapta:
 Cím: London.
 Feladó: Szuez
-„Rowan rendőrkapitány, központi parancsnokság,
+"Rowan rendőrkapitány, központi parancsnokság,
 Scotland Place.
 Phileas Fogg bankrabló nyomában vagyok.
 Kérek haladéktalanul letartóztatási parancsot Bombaybe (Angol India).
-Fix detektív”
+Fix detektív"
 A sürgöny rögtöni hatása nem is maradt el.
 A tiszteletre méltó gentleman mintha sosem lett volna: a bankrabló lépett a helyébe.
 Gondosan megvizsgálták fényképét, mely, akárcsak kollégáié, a Reform Clubban volt letétben.
@@ -801,7 +796,7 @@ Ez utóbbiak részben a tulajdonképpeni brit hadseregben szolgáltak, részben 
 Valamennyinek igen magas a fizetése, még most is, amikor a kormány átvette a néhai Indiai Társaság jogait és kötelességeit.
 A had­nagyok évi jövedelme hétezer frank, a dandárparancsnoké hatvanezer, a tábornoké százezer.19
 Szóval a hivatalnok társaság vígan élte világát a Mongolián; néhány ifjú angol úr is csatlakozott hozzájuk; dagadó erszény lapult a zsebükben; azért kerekedtek föl, hogy messzi földeken kereskedelmi lerakatokat alakítsanak.
-A „purser”, a hajóstársaság megbízottja - egyenlő a rangja a kapitánnyal - pazar bőkezűséggel intézte a dolgokat.
+A "purser", a hajóstársaság megbízottja - egyenlő a rangja a kapitánnyal - pazar bőkezűséggel intézte a dolgokat.
 A hajó hentesüzeme és éléstára állandóan friss húst és változatos étrendet szolgáltatott; reggelinél, majd kettőkor a lunchnél, fél hatkor az ebédnél és nyolckor a vacsoránál - szinte roskadoztak az asztalok az ételek súlya alatt.
 A hölgyek - néhány nő is utazott a hajón - naponta kétszer öltöztek át.
 Zenéltek, sőt ha a tenger meg nem akadályozta, még táncoltak is.
@@ -884,9 +879,9 @@ Miután a vízum formaságait elintézte, Phileas Fogg visszatért a hajóra, ho
 Passepartout szokása szerint, a nyüzsgő utcákon sétafikált.
 Szomáli négerek, hinduk, párszik, zsidók, arabok, európaiak jöttek-mentek körülötte: ezekből tevődik össze a huszonötezres Aden lakossága.
 A város az Indiai-óceán Gibraltárja; Passepartout megcsodálta erődítéseit és pompás ciszternáit, melyeken ma is, kétezer évvel Salamon király mérnökei után, egyre dolgoznak az angol mérnökök.
-„Nagyon érdekes, nagyon érdekes!
+"Nagyon érdekes, nagyon érdekes!
 - morfondírozott Passepartout, a hajóra visszatérve.
-- Úgy látom, ha újat akarunk látni, nem is rossz dolog az utazás.”
+- Úgy látom, ha újat akarunk látni, nem is rossz dolog az utazás."
 Este hat órakor a Mongolia hajócsavarjának lapátjai már az adeni kikötő vizét kavarták, s a gőzös csakhamar az Indiai-óceánt hasította.
 Százhatvannyolc órája volt az Aden és Bombay közötti átkelésre.
 A tenger különben kedvezett a hajónak.
@@ -929,7 +924,7 @@ Természetesen eszébe sem jutott, hogy megtekintse Bombay csodáit; nem érdeke
 Bizony, ő nem látogatja meg sem az elephantai remekműveket, sem a kikötő mellett délkeletre meghúzódó titokzatos sírboltokat, sem a buddhista építészet bámulatra méltó maradványait; Salsette-szigeten a Kanherie-barlangokat!
 De nem ám!
 Miután útlevelét láttamoztatta, Phileas Fogg nyugodtan visszatért a pályaudvarra, és ebédet rendelt.
-A főpincér helyesnek tartotta, ha többek között felhívja a figyelmet a „bennszülött nyúlból” készült pörköltkülönlegességre, mely, amint mondotta: „hat nyelven beszél”.
+A főpincér helyesnek tartotta, ha többek között felhívja a figyelmet a "bennszülött nyúlból" készült pörköltkülönlegességre, mely, amint mondotta: "hat nyelven beszél".
 Phileas Fogg jóváhagyta az ajánlatot, és lelkiismeretesen meg is kóstolta a nyúlpaprikást.
 Azonban a fűszeres mártás ellenére csapnivalónak találta.
 Magához intette a főpincért:
@@ -963,7 +958,7 @@ Most hát, miután néhány inget és zoknit vásárolt, sétált egyet Bombay u
 Nagy volt a sürgés-forgás: Európa valamennyi fajtája ott nyüzsgött az utcán, közöttük perzsák hegyes fövegben; bunhyák kerek turbánban, szindek szögletes fövegben, örmények hosszú ruhában, párszik fekete süvegben.
 Éppen a párszik vagy géberek valamelyik ünnepét ülték; ezek Zoroaszter híveinek közvetlen leszármazottai, a legszorgalmasabb, legcivilizáltabb, legértel­me­sebb, legmértékletesebb fajta egész Indiában: jelenleg közülük kerülnek ki Bombay gazdag bennszülött kereskedői.
 A mai napon, körmenetek és látványosságok közepette valamilyen farsangfélét ünnepeltek a maguk vallása szerint; furcsa hegedűk és tamtamok szavára, arannyal-ezüsttel áttört fátyolruhában bajadérok táncoltak, csodálatosan és egyébként nagyon illedelmesen.
-Passepartout tágra nyitott szemmel, mohón fülelve figyelte az érdekes ceremóniát; és hogy arcáról, viselkedéséről messziről lerítt, hogy valódi „sárgacsőrű” - azt talán külön meg sem kell említenünk.
+Passepartout tágra nyitott szemmel, mohón fülelve figyelte az érdekes ceremóniát; és hogy arcáról, viselkedéséről messziről lerítt, hogy valódi "sárgacsőrű" - azt talán külön meg sem kell említenünk.
 Sajnos, kíváncsisága megint messzebb sodorta a kelleténél, s ezzel újabb bonyodalmakat szerzett magának, és majdnem meghiúsította gazdája továbbjutását.
 Ugyanis miután végiggyönyörködte a párszi farsangot, Passepartout a pályaudvar felé igye­kezett, amikor a Malabar Hillen, a csodás pagoda előtt elhaladva, az a szerencsétlen ötlete támadt, hogy körülnéz benn az épületben.
 Csupán két dolgot nem tudott: először, hogy keresztényeknek szigorúan tilos a belépés némelyik hindu pagodába; másodszor, hogy maguk a hivők is csak akkor léphetnek be, ha lábbelijüket a küszöbön kívül hagyják.
@@ -981,9 +976,9 @@ Meg­húzódott a félhomályban, Passepartout nem is vette észre, ő azonban v
 - Remélem, ez máskor nem fordul elő - felelte egyszerűen Phileas Fogg, azzal felszállt az egyik kocsiba.
 A szegény fiú mezítláb és pironkodva, szótlanul követte gazdáját.
 Fix már-már azon a ponton volt, hogy felszáll a vonat különkocsijába, de eszébe jutott valami, és hirtelen megváltoztatta terveit.
-„Nem, maradok!
+"Nem, maradok!
 - mondta magában.
-- India földjén elkövetett törvénysértés... kezemben van a fickó!”
+- India földjén elkövetett törvénysértés... kezemben van a fickó!"
 E pillanatban élesen sípolt a mozdony, s a vonat eltűnt az éjszakában.
 TIZENEGYEDIK FEJEZET - Phileas Fogg csillagászati áron paripát vásárol
 A vonat az előírt időben futott ki.
@@ -1004,7 +999,7 @@ Sir Francis Cromarty világosan látta, milyen eredeti ember az útitársa, bár
 Elég sok különccel találkozott már a dandártábornok, de ehhez egy sem volt fogható; talán nem is ember, hanem gép, mérnöki csinálmány.
 Phileas Fogg nem titkolódzott Sir Francis Cromarty előtt: elmondta, hogy a föld körül utazik, s azt is, milyen körülmények között.
 A dandártábornok semmi hasznos célját nem látta Phileas Fogg fogadásának; ez is csak bogarasság, hiányzik belőle a szép elv, melyet minden értelmes embernek követnie kell: transire benefaciendo23.
-Ha ilyesmivel tölti el életét, a fura gentleman nyilván el fog tűnni a földről anélkül, hogy „bármit is tenne”, akár magáért, akár másokért.
+Ha ilyesmivel tölti el életét, a fura gentleman nyilván el fog tűnni a földről anélkül, hogy "bármit is tenne", akár magáért, akár másokért.
 Egy órával Bombay után a vonat átkelt a vasúti hídon, elhagyta a Salsette-szigetet, és ettől fogva a kontinensen futott.
 Callyan állomáson bal felé tért, elkanyarodott attól az elágazástól, mely Kandallahot és Pounahot érintve Délkelet-India felé tart, és befutott Pauwell állomásra.
 Ettől kezdve a Nyugati-Ghatok változatosan tagolt vonulatai között haladt; granulit- és bazaltalapú hegyláncok ezek; legmagasabb csúcsaikat sűrű erdő takarja.
@@ -1113,9 +1108,9 @@ Egy indus a gazdája, alig százlépésnyire innen.
 A hindu a kunyhóban volt, az elefánt a palánk mögött.
 Mr. Fogg kérésére a hindu bevezette mindhármójukat a palánk mögé.
 Szemügyre vették az elefántot; gazdája nem igavonót, hanem harci állatot akart belőle nevelni, ezért meg sem szelídítette egészen.
-Az állat természete tulajdonképpen kezes, de a hindunak az volt a terve, hogy lassanként idomítja, míg csak ki nem váltja benne azt a veszett dühöt, melynek a hindu nyelvben „mutsh” a neve; ezt úgy éri el, hogy három hónapon át cukron és vajon tartja.
+Az állat természete tulajdonképpen kezes, de a hindunak az volt a terve, hogy lassanként idomítja, míg csak ki nem váltja benne azt a veszett dühöt, melynek a hindu nyelvben "mutsh" a neve; ezt úgy éri el, hogy három hónapon át cukron és vajon tartja.
 Lehet, hogy ez a módszer nem látszik alkalmasnak a fenti célra, az elefántidomítók mégis eredménnyel alkalmazzák.
-Fogg úr szerencséjére az elefántot csak nemrégiben fogták erre az étrendre, és még nem mutatkozott rajta a „mutsh”.
+Fogg úr szerencséjére az elefántot csak nemrégiben fogták erre az étrendre, és még nem mutatkozott rajta a "mutsh".
 Kiuni - így hívták az állatot - hosszú ideig és tartósan tud ügetni, mint a fajtájabeliek vala­mennyien; más paripája nem lévén, Phileas Fogg elhatározta, hogy hozzá folyamodik.
 Igen ám, de az elefánt mind ritkább, s ezért igen drága Indiában.
 Cirkuszi viadalra csupán hím állat alkalmas, ennek aztán igen nagy keletje van.
@@ -1147,7 +1142,7 @@ Ez már nem volt olyan nehéz.
 Egy értelmes arcú, fiatal párszi felajánlotta szolgálatait.
 Mr. Fogg felfogadta, busás borravalót ígért neki, ami csak további jó hatással lehetett értelmi képességeire.
 Az elefántot késedelem nélkül elővezették és felszerszámozták.
-A párszinak a kisujjában volt a „mahout” mesterségének, vagyis az elefánthajtás tudományának minden csínja-bínja.
+A párszinak a kisujjában volt a "mahout" mesterségének, vagyis az elefánthajtás tudományának minden csínja-bínja.
 Takarót terített az elefánt hátára, és két meglehetősen kényelmetlen, puttonyszerű utazóko­sa­rat helyezett el jobb és bal oldalán.
 Phileas Fogg a híres útizsákból bankjegyköteget szedett elő, és kifizette a hindut.
 Passepartout olyan képpel figyelte, mint akinek a fogát húzzák.
@@ -1157,7 +1152,7 @@ Egy utassal több vagy kevesebb meg sem kottyan a hatalmas állatnak.
 Kholbyban élelmiszert vásároltak.
 Sir Francis Cromarty felmászott az egyik puttonyba, Phileas Fogg a másikat foglalta el.
 Passepartout az elefánt hátán lovagolt, a takarón, gazdája és a tábornok között.
-A párszi az elefánt nyakára kuporodott; a „paripa” kilenc órakor maga mögött hagyta a települést, és toronyiránt megindult Allahabad felé, a sűrű erdőben, legyezőpálmák lombja alatt.
+A párszi az elefánt nyakára kuporodott; a "paripa" kilenc órakor maga mögött hagyta a települést, és toronyiránt megindult Allahabad felé, a sűrű erdőben, legyezőpálmák lombja alatt.
 TIZENKETTEDIK FEJEZET - Mire vezetett Phileas Foggnak és útitársának őserdei kalandozása?
 A vezető, hogy az előttük álló utat rövidítse, balra kanyarodott az építés alatt álló vágányoktól.
 A vasútvonal útjába számos akadályt támasztottak a Vindhya-hegység szeszélyesen kanyargó elágazásai, ezért kitérőkre kényszerült; Phileas Fogg érdeke pedig azt kívánta, hogy minél rövidebben haladjon.
@@ -1217,7 +1212,7 @@ Kiuni ismét sebesen haladt.
 Déltájban a hajtó Kallenger községet kerülte meg; a helység a Cani mellett fekszik, mely a Gangesz egyik másodrendű mellékfolyója.
 Állandóan kerülte a lakott helyeket, úgy vélte, nagyobb bizton­ságban van a néptelen mezőségen, a hatalmas folyam medencéjének első lépcsőfokán.
 Az allahabadi állomás már 12 mérföldnyire sem volt északkeletre.
-Pihenőt tartottak egy banánfa­ligetben; élvezettel fogyasztották a gyümölcsöt, mely az utazók szerint olyan egészséges, mint a kenyér, és „olyan zamatos, mint a tejszín”.
+Pihenőt tartottak egy banánfa­ligetben; élvezettel fogyasztották a gyümölcsöt, mely az utazók szerint olyan egészséges, mint a kenyér, és "olyan zamatos, mint a tejszín".
 Két órakor vezetőjük egy sűrű erdő lombjai alá hajtotta be az elefántot; ettől fogva mérföldeken át az erdőben vonul az út.
 Jobban szeretett így haladni, a fák védelmében.
 Eddig semmiféle kellemetlenség nem zavarta meg utasainkat.
@@ -1357,7 +1352,7 @@ Akkor már hasztalan volna minden emberi beavatkozás.
 Mr. Fogg és kísérői megvárták az éj sötétjét.
 Amikor este hat óra tájt leszállt az alkony, elhatározták, hogy felderítő útra indulnak a pagoda körül.
 Akkor némultak el a fakírok utolsó kiáltásai.
-Bevett szokás szerint ezek a megszállottak valószínűleg most is kába álomban hevernek; elhomályosította elméjüket a folyékony, kenderfőzettel vegyített ópium, a „hang”; talán sikerül átosonni közöttük, és megközelíteni a templomot.
+Bevett szokás szerint ezek a megszállottak valószínűleg most is kába álomban hevernek; elhomályosította elméjüket a folyékony, kenderfőzettel vegyített ópium, a "hang"; talán sikerül átosonni közöttük, és megközelíteni a templomot.
 A párszi nesztelenül hatolt előre az erdőben.
 Mr. Fogg, Sir Francis Cromarty és Passepartout a nyomában.
 Vagy tíz percig kúsztak a lombok alatt, azután egy kis patak partjára jutottak, és feltornyozott farakást pillantottak meg: vasnyelű fáklyák végén gyanta égett, az vetett rá világot.
@@ -1393,7 +1388,7 @@ Egészen éjfélig várakoztak így.
 Semmi változás.
 Szakadatlan őrség a pagoda körül.
 Világos, hogy az őrök elalvására hiába számítanak.
-Ők valószínűleg kimaradnak a „hang” bódulatából.
+Ők valószínűleg kimaradnak a "hang" bódulatából.
 Más módot kell tehát találni: nyílást kell bontani a pagoda falában, hogy bejuthassanak.
 Most már csak az a kérdés, vajon a papok is oly éberen őrzik-e áldozatukat, mint a katonák a templom kapuját.
 Végső megbeszélést tartottak, majd a vezető kijelentette, hogy hajlandó nekivágni.
@@ -1439,8 +1434,8 @@ Mindazonáltal Sir Francis Cromarty beletörődött, hogy kivárja, hogyan végz
 A vezető azonban semmiképpen sem tűrte, hogy útitársai megmaradjanak mostani búvóhelyükön, hanem visszavitte őket a tisztás elülső oldalához.
 Onnan egy facsoport védelmében, kényelmesen szemmel tarthatták az alvó brahmanokat.
 Passepartout eközben egy fa koronájának legalsó ágain kuporogva tűnődött; az imént egy ötlet villant fel a fejében, és mindjobban agyába fészkelte magát.
-Eleinte így morfondírozott: „Őrültség!” Most pedig folyvást ezt hajtogatta: „Elvégre miért ne?
-Talán ez az egyetlen és végső lehetőség itt, ennyi eltompult agy között!...”
+Eleinte így morfondírozott: "Őrültség!" Most pedig folyvást ezt hajtogatta: "Elvégre miért ne?
+Talán ez az egyetlen és végső lehetőség itt, ennyi eltompult agy között!..."
 Passepartout nem is bíbelődött tovább ötletével, hanem habozás nélkül máris kúszott lefelé, akár az evet, a fa földig lehajló ágain.
 Óra telt óra után, és csakhamar derengő árnyalatok jelezték az égen, hogy közeledik a hajnal.
 Egyelőre azonban mélységes mély volt a sötétség.
@@ -1489,9 +1484,9 @@ TIZENNEGYEDIK FEJEZET - Phileas Fogg befutja a Gangesz csodás völgyét, de arr
 A vakmerő szöktetés sikerrel járt.
 Passepartout még egy óra múlva is nevetett rajta.
 Sir Francis Cromarty kezet szorított a merész fiúval.
-Gazdája így nyilatkozott: „Helyes” - s ennél nagyobb dicséretet a gentlemantől senki sem várhatott.
+Gazdája így nyilatkozott: "Helyes" - s ennél nagyobb dicséretet a gentlemantől senki sem várhatott.
 Passepartout azzal válaszolt, hogy a siker dicsősége gazdáját illeti.
-Ő mindössze egy „muris” ötletet valósított meg, és egyre mosolygott, ha arra gondolt, hogy ő, Passepartout, exakrobata és néhai tűzoltómester, néhány pillanatig balzsammal illatosított vén rádzsa s egy csinos asszony néhai férje volt.
+Ő mindössze egy "muris" ötletet valósított meg, és egyre mosolygott, ha arra gondolt, hogy ő, Passepartout, exakrobata és néhai tűzoltómester, néhány pillanatig balzsammal illatosított vén rádzsa s egy csinos asszony néhai férje volt.
 A fiatal hindu nő egyelőre semmit sem tudott a történtekről.
 Úti takaróba göngyölve pihent az egyik puttonyban.
 Közben a párszi mesteri ügyességgel hajtotta az elefántot, az állat gyorsan futott a még most is sötét erdőben.
@@ -1523,11 +1518,11 @@ Aztán örömtől sugározva tért vissza a pályaudvarra.
 Mrs. Auda akkor kezdett feleszmélni.
 Lassan oszladozott fejében a köd, a Pillaji-papok sötét mes­terkedésének emléke; s a fiatalasszony szép szeme hindu nőhöz méltó, igazi bájjal mosoly­gott.
 Amikor Ucaf Uddaul, a költőkirály Ahméhnagara királynő szépségét ünnepli, így énekel:
-„Szabályosan kettéválasztott, csillogó hajzata a keret gyengéd és fehér, simán, üdén tündöklő orcáinak arányos vonala körül.
+"Szabályosan kettéválasztott, csillogó hajzata a keret gyengéd és fehér, simán, üdén tündöklő orcáinak arányos vonala körül.
 Ében szemöldöke oly szépen ívelt, oly hatalmas, mintha Kámának, a szerelem istenének íja volna, és hosszú, selymes pillái alatt, fénylő nagy szemé­nek szembogarában úgy ragyog a mennyei sugár ezernyi, tisztánál tisztább rezdülése, mint a Himalája szent tavaiban.
 Finom, szépen metszett fehér foga elővillan mosolygó ajkai közül, akár a gyöngyharmat a feslő gránátalmavirág szirmaiból.
 Fülecskéinek arányos hajlata, bíbor kacsója, a lótusz rügyeit idéző édes kicsi lába Ceylon legszebb gyöngyének, Golkonda vakító gyémántjának fényében tündököl.
-Karcsú, hajlékony derekát fél kézzel átfoghatod; karcsúsága kiemeli kerek tompora nemes vonalát, dús keblét, melyre a viruló fiatalság pazarul hinti páratlan kincseit; leplének selymes redői közül úgy tetszik át, mintha tiszta ezüstből formálta volna isteni kezével Vikvakarma, az örök szobrász.”
+Karcsú, hajlékony derekát fél kézzel átfoghatod; karcsúsága kiemeli kerek tompora nemes vonalát, dús keblét, melyre a viruló fiatalság pazarul hinti páratlan kincseit; leplének selymes redői közül úgy tetszik át, mintha tiszta ezüstből formálta volna isteni kezével Vikvakarma, az örök szobrász."
 De hagyjuk a dús költői nyelvezetet, és érjük be annyival, hogy Mrs. Auda, a bundelkhandi rádzsa özvegye európai fogalmak szerint is kifogástalanul bájos asszony volt.
 Az angolt igen tisztán beszélte, s a vezető nem túlzott, amikor azt állította, hogy a nevelés egészen átformálta az ifjú párszi hölgyet.
 Közben haladt az idő; a vonat csakhamar kifut az allahabadi állomásról.
@@ -1557,7 +1552,7 @@ Azután derékon ragadta Passe­partout-t, körültekerte ormányával, és fej�
 Passepartout csöppet sem ijedt meg, kedvesen megpaskolta Kiuni bőrét; az állat ezután óvatosan letette, s a derék fiú kemény kézszorítással válaszolt a derék Kiuni ormányának szorítására.
 Néhány perc múlva Phileas Fogg, Sir Francis Cromarty és Passepartout elhelyezkedett egy kényelmes kupéban; a legjobb helyet Mrs. Auda foglalta el, és máris teljes gőzzel robogtak Benares felé.
 A várost legföljebb nyolcvan mérföld választja el Allahabadtól; ezt két óra alatt befutották.
-Útközben a fiatalasszony tökéletesen magához tért; a „hang” altató hatása eloszlott.
+Útközben a fiatalasszony tökéletesen magához tért; a "hang" altató hatása eloszlott.
 Azt sem tudta, hová legyen ámulatában, amikor azt látta, hogy vasúton utazik, európai ruhában üldögél egy kocsiszakaszban, vadidegen utasok között.
 Útitársai először nagy gonddal ellátták, és néhány cseppnyi szesszel eszméletre térítették, majd a tábornok elmondta neki a történteket.
 Nem győzte hangoztatni Phileas Fogg önfel­áldozó viselkedését, aki habozás nélkül kockára tette életét, hogy kiszabadítsa, és részletesen kitért a kaland szerencsés megoldására, melyet Passepartout merész képzelettel hajtott végre.
@@ -1588,7 +1583,7 @@ Benarestől részben a Gangesz völgyét követi a vasút.
 Elég tiszta volt az idő; a kocsi ablakai előtt lassan elvonultak Bihar változatos tájai: zöldellő hegyek, árpa-, kukorica- és búzaföldek, zöldesszürke alligátorokkal népes riók és tavacskák, gondozott faluk s még zöld lombozatú erdők.
 Néhány elefánt, nagy púpú zebu ballagott le fürödni a szent folyó vizéhez, s nyomukban - bár vége felé tartott a nyár, s hidegre fordult az idő - mindkét nembeli hinduk is, akik jámboran végzik szent mosakodásukat.
 Brahma vallásának hívői mind a buddhizmus esküdt ellenségei; istenségük három személyben testesül meg: az első Visnu, a napisten; a második Siva, a természet erőinek isteni kifejezése; a harmadik Brahma, a papok és törvényhozók legfőbb parancsolója.
-De bizonyára nagyot néz mostanában Brahma, Siva és Visnu, ha látja a mai, „britannizált” Indiát, amint egy-egy steamboat telekürtöli és felkavarja a Gangesz megszentelt hullámait, felriasztja a víz színén röpdöső sirályokat, a sekély vízben nyüzsgő teknőcöket s a parton heverésző ájtatosokat.
+De bizonyára nagyot néz mostanában Brahma, Siva és Visnu, ha látja a mai, "britannizált" Indiát, amint egy-egy steamboat telekürtöli és felkavarja a Gangesz megszentelt hullámait, felriasztja a víz színén röpdöső sirályokat, a sekély vízben nyüzsgő teknőcöket s a parton heverésző ájtatosokat.
 Villámsebesen vonult el szemük előtt az egész panoráma; részleteit gyakran fehér gőzfelhő takarta el.
 Az utasok alig vethettek egy rövid pillantást Chunar erődjére, mely húszmérföld­nyire fekszik délkeletre Benarestől, és a bihari rádzsák egykori vára volt; elsuhant előttük Ghazipur jelentős rózsavízgyáraival, a Gangesz bal partján Cornwallis lord síremlékével; el Buxar erődített városa, azután Patna, a nagy kereskedelmi és ipari város, India legfőbb ópiumpiaca, majd Monghyr, a nem is európai, hanem olyannyira angol város, akár Manchester vagy Birmingham; vasöntödéit, szerszám- és pengegyárait széltében ismerik, és magas kéményei fekete füsttel mocskolják be Brahma egét - igazi ökölcsapás: szétzúzza az álmok birodalmát!
 Azután eljött az éjszaka, és a mozdony elől menekülő tigrisek, medvék, farkasok üvöltése közepette robogott előre útján teljes sebességgel a vonat, és homályba merültek Bengália csodái: Golkonda; Gour romjai; Mourshedabad, a hajdani főváros, Burdwan, Hougly és Chandernagor, az indiai francia föld - hej, de büszke lett volna Passepartout, ha láthatja, hogy lengedezik a francia zászló!
@@ -1618,7 +1613,7 @@ Passepartout a maga francia esze járása szerint vitázni készült, a rendőr 
 A rendőr Mr. Foggot, Mrs. Audát és Passepartout-t egy palki-ghari felé vezette; ez egy négy­kerekű, négyszemélyes kocsi, két ló húzza.
 Elindultak.
 A mintegy húsz percig tartó út során egy szót sem szólt senki.
-A kocsi először a „fekete városon” haladt át: itt keskenyek az utcák, vegyes, piszkos, topron­gyos népség nyüzsög az apró kalibákban; azután keresztülhajtottak az európai városon: itt már vidámabb külsejű téglaházakra vetik árnyékukat a pálmafák, árbocok erdeje meredezik, és a kora reggel ellenére elegáns úrlovasok, pompás fogatok sürögnek-forognak.
+A kocsi először a "fekete városon" haladt át: itt keskenyek az utcák, vegyes, piszkos, topron­gyos népség nyüzsög az apró kalibákban; azután keresztülhajtottak az európai városon: itt már vidámabb külsejű téglaházakra vetik árnyékukat a pálmafák, árbocok erdeje meredezik, és a kora reggel ellenére elegáns úrlovasok, pompás fogatok sürögnek-forognak.
 A palki-ghari megállt egy épület előtt; az építményen nem volt semmi különös, de látszott, hogy nem lakóház.
 A rendőr letessékelte a kocsiról foglyait - most már valóban rászolgáltak e névre -, egy rácsos ablakú szobába kísérte őket, és így szólt:
 - Obadiah bíró úr fél kilenckor tárgyalja ügyüket.
@@ -1641,9 +1636,9 @@ Mr. Fogg azzal fejezte be, hogy semmiképp sem hagyja magára a fiatalasszonyt, 
 - figyelmeztette Passepartout.
 - Tizenkettő előtt a fedélzeten leszünk - felelte egyszerűen és rendületlenül a gentleman.
 A válasz oly határozott volt, hogy Passepartout önkéntelenül is megállapította magában:
-„Hogy a csodába ne!
+"Hogy a csodába ne!
 Napnál világosabb!
-Tizenkettő előtt a fedélzeten leszünk!” De azért cseppet sem volt nyugodt.
+Tizenkettő előtt a fedélzeten leszünk!" De azért cseppet sem volt nyugodt.
 Fél kilenckor kinyílt a szoba ajtaja.
 Ismét belépett a rendőr, és a szomszédos terembe kísérte a foglyokat.
 Bírósági tárgyalóterem volt; meglehetősen szép számú európai és bennszülött hallgatóság szorongott már a karzaton.
@@ -1741,7 +1736,7 @@ Phileas Fogg oly tökéletesen uralkodott magán, mintha nem is róla szólna az
 Mikor azonban az írnok a következő tárgyalás szereplőit szólította, felállt, és így szólt:
 - Óvadékot adok.
 - Jogában áll - válaszolta a bíró.
-Fix hátán végigfutott a hideg, azonban hamarosan visszanyerte nyugalmát, amint meghallotta, hogy a bíró, „tekintettel arra, hogy Phileas Fogg és inasa idegen személyek”, fejenként ezer font (25 000 frank) óvadékot rótt ki rájuk.
+Fix hátán végigfutott a hideg, azonban hamarosan visszanyerte nyugalmát, amint meghallotta, hogy a bíró, "tekintettel arra, hogy Phileas Fogg és inasa idegen személyek", fejenként ezer font (25 000 frank) óvadékot rótt ki rájuk.
 Csillagászati szám!
 Mr. Foggnak tehát kétezer fontja bánja, ha nem tölti le büntetését.
 - Fizetek - szólt a gentleman.
@@ -1801,11 +1796,11 @@ Mr. Fogg erre csak azzal felelt, hogy ne nyugtalankodjék: minden rendben lesz, 
 Így mondta, szóról szóra.
 Megértette-e vajon a fiatalasszony, mit jelent ez a visszataszító határozószó?
 Talán igen, talán nem.
-Mindenesetre Mr. Foggra pillantott nagy szemével, mely „tiszta fényben ragyog, mint a Himalája szent tavai”.
+Mindenesetre Mr. Foggra pillantott nagy szemével, mely "tiszta fényben ragyog, mint a Himalája szent tavai".
 Fogg azonban, a rendületlen Fogg ezúttal szinte a szokottnál is jobban begombolkozott: semmi jelét nem adta, hogy fejest kíván ugrani ebbe a tóba.
 A Rangoon remek körülmények közt futotta be útjának első felét.
 Nem volt semmi baj az idővel.
-A roppant öbölnek az a tája, melyet „Bengália kitárt kebelé”-nek hívnak a tengerészek, kedvezett a gőzösnek.
+A roppant öbölnek az a tája, melyet "Bengália kitárt kebelé"-nek hívnak a tengerészek, kedvezett a gőzösnek.
 A Rangoon utasai csakhamar megpillantották az Andaman-sziget­csoport legnagyobb szigetét, a Nagy-Andamant; messziről megismerik a hajósok a 2400 láb magas Saddle-Peak festői hegytetőjéről.
 Elég közel követték a partot.
 A szigeten lakó vad pápuák nem mutatkoztak.
@@ -1832,11 +1827,11 @@ Hongkong után azonban egyszerű elfogatóparancs mit sem ér.
 Hivatalos kikérésre lesz szükség.
 Tehát ezer új akadály, huzavona, mindenféle bonyodalom; a gazfickó pedig halászhat a zavarosban, és végképp kereket old.
 Hogyha haditerve Hongkongban kudarcot vall, később már, ha nem is lehetetlen, de rendkívül nehéz dolga lesz, amennyiben folytatni akarja.
-„Nos - tépelődött kabinjában Fix, miközben csigalassúsággal vánszorogtak az órák -, nos, vagy Hongkongba ér a letartóztatási parancs, és akkor fülön csípem a fickót, vagy nem, s akkor, törik-szakad, meg kell akadályoznom, hogy továbbutazzon!
+"Nos - tépelődött kabinjában Fix, miközben csigalassúsággal vánszorogtak az órák -, nos, vagy Hongkongba ér a letartóztatási parancs, és akkor fülön csípem a fickót, vagy nem, s akkor, törik-szakad, meg kell akadályoznom, hogy továbbutazzon!
 Kudarc Bombayben, kudarc Calcuttában!
 Hogyha Hongkongban is csúffá tesznek, vége a becsületemnek!
 Nincs pardon, most célt kell érnem.
-De mi a teendő, hogy szükség esetén meggátolhassam ennek az átkozott Foggnak a továbbutazását?”
+De mi a teendő, hogy szükség esetén meggátolhassam ennek az átkozott Foggnak a továbbutazását?"
 Végső soron Fix arra is elszánta magát, hogy mindent bevall Passepartout-nak, lerántja a leplet gazdájáról, mert ha szolgálja is, cinkosnak bizonyára nem cinkosa.
 Ha Passepartout szeméről leesik a hályog, megijed majd, hogy ő is bajba kerülhet, és nyilvánvalóan Fix mellé áll.
 Ez azonban elég kockázatos fogás; csupán végső esetben alkalmazandó.
@@ -1863,7 +1858,7 @@ Mindazonáltal Fix elhatározta, hogy vallatóra fogja Passepartout-t; nagyobb b
 Tudta, hogy könnyűszerrel szóra bírja barátunkat; úgy döntött, felfedi eddigi inkognitóját.
 Nem vesztegethette az időt.
 Október 31-e volt: a Rangoon már másnap partot ér Singapore-ban.
-Fix tehát e napon előbújt kajütjéből, a fedélzetre ment, hogy a legnagyobb meglepetést színlelve ő szólítsa meg „előre” Passepartout-t. Passepartout a hajó orrában sétált, amikor a detektív feléje rohant.
+Fix tehát e napon előbújt kajütjéből, a fedélzetre ment, hogy a legnagyobb meglepetést színlelve ő szólítsa meg "előre" Passepartout-t. Passepartout a hajó orrában sétált, amikor a detektív feléje rohant.
 - Uraságod itt, a Rangoonon?
 - lelkendezett.
 - Fix úr itt, hajónk fedélzetén?
@@ -1891,7 +1886,7 @@ Fix töviről hegyire ismert minden mozzanatot, azonban úgy tett, mint aki semm
 - Talán magával viszi Európába?
 - Dehogy viszi, Fix úr, dehogy viszi!
 Egy gazdag hongkongi kereskedő gondjaira bízzuk, a hölgy egyik rokonára; ez minden szándékunk.
-„Hát itt hiába minden!” - gondolta magában a detektív, és igyekezett leplezni csalódását.
+"Hát itt hiába minden!" - gondolta magában a detektív, és igyekezett leplezni csalódását.
 - Meghívhatom egy ginre, Passepartout úr?
 - Hogyne, Fix úr, nagyon szívesen.
 Igazán megtehetjük, annak örömére, hogy a Rangoonon is összeakadtunk!
@@ -1909,14 +1904,14 @@ De ha száz évig töri is a fejét, akkor sem találta volna ki, mi a detektív
 Álmában sem képzelte volna, hogy Phileas Foggot mint közönséges tolvajt követik végig a föld­golyóbison.
 Ám benne van az emberi természetben, hogy mindenre magyarázatot keres, Passepartout pedig, midőn hirtelen világosság gyúlt a fejében, a következőképpen magyarázta Fix állandó jelenlétét - és mi tagadás, magyarázata nem is volt egészen alaptalan.
 Szerinte Fix nem volt és nem is lehetett senki más, mint Mr. Fogg klubtársainak ügynöke: azért küldték utána, hogy ellenőrizze, szabályosan, a megállapított útiterv szerint folyik-e a föld körüli utazás.
-„Világos!
+"Világos!
 Világos!
 - ismételgette magában a derék fiú, és büszkeség dagasztotta a keblét, hogy így belelát a kártyákba.
 - Kém, a londoni gentlemanek küldték a nyakukra!
 Igazán nem szép tőlük!
 Mr. Fogg maga a becsület, az egyenesség!
 Spiclit küldeni utána!
-Hej, urak, sokba kerül ez még önöknek!”
+Hej, urak, sokba kerül ez még önöknek!"
 Passepartout egészen boldog volt ettől a felfedezéstől, mégis úgy döntött, szót sem szól gazdájának; attól félt, hogy Mr. Foggot megsértheti ellenfelei bizalmatlansága, és méltán.
 De már előre dörzsölte a kezét, mennyit ugratja majd Fixet alkalomadtán, persze csak burkoltan és anélkül, hogy kiadná magát.
 Október 30-án, szerdán délután a Rangoon besiklott a Malaka-szorosba; ez választja el a szumátrai szárazföldtől a hasonló nevű félszigetet.
@@ -1958,7 +1953,7 @@ Erről azonban inkább a Rangoon tehetett, mint a tenger.
 Mert a Félszigeti Társaságnak a Kínai-tengeren járó hajói súlyos szerkezeti hibában szenved­nek.
 Tervezőik helytelenül számították ki a terhelési merülés és a hajómélység viszonyát, ennek következtében igen csekély az ellenállásuk, ha a tengert járják.
 Kevés a víznek hozzáférhetetlen, zárt térfogatuk.
-Tengerésznyelven szólván „nyelnek”, és e rossz szokásuk folytán elég, ha egy-két bukóhullám átcsap a fedélzeten, mozgásuk máris megváltozik.
+Tengerésznyelven szólván "nyelnek", és e rossz szokásuk folytán elég, ha egy-két bukóhullám átcsap a fedélzeten, mozgásuk máris megváltozik.
 Ezek a hajók tehát - kivéve talán gépezetüket és párologtató-felszerelésüket - messze elmarad­nak a Francia Tengerhajózás Impéretrice és Cambodge típusú hajói mögött.
 Ez utóbbiakat úgy tervezték a mérnökök, hogy csupán saját súlyukkal egyenlő vízmennyiség nyomása alatt süllyednek el, a Félszigeti Társaság hajói pedig, a Golconda, a Corea és végül a Rangoon már saját súlyuk hatodával is elmerülnek.
 A rossz időben tehát ugyancsak helyénvaló volt minden óvatosság.
@@ -1979,7 +1974,7 @@ Idegességében talán az a gondolat is játszott némi szerepet, hogy otthon, a
 Szót sem hiszek az egészből!
 - Ne mondja!
 - felelte Passepartout, és a detektívre kacsintott.
-„Hogy érti ezt?” - tűnődött a detektív.
+"Hogy érti ezt?" - tűnődött a detektív.
 A gúnyos kiszólás nyugtalanította, maga sem tudta, miért.
 Talán átlát rajta a francia?
 Maga sem tudta mire vélni.
@@ -2023,7 +2018,7 @@ Igen!
 Passepartout napról napra egyik ámulatból a másikba esett, hisz az ifjú hölgy szeméből mélységes hála ragyogott gazdája felé.
 Hát ennek a Phileas Foggnak is csak a hősiességre van szíve, de a szerelemre... Hogy az utazás viszontagságai nyugtalanították volna, annak semmi jelét nem adta.
 Passepartout eközben szüntelen izgalomban élt.
-Az egyik napon az „engine-room”30 korlátjára támaszkodva a hatalmas gépezetet figyelte - amikor a hajó vadul előre­billent a hullámokon, lapátja a levegőben csapkodott, s ilyenkor a hajógép meg-megszaladt.
+Az egyik napon az "engine-room"30 korlátjára támaszkodva a hatalmas gépezetet figyelte - amikor a hajó vadul előre­billent a hullámokon, lapátja a levegőben csapkodott, s ilyenkor a hajógép meg-megszaladt.
 Szelepjéből felcsapott a gőz, s a derék fickó epét hányt dühében.
 - Nem elég a munka a szelepeknek!
 Nem elég!
@@ -2142,20 +2137,20 @@ Hongkong mindössze kicsiny sziget, az 1842-es háború után a nankingi béke �
 Nagy-Britannia gyarmatosító géniusza néhány esztendő alatt jelentékeny várost telepített rá, és kikötőt létesített, a Victoria kikötőt.
 A sziget a kantoni folyótorkolatban, alig hatvanmérföld­nyire van a túlparton épült portugál várostól, Macautól.
 A kereskedelmi verseny során Macau sorsa szükségképpen megpecsételődött, s a kínai átmenő kereskedelem java részét ma már az angol város foglalja le.
-Aki a hongkongi dokkokat, kórházakat, wharfokat31, raktárakat, gótikus székesegyházat, „government-house”-t32 és a makadámutakat látja, azt hihetné, vala­melyik kereskedőváros vándorolta végig a földgolyóbist Kent vagy Surrey megyétől idáig, s most itt nőtt ki a földből, Kína mellett, szinte a szülőföld antipódusán.
+Aki a hongkongi dokkokat, kórházakat, wharfokat31, raktárakat, gótikus székesegyházat, "government-house"-t32 és a makadámutakat látja, azt hihetné, vala­melyik kereskedőváros vándorolta végig a földgolyóbist Kent vagy Surrey megyétől idáig, s most itt nőtt ki a földből, Kína mellett, szinte a szülőföld antipódusán.
 Passepartout zsebre vágta hát a kezét, s a Victoria kikötő felé andalgott; nézegette a gyalog­hin­tó­kat meg a vitorlás targoncákat, melyek most is divatban vannak a Mennyei Birodalom­ban; nézegette az utcákon tolongó kínaiak, japánok és európaiak sokadalmát.
 Eltekintve egy-két lényegtelen különbségtől, a derék fickó úgy érezhette, most is Bombay, Calcutta vagy Singapore utcáin jár.
 Szinte az egész világot körülövezik így az angol városok.
 Passepartout megérkezett a Victoria kikötőbe.
 A kantoni folyótorkolatban ezer náció hajói hemzsegtek, angolok, franciák, amerikaiak, hollandusok, hadi- és kereskedelmi hajók, japán vagy kínai bárkák, dzsunkák, szempák, tankák, sőt virághajók is: megannyi úszó virágágy a víz hullámain.
 Séta közben Passepartout-nak hol itt, hol ott sárga ruhás bennszülöttek ötlöttek szemébe: igen-igen öregecske volt valamennyi.
-Betért egy kínai borbélyhoz, hogy megborot­válkozzon „kínai módra”, s a helybeli Figarótól, aki meglehetősen beszélt angolul, megtudta, hogy minden ilyen aggastyán legalább nyolcvanesztendős: ebben a korban megilleti őket a kiváltság, hogy a császári színt, a sárgát magukra ölthessék.
+Betért egy kínai borbélyhoz, hogy megborot­válkozzon "kínai módra", s a helybeli Figarótól, aki meglehetősen beszélt angolul, megtudta, hogy minden ilyen aggastyán legalább nyolcvanesztendős: ebben a korban megilleti őket a kiváltság, hogy a császári színt, a sárgát magukra ölthessék.
 Passepartout jót mulatott, bár maga sem nagyon tudta, miért.
 Borotválkozás után a Carnatic hajóhídjára ment, s ott Fixet pillantotta meg; a detektív fel s alá sétált, Passepartout nagyon megértette.
 Fix arcán élénk bosszúság tükröződött.
-„Remek!
+"Remek!
 - gondolta Passepartout.
-- Nesze neked, Reform Club, az urak szénája ugyancsak rosszul áll!”
+- Nesze neked, Reform Club, az urak szénája ugyancsak rosszul áll!"
 Derűsen mosolyogva lépett oda Fixhez; úgy tett, mintha nem venné észre, milyen feldúlt az útitársa.
 A detektívnek volt is miért dühöngenie.
 Pokoli balszerencse: elfogatóparancs sehol!
@@ -2197,7 +2192,7 @@ A Középső Birodalomban mindig, mindenütt füstöl az ópiumpipa.
 Férfiak és nők egyaránt ennek a pusztító szenve­délynek martalékai, s ha megszokták az ópiumszívást, soha nem tudnak többé róla lemondani, különben iszonyatos görcs facsarja gyomrukat.
 Akinek régi szenvedélye, az nyolc pipát is elszív naponta, de öt év alatt belehal.
 Még Hongkongban is egymást érik az ilyen ópiumkocsmák; ide tévedt be most Fix és Passepartout, hogy szomjukat elüssék.
-Passepartout-nak nem volt pénze, de szívesen elfogadta útitársa „kedvességét”; úgy gondolta, alkalomadtán majd viszonozza.
+Passepartout-nak nem volt pénze, de szívesen elfogadta útitársa "kedvességét"; úgy gondolta, alkalomadtán majd viszonozza.
 Két üveg portóit rendeltek, s a francia derekasan hajtogatta.
 Fix azonban mértékletesebb volt, és rendkívül figyelmesen szemlélgette útitársát.
 Beszélgettek erről-arról, de főként arról, milyen kitűnő ötlete volt Fixnek, hogy ő is elutazik a Carnaticon.
@@ -2286,7 +2281,7 @@ Egy darabig tétovázott, csak azután szólalt meg ismét.
 Mit tegyen?
 Úgy látszik, Passepartout csakugyan tájékozatlan, nem alakoskodik, ez azonban csak az ő dolgát bonyolítja.
 Nyilvánvaló, hogy a franciából a teljes jóhiszeműség szól, és nem cinkosa gazdájának - márpedig Fix ettől tartott, és tarthatott is.
-„Márpedig - gondolta magában - ha nem a cinkosa, akkor az én pártomra áll.”
+"Márpedig - gondolta magában - ha nem a cinkosa, akkor az én pártomra áll."
 A detektív újabb döntésre jutott.
 Különben sem várhatott tovább.
 Foggot mindenáron Hongkongban kell marasztalnia.
@@ -2359,7 +2354,7 @@ Ezért egy csomó ruhát és útiholmit voltak kénytelenek vásárolni.
 Mr. Fogg szokása szerint ezt a feladatot is szenvtelenül oldotta meg, és ha a fiatal özvegy mentegetődzött vagy tiltakozott és pironkodott a szakadatlan szívességek miatt, az úriember csupán ennyit felelt, szóról szóra mindig ugyanúgy:
 - Nekem is érdekem, hozzátartozik az útitervhez.
 Miután a bevásárlást befejezték, Mr. Fogg és az ifjú hölgy visszatért a szállodába, s elköltötték a nagy pompával felszolgált, étlap szerinti ebédet.
-Mrs. Auda kissé fáradt volt, ezért visszavonult lakosztályába, előbb azonban „angolosan” kezet szorított rendíthetetlen megmentőjével.
+Mrs. Auda kissé fáradt volt, ezért visszavonult lakosztályába, előbb azonban "angolosan" kezet szorított rendíthetetlen megmentőjével.
 A nagytekintetű gentleman pedig egész este a Times és az Illustrated London News olvasásába mélyedt.
 Ha tudott volna csodálkozni egyáltalában, most lett volna alkalma rá, mert inasa még akkor sem jelentkezett, amikor ő nyugovóra tért.
 De mivel tudta, hogy a gőzhajó csak másnap reggel indul Hongkongból Jokohamába, nem sokat törődött vele.
@@ -2390,7 +2385,7 @@ Nélkülünk szállt volna fel a Carnaticre?
 - Én is, asszonyom, s most felettébb kínos helyzetben vagyok.
 A Carnaticet közben kijaví­tották, s tizenkét órával előbb futott ki Hongkongból.
 Senkit sem értesítettek, s most várhatunk egy hétig a következő hajóra!
-Amikor Fix az „egy hetet” kimondta, úgy érezte, majd kiugrik a szíve a gyönyörűségtől.
+Amikor Fix az "egy hetet" kimondta, úgy érezte, majd kiugrik a szíve a gyönyörűségtől.
 Egy hét!
 Fogg még egy hétig Hongkongban!
 Van idő, megérkezik az elfogatóparancs.
@@ -2488,7 +2483,7 @@ Versenyjachtnak is megtette volna.
 Csillogó réz alkatrészei, galvanizált vasalása, vakítóan fehér fedélzete mind arra vallott, hogy John Bunsby kapitány jó szakember, és úgy vigyáz rá, mint a szeme fényére.
 A hajó két árboca kissé hátrafelé dőlt.
 Vitor­lázata farvitorlából, előtörzsvitorlából, előkötél-vitorlából, orrvitorlából és farsudár­vitorlákból állt, és hátszélben egy törzsvitorlát is felcsarnakolhatott.
-Pazar futó lehetett, és csakugyan több díjat is nyert a kalauzhajók „match”-ein.
+Pazar futó lehetett, és csakugyan több díjat is nyert a kalauzhajók "match"-ein.
 A Tankadčre legénysége négy matrózból állt.
 John Bunsby volt a kapitány.
 Vakmerő tengerészek mindannyian, az a fajta, aki bármilyen időjárásban tengerre száll, hogy felkutassa a hajókat, s úgy ismeri az óceánt, mint a tenyerét.
@@ -2499,8 +2494,8 @@ A vitorlás hátsó fedele alól lépcső vezetett egy négyszögletes szobába,
 Középen lengőlámpa vetett fényt egy asztalra.
 A helyiség kicsiny volt, de tiszta.
 - Sajnos, ennél jobbal nem szolgálhatok - mondta Mr. Fogg Fixnek, aki némán meghajolt.
-A detektív valamelyest megalázónak érezte, hogy kénytelen elfogadni „ennek” a Foggnak a szívességét.
-„Szó, ami szó - gondolta magában -, nagyon udvarias gazember, de mégiscsak gazember!”
+A detektív valamelyest megalázónak érezte, hogy kénytelen elfogadni "ennek" a Foggnak a szívességét.
+"Szó, ami szó - gondolta magában -, nagyon udvarias gazember, de mégiscsak gazember!"
 Három óra tíz perckor felvonták a vitorlákat.
 A csonkavitorlarúdon az angol zászló lenge­dezett.
 Az utasok a fedélzeten üldögéltek.
@@ -2559,16 +2554,16 @@ Ha a szél így marad, biztosnak látszik a siker.
 A Tankadčre egész nap megmaradt a part közelében, és kihasználta a kedvező tengeráramot.
 A szeszélyes rajzolatú partvidék legföljebb ötmérföldnyire lehetett bal felé, olykor meg-megpillantották, ha hébe-korba kisütött a nap.
 A szél a szárazföld irányából fújt, s a tenger már csak azért sem hullámzott túlságosan.
-Örült is a kétárbocos kapitánya, mert az alacsony tonnatartalmú vízi járművek különösképpen megszenvedik a hullámverést, és járásuk lelassul; a hullámzás, tengerésznyelven szólva, „megöli” őket.
+Örült is a kétárbocos kapitánya, mert az alacsony tonnatartalmú vízi járművek különösképpen megszenvedik a hullámverést, és járásuk lelassul; a hullámzás, tengerésznyelven szólva, "megöli" őket.
 Déltájban kissé elült a szél, majd ismét feltámadt hátulról, délkelet felől.
 A révkalauz fel­vonatta a farsudárvitorlákat, de két óra múlva megint felélénkült a szél, s a farsudárvitorlákat ismét bevonták.
 Mr. Foggon és az ifjú hölgyön szerencsére nem fogott a tengeribetegség; jó étvággyal fogyasz­tották a hajó konzerv- és kétszersültkészletét.
 Fixet is meginvitálták ebédre; a detektív kénytelen volt a meghívást elfogadni, mivel jól tudta, hogy nemcsak a hajófenék, hanem olykor a gyomor sem nélkülözheti a terhelést, de nagyon a lelkére vette a dolgot!
 Ennek az embernek a pénzén utazik, az ő ételét fogyasztja - nem, ez nem egészen tisztességes dolog.
 Mégis evett - igaz ugyan, hogy csak foghegyről, de azért evett.
-Étkezés után mindenesetre kötelességének érezte, hogy félrevonja „ezt a Foggot”, és neki­durálta magát:
+Étkezés után mindenesetre kötelességének érezte, hogy félrevonja "ezt a Foggot", és neki­durálta magát:
 - Uram...
-Ez az „uram” szinte égette száját; alig állhatta meg, hogy nyakon ne csípje az „urat”.
+Ez az "uram" szinte égette száját; alig állhatta meg, hogy nyakon ne csípje az "urat".
 - Uram, rendkívül lekötelez, hogy volt szíves felvenni hajójára.
 Jóllehet anyagiakban nem lehetek oly bőkezű, mint uraságod, mégis úgy vélem, hozzá kell járulnom a magam részéről...
 - Ne vesztegessük erre a szót, uram - felelte Mr. Fogg.
@@ -2595,7 +2590,7 @@ Nem volt gyerekjáték állva maradni a fedélzeten.
 Virradatra a szél mindinkább megélénkült.
 Az égbolton szélvihar előjelei mutatkoztak.
 A barométer is a légköri viszonyok közelgő változását jelezte: egész napi mozgása szabálytalan volt, higanyszála szeszélyesen ingadozott.
-A tengeren délkeleti irányban hosszú hátú hullámok tornyosultak, „viharszaguk volt”.
+A tengeren délkeleti irányban hosszú hátú hullámok tornyosultak, "viharszaguk volt".
 Előző este foszforeszkált, villódzott az óceán, vörös párák között hanyatlott le a nap.
 A révkalauz sokáig szemlélgette a csúnya eget, és érthetetlen szótagokat mormolt a foga között.
 Egyszer aztán, amikor Phileas Fogg éppen mellette volt, halkan így szólította meg:
@@ -2711,8 +2706,8 @@ A következők történtek vele:
 Fix távozása után néhány pillanattal az ópiumkocsma két pincére felnyalábolta a mély álomban heverő Passepartout-t, és végigfektették az ópiumszívók fekvőhelyén.
 Passepartout azonban lidérces álmai közt sem szabadulhatott egy rögeszmeszerű gondolattól; két-három óra múlva feleszmélt, és minden erejét megfeszítve viaskodott a kábítószer butító hatásával.
 Eszébe jutott, hogy elmulasztotta a kötelességét, és ez felrázta tompulatából.
-Otthagyta a részegek lebuját, és támolyogva, a falakat súrolva, el-elvágódva és megint feltápászkodva, mintha valami ellenállhatatlan, makacs ösztön vezetné, kilábolt a kocsmából, és álomittasan folyvást ezt kiabálta: „A Carnatic!
-A Carnatic!”
+Otthagyta a részegek lebuját, és támolyogva, a falakat súrolva, el-elvágódva és megint feltápászkodva, mintha valami ellenállhatatlan, makacs ösztön vezetné, kilábolt a kocsmából, és álomittasan folyvást ezt kiabálta: "A Carnatic!
+A Carnatic!"
 A hajó indulásra készen füstölgött a kikötőben.
 Passepartout-t alig néhány lépés választotta el a gőzöstől.
 Felrohant a tolóhídra, átvetette magát a korláton, és eszméletlenül roskadt össze a hajóorrban, éppen amikor a Carnatic eloldotta köteleit.
@@ -2721,15 +2716,15 @@ Ezért van tehát ma reggel Passepartout a Carnatic fedélzetén, és szívja te
 A tiszta levegő kijózanította.
 Kezdte összeszedni a gondolatait, ami nem is volt olyan egyszerű.
 Végül mégiscsak eszébe jutottak az előző nap eseményei, Fix bizalmas tájékoztatója, az ópiumkocsma stb.
-„Nem kétséges - tűnődött -, hogy gyalázatosan berúgtam!
+"Nem kétséges - tűnődött -, hogy gyalázatosan berúgtam!
 Kíváncsi vagyok, mit szól majd Mr. Fogg.
-No, mindegy, a hajót elértem, és ez a fő.”
+No, mindegy, a hajót elértem, és ez a fő."
 Azután Fixre terelődtek gondolatai.
-„Nagyon remélem - morfondírozott -, hogy ezúttal leráztuk nyakunkról a fickót, és javaslatai után aligha lehet mersze utánunk szemtelenkedni a Carnaticre... Még mit nem!
+"Nagyon remélem - morfondírozott -, hogy ezúttal leráztuk nyakunkról a fickót, és javaslatai után aligha lehet mersze utánunk szemtelenkedni a Carnaticre... Még mit nem!
 Detektívet uszítani a gazdámra!
 Azzal vádolni, hogy ő lopta el az Angol Bankból azt a pénzt!
 Ugyan már!
-Ha Mr. Fogg tolvaj, akkor én gyilkos vagyok!”
+Ha Mr. Fogg tolvaj, akkor én gyilkos vagyok!"
 Mitévő legyen?
 Mondjon el mindent a gazdájának?
 Jól teszi-e, ha felvilágosítja Fix szerepéről?
@@ -2795,15 +2790,15 @@ Jokohamának ezt a bennszülött városrészét Bentennek hívják, egy tengeris
 Csodás fenyő- és cédrusallék sorakoztak itt; különös szerkezetű szent kapuk, bambusz- és nádbozótok közt szunnyadó hidak, százados cédrusfák roppant és mélabús lombkoronája alatt megbúvó templomok és bonckolostorok, melyek homályán buddhista papok és Konfucius vallásának hívei tengetik életüket, utcák vonulnak vége­láthatatlanul, rózsás képű, vörös arcú gyerekek falkáitól népesen, mintha japán falvé­dőkről lépett volna le valamennyi pöttöm emberpalánta; ott játszadoztak kurta lábú uszkárok és zsemleszínű, csonka farkú, lusta és hízelgő macskák között.
 Az utcákon pillanatra sem szűnt a járókelők nyüzsgése, pezsgő forgataga: boncok vonultak körmenetben, egyhangúan zengetve cintányérjaikat; jakuminok, vagyis vám- és rendőrtisztek nyomakodtak utánuk hegyes, lakkfestékkel díszes kalapban, két-két szablya az övükben; feltűnt egy-egy fehér csíkos kék gyapotruhába öltözött katona is, vállukon csappantyús kara­bély, majd a mikádó testőrei, zsákszerű selyemkaftánban, páncélingesen, alabárdosan, majd megint másfajta minden rendű-rangú katonaság; mert Japánban igen nagy a becsülete a kato­ná­nak, nem úgy, mint Kínában.
 Voltak itt a tömegben kolduló barátok, hosszú szoknyás zarán­dokok, lenyalt hajú, ébenfekete üstökű, nagy fejű, hosszú derekú, pipaszárlábú, kis termetű egyszerű polgáremberek: arcuk bőrén megfigyelhető volt valamennyi színárnyalat a sötét bronzvörös és a sápatag fehér között, de a kínaiak jellemző sárgasága nem mutatkozott sehol, mert a japánok gyökeresen különböznek a kínaiaktól.
-Végül a kocsik, gyaloghintók, lovak, teherhordók, vitorlás targoncák, lakkozott falú „norimon”-ok, süppeteg bambusz hord­székek, vagyis „rangó”-k között fel-feltűnt egy-egy csinosnak alig mondható, ferde szemű, leszorított keblű, az akkori divat szerint feketére kent fogú asszony is; vászoncipőben, szalmapapucsban vagy cifrán faragott koturnuson tipegtek, aprókat lépegetve apró lábukon; és igen jól mutatott rajtuk nemzeti öltözetük, a „kirimon”, afféle házi köntös ez, selyemsál szorítja össze, melynek széles szalaga hátul szeszélyes, nagy csokorban virít - mintha csak a japán asszonyoktól vették volna át a mai párizsi hölgyek.
-Passepartout órákon át sétált a tarka tömegben; a különös, gazdag boltokat is szemügyre vette: a bazárokban halomszám hevertek a japán ötvösművészet ragyogványos remekei, a „restauration”-ok bejárata fölött zászlók és lobogók lengedeztek, jelezve, hogy számára tilos a belépés; a teaházakban teli csészékből itták az illatos meleg vizet meg a „szaki”-t, vagyis az erjesztett rizsből lepárolt szeszt; a kényelmes dohányzókocsmákban finom dohányt füstöltek, nem ópiumot, mert azt Japánban alig ismerik.
+Végül a kocsik, gyaloghintók, lovak, teherhordók, vitorlás targoncák, lakkozott falú "norimon"-ok, süppeteg bambusz hord­székek, vagyis "rangó"-k között fel-feltűnt egy-egy csinosnak alig mondható, ferde szemű, leszorított keblű, az akkori divat szerint feketére kent fogú asszony is; vászoncipőben, szalmapapucsban vagy cifrán faragott koturnuson tipegtek, aprókat lépegetve apró lábukon; és igen jól mutatott rajtuk nemzeti öltözetük, a "kirimon", afféle házi köntös ez, selyemsál szorítja össze, melynek széles szalaga hátul szeszélyes, nagy csokorban virít - mintha csak a japán asszonyoktól vették volna át a mai párizsi hölgyek.
+Passepartout órákon át sétált a tarka tömegben; a különös, gazdag boltokat is szemügyre vette: a bazárokban halomszám hevertek a japán ötvösművészet ragyogványos remekei, a "restauration"-ok bejárata fölött zászlók és lobogók lengedeztek, jelezve, hogy számára tilos a belépés; a teaházakban teli csészékből itták az illatos meleg vizet meg a "szaki"-t, vagyis az erjesztett rizsből lepárolt szeszt; a kényelmes dohányzókocsmákban finom dohányt füstöltek, nem ópiumot, mert azt Japánban alig ismerik.
 Majd a földeken, végtelen rizsföldek között találta magát Passepartout.
 Végső színpompában illatozva, harsány színű kaméliák virultak itt, méghozzá nem bokrokon, hanem faágakon, és bambuszsövények mögött cseresznye-, szilva- és almafák sorakoztak, melyeket nem annyira gyümölcsükért, mint inkább virágukért nevelnek a bennszülöttek, és fintorgó madárijesz­tőkkel, fülsértő kereplőkkel védenek a verebek és galambok, varjúk és más falánk szárnyasok pákosztos csőrétől.
-Itt minden méltóságos cédruson egy-egy sas tanyázik, minden szomorúfűz lombja egy-egy kócsag fölé borul, amelyik mélabúsan álldogál, felhúzza fél lábát, mindenütt csókák, vadkacsák, karvalyok, vadlibák szárnya suhog, és sűrűn látható a darumadár, melyet a japán „nagyságos úr”-nak szólít, s a hosszú élet és boldogság jelképét látja benne.
+Itt minden méltóságos cédruson egy-egy sas tanyázik, minden szomorúfűz lombja egy-egy kócsag fölé borul, amelyik mélabúsan álldogál, felhúzza fél lábát, mindenütt csókák, vadkacsák, karvalyok, vadlibák szárnya suhog, és sűrűn látható a darumadár, melyet a japán "nagyságos úr"-nak szólít, s a hosszú élet és boldogság jelképét látja benne.
 Így kószált Passepartout erre-arra, és néhány szál ibolyát pillantott meg a fűben.
-„No lám csak - mondta magában -, ez lesz a vacsorám.”
+"No lám csak - mondta magában -, ez lesz a vacsorám."
 Megszagolta, de úgy érezte, nincs illatuk.
-„Nincs szerencsém!” - állapította meg.
+"Nincs szerencsém!" - állapította meg.
 A derék fickó természetesen elég előrelátó volt, és mielőtt leszállt volna a Carnaticről, annyit tömött a bendőjébe, amennyi csak belefért, de az egész napos séta után tökéletesen üresnek érezte a gyomrát.
 Azt már látta, hogy birkának, kecskének vagy disznónak nyoma sincs az itteni mészárosok kirakataiban; azt is tudta, hogy a szarvasmarhát kizárólag földművelésre használják, de le nem vágják, mert az szerintük istentelenség - mindebből arra következtetett, hogy a húsétel ritkaság Japánban.
 Nem is tévedett.
@@ -2827,11 +2822,11 @@ Most már csupán végre kellett hajtania ezt az elhatározását.
 Hosszadalmas kutatás után végre ráakadt egy bennszülött ószeresre, és közölte vele óhaját.
 Az európai ruha megtetszett az ócskásnak, és Passepartout csakhamar egy uraságoktól levetett japán kimonóban feszített, gerezdes turbánféle a fején, melyet ugyancsak megtépett már az idő vasfoga.
 Ám mindezek ellenében néhány ezüstpénz csörgött zsebe mélyén.
-„Bánom is én - gondolta -, azt képzelem majd, hogy álarcosbálba megyek!”
-Az ilyen módon „eljapánosodott” Passepartout első gondja volt, hogy felkeressen egy szerény külsejű „tea-house”-t35; ott azután egy falás maradék csirkehúsból és néhány kanálnyi rizsből megreggelizett, közben folyvást azon járatta az eszét, hogy az ebéd kérdését ezzel még korántsem oldotta meg.
-„Most pedig - szőtte gondolatait, miután jól megtömte a bendőjét - legfontosabb a hidegvér.
+"Bánom is én - gondolta -, azt képzelem majd, hogy álarcosbálba megyek!"
+Az ilyen módon "eljapánosodott" Passepartout első gondja volt, hogy felkeressen egy szerény külsejű "tea-house"-t35; ott azután egy falás maradék csirkehúsból és néhány kanálnyi rizsből megreggelizett, közben folyvást azon járatta az eszét, hogy az ebéd kérdését ezzel még korántsem oldotta meg.
+"Most pedig - szőtte gondolatait, miután jól megtömte a bendőjét - legfontosabb a hidegvér.
 Tudományom a végére ért; ezt a kacatot még japánabb kacatra már nem cserélhetem el.
-Haladéktalanul ki kell fundálnom, hogy távozhatom leghamarabb a Felkelő Nap Országából, ahol ugyancsak keserves tapasztalatokat szereztem!” Passepartout-nak ekkor az az ötlete támadt, hogy sorra járja az Amerika felé induló gőzhajókat.
+Haladéktalanul ki kell fundálnom, hogy távozhatom leghamarabb a Felkelő Nap Országából, ahol ugyancsak keserves tapasztalatokat szereztem!" Passepartout-nak ekkor az az ötlete támadt, hogy sorra járja az Amerika felé induló gőzhajókat.
 Arra gondolt, hogy jelentkezik szakácsnak vagy inasnak, és fizetségül csupán élelmet kér, és azt, hogy átkelhessen a hajóval.
 San Franciscóban majd csak talál valami megoldást.
 Az a lényeg, hogy megtegye valahogy a 4700 mérföldet a Csendes-óceánon, Japán és az Újvilág között.
@@ -2893,9 +2888,9 @@ Passepartout tehát álláshoz jutott.
 Mindenes lett a híres japán társulatban.
 Nem túl előkelő foglalkozás, de egy hét múlva már hajókázik San Francisco felé.
 Az előadás, melyet nagy csinnadrattával hirdetett városszerte a jeles Batulcar, három órakor kezdődött; a japáni zenekar dörgedelmes hangszerei, dobok, tamtamok hamarosan meg­szólaltak a bejárat előtt.
-Természetesen Passepartout-nak nem állott módjában valamilyen szerepet megtanulni; izmos vállának erejét vették csupán igénybe az „embergúla” nevű nagy számban, melyet az Orrondiak mutattak be.
+Természetesen Passepartout-nak nem állott módjában valamilyen szerepet megtanulni; izmos vállának erejét vették csupán igénybe az "embergúla" nevű nagy számban, melyet az Orrondiak mutattak be.
 Tingu isten védencei.
-Ez a „great attraction”38 zárta le a műsort.
+Ez a "great attraction"38 zárta le a műsort.
 A nézők már három óra előtt ostromolni kezdték a nagy hodályt.
 Európaiak és bennszülöttek, kínaiak és japánok, férfiak, nők és gyermekek rohanták meg a színpaddal szemközti keskeny padokat, páholyokat.
 Bevonultak a zenészek is; vadul zengett a gongok, tamtamok, csette­getők, fuvolák, cintányérok és nagydobok együttese.
@@ -2916,12 +2911,12 @@ De legfőbb jellegzetességük arcuk furcsa dísze, a hosszú orr, és a mutatv�
 Ez az orr nem egyéb, mint öt-hat-tíz láb hosszú bambuszrúd: némelyik egyenes, némelyik görbe, az egyik sima, a másik göcsörtös.
 Szilárdan magukra erősítik ezeket a nyúlványokat, és ezek segítségével mutatják be egyensúlygyakorlataikat.
 Most Tingu isten védencei közül vagy tízen-tizenketten hanyatt feküdtek a földön, cimboráik pedig ott ugrándoztak villámhárítóként felmeredő orruk hegyén, orrhegyről orrhegyre szökkenve-perdülve, és közben a legvalószínűtlenebb mutatványokat végezték.
-A befejező szám különleges meglepetés akart lenni: az „emberi gúla”; ebben a számban mintegy ötven Orrondi készült „Dzsaggernot szekeré”-t bemutatni.
+A befejező szám különleges meglepetés akart lenni: az "emberi gúla"; ebben a számban mintegy ötven Orrondi készült "Dzsaggernot szekeré"-t bemutatni.
 A jeles Batulcar művészei azonban nem egymás vállára támaszkodva hozták létre ezt a gúlát; ők csupán szomszédaik orrát markolhatták meg.
 Éppen akkoriban lépett ki a társulatból az egyik szereplő, akinek a szekér aljában volt a helye; itt erős, ügyes szereplőre volt szükség, ezért Passepartout-ra bízták a helyettesítést.
 Ugyancsak elszontyolodott a derék fickó, amidőn - ifjúkorának szomorú emlékeihez vissza­térve magára vette a tarka szárnyakkal ékes középkori kacabajkát, és arcára erősítette a hét láb hosszú orrot.
 De nem volt más választása; meg kellett élnie, tehát belenyugodott.
-Passepartout színre lépett, és elfoglalta helyét azok között, akik vele együtt „Dzsaggernot szekeré”-nek alsó részét alakítják.
+Passepartout színre lépett, és elfoglalta helyét azok között, akik vele együtt "Dzsaggernot szekeré"-nek alsó részét alakítják.
 Valamennyien a földre feküdtek, orruk az ég felé meredt.
 Újabb tornászcsapat helyezkedett el a hosszú nyúlványokon, föléjük harmadik, majd negyedik települt, és a csupán hegyüknél fogva érintkező hosszú orrokon a színpad felső pereméig emelkedett az emberekből álló építmény.
 A taps javában zengett, mennydörögtek a zenekar hangszerei, amidőn megingott a gúla, felbomlott az egyensúly, a legalsó vonalból eltűnt az egyik orr, és kártyavárként minden halomra dőlt...
@@ -2931,7 +2926,7 @@ A galibát Passepartout okozta; otthagyott csapot-papot, keresztülröppent a ri
 - Én.
 - Akkor hát azonnal indulás a hajóra, fiacskám!
 Mr. Fogg, a kíséretében levő Mrs. Auda és Passepartout végigrohantak a folyosókon, és ki­siettek az építményből.
-De útközben a jeles Batulcarbe botlottak, aki tajtékozva kártérítést követelt a „kassza miatt”.
+De útközben a jeles Batulcarbe botlottak, aki tajtékozva kártérítést követelt a "kassza miatt".
 Phileas Fogg egy marék bankjeggyel hűtötte le mérgét.
 S amikor fél hétkor már éppen indulni készült az amerikai gőzhajó, a fedélzetre lépett Mr. Fogg és Mrs. Auda, nyomukban Passepartout-val; a francia szárnyat viselt a hátán, arca közepén hét láb hosszú orr ágaskodott, még nem sikerült tőle megszabadulnia!
 HUSZONNEGYEDIK FEJEZET - Sikeres átkelés a Csendes-óceánon
@@ -2972,7 +2967,7 @@ A derék fiú most már úgy bízott gazdájában, akár az istenben; égre-föl
 Kilenc nappal azután, hogy elutaztak Jokohamából, Phileas Fogg pontosan a föld körüli út felét járta meg.
 A General Grant ugyanis november 23-án éppen a 180. délkörön haladt át; pontosan ezen a vonalon kerültek Londonnal átellenben a déli féltekén.
 Mr. Fogg a rendelkezésére álló nyolc­van napból, mi tagadás, már ötvenkettőt felhasznált, tehát csupán huszonnyolccal rendelkezik.
-Nem szabad azonban szem elől tévesztenünk, hogy ha „a délkörök közti különbség szerint” a gentleman csupán félúton járt is, valójában a tényleges útnak már több mint kétharmadát befutotta.
+Nem szabad azonban szem elől tévesztenünk, hogy ha "a délkörök közti különbség szerint" a gentleman csupán félúton járt is, valójában a tényleges útnak már több mint kétharmadát befutotta.
 Gondoljuk meg, hány kitérőre kényszerült Londontól Adenig, Adentól Bombayig, Calcuttától Singapore-ig, Singapore-tól Jokohamáig!
 Hogyha Phileas Fogg az 50. szélességen, vagyis London szélességén utazhatott volna körbe-körbe, akkor csupán mintegy 12 000 mérföldet kellett volna megtennie, így azonban, a közlekedési vonalak szeszélyes kanyargását követve, 26 000 mérföld állott előtte, ebből pedig november 23-ig körülbelül 17 500-at hagyott maga mögött.
 Ettől kezdve azonban egyenes út áll előtte, és Fixtől is megszabadult, már ő sem tarthatja fel.
@@ -2998,13 +2993,13 @@ Képzelhetjük, hogy megnyúlt a detektív orra!
 Az elfogatóparancs már fabatkát sem ér!
 Fogg kilépett a brit felségterületről!
 Most már kiadatási okmányt kell szereznie, ha le akarja tartóztatni!
-„Fene bánja - háborgott Fix, miután első haragja elpárolgott -, itt már nem sokat ér az elfogatóparancsom, de Angliában még hasznát veszem.
+"Fene bánja - háborgott Fix, miután első haragja elpárolgott -, itt már nem sokat ér az elfogatóparancsom, de Angliában még hasznát veszem.
 A jómadár, úgy látom, hazakészül; azt hiszi, tévútra vezette a rendőrséget.
 Hát jó!
 Én nem tágítok.
 S ami a pénzt illeti, talán csak marad belőle valamicske, ha isten is úgy akarja!
 Bár a fickó több mint ötezer fontot elszórt útközben útiköltségre, jutalomra, pörösködésre, bírságokra, elefántra és egyéb költségekre.
-Bánja is ő, az Angol Bank igazán kibírja!”
+Bánja is ő, az Angol Bank igazán kibírja!"
 Miután így határozott, azonnal fel is szállt a General Grantra.
 Már a fedélzeten volt, amikor Mr. Fogg és Mrs. Auda a hajóra érkezett.
 Az álla is leesett a meglepetéstől, amikor felismerte Passepartout-t a középkori maskarában.
@@ -3052,25 +3047,25 @@ Minden elképzelhető nagyságú clipperek40 horgonyoznak itt, steamerek valamen
 Egész Mexikót, Perut, Chilét, Brazíliát, Európát, Ázsiát és a Csendes-óceán szigetvilágát behálózó kereskedelem termékei gyűlnek itt halomba.
 Passepartout oly boldog volt, hogy végre amerikai földet ér, hogy úgy gondolta, gyönyörű szaltó mortaléval41 kell partraszállását megünnepelnie.
 Ám a móló padlózata oly szúette volt, hogy csaknem átlyukasztotta, midőn ráesett.
-A derék fiú ugyancsak megrökönyödött, hogy ilyen furcsa módon „lép” az Újvilág földjére, és hatalmasat kiáltott, hangjával csapatostul riasztva fel a mólók törzsvendégeit: ezernyi ezer kormoránt és pelikánt.
+A derék fiú ugyancsak megrökönyödött, hogy ilyen furcsa módon "lép" az Újvilág földjére, és hatalmasat kiáltott, hangjával csapatostul riasztva fel a mólók törzsvendégeit: ezernyi ezer kormoránt és pelikánt.
 Mr. Fogg, mihelyt partra szállt, azonnal megtudakolta, mikor indul New Yorkba az első vonat.
 Este hatkor, mondták neki.
 Egy teljes napot tölthetett hát San Franciscóban.
 Kocsit rendelt Mrs. Audának és saját magának.
 Passepartout felült a bakra, s a jármű három dollár fejében máris indult az International Szállóba.
-Passepartout a magas kocsibakról kíváncsian figyelte a nagy amerikai várost; elvonultak szeme előtt a széles utcák, szép sorjában az alacsony épületek, az angolszász gótika stílusában épült imaházak és templomok, roppant dokképületek, palotaszerű, részint fa-, részint tégla­raktárak; tengernyi kocsi, omnibusz, villamos-”car”42 nyüzsgött az utcákon, a járdákon pedig nem csupán amerikaiak és európaiak, hanem kínaiak és hinduk sürögtek-forogtak: egy több mint kétszázezer lakosú város egész sokadalma.
+Passepartout a magas kocsibakról kíváncsian figyelte a nagy amerikai várost; elvonultak szeme előtt a széles utcák, szép sorjában az alacsony épületek, az angolszász gótika stílusában épült imaházak és templomok, roppant dokképületek, palotaszerű, részint fa-, részint tégla­raktárak; tengernyi kocsi, omnibusz, villamos-"car"42 nyüzsgött az utcákon, a járdákon pedig nem csupán amerikaiak és európaiak, hanem kínaiak és hinduk sürögtek-forogtak: egy több mint kétszázezer lakosú város egész sokadalma.
 Passepartout-t meglehetősen meglepte a látvány.
 Ő még az 1849-es várost, a legendák városát képzelte maga elé, banditák, gyújtogatók, gyilkosok gyülekezőhelyét, akiket a társadalom söpredékéből egyetlen hatalmas, vásári sokadalomba toboroz az aranyláz; akik jobb felől revolvert, bal felől bicskát tesznek az asztalra, és aranyrögökben kártyáznak.
-De a „régi szép idő” lejárt.
+De a "régi szép idő" lejárt.
 San Francisco olyan volt, mint akármelyik nagy kereskedőváros.
 Őrség vigyázott a városháza magas tornyában, a derékszögben kereszteződő utcák és sugárutak fölött; a tereken zölden virulnak a fák; kínai városnegyed is van; mintha ékszerdobozban hozták volna ide, egyenest a Mennyei Birodalomból.
 Sombreróknak43, a placer-kifutók divatja szerinti vörös ingeknek, tolldíszes indiánoknak nyoma sincs már sehol, annál több a cilinder és fekete frakk, tömérdek gentleman viseli, akiket lázas tevékenység fűt.
 Egyik-másik utca mentén, így például a Montgomery Streeten - ez itt a londoni Regent Streetnek, a párizsi Boulevard des Italiens-nak, a New York-i Broadwaynek felel meg - fényűző boltok sorakoznak, kiraka­taikban a világ valamennyi árucikke megtalálható.
 Amikor Passepartout megérkezett az International Szállóba, úgy érezte, mintha ki sem tette volna a lábát Angliából.
-A szálloda földszintjét óriási, tágas „bar” foglalta el, büfészerű helyiség, gratis44 rendelke­zésére áll minden járókelőnek.
+A szálloda földszintjét óriási, tágas "bar" foglalta el, büfészerű helyiség, gratis44 rendelke­zésére áll minden járókelőnek.
 Szárított húsokban, osztrigalevesben, kétszersültben és chester­sajtban válogathat itt a fogyasztó, elő sem kell vennie az erszényét.
 Csupán akkor fizet, ha kedve támad némi frissítő italt, ale-t, portóit vagy Xerest fogyasztani.
-Passepartout úgy találta, ez a szokás „igazi amerikai”.
+Passepartout úgy találta, ez a szokás "igazi amerikai".
 A szállónak kényelmes étterme volt.
 Mr. Fogg és Mrs. Auda helyet foglalt az asztalnál, és szurokfekete négerek apró tálacskákban bőséges ebédet szolgáltak fel nekik.
 Ebéd után Phileas Fogg, Mrs. Auda kíséretében, a szállóból az angol konzuli hivatalba ment, hogy láttamoztassa útlevelét.
@@ -3078,7 +3073,7 @@ Inasa odakint várta, és azt kérdezte, nem volna-e tanácsos néhány tucat En
 Passepartout azt hallotta, hogy holmi sziúk és paunik szokták megállítani a szerelvényeket, akárcsak Spanyolországban a vonatrablók.
 Mr. Fogg azt válaszolta, fölösleges óvatosság, de ráhagyta, tegyen úgy, ahogy jónak látja.
 Azután elsietett a konzuli hivatalba.
-Kétszáz lépésnyire sem jutott Phileas Fogg, amikor „csodálatos véletlen folytán” Fixbe botlott.
+Kétszáz lépésnyire sem jutott Phileas Fogg, amikor "csodálatos véletlen folytán" Fixbe botlott.
 A detektív úgy tett, mintha rendkívül meglepné a dolog.
 Micsoda?
 Mr. Fogg vele együtt kelt át a Csendes-óceánon, és egyszer sem találkoztak a hajón!
@@ -3126,13 +3121,13 @@ Tárgyak röpködtek a levegőben.
 Csizmák, cipők szálltak alacsony röppályán, és mintha egy-egy revolver is bele-beledörrent volna, jó hazai módra, az általános üvöltözésbe.
 A tumultus mind közelebb került a lépcsőhöz, és hullámai felcsaptak az első lépcsőfokokra.
 Az egyik pártot nyilván visszaszorították, de a közönséges néző nem tudhatta, vajon Mandiboy vagy Kamerfield kerekedett-e felül.
-- Azt hiszem, nem árt, ha visszavonulunk - szólt Fix, aki nem akarta, hogy „emberét” fejbe kólintsák, vagy verekedésbe keveredjen.
+- Azt hiszem, nem árt, ha visszavonulunk - szólt Fix, aki nem akarta, hogy "emberét" fejbe kólintsák, vagy verekedésbe keveredjen.
 - Ha Anglia is benne van a dologban, és minket felismernek, nagyon meleg lehet a talpunk alatt a talaj!
 - Angol polgárt... - kezdte Phileas Fogg.
 De nem fejezhette be a mondatot.
 Háta mögött, a lépcsőhöz vezető teraszon velőtrázó üvöltés harsant fel.
-„Hip, hip, hurrá!
-Éljen Mandiboy!” - kiabálták.
+"Hip, hip, hurrá!
+Éljen Mandiboy!" - kiabálták.
 Befutottak a választók egyik csoportjának segédcsapatai, és oldalba támadták Kamerfield híveit.
 Mr. Fogg, Mrs. Auda és Fix két tűz közé került.
 Már késő volt, nem menekülhettek.
@@ -3189,7 +3184,7 @@ Odalépett hozzá.
 - Dehogy, uram, békebírót.
 E válasz hallatára Mr. Fogg fellépett a kocsira, s a vonat teljes gőzzel tovarobogott.
 HUSZONHATODIK FEJEZET - Utazás a nagy nyugati expresszen
-„Ocean to Ocean” - így hívják az amerikaiak, és akár hivatalosan is így hívhatnák a „grand trunk”-ot, mely teljes szélességében átszeli az Amerikai Egyesült Államokat.
+"Ocean to Ocean" - így hívják az amerikaiak, és akár hivatalosan is így hívhatnák a "grand trunk"-ot, mely teljes szélességében átszeli az Amerikai Egyesült Államokat.
 Ám a Pacific Rail-Road két külön szakaszra oszlik: San Francisco és Ogden között Central Pacific, Ogden és Omaha között Union Pacific a neve.
 Ez utóbbi ponton öt különféle vonal fut össze; ezek szoros összeköttetésben tartják Omahát New Yorkkal.
 New Yorkot tehát jelenleg egy nem kevesebb mint 3786 mérföld hosszúságú összefüggő acélszalag fűzi San Franciscóhoz.
@@ -3223,8 +3218,8 @@ Vége volt a rokonszenvnek, bizalmasságnak.
 Fix viselkedésében nem állt be változás, Passepartout azonban annál tartózkodóbbnak bizonyult; a legkisebb gyanúra is habozás nélkül megölte volna hajdani barátját.
 Egy órával a vonat indulása után megindult a havazás - a gyér hóesés szerencsére nem gátolhatta a vonat futását.
 Az ablakból csupán végtelen fehér hótakaró tárult szemük elé; szürkén rajzolódtak ki rajta a mozdony kacskaringós füstkarikái.
-Nyolc órakor egy „steward”46 lépett a kocsiba, és közölte az utasokkal, hogy a lefekvés ideje elérkezett.
-A kocsi „sleeping-car”47 volt; néhány perc alatt hálóhelyiséggé alakították.
+Nyolc órakor egy "steward"46 lépett a kocsiba, és közölte az utasokkal, hogy a lefekvés ideje elérkezett.
+A kocsi "sleeping-car"47 volt; néhány perc alatt hálóhelyiséggé alakították.
 Lehaj­tották az ülőhelyek támláit, egy ötletes szerkezet gondosan csomagolt fekvőalkalmatosságokat nyitott szét, néhány pillanat alatt külön fülkéket rögtönöztek, és hamarosan kényelmes ágy várt minden utast, nehéz függönyök nyújtottak védelmet minden kíváncsi pillantás ellen.
 A lepedők ragyogtak, a puha párnák hívogattak.
 Csupán le kellett feküdni, s már alhattak is - így is tettek valamennyien, mintha csak tengerjáró gőzös kényelmes kabinjában volnának, a vonat pedig teljes gőzzel robogott velük Kalifornia államán keresztül.
@@ -3237,7 +3232,7 @@ Miután a vonat kifutott Sacramentóból, áthaladt Junction, Roclin, Auburn és
 Reggel hét órakor hagyták maguk mögött Cisco állomását.
 Egy óra múlva a hálókocsi ismét rendes kocsivá alakult, s utasaink a hegyvidék festői tájaiban gyönyörködhettek az ablakokból.
 A vasútvonal a Sierra kénye-kedvére kacskaringózott, hol a sziklafalakhoz tapadt, hol szakadékok peremén kúszott, merész kanyarral kerülve meg az éles fordulókat, keskeny hegyszorosokba merészkedett, azt hihette volna az ember, sosem talál ki belőlük.
-A vadonatúj mozdony csillogott-villogott, nagy jelző­lámpája rőt fényben izzott, harangja ezüstösen csengett-bongott, „tehénhárítója” sarkantyú módjára meredt előre; harsányan bele-belefüttyentett a hegyi patakok és vízesések robajába, és bodor füstöt eregetett a fenyőfák feketéllő ágai közé.
+A vadonatúj mozdony csillogott-villogott, nagy jelző­lámpája rőt fényben izzott, harangja ezüstösen csengett-bongott, "tehénhárítója" sarkantyú módjára meredt előre; harsányan bele-belefüttyentett a hegyi patakok és vízesések robajába, és bodor füstöt eregetett a fenyőfák feketéllő ágai közé.
 Az egész útvonalon alig van vagy szinte nincs is vasúti híd és alagút.
 A rail-road megkerülte a hegyoldalakat, nem kereste a legrövidebb és legegyenesebb utat két pont között, nem vett erőszakot a természeten.
 Kilenc óra körül a vonat Carson völgyén keresztül Nevada állam területére ért, és szaka­datlanul északkeletnek tartott.
@@ -3245,7 +3240,7 @@ Délben maga mögött hagyta Renót; itt húsz percet időztek utasaink, és kö
 Ettől kezdve a vasútvonal, a Humboldt folyó vonalát követve, néhány mérföldön át észak felé emelkedik.
 Azután keletre fordul, s többé el sem szakad a vízmedertől, míg el nem éri Humboldt-Rangest, a folyó forrásvidékét, csaknem Nevada állam keleti szélén.
 Mr. Fogg, Mrs. Auda és útitársai megebédeltek, majd ismét helyet foglaltak kocsijukban.
-Phileas Fogg, az ifjú hölgy, Fix és Passepartout kényelmesen üldögélve figyelte az elvonuló változatos tájat; végtelen prérik, hegyvonulatok rajzolódtak ki a távolban, „creek”-ek48 hömpölygették hullámtajtékjukat.
+Phileas Fogg, az ifjú hölgy, Fix és Passepartout kényelmesen üldögélve figyelte az elvonuló változatos tájat; végtelen prérik, hegyvonulatok rajzolódtak ki a távolban, "creek"-ek48 hömpölygették hullámtajtékjukat.
 Időnként nagy bölénycsorda tűnt fel a messzeségben, mint valami eleven, mozgó folyamgát.
 A nagy kérődzők megszámlálhatatlan légiója gyakran leküzd­hetetlen akadályt támaszt a vonatoknak.
 Előfordult már, hogy több ezer állat órákon át vonult tömött sorokban a rail-roadon49 át.
@@ -3282,13 +3277,13 @@ A napkorong mintha megnőtt volna a ködben; olyan volt, mint egy óriási arany
 A személyiség Elko állomáson szállt fel a vonatra; magas termetű, cserzett képű, fekete bajuszú férfi volt; fekete harisnyát, fekete cilindert, fekete mellényt, fekete nadrágot, fehér nyakkendőt és kutyabőr kesztyűt viselt.
 Papnak nézhette volna akárki.
 Végigjárta a vonatot, és ragasztóostyával kézírásos hirdetményt tapasztott valamennyi kocsi ajtajára.
-Passepartout közelebb lépett, s az egyik hirdetményből megtudta, hogy William Hitch, a tiszteletre méltó „elder”50, mormon misszionárius abból az alkalomból, hogy a 48. számú vonaton utazik, tizenegy és tizenkét óra között előadást tart a 117-es kocsiban a mormoniz­musról, és meghív minden gentlemant, aki tájékozódni óhajt a „Végnapok Szentjeinek” hitéről.
-„Én bizony elmegyek” - gondolta Passepartout, aki csupán a mormon vallás többnejűségi gyakorlatát ismerte; ezen alapul a mormon társadalom.
+Passepartout közelebb lépett, s az egyik hirdetményből megtudta, hogy William Hitch, a tiszteletre méltó "elder"50, mormon misszionárius abból az alkalomból, hogy a 48. számú vonaton utazik, tizenegy és tizenkét óra között előadást tart a 117-es kocsiban a mormoniz­musról, és meghív minden gentlemant, aki tájékozódni óhajt a "Végnapok Szentjeinek" hitéről.
+"Én bizony elmegyek" - gondolta Passepartout, aki csupán a mormon vallás többnejűségi gyakorlatát ismerte; ezen alapul a mormon társadalom.
 A hír gyorsan elterjedt a vonat mintegy száz utasa között.
 Legalább harmincuk kíváncsiságát felkeltette az előadás, ezek tizenegy órakor elfoglalták a 117-es kocsi padjait.
 Passepartout a hivők első sorában foglalt helyet.
 Gazdája és Fix egyaránt úgy döntött, hogy nem zavartatja magát.
-A jelzett időben William Hitch „elder” felállt, és mintha eleve ellentmondásra számítana, elég ingerült hangon így kiáltott:
+A jelzett időben William Hitch "elder" felállt, és mintha eleve ellentmondásra számítana, elég ingerült hangon így kiáltott:
 - Én mondom önöknek, hogy Joe Smyth vértanú, fivére, Hyram szintén vértanú, s az Unió kormányának a próféták ellen folytatott üldözései Brigham Youngból is vértanút csinálnak!
 Ki merészelné ezt kétségbe vonni?
 Senki nem mert ellentmondani a misszionáriusnak, akinek izgatott viselkedése különös ellen­tétben állt természettől fogva nyugodt arcvonásaival.
@@ -3296,20 +3291,20 @@ Haragját minden bizonnyal az magya­rázta, hogy a mormonizmus akkoriban éppen
 Ugyanis az Egyesült Államok kormánya nemrégiben törte meg, nagy nehézségek árán, a függetlenségnek ezeket a megszállottjait.
 A központi kormány kiterjesztette fennhatóságát Utahra, rákény­szerítette az Unió törvényeit, miután Brigham Youngot lázadás és többnejűség vádja alá helyezte és bebörtönözte.
 Ettől fogva a próféta tanítványai még fokozottabb buzgalmat tanú­sítottak, s a cselekvés óráját várva, egyelőre szóban harcoltak a kongresszus törekvései ellen.
-Mint látjuk, William Hitch „elder” még a vonatot is felhasználta agitációra.
-Előadását fel-felcsattanó hangjával és lázas taglejtéssel festve alá, a bibliai időktől fogva előadta a mormonizmus történetét; elmondta, „hogyan tette közzé és hogyan testálta fiára, Moromra Izraelben egy József törzséből való mormon próféta az új vallás évkönyveit; hogyan fordította le évszázadokkal később az egyiptomi betűkkel írott értékes könyvet ifjabb Joseph Smyth farmer, Vermont államából, miközben 1825-ben misztikus prófétának nyilatkoztatta ki magát, és végül hogyan jelent meg neki a fények erdejében egy mennyei hírnök, s hogyan kapta meg tőle az Úr évkönyveit”.
-E pillanatban néhány hallgató, akiket kevéssé érdekelt a misszionárius visszapillantása, eltávozott a kocsiból, William Hitch azonban folytatta, és elmondta, „hogyan vette maga mellé ifjabb Smyth tulajdon atyját, két fivérét és néhány tanítványát, megalapítva a Végnapok Szentjeinek vallását, mely nem csupán Amerikában, hanem Angliában, Skandináviában és Németországban is elterjedt, és iparosokat, sőt számos szellemi foglalkozású egyént is számíthat hívei közé; hogyan alapítottak kolóniát Ohióban, hogyan emeltek templomot két­százezer dollár költségen, és építtettek várost Kirklandben, hogyan csapott fel Smyth meré­szen bankárnak, s hogyan tett szert egy közönséges múmiamutogató révén egy papiruszra, mely Ábrahám és több más nevezetes egyiptomi saját kezűleg megírt történetét tartalmazza”.
+Mint látjuk, William Hitch "elder" még a vonatot is felhasználta agitációra.
+Előadását fel-felcsattanó hangjával és lázas taglejtéssel festve alá, a bibliai időktől fogva előadta a mormonizmus történetét; elmondta, "hogyan tette közzé és hogyan testálta fiára, Moromra Izraelben egy József törzséből való mormon próféta az új vallás évkönyveit; hogyan fordította le évszázadokkal később az egyiptomi betűkkel írott értékes könyvet ifjabb Joseph Smyth farmer, Vermont államából, miközben 1825-ben misztikus prófétának nyilatkoztatta ki magát, és végül hogyan jelent meg neki a fények erdejében egy mennyei hírnök, s hogyan kapta meg tőle az Úr évkönyveit".
+E pillanatban néhány hallgató, akiket kevéssé érdekelt a misszionárius visszapillantása, eltávozott a kocsiból, William Hitch azonban folytatta, és elmondta, "hogyan vette maga mellé ifjabb Smyth tulajdon atyját, két fivérét és néhány tanítványát, megalapítva a Végnapok Szentjeinek vallását, mely nem csupán Amerikában, hanem Angliában, Skandináviában és Németországban is elterjedt, és iparosokat, sőt számos szellemi foglalkozású egyént is számíthat hívei közé; hogyan alapítottak kolóniát Ohióban, hogyan emeltek templomot két­százezer dollár költségen, és építtettek várost Kirklandben, hogyan csapott fel Smyth meré­szen bankárnak, s hogyan tett szert egy közönséges múmiamutogató révén egy papiruszra, mely Ábrahám és több más nevezetes egyiptomi saját kezűleg megírt történetét tartalmazza".
 Kicsit hosszúra nyúlt már az előadás, mindjobban ritkultak a hallgatóság sorai, legföljebb ha húszan maradtak.
-Az „eldert” azonban csöppet sem zavarta a sok elpártolás, és aprólékosan részletezte, „hogyan került csődbe Joe Smyth 1837-ben, hogyan kenték be kátránnyal és forgatták meg tollban tönkrement részvényesei, hogyan tűnt fel néhány év múlva, nagyobb tiszteletben és nagyobb megbecsülésben, mint valaha, Missouri állam Independence nevű városában, hogyan állt egy nem kevesebb mint háromezer tanítványt számláló közösség élére, amikor is a hitetlenek gyűlölete miatt kénytelen volt az amerikai Vadnyugatra menekülni”.
+Az "eldert" azonban csöppet sem zavarta a sok elpártolás, és aprólékosan részletezte, "hogyan került csődbe Joe Smyth 1837-ben, hogyan kenték be kátránnyal és forgatták meg tollban tönkrement részvényesei, hogyan tűnt fel néhány év múlva, nagyobb tiszteletben és nagyobb megbecsülésben, mint valaha, Missouri állam Independence nevű városában, hogyan állt egy nem kevesebb mint háromezer tanítványt számláló közösség élére, amikor is a hitetlenek gyűlölete miatt kénytelen volt az amerikai Vadnyugatra menekülni".
 Vagy tízen hallgatták még, köztük a derék Passepartout, aki ugyancsak hegyezte a fülét.
-Így tudta meg, „hogyan került elő hosszas üldöztetés után Smyth Illinoisban, s hogyan alapította meg 1839-ben a Mississippi partján Nauvoo-la-Belle-t, melynek népessége elérte a 25 000 lelket; hogyan lett a város elöljárója, legfőbb bírája és generálisa; hogyan jelöltette magát 1843-ban az Egyesült Államok elnökségére, és végül hogyan csalták kelepcébe Carthage-ban, ahol is börtönbe vetették, s egy álarcos banda lemészárolta”.
-E pillanatban már csak Passepartout volt a kocsiban; az „elder” rámeresztette szemét, szinte hipnotizálta szavaival, és közölte vele, hogy két évvel Smyth meggyilkolása után utóda, Brigham Young, az ihletett próféta elhagyta Nauvoo-t, a Nagy-Sós-tó partján telepedett le, és itt, ezen a csodás tájon, istenáldotta vidéken, amerre átvonul minden kivándorló, útban Kali­fornia felé, az új kolónia roppantul felvirágzott, hála a mormonizmus többnejűségi tanainak.
+Így tudta meg, "hogyan került elő hosszas üldöztetés után Smyth Illinoisban, s hogyan alapította meg 1839-ben a Mississippi partján Nauvoo-la-Belle-t, melynek népessége elérte a 25 000 lelket; hogyan lett a város elöljárója, legfőbb bírája és generálisa; hogyan jelöltette magát 1843-ban az Egyesült Államok elnökségére, és végül hogyan csalták kelepcébe Carthage-ban, ahol is börtönbe vetették, s egy álarcos banda lemészárolta".
+E pillanatban már csak Passepartout volt a kocsiban; az "elder" rámeresztette szemét, szinte hipnotizálta szavaival, és közölte vele, hogy két évvel Smyth meggyilkolása után utóda, Brigham Young, az ihletett próféta elhagyta Nauvoo-t, a Nagy-Sós-tó partján telepedett le, és itt, ezen a csodás tájon, istenáldotta vidéken, amerre átvonul minden kivándorló, útban Kali­fornia felé, az új kolónia roppantul felvirágzott, hála a mormonizmus többnejűségi tanainak.
 - Hát ezért - folytatta William Hitch -, ezért fenekedik ránk oly féltékenyen a kongresszus!
 Ezért tapodják az Unió katonái Utah földjét!
 Ezért vetették börtönbe az igazság meg­csúfolásaként Brigham Youngot, a mi prófétánkat!
 Meghátráljunk-e az erőszak előtt?
 Soha!
-Kiűztek Vermontból, ki Illinoisból, ki Ohióból, ki Missouriból, ki Utahból, de majd csak talá­lunk még szabad földre, ahol felütjük sátrainkat... És ön, kedves hívem - folytatta az „elder”, bősz pillantást vetve egy szál hallgatójára -, felüti-e majd sátrát zászlóink árnyékában?
+Kiűztek Vermontból, ki Illinoisból, ki Ohióból, ki Missouriból, ki Utahból, de majd csak talá­lunk még szabad földre, ahol felütjük sátrainkat... És ön, kedves hívem - folytatta az "elder", bősz pillantást vetve egy szál hallgatójára -, felüti-e majd sátrát zászlóink árnyékában?
 - Nem!
 - felelte Passepartout vitézül, és ő is elmenekült, magára hagyva a megszállottat pusztába kiáltó szavával.
 Előadás közben is egyre robogott a vonat, és fél egy tájban elérte a Nagy-Sós-tó északnyugati csücskét.
@@ -3318,13 +3313,13 @@ Gyönyörű szép tó, szélesen rétegeződő, vad szirtek fogják körül, feh
 A Nagy-Sós-tó mintegy 70 mérföld hosszú és 35 széles; 3800 lábnyira fekszik a tenger színe fölött.
 Ugyancsak különbözik a Holt-tengertől, mely 1200 lábnyira van a tenger színe alatt; sótartalma jelentős, a vizében oldva található szilárd anyagok súlyának negyede.
 Ha a desztillált víz fajsúlya 1000, a Nagy-Sós-tó vizének fajsúlya 1170.
-A halak nem élnek meg benne, valahányat a tóba sodor a Jordan, Weber s a többi „creek”, csakhamar belepusztul; azonban nem igaz, hogy a víz sűrűsége oly nagy, hogy az ember nem merülhet el benne.
+A halak nem élnek meg benne, valahányat a tóba sodor a Jordan, Weber s a többi "creek", csakhamar belepusztul; azonban nem igaz, hogy a víz sűrűsége oly nagy, hogy az ember nem merülhet el benne.
 A tó körül remekül megművelt földek terülnek el, mert a mormonok mesterei a földmű­velésnek; sorra követik egymást a háziállatokat védelmező ranchó-k51 és corral-ok52, majd búza-, kukorica- és cirokföldek, buja rétek, egyre-másra vadrózsasövények, akác- és euforbia­ligetecskék53 - legalábbis ezt láthatták volna utasaink, ha fél évvel korábban járnak erre, jelenleg azonban vékony, könnyű porhó takarta a földet.
 Két órakor az utasok kiszálltak Ogden állomáson.
 A vonat csupán hat órakor indult tovább; Mr. Foggnak, Mrs. Audának és két útitársának maradt hát idejük, hogy az ogdeni állomásról elágazó helyi vasúton felkeressék a Szentek Városát.
-Két óra bőségesen elég erre az ízig-vérig amerikai városra; mivel ízig-vérig amerikai, egészen egy kaptafára készült az Unió összes többi városával: ez is roppant sakktábla, rideg, hosszú vonalakkal; rajtuk, Victor Hugót idézve: „a derékszögek síri szomorúsága”.
+Két óra bőségesen elég erre az ízig-vérig amerikai városra; mivel ízig-vérig amerikai, egészen egy kaptafára készült az Unió összes többi városával: ez is roppant sakktábla, rideg, hosszú vonalakkal; rajtuk, Victor Hugót idézve: "a derékszögek síri szomorúsága".
 A Szentek Városának alapítója sem tudta leküzdeni az angolszászokra jellemző szimmetriaszomjúságot.
-Ebben a furcsa országban, ahol az emberek tagadhatatlanul az intézmények alatt maradnak, minden „szögletes”: városok, házak, ostobaságok.
+Ebben a furcsa országban, ahol az emberek tagadhatatlanul az intézmények alatt maradnak, minden "szögletes": városok, házak, ostobaságok.
 Utasaink tehát három órakor a Jordán partja s a Wahsatch-hegység első domborulatai között épült város utcáin sétálgattak.
 Templomot szinte nem is láttak, csupán a próféta háza, a Courthouse és a hadiszertár számított a nevezetességek közé, majd verandás-oszlopsoros, kertekkel körülvett, akáccal, pálmával, szentjánoskenyérfával szegélyezett, kéklő téglaházak következtek.
 A várost 1853-ban emelt agyag- és kavicsfal védelmezte.
@@ -3342,8 +3337,8 @@ Iszonyatos lehet - gondolta - egyszerre ennyi nőt átkormányozni az élet visz
 Nem, erre nem érez semmi hivatást, és - talán igaztalanul - máris úgy találta, hogy meg­lehetősen nyugtalanító pillantásokkal méregetik személyét Salt Lake City hölgyei.
 Ezer szerencse, hogy nem tartózkodnak túl sokáig a Szentek Városában.
 Néhány perccel négy óra előtt ismét a pályaudvaron voltak utasaink, és elfoglalták helyüket a kocsiban.
-Felharsant a vonat füttye, de amikor a mozdony kerekei néhányszor üresen körbeforogtak a síneken, és lassan megindult a szerelvény, nagy kiáltozás verte fel a pályaudvart: „Várjanak!
-Várjanak!”
+Felharsant a vonat füttye, de amikor a mozdony kerekei néhányszor üresen körbeforogtak a síneken, és lassan megindult a szerelvény, nagy kiáltozás verte fel a pályaudvart: "Várjanak!
+Várjanak!"
 A mozgó vonat azonban senkire sem vár.
 Nyilván egy mormon lehetett ez a nagyhangú, elkésett gentleman.
 Lélekszakadva rohant.
@@ -3369,10 +3364,10 @@ Este tízkor Fort Bridger állomásán állt meg a vonat, de csaknem azonnal tov
 Másnap, december 7-én Green River állomásán töltöttek negyedórát.
 Éjszaka jócskán havazott, de ugyanakkor eső is esett, s az olvadó hó nem akadályozta a vonatot.
 Passepartout azonban mégiscsak nyugtalankodott a rossz idő miatt, mert ha magas hó talál esni, a kerekek belesüppednek, és máris kútba esett az egész utazás.
-„Micsoda ötlet!
+"Micsoda ötlet!
 - háborgott magában.
 - Télen nekivágni az útnak!
-Nem lett volna jobb, ha gazdám megvárja a tavaszt, amikor sokkal nagyobbak az esélyei?”
+Nem lett volna jobb, ha gazdám megvárja a tavaszt, amikor sokkal nagyobbak az esélyei?"
 Ám ugyanakkor, amikor a derék fiút csupán a felhőjárás meg a hőmérséklet süllyedése nyugtalanította, Mrs. Auda, egészen más okokból, még sokkal nyugtalanabb volt.
 Ugyanis néhány utas szállt le a kocsikból, és a vonat indulására várva, fel-alá sétálgatott a Green River-i pályaudvar peronján.
 Az ifjú hölgy az ablakból Stamp Proctor ezredest is felismerte közöttük, azt az amerikánust, aki olyan csúnyán bánt Phileas Fogg-gal a San Franciscó-i meetingen.
@@ -3420,14 +3415,14 @@ Ami pedig a partnereket illeti, ha netán Mrs. Auda...
 - Ezer örömmel, uram - szólalt meg élénken az ifjú hölgy -, tudok whistezni.
 Ez hozzátartozik az angol neveléshez.
 - Én pedig - folytatta Fix - azzal szoktam hízelegni magamnak, hogy értek valamicskét ehhez a játékhoz.
-Tehát mi hárman meg „az asztal”...
+Tehát mi hárman meg "az asztal"...
 - Kérem, uram... - felelte Phileas Fogg, és boldog volt, hogy vonaton is elmerülhet kedvenc játékában.
 Passepartout-t tüstént a stewardhoz küldték, és ő csakhamar vissza is tért két teljes csomag kártyával, cédulákkal, zsetonokkal s egy posztóval bevont játékasztallal.
 Semmi nem hiány­zott.
 Megkezdődött a játék.
 Mrs. Auda egészen elfogadhatóan whistezett, egyszer-kétszer még a szigorú Phileas Fogg dicséretét is kiérdemelte.
 A detektív tagadhatatlanul elsőrangú játékos volt, a gentleman méltó ellenfele.
-„Most aztán a kezünkben van - gondolta magában Passepartout -, többé ki sem dugja az orrát!”
+"Most aztán a kezünkben van - gondolta magában Passepartout -, többé ki sem dugja az orrát!"
 Délelőtt tizenegykor a vonat Passe Bridgernél eljutott a két óceán vízválasztójára.
 7124 angol lábnyira voltak a tenger színe fölött, itt éri el a pálya egyik legmagasabb pontját, miközben a Sziklás-hegységben kanyarog.
 Mintegy 200 mérföld után lejutnak majd utasaink a végtelen lapályra, mely az Atlanti-óceánig terjed, s mintha a természet is vasútépítésre szánta volna.
@@ -3497,14 +3492,14 @@ Passepartout megállt, és mohón fülelt a mozdonyvezető minden szavára.
 De néhány utast máris megnyert az ötlet.
 Proctor ezredesnek kivált tetszett.
 A forrófejű katona úgy találta, gyerekjáték az egész.
-Sőt bizonygatni kezdte, hogy a mérnökök már azzal a gon­dolattal is foglalkoztak, hogy „híd nélkül” jussanak át a folyókon, teljes sebességgel száguldó, merevített vonatokkal stb.
+Sőt bizonygatni kezdte, hogy a mérnökök már azzal a gon­dolattal is foglalkoztak, hogy "híd nélkül" jussanak át a folyókon, teljes sebességgel száguldó, merevített vonatokkal stb.
 Végezetül minden érdekelt a mozdonyvezető javaslatához csatla­kozott.
 - Ötven százalék, hogy átjutunk - szólt az egyik.
 - Hatvan - mondta a másik.
 - Nyolcvan!...
 Kilencven!
-Passepartout csak hüledezett, és jóllehet bármire kapható lett volna, hogy átjusson a Medicine-creeken, ezt a kísérletet egy kicsit mégis túl „amerikainak” találta.
-„Különben - gondolta - van egy jóval egyszerűbb megoldás, csodálom, hogy eszükbe se jut!...”
+Passepartout csak hüledezett, és jóllehet bármire kapható lett volna, hogy átjusson a Medicine-creeken, ezt a kísérletet egy kicsit mégis túl "amerikainak" találta.
+"Különben - gondolta - van egy jóval egyszerűbb megoldás, csodálom, hogy eszükbe se jut!..."
 - Uram - szólította meg az egyik utast -, véleményem szerint kissé kockázatos a gépész javaslata, azonban...
 - Nyolcvan százalék!
 - válaszolt az utas, és faképnél hagyta.
@@ -3556,7 +3551,7 @@ HUSZONKILENCEDIK FEJEZET - Beszámoló bizonyos epizódokról, melyek csupán az
 A vonat még az este akadályok nélkül folytatta útját, áthaladt a Sauders-erődön, átkelt a Cheyenne-szoroson, és megérkezett az Evans-szorosba.
 Itt éri el a pálya legmagasabb pontját: 8091 láb magasságot az óceán szintje fölött.
 Most már csupán az vár utasainkra, hogy a természettől egyengetett végtelen síkságokon az Atlanti-óceánig ereszkedjenek.
-Itt csatlakozik a „grand trunk”-hoz54 a Denver City-i elágazás, ez vezet Colorado legjelentő­sebb városához.
+Itt csatlakozik a "grand trunk"-hoz54 a Denver City-i elágazás, ez vezet Colorado legjelentő­sebb városához.
 A vidék gazdag arany- és ezüstbányákban; már több mint ötvenezer lakos telepedett le itt.
 Mostanáig, három nap, három éjszaka, 1387 mérföldet futottak be San Francisco óta.
 Négy éjszaka még és négy nap, s akkor minden valószínűség szerint meg is érkeznek New Yorkba.
@@ -3574,7 +3569,7 @@ A vasútvonal a Platte déli ága mentén haladt, a folyó bal partjának szesz�
 Kilenc órakor futottak be North Platte nevezetes városába; a helységet körülfogó két hatalmas folyamág ettől kezdve egyetlen mederben siet tova; valamivel Omaha fölött ömlik - mint a nagy folyam egyik jelentős mellékfolyója - a Missouriba.
 Most szelték át a 101. délkört.
 Mr. Fogg és partnerei szakadatlanul kártyáztak.
-Egyikük sem zúgolódott az út hosszúsága miatt - még az „asztal” sem.
+Egyikük sem zúgolódott az út hosszúsága miatt - még az "asztal" sem.
 Fix eleinte összenyert néhány guinea-t, éppen most kezdte megint elveszteni, de ő sem játszott kevésbé szenvedélyesen Mr. Foggnál.
 Ma reggel különösen kedvében járt a szerencse a gentlemannek.
 Soha nem volt szűkében adunak, honőrnek.
@@ -3658,7 +3653,7 @@ De tulajdonképpen ha már itt nem is volt idejük megverekedni, miért ne verek
 - Mert az úrnak esetleg kifogása volna ellene!
 - felelte hetykén Proctor ezredes.
 - Semmi kifogásom nincs ellene - szólt Phileas Fogg.
-„No persze, hisz Amerikában vagyunk - gondolta Passepartout -, tökéletes úriember a kalauz is!”
+"No persze, hisz Amerikában vagyunk - gondolta Passepartout -, tökéletes úriember a kalauz is!"
 És máris haladt gazdája után.
 A két ellenfél és a tanúk követték a kalauzt, és kocsiról kocsira haladva a szerelvény végéhez jutottak.
 Az utolsó kocsiban mindössze nyolcan-tízen utazhattak.
@@ -3747,7 +3742,7 @@ Ezzel a döntéssel Phileas Fogg végleg feláldozta magát.
 Aláírta saját halálos ítéletét.
 Egyetlen nap késés elég: elszalasztja a New York-i gőzhajót.
 Elvesztette hát fogadását, menthetetlenül.
-Ám arra gondolt: „Ezt parancsolja a kötelesség!” - s egy percig sem habozott.
+Ám arra gondolt: "Ezt parancsolja a kötelesség!" - s egy percig sem habozott.
 Ott volt Kearney erődjének parancsnoka is, egy kapitány.
 Katonái - vagy száz ember - védő­állásba vonultak, arra számítva, hogy a sziúk közvetlen támadást intézhetnek a pályaudvar ellen.
 - Uram - szólt Mr. Fogg a kapitányhoz -, három utasnak nyoma veszett.
@@ -3802,20 +3797,20 @@ Miután Fogg eltávozott, rájött, milyen ostoba volt, hogy eleresztette.
 Az ördög vigye el!
 Az egész világon végigkergette, és most, most szalasztja el!
 Ismét szóhoz jutott alaptermészete: úgy korholta önmagát, mintha a londoni rendőrség főparancsnoka volna, aki éppen lehord egy detektívet valami hallatlan balekság miatt.
-„Micsoda ostobaság!
+"Micsoda ostobaság!
 - gondolta magában.
 - Ez a Fogg megtudta, ki vagyok!
 Elment, többé sose látom!
 Most honnét kerítsem elő?
 De hogy is adhattam be így a derekam, én, Fix, amikor zsebemben van az elfogatóparancsa?
-Nagy marha vagyok, annyi szent!”
+Nagy marha vagyok, annyi szent!"
 Így tépelődött a detektív, és úgy érezte, csigalassúsággal vánszorognak az órák.
 Nem tudta, mit tegyen.
 Néha legszívesebben mindent elmondott volna Mrs. Audának.
 De előre tudta, hogyan fogadná beszámolóját az ifjú hölgy.
 Mitévő legyen?
 Alig állta meg, hogy neki ne vágjon a végtelen, fehér pusztaságnak, Fogg után.
-„Nem lehetetlen, hogy utolérem” - gondolta magában.
+"Nem lehetetlen, hogy utolérem" - gondolta magában.
 A különítmény nyomai még láthatók voltak a havon... De tovább havazott, s a friss hóréteg minden nyomot eltakart.
 Fixen erőt vett a kétségbeesés.
 Leküzdhetetlenül támadt fel benne az érzés, hogy legjobb, ha feladja a játszmát.
@@ -3899,7 +3894,7 @@ Mr. Fogg haladt az élen, mellette Passepartout s a két másik utas - kiszabadu
 Kearneytől délre csaptak össze, tízmérföldnyire.
 A különítmény megérkezése előtt néhány perccel Passepartout és két társa már verekedett az őrökkel, s a francia hármójukat puszta öklével terítette le, amikor gazdája a katonákkal segítségére sietett.
 Megmentőket, kiszabadultakat egyaránt örömujjongással fogadták, Phileas Fogg pedig szétosztotta a katonák közt a megígért jutalmat, miközben Passepartout (meg kell hagyni, nem egészen alaptalanul) egyre azt hajtogatta magában:
-„Mi tagadás, sokba kerülök a gazdámnak!”
+"Mi tagadás, sokba kerülök a gazdámnak!"
 Fix némán bámulta Mr. Foggot; ugyancsak nehéz volna részletezni, milyen gondolatok vias­kodtak benne.
 Mrs. Auda megragadta a gentleman kezét, kezébe szorította, s egy szót sem tudott kiejteni.
 Passepartout eközben, mióta visszatértek, folyvást a vonatot kereste az állomáson.
@@ -3962,7 +3957,7 @@ Mégis eltökélte, hogy teljesíti kötelességét, és mindannyiuknál türelm
 Nyolc órakor indulásra készen állt a szán.
 Utasaink beszálltak - majdnem azt mondtuk, hajóra szálltak -, és szorosan becsavarták magukat úti takaróikba.
 Felvonták a két óriás vitorlát, és a szél óránként negyvenmérföldes sebességgel röpítette őket a fagyos havon.
-Kearney erődjét légvonalban - vagy ahogy Amerikában mondják, „a méhek röpte szerint” - legföljebb kétszáz mérföld választja el Omahától.
+Kearney erődjét légvonalban - vagy ahogy Amerikában mondják, "a méhek röpte szerint" - legföljebb kétszáz mérföld választja el Omahától.
 Ha nem szűnik a szél, ezt a távolságot öt óra alatt megtehetik.
 Ha nem történik semmi baj, délután egy órakor Omahában lehet a szán.
 Ez volt ám az utazás!
@@ -4050,7 +4045,7 @@ Passepartout úgy érezte, neki már befellegzett.
 Majd szörnyethalt, amikor kiderült, hogy negy­venöt perc miatt elszalasztottak a hajót.
 Igen, erről csak ő tehet; nemcsak hogy nem segítette gazdáját, hanem akadályt akadályra halmozott az útján!
 S amikor gondolatban áttekintette az út valamennyi bonyodalmát, amikor felbecsülte, mily tetemes összegeket szórt ki a gentleman az ablakon egyedül őmiatta, amikor rádöbbent, hogy Mr. Fogg az utolsó fillérét is ráfizeti, ha elveszti ezt a példátlan fogadást, melynek összegéhez az immár teljesen hasztalan út tetemes költségei is csatlakoznak - akkor kiapadhatatlanul szórta az átkot saját fejére.
-Mr. Fogg azonban egy szó nem sok, annyi szemrehányást sem tett neki, s amidőn távoztak az óceánjáró gőzösök „pier”-jéről, csupán ennyit mondott:
+Mr. Fogg azonban egy szó nem sok, annyi szemrehányást sem tett neki, s amidőn távoztak az óceánjáró gőzösök "pier"-jéről, csupán ennyit mondott:
 - Majd holnap meglátjuk, jöjjön.
 Mr. Fogg, Mrs. Auda, Fix és Passepartout a Jersey City-i révhajón átkeltek a Hudsonon, és fiákerra szálltak, mely elvitte őket a Broadwayra, a Saint Nicolas Szállóba.
 Szobákat foglaltak; Phileas Fogg az igazak álmába merült, s neki ugyancsak rövid volt az éjszaka, ám annál hosszabb Mrs. Audának és útitársainak: egész éjjel csak forgolódtak, le sem hunyták a szemüket.
@@ -4065,7 +4060,7 @@ Phileas Fogg odakiáltott egy csónakot, beszállt, és néhány evezőcsapás u
 A Henrietta kapitánya a hajón tartózkodott.
 Phileas Fogg felment a parancsnoki hídra, és a kapitányt kérette.
 Az nyomban megjelent.
-Ötven év körüli tengeri medve volt; zordon, szemlátomást „nehéz eset”.
+Ötven év körüli tengeri medve volt; zordon, szemlátomást "nehéz eset".
 Szeme két nagy golyó, bőre cserzett, bronzbarna haja vörös, nyaka, mint a bikáé - világfinak igazán nem nevezhető.
 - A kapitány?
 - kérdezte Mr. Fogg.
@@ -4127,7 +4122,7 @@ A kétezer dolláros utas már amúgy sem számít utasnak; az már értékes á
 Fél kilenc volt.
 A gentleman partra szállt a Henriettáról, kocsiba ült, a Saint Nicolas Szállóba hajtott, elhozta Mrs. Audát, Passepartout-t, sőt a lerázhatatlan Fixet is, akinek ingyenesen felajánlotta az átkelést - és mindezt azzal a nyugalommal, amely mindig, minden körülmények között sajátja volt.
 Mind a négyen felértek a fedélzetre, amikor a Henrietta felvonta horgonyát.
-Amint Passepartout megtudta, mibe kerül a befejező hajóút, csak annyit mondott: „Ó!” - de ez az ó felettébb hosszúra sikerült, és az ereszkedő kromatikus skála valamennyi hangjegyét végigfutotta.
+Amint Passepartout megtudta, mibe kerül a befejező hajóút, csak annyit mondott: "Ó!" - de ez az ó felettébb hosszúra sikerült, és az ereszkedő kromatikus skála valamennyi hangjegyét végigfutotta.
 Fix pedig azon merengett, hogy az Angol Bank ezt az ügyet aligha ússza meg szárazon.
 Mert - feltéve, hogy ez a Fogg útközben nem szór még néhány marék pénzt a tengerbe - amikor megérkeznek, több mint hétezer fonttal (175 000 frank) lesz könnyebb az útizsák, melyben a bankók lapulnak!
 HARMINCHARMADIK FEJEZET - Phileas Fogg a helyzet magaslatán
@@ -4149,7 +4144,7 @@ Mrs. Auda mindenesetre meglehetősen nyugtalankodott, bár ezt egy szóval sem f
 Fixnek az esze is megállt.
 Passepartout pedig egyszerűen isteninek találta a dolgot.
 - Tíz-tizenkét csomó között - mondta Speedy kapitány, s a Henrietta valóban tartotta is ezt az átlagos sebességet.
-Ha tehát - és lesz még „ha” bőviben!
+Ha tehát - és lesz még "ha" bőviben!
 -, ha tehát a tenger nem támaszt túl sok bonyodalmat, ha nem fordul keletire a szél, ha nem éri sérülés a hajót, nem éri baj a gépet, a Henrietta a december 12-étől 21-éig terjedő kilenc nap alatt megteheti New Yorktól Liverpoolig a 3000 mérföldet.
 Az is igaz ugyan, hogy a Henrietta históriája még csak tetézi az Angol Bank körüli bonyodalmakat, s alighogy megérkeztek, fájhat majd a feje a gentlemannek, jobban is, mint szeretné.
 Az első napokban remek körülmények között haladtak.
@@ -4163,7 +4158,7 @@ Hogy kedvében járjanak, minden matróz úgy végezte dolgát, mint megannyi ge
 Közvetlen jókedve valamennyiükre átragadt.
 Elfeledte a múltat, a veszélyeket, a bonyodalmakat.
 Csupán az oly közeli cél lebegett szeme előtt, és majd felvetette a türelmetlenség, mintha a Henrietta kazánjai őt magát fűtenék.
-A derék fiú néha ott ólálkodott Fix közelében; „sokatmondó” pillantással méregette, de szóba nem állt vele, mert a két jó barát között örökre vége volt a bizalmas kapcsolatnak.
+A derék fiú néha ott ólálkodott Fix közelében; "sokatmondó" pillantással méregette, de szóba nem állt vele, mert a két jó barát között örökre vége volt a bizalmas kapcsolatnak.
 Fix egyébiránt, mi tagadás, egészen megkavarodott.
 A feje is zúgott, ha végiggondolta, hogyan foglalták el a Henriettát, vásárolták meg a matrózokat, s milyen tökéletes tengerész ez a Fogg.
 Igazán nem tudta mire vélni.
@@ -4185,7 +4180,7 @@ A szél lassanként orkánná fokozódott, és minden pillanatban várták, hogy
 Márpedig ha hátba kapja őket a szél, megint szembe kell szállniuk az ismeretlennel, s az ismeretlen új balszerencse forrása lehet.
 Az éggel együtt Passepartout ábrázata is elkomorult, s a derék fiú a pokol minden kínját végigszenvedte két álló napon át.
 Phileas Fogg azonban vakmerő tengerész volt, dacolt a háborgó hullámokkal, rendületlenül haladt előre, még csak a gőzt sem csökkentette.
-A Henrietta néha nem bírt felkapni a hullá­mok tarajára: ilyenkor „toronyiránt” vágott rajtuk keresztül; a víztömeg teljesen elborította és végigsöpörte fedélzetét, de a hajó mégiscsak előbbre jutott.
+A Henrietta néha nem bírt felkapni a hullá­mok tarajára: ilyenkor "toronyiránt" vágott rajtuk keresztül; a víztömeg teljesen elborította és végigsöpörte fedélzetét, de a hajó mégiscsak előbbre jutott.
 Egyszer-egyszer, amikor egy-egy hullámhegy magasra emelte a hajó farát, a hajócsavar is kiemelkedett a vízből; szárnyai eszeveszetten csapdosták a levegőt, ők azonban egyre csak rohantak, rendületlenül.
 Szerencsére a szél mégsem fokozódott annyira, mint várták.
 Óránként kilencvenmérföldes sebességgel tomboló orkánra számítottak, de az orkán elmaradt.
@@ -4209,7 +4204,7 @@ De néhány szót azért mégiscsak elcsípett, többek között, amikor gazdáj
 Passepartout mindent megértett.
 Halálos aggodalom fogta el.
 Kifogy a szenük!
-„Hát ha a gazdám most is kivágja magát - gondolta magában -, akkor igazán nagy ember!”
+"Hát ha a gazdám most is kivágja magát - gondolta magában -, akkor igazán nagy ember!"
 Mivel éppen útjába akadt Fix, nem állhatta meg, hogy ne tájékoztassa a történtekről.
 - Szóval - mondta neki a detektív összeszorított foga közül - most is azt hiszi, hogy Liver­poolba megyünk.
 - Hát hová mennénk?!
@@ -4229,7 +4224,7 @@ A hajó tehát teljes gőzzel haladt tovább, azonban a gépész két nappal ké
 Déltájban Phileas Fogg megmérte a nap állását, kiszámította a hajó helyzetét, magához hívatta Passepartout-t, és megparancsolta neki, menjen el Speedy kapitányért.
 Mintha csak arra kérte volna a derék fickót, hogy oldja le láncáról a tigrist.
 Amikor Passepartout megindult a hajó­bástya felé, azt gondolta:
-„Lesz most dühöngés!”
+"Lesz most dühöngés!"
 És csakugyan, néhány perc múlva nagy üvöltözés és káromkodás közepette becsapott a bomba a hajóbástyába.
 A bomba neve Speedy kapitány volt.
 A vak is láthatta, hogy pillanatok múlva felrobban.
@@ -4283,7 +4278,7 @@ Tudja meg: húszezer fontot vesztek el, ha nem érek London­ba december 21-én 
 E bóknak szánt kijelentés után távozni készült.
 Phileas Fogg azonban még utána szólt:
 - Most már tehát az enyém a hajó?
-- Természetesen, az orrtőkétől az árbocgombig, de persze csak a „tűzifa”!
+- Természetesen, az orrtőkétől az árbocgombig, de persze csak a "tűzifa"!
 - Rendben van.
 Szedesse szét a belső berendezést, és fűttessen tovább ezzel a törmelékkel.
 Képzelhetjük, mennyit kellett elfűteni ebből a száraz fából, hogy a kazánokat kellő nyomás alatt tarthassák.
@@ -4318,7 +4313,7 @@ Ha az amerikai posta tizenkét órát nyerhet, Phileas Fogg eltökélte, hogy ő
 Ahelyett, hogy a Henriettával másnap este futna be Liverpoolba, már délben odaér, és így este nyolc óra negyvenöt perc előtt Londonban lehet.
 Éjfél után egy óra tájban a Henrietta, miután kivárta a dagályt, horgonyt vetett a queenstowni kikötőben, Phileas Fogg pedig erélyesen megrázta Andrew Speedy kezét, és otthagyta a kapitányt a hajó megtépázott maradványain, mely így is megérte még a vételár felét.
 Utasaink azon nyomban partra szálltak.
-Fixben mohón fellobbant a vágy, hogy ebben a pillanatban letartóztassa „ezt a” Foggot.
+Fixben mohón fellobbant a vágy, hogy ebben a pillanatban letartóztassa "ezt a" Foggot.
 És mégsem tette meg!
 De miért?
 Miféle küzdelem dúlt bensőjében?
@@ -4375,8 +4370,8 @@ Nem lehetetlen, mert egyszer csak körüljárt a szobában.
 Ám az ajtó szorosan zárva volt, az ablakot vasrács védelmezte.
 Visszaült hát a helyére, és tárcájából elővette útitervét.
 A következő sort:
-„December 21. szombat, Liverpool” - így egészítette ki: „80.
-nap, délelőtt 11 h 40 perc” - és várt.
+"December 21. szombat, Liverpool" - így egészítette ki: "80.
+nap, délelőtt 11 h 40 perc" - és várt.
 A Custom House órája ütni kezdett.
 Mr. Fogg megállapította, hogy zsebórája a toronyórához képest két percet siet.
 Két óra!
@@ -4393,7 +4388,7 @@ Odalépett a detektívhez.
 Jól a szeme közé nézett, és - most csinálta életében az első és utolsó gyors mozdulatot - hátrarántotta a karját, majd pontosan, akár valami gép, mindkét öklével a szerencsétlen detektívre sújtott.
 - Megkapta!
 - kiáltott Passepartout, majd, vérbeli francia lévén, mindjárt egy rossz szójátékra ragadtatta magát: - Ez már igen!
-Valódi angol „kézimunka”!
+Valódi angol "kézimunka"!
 Fix elnyúlt a földön, meg se mukkant.
 Elvette megérdemelt jutalmát.
 Mr. Fogg, Mrs. Auda és Passepartout pedig máris rohantak kifelé a vámház épületéből.
@@ -4560,7 +4555,7 @@ A fogadások aránya most már nem egy volt a százhoz, hanem egy a húszhoz, t�
 Nem is csoda, ha szombaton este egész tömeg szorongott a Pall-Mallen s a szomszéd utcák­ban.
 Mintha alkuszok egész hada tartott volna ügyeletet a Reform Club környékén.
 A forgalom megakadt.
-Szájaltak, vitáztak, úgy harsogták „Phileas Fogg” árfolyamát, mint az angol államkötvényekét.
+Szájaltak, vitáztak, úgy harsogták "Phileas Fogg" árfolyamát, mint az angol államkötvényekét.
 A policemanek alig tudták féken tartani a csődületet, és minél inkább közeledett a perc, amikorra Phileas Fogg érkezését várták, annál jobban fokozódott az izgalom, már-már túl a valószínűség határain.
 A gentleman öt kollégája akkor este már nyolc órára egybegyűlt a Reform Club nagyszalon­jában.
 John Sullivan és Samuel Fallentin, a két bankár, Andrew Stuart mérnök, Gauthier Ralph, az Angol Bank igazgatója és Thomas Flanagan sörgyáros aggódva vártak, vala­mennyien.
@@ -4650,7 +4645,7 @@ De hogyan esett, hogy ez a pontos, aprólékos ember egy napot tévedhetett?
 Hogyan hihette, hogy szombat volt, amikor december 21-én befutott Londonba, holott csupán december 20-a volt, és péntek, mindössze hetvenkilenc nappal elindulása után?
 Íme, a tévedés magyarázata.
 Igen egyszerű.
-Phileas Fogg, „anélkül, hogy sejtette volna”, egy nappal megelőzte útitervét - mégpedig kizárólag azért, mert kelet felé utazta körül a földet, míg ha ellenkező irányban, vagyis nyugat felé ment volna, akkor veszített volna egy napot.
+Phileas Fogg, "anélkül, hogy sejtette volna", egy nappal megelőzte útitervét - mégpedig kizárólag azért, mert kelet felé utazta körül a földet, míg ha ellenkező irányban, vagyis nyugat felé ment volna, akkor veszített volna egy napot.
 Phileas Fogg ugyanis keletnek tartva állandóan a nap felé haladt, és ezért számára minden egyes nap annyiszor négy percet rövidült, ahányszor szélességi fokot érintett kelet felé.
 A föld kerülete, mint tudjuk, 360 fokra oszlik, s ha ezt a 360 fokot négy perccel megszoroz­zuk, pontosan huszonnégy órát kapunk - vagyis éppen annyit, amennyit Phileas Fogg nyert, észrevétlenül.
 Más szóval: miközben Phileas Fogg, keletnek tartva, nyolcvanszor látta a napot delelni, Londonban maradt kollégái csupán hetvenkilencszer.
