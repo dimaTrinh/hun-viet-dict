@@ -1,73 +1,49 @@
-Vẽ bìa: NHÓM CỎ BỐN LÁ ~~~ 	﻿ ~~~ Antoine de Saint-Exupéry	-0.161111
-Trình bày bìa: TÔ HỒNG THỦY	A kis herceg	-0.245455
-		0.3
-Ebook miễn phí tại : www.Sachvui.Com ~~~  ~~~  ~~~ 	Fordította: Rónay György	-0.181731
-		0.3
-		0.3
-Tặng Léon Werth	Léon Werth-nek	1.26
- ~~~  ~~~ Anh xin lỗi các em nhỏ vì đã đem tặng sách này cho một người lớn.	Kérem a gyerekeket, ne haragudjanak, amiért ezt a könyvet egy fölnőttnek ajánlom.	-0.105479
+Tặng Léon Werth	﻿Léon Werth-nek	0.282353
+Anh xin lỗi các em nhỏ vì đã đem tặng sách này cho một người lớn.	Kérem a gyerekeket, ne haragudjanak, amiért ezt a könyvet egy fölnőttnek ajánlom.	0.274648
 Anh có một lẽ đáng kể: ông người lớn này là người bạn tốt nhất của anh trên đời.	Komoly mentségem van rá: ez a fölnőtt széles e világon a legjobb barátom.	0.186957
 Anh cố thêm một lẽ nữa: ông người lớn này cái gì cũng hiểu được, cả sách viết cho trẻ em.	De van egy másik mentsé­gem is: ez a fölnőtt mindent meg tud érteni, még a gyerekeknek szóló könyveket is.	0.290909
 Anh cố một lẽ thứ ba: ông người lớn này là người nước Pháp, ở đây ông ta đói và rét.	Harmadik mentségem pedig a következő: ez a fölnőtt Franciaországban él, s ott éhezik és fázik.	0.28022
 Ông ta cần được an ủi.	Nagy szüksége van vigasztalásra.	0.233333
 Nếu mà các lẽ ấy vẫn không đủ, anh xin tặng sách này cho em bé là ông người lớn đó trước kia.	Ha pedig ez a sok mentség nem elegendő, akkor annak a gyerek­nek ajánlom könyvemet, aki valaha ez a fölnőtt volt.	0.297059
-Tất cả mọi người lớn đều từng là trẻ con (nhưng ít các ông ấy lại nhớ được như thế).	Mert előbb minden fölnőtt gyerek volt.	-0.227027
-Vậy anh chữa lại câu đề tặng của anh:	(De csak kevesen emlékeznek rá.)	0.174194
- ~~~ Tặng Léon Werth ngày ông còn là cậu bé ~~~  ~~~  ~~~  ~~~  ~~~  ~~~ MỤC LỤC ~~~  ~~~  ~~~  ~~~ 	Ajánlásomat tehát kijavítom, ilyesformán:	-0.250581
-Tặng Léon Werth ~~~  ~~~ I ~~~  ~~~ II ~~~  ~~~ III ~~~  ~~~ IV ~~~  ~~~ V ~~~  ~~~ VI ~~~  ~~~ VII ~~~  ~~~ VIII ~~~  ~~~ IX ~~~  ~~~ X ~~~  ~~~ XI ~~~  ~~~ XII ~~~  ~~~ XIII ~~~  ~~~ XIV ~~~  ~~~ XV ~~~  ~~~ XVI ~~~  ~~~ XVII ~~~  ~~~ XVIII ~~~  ~~~ XIX ~~~  ~~~ XX ~~~  ~~~ XXI ~~~  ~~~ XXII ~~~  ~~~ XXIII ~~~  ~~~ XXIV ~~~  ~~~ XXV ~~~  ~~~ XXVI ~~~  ~~~ XXVII ~~~  ~~~  ~~~  ~~~  ~~~ 	Léon Werth-nek,	-0.273646
-NHÀ VĂN ANTOINE DE SAINT EXUPÉRY	amikor még kisfiú volt.	0.195652
- ~~~ 	1.	0
-(29.6.1900-31.7.1944) ~~~  ~~~ Nhà văn Antoine de Saint Exupéry sinh tại Lyon, Pháp.	Hatéves koromban egy könyvben, mely az őserdőről szólt, és Igaz Történetek volt a címe, láttam egy nagyszerű képet.	-0.211321
-Chiến tranh Thế giới lần thứ nhất ông theo mẹ sang Thụy Sĩ.	Óriáskígyót ábrázolt, amint egy vadállatot nyel el. ~~~ Tessék, itt a rajz másolata.	-0.0340909
-Năm 1917, trở về Pháp, học trung học tại Paris, sau đó ông vào trường Mỹ thuật.	A könyvben ez állt: „Az óriáskígyó egészben, rágás nélkül nyeli le zsákmányát.	0.289286
-Trong chiến tranh Thế giới lần thứ hai, ông tham gia không quân.	Utána moccan­ni sem bír, és az emésztés hat hónapját végigalussza.”	0.281818
-Ngày 31.7.1944, máy bay của ông mất tích trên bầu trời Địa Trung Hải.	Akkoriban sokat tűnődtem a dzsungelek kalandjain, és egy színes ceruzával nekem is sikerült megrajzolnom első rajzomat.	0.152
-Những tác phẩm chính của Antoine de Saint Exupéry:	Az 1. számút. ~~~ Ilyesformán:	-0.118966
-		0.3
-Người phi công (Aviateur, 1926) ~~~  ~~~  ~~~ 	Remekművemet megmutattam a fölnőtteknek, és megkérdeztem őket, nem félnek-e tőle.	-0.253676
-Chuyến thư miền Nam (Courrier Sud, 1929) ~~~  ~~~  ~~~ 	- Miért kellene félni egy kalaptól?	-0.163235
-Bay đêm (Vol de nuit, 1931) ~~~  ~~~ 	- válaszolták.	-0.15625
- ~~~ Quê xứ con người (Terry des Hommes, 1939) ~~~ 	Az én rajzom azonban nem kalapot ábrázolt.	-0.1025
- ~~~  ~~~ Phi công thời chiến (Pilote de Guerre, 1942) ~~~  ~~~ 	Óriáskígyót ábrázolt, amint épp egy elefántot emészt.	-0.196
- ~~~ Thư gửi một con tin (Lettre à un Otage, 1943) ~~~ 	Erre lerajzoltam az óriáskígyót belülről is, hogy a fölnőttek megérthessék, miről van szó.	-0.202222
- ~~~  ~~~ Hoàng tử bé (Le Petit Prince, 1943) ~~~  ~~~ 	Mert nekik mindig mindent meg kell magyarázni.	-0.19
- ~~~ Cung thành (Citadel le, viết năm 1936, xuất bản sau khi ông mất, 1948) ~~~  ~~~  ~~~  ~~~ 		-0.3
- ~~~ Hoàng tử bé ngắn mà mãnh liệt... biểu hiện nỗi đau của nhà văn và tư tưởng triết học của ông về ý nghĩa của sự có mặt ở trên đời, nỗi khát khao không thể nào vơi được về lòng nhân ái, về sự cảm thông giữa những con người...		-0.3
- ~~~ Dịch giả Nguyễn Thành Long ~~~  ~~~  ~~~  ~~~  ~~~  ~~~ I	Ez a 2. számú rajz ilyesforma volt:	-0.225
-		0.3
- ~~~ Hồi lên sáu, tôi có nhìn thấy một lần, một bức tranh tuyệt đẹp, trong một cuốn sách về Rừng Hoang nhan đề: "Những câu chuyện có sống qua".	Most aztán a fölnőttek azt ajánlották, ne rajzoljak többé óriáskígyót se nyitva, se csukva, hanem inkább foglalkozzam földrajzzal, történelemmel, számtannal és nyelvtannal.	-0.0135484
-Bức tranh vẽ hình một con trăn đang nuốt một con thú dữ.	Így mond­tam le hatéves koromban nagyszerű festői pályafutásomról.	0.265574
-Đây là bản sao của bức vẽ.	Kedvemet szegte 1. és 2. számú rajzom kudarca.	0.196875
-Trong sách, người ta nói: "Loài trăn nuốt chửng cả con mồi, không nhai.	A nagyok semmit sem értenek meg maguktól, a gyerekek pedig belefáradnak, hogy örökös-örökké magyarázgassanak nekik.	0.152
-Sau chúng chẳng nhúc nhích gì được nữa và ngủ sáu tháng liền để tiêu hóa con mồi".	Más mesterséget kellett választanom tehát: megtanultam repülőgépet vezetni.	0.236842
-Từ đó, tôi hay nghĩ đến các chuyện xảy ra trong rừng rậm, và đến lượt tôi, với một cây bút chì màu, tôi vẽ được hình vẽ đầu tiên của tôi.		-0.3
-Hình vẽ số một của tôi. ~~~ Nó như thế này: ~~~  ~~~ 	Nagyjából az egész világot berepültem.	-0.165
- ~~~ Tôi đưa cho các người lớn xem kiệt tác của tôi và hỏi họ bức vẽ của tôi có làm cho họ sợ không.		-0.3
-Họ trả lời: "Sao một cái mũ lại làm cho sợ được?".	És való igaz, hogy közben nagy hasznát vettem a földrajznak.	0.289474
-Bức tranh của tôi đâu có vẽ một chiếc mũ.	Első pillantásra meg tudtam különböztetni Kínát Arizonától.	0.20625
-Nó vẽ một con trăn đang tiêu hóa một con voi.	Ez pedig fölöttébb hasznos dolog, ha éjszaka eltéved az ember.	0.223404
-Thế là tôi vẽ lại bên trong bụng trăn, để cho các người lớn có thể hiểu được.	Így aztán életem folyamán nagyon sokszor kerültem kapcsolatba komoly emberekkel.	0.245455
-Đối với người lớn, bao giờ cũng phải giảng.	Jócskán akadt dolgom a fölnőttekkel.	0.17027
-Bức vẽ số hai của tôi thế này: ~~~  ~~~ 	Közvetlen közelből láthattam őket.	-0.102703
- ~~~ Các người lớn khuyên tôi hãy để qua một bên các bức vẽ trăn nhìn bên ngoài hay bổ đôi kia đi, và hãy để tâm vào môn địa, môn sử, môn toán và môn ngữ pháp.		-0.3
-Như vậy đó mà vào tuổi lên sáu, tôi đã bỏ một cuộc đời họa sĩ tuyệt diệu.		-0.3
-Tôi thất vọng vì bức vẽ số một và bức vẽ số hai của tôi không thành công.		-0.3
-Các người lớn không bao giờ tự mình hiểu được điều gì, và trẻ con lúc nào, lúc nào cũng phải giảng giải cho các ông, đến nhọc!		-0.3
-Thế là tôi phải chọn một nghề khác, và tôi học lái máy bay.		-0.3
-Trên thế giới, đâu tôi cũng từng có bay một tí.	És nem mondhatnám, hogy ettől jobb lett róluk a véleményem.	0.277358
-Và môn địa lí, đúng thế, có giúp cho tôi nhiều, chỉ nhìn qua, tôi biết nhận ra đây là Trung Quốc chứ không phải vùng Arizona.	Ha olyannal találkoztam, aki kicsit értelmesebbnek látszott, kipróbáltam rajta 1. számú rajzo­mat, mert azt mindig magamnál tartottam.	0.285937
-Cái đó cần lắm, nếu ban đêm ta bị lạc.	Meg akartam tudni, valóban megérti-e a dolgokat.	0.3
-Như vậy đấy, trong cuộc đời tôi, tôi có hàng đống những cuộc gặp gỡ với khối người quan trọng.		-0.3
-Tôi đã sống nhiều ở nhà những người lớn.	De a válasz mindig így hangzott: „Ez egy kalap.”	0.280851
-Tôi đã nhìn thấy họ rất gần.		-0.3
-Việc này vẫn chẳng làm tôi đánh giá họ khá hơn bao nhiêu.		-0.3
-Khi gặp một người lớn có vẻ hơi sáng suốt một chút, tôi liền đem bức vẽ số một mà tôi vẫn giữ, để thử ông ta, ông ta trả lời hoài: "Đây là một cái mũ".		-0.3
+Tất cả mọi người lớn đều từng là trẻ con (nhưng ít các ông ấy lại nhớ được như thế).	Mert előbb minden fölnőtt gyerek volt. ~~~ (De csak kevesen emlékeznek rá.)	-0.0717391
+Vậy anh chữa lại câu đề tặng của anh:	Ajánlásomat tehát kijavítom, ilyesformán:	0.3
+Tặng Léon Werth ngày ông còn là cậu bé	Léon Werth-nek, ~~~ amikor még kisfiú volt.	0.265625
+I	1.	0.15
+Hồi lên sáu, tôi có nhìn thấy một lần, một bức tranh tuyệt đẹp, trong một cuốn sách về Rừng Hoang nhan đề: "Những câu chuyện có sống qua".	Hatéves koromban egy könyvben, mely az őserdőről szólt, és Igaz Történetek volt a címe, láttam egy nagyszerű képet.	0.190179
+Bức tranh vẽ hình một con trăn đang nuốt một con thú dữ.	Óriáskígyót ábrázolt, amint egy vadállatot nyel el.	0.254717
+Đây là bản sao của bức vẽ.	Tessék, itt a rajz másolata.	0.244444
+Trong sách, người ta nói: "Loài trăn nuốt chửng cả con mồi, không nhai.	A könyvben ez állt: "Az óriáskígyó egészben, rágás nélkül nyeli le zsákmányát.	0.272
+Sau chúng chẳng nhúc nhích gì được nữa và ngủ sáu tháng liền để tiêu hóa con mồi".	Utána moccan­ni sem bír, és az emésztés hat hónapját végigalussza."	0.194118
+Từ đó, tôi hay nghĩ đến các chuyện xảy ra trong rừng rậm, và đến lượt tôi, với một cây bút chì màu, tôi vẽ được hình vẽ đầu tiên của tôi.	Akkoriban sokat tűnődtem a dzsungelek kalandjain, és egy színes ceruzával nekem is sikerült megrajzolnom első rajzomat.	0.176786
+Hình vẽ số một của tôi.	Az 1. számút.	-0.0214286
+Nó như thế này:	Ilyesformán:	0.214286
+Tôi đưa cho các người lớn xem kiệt tác của tôi và hỏi họ bức vẽ của tôi có làm cho họ sợ không.	Remekművemet megmutattam a fölnőtteknek, és megkérdeztem őket, nem félnek-e tőle.	0.203704
+Họ trả lời: "Sao một cái mũ lại làm cho sợ được?".	- Miért kellene félni egy kalaptól? ~~~ - válaszolták.	-0.0235294
+Bức tranh của tôi đâu có vẽ một chiếc mũ.	Az én rajzom azonban nem kalapot ábrázolt.	0.24
+Nó vẽ một con trăn đang tiêu hóa một con voi.	Óriáskígyót ábrázolt, amint épp egy elefántot emészt.	0.23617
+Thế là tôi vẽ lại bên trong bụng trăn, để cho các người lớn có thể hiểu được.	Erre lerajzoltam az óriáskígyót belülről is, hogy a fölnőttek megérthessék, miről van szó.	0.3
+Đối với người lớn, bao giờ cũng phải giảng.	Mert nekik mindig mindent meg kell magyarázni.	0.221429
+Bức vẽ số hai của tôi thế này:	Ez a 2. számú rajz ilyesforma volt:	0.2625
+Các người lớn khuyên tôi hãy để qua một bên các bức vẽ trăn nhìn bên ngoài hay bổ đôi kia đi, và hãy để tâm vào môn địa, môn sử, môn toán và môn ngữ pháp.	Most aztán a fölnőttek azt ajánlották, ne rajzoljak többé óriáskígyót se nyitva, se csukva, hanem inkább foglalkozzam földrajzzal, történelemmel, számtannal és nyelvtannal.	0.3
+Như vậy đó mà vào tuổi lên sáu, tôi đã bỏ một cuộc đời họa sĩ tuyệt diệu.	Így mond­tam le hatéves koromban nagyszerű festői pályafutásomról.	0.216176
+Tôi thất vọng vì bức vẽ số một và bức vẽ số hai của tôi không thành công.	Kedvemet szegte 1. és 2. számú rajzom kudarca.	0.0139535
+Các người lớn không bao giờ tự mình hiểu được điều gì, và trẻ con lúc nào, lúc nào cũng phải giảng giải cho các ông, đến nhọc!	A nagyok semmit sem értenek meg maguktól, a gyerekek pedig belefáradnak, hogy örökös-örökké magyarázgassanak nekik.	0.216964
+Thế là tôi phải chọn một nghề khác, và tôi học lái máy bay.	Más mesterséget kellett választanom tehát: megtanultam repülőgépet vezetni.	0.254545
+Trên thế giới, đâu tôi cũng từng có bay một tí.	Nagyjából az egész világot berepültem.	0.2025
+Và môn địa lí, đúng thế, có giúp cho tôi nhiều, chỉ nhìn qua, tôi biết nhận ra đây là Trung Quốc chứ không phải vùng Arizona.	És való igaz, hogy közben nagy hasznát vettem a földrajznak. ~~~ Első pillantásra meg tudtam különböztetni Kínát Arizonától.	-0.0161157
+Cái đó cần lắm, nếu ban đêm ta bị lạc.	Ez pedig fölöttébb hasznos dolog, ha éjszaka eltéved az ember.	0.206667
+Như vậy đấy, trong cuộc đời tôi, tôi có hàng đống những cuộc gặp gỡ với khối người quan trọng.	Így aztán életem folyamán nagyon sokszor kerültem kapcsolatba komoly emberekkel.	0.167532
+Tôi đã sống nhiều ở nhà những người lớn.	Jócskán akadt dolgom a fölnőttekkel.	0.194595
+Tôi đã nhìn thấy họ rất gần.	Közvetlen közelből láthattam őket.	0.282857
+Việc này vẫn chẳng làm tôi đánh giá họ khá hơn bao nhiêu.	És nem mondhatnám, hogy ettől jobb lett róluk a véleményem.	0.268421
+Khi gặp một người lớn có vẻ hơi sáng suốt một chút, tôi liền đem bức vẽ số một mà tôi vẫn giữ, để thử ông ta, ông ta trả lời hoài: "Đây là một cái mũ".	Ha olyannal találkoztam, aki kicsit értelmesebbnek látszott, kipróbáltam rajta 1. számú rajzo­mat, mert azt mindig magamnál tartottam. ~~~ Meg akartam tudni, valóban megérti-e a dolgokat.	-0.00174419
+	De a válasz mindig így hangzott: "Ez egy kalap."	-0.3
 Thế là tôi chẳng thèm nói với ông ta về rắn trăn, rừng hoang hay trăng sao gì nữa.	Erre aztán nem beszéltem neki se óriáskígyókról, se őserdőkről, se csillagokról.	0.281707
 Tôi tự hạ ngang tầm ông ta.	Alkalmaz­kodtam hozzá.	0.225
 Tôi nói với ông ta về bài bạc, về đấu bóng, về chính trị và về cà vạt.	Bridzsről beszéltem neki, meg golfról meg politikáról és nyakkendőkről.	0.2625
 Thế là người lớn rất lấy làm bằng lòng được gặp một người biết điều như tôi.	Az illető fölnőtt pedig nagyon örült neki, hogy ilyen okos emberrel került ismeretségbe.	0.260714
 II	2.	0.3
- ~~~  ~~~ Như vậy đó, tôi đã sống một mình, chẳng có ai thật sự chuyện trò, cho đến một hôm tôi hỏng máy bay trong sa mạc Sahara cách đây sáu năm.	Így éltem magányosan, anélkül, hogy igazában bárkivel is szót érthettem volna, míg egyszer, hat esztendővel ezelőtt, kényszerleszállást nem kellett végeznem a Szaharában.	-0.112081
+Như vậy đó, tôi đã sống một mình, chẳng có ai thật sự chuyện trò, cho đến một hôm tôi hỏng máy bay trong sa mạc Sahara cách đây sáu năm.	Így éltem magányosan, anélkül, hogy igazában bárkivel is szót érthettem volna, míg egyszer, hat esztendővel ezelőtt, kényszerleszállást nem kellett végeznem a Szaharában.	0.259184
 Có cái gì trong máy vỡ.	Valami eltö­rött a motoromban.	0.228
 Nhưng vì tôi đi một mình, không thợ máy, không hành khách, tôi bắt đầu cố chữa cho được ca hỏng khó khăn này.	És mivel se gépészem nem volt, se utasom, magamnak kellett nekilátnom, hogy zöld ágra vergődjem valahogyan, és kijavítsam a súlyos hibát.	0.2775
 Đối với tôi, đây là một việc sống chết.	Élet és halál kérdése volt ez számomra.	0.2325
@@ -76,30 +52,30 @@ Buổi tối đầu tiên, thế đấy, tôi ngủ trên mặt cát, mọi vùn
 Tôi còn trơ vơ hơn nhiều so với kẻ đắm tàu ở trên bè giữa biển cả.	Elhagya­tottabb voltam, mint tutaján a hajótörött az óceán közepén.	0.269565
 Vậy mà các bạn tưởng tượng, tôi ngạc nhiên biết bao khi, mờ sáng hôm sau, có một giọng nói nhỏ nhẻ, lạ lắm, đánh thức tôi dậy.	Elképzelhető hát, mennyire meg­lepődtem, amikor hajnalban egy fura kis hang ébresztett föl.	0.1125
 Giọng ấy nói:	Azt mondta:	0.136364
- ~~~ - Ông làm ơn... ông vẽ giúp tôi một con cừu!	- Légy szíves, rajzolj nekem egy bárányt!	0.16125
+- Ông làm ơn... ông vẽ giúp tôi một con cừu!	- Légy szíves, rajzolj nekem egy bárányt!	0.6225
 - Hả?	- Micsoda?	1.17143
 - Vẽ giúp tôi một con cừu...	- Rajzolj nekem egy bárányt...	0.77931
- ~~~ Tôi bật lên như bị sét đánh.	Fölugrottam, mintha villám csapott volna le mellettem.	-0.0685714
+Tôi bật lên như bị sét đánh.	Fölugrottam, mintha villám csapott volna le mellettem.	0.136364
 Tôi dụi mắt. ~~~ Tôi nhìn kĩ.	Megdörgöltem a szememet, aztán jól kimeresztettem.	-0.0919355
 Tôi thấy một cậu bé hết sức dị thường đang nghiêm trang nhìn tôi.	És egy apró emberkét láttam, egy teljességgel rendkívüli kis emberkét, amint komoly figyelemmel szemlél.	0.190541
-Đây, bức chân dung đẹp nhất mà về sau tôi vẽ được về cậu bé ấy: ~~~ 	Itt a legjobb kép, amit később csinálnom sikerült róla.	-0.0611111
- ~~~  ~~~ Nhưng bức vẽ của tôi hẳn là còn kém đẹp hơn người mẫu rất nhiều.	Csakhogy az én rajzom kétségkívül sokkal kevésbé elragadó, mint amilyen a mintája volt.	-0.107595
+Đây, bức chân dung đẹp nhất mà về sau tôi vẽ được về cậu bé ấy:	Itt a legjobb kép, amit később csinálnom sikerült róla.	0.177778
+Nhưng bức vẽ của tôi hẳn là còn kém đẹp hơn người mẫu rất nhiều.	Csakhogy az én rajzom kétségkívül sokkal kevésbé elragadó, mint amilyen a mintája volt.	0.268831
 Lỗi đâu phải tại tôi.	Igaz, nem az én hibámból.	0.276
 Tại người lớn mà tôi nản lòng trong sự nghiệp hội họa, vào lúc lên sáu, và tôi chẳng học vẽ một tí nào hết, ngoài các con trăn, nhìn bên ngoài hay bổ dọc.	Mert ami festői pályafutásomat illeti, attól már hatesztendős korom­ban elvették a kedvemet a fölnőttek, így aztán nem is tanultam meg rajzolni, kivéve a csukott meg a nyitott óriáskígyókat.	0.278698
 Mắt tròn xoe kinh ngạc, tôi nhìn hình người hiện ra trước mắt.	Ámulattól kerek szemmel néztem hát a különös tüneményt.	0.243103
 Các bạn chớ quên rằng lúc bấy giờ tôi đang cách mọi vùng có người ở là một nghìn dặm nhé.	Ne feledjük el: ezer mérföldre voltam minden lakott vidéktől.	0.0813559
 Thế mà cậu bé của tôi không có vẻ gì là bị đi lạc cả, cũng không chết nhọc, chết đói, chết khát, chết sợ.	Emberkémen pedig semmi jele nem volt annak, mintha elté­vedt volna, vagy halálosan fáradt, halálosan éhes, halálosan szomjas lenne, esetleg halálosan félne.	0.235537
-Em không có bộ tịch gì của một đứa bé bị lạc giữa sa mạc, một nghìn dặm cách mọi nơi có người ở. Sau cùng, mở được cái miệng tôi hỏi: ~~~ 	Egyáltalán nem úgy festett, mint egy szerencsétlen gyerek, aki eltévedt a sivatagban, ezermérföldnyire minden lakott helytől. ~~~ Mikor végre szavamra leltem, azt kérdeztem tőle:	-0.161688
+Em không có bộ tịch gì của một đứa bé bị lạc giữa sa mạc, một nghìn dặm cách mọi nơi có người ở. Sau cùng, mở được cái miệng tôi hỏi:	Egyáltalán nem úgy festett, mint egy szerencsétlen gyerek, aki eltévedt a sivatagban, ezermérföldnyire minden lakott helytől. ~~~ Mikor végre szavamra leltem, azt kérdeztem tőle:	-0.0116883
 - Nhưng... em đang làm cái gì đây?	- De hát... hogy kerülsz te ide?	0.612931
-Thế là em lặp lại câu lúc nãy, rất dịu dàng, như đó là một điều rất hệ trọng: ~~~ 	Erre szelíden, és mintha valami nagyon komoly dolgot kérne, megismételte:	-0.0456522
+Thế là em lặp lại câu lúc nãy, rất dịu dàng, như đó là một điều rất hệ trọng:	Erre szelíden, és mintha valami nagyon komoly dolgot kérne, megismételte:	0.208696
 - Ông làm ơn... hãy vẽ giúp tôi một con cừu.	- Légy szíves, rajzolj nekem egy bárányt...	0.639286
 Khi rõ ràng là bí ẩn quá rồi, ta không dám không tuân theo.	Ha valami nagyon lenyűgözően rejtélyes, az ember nem meri megtenni, hogy ne engedel­meskedjék.	0.155
 Đang bị tai nạn có thể chết, lại ở một nghìn dặm cách mọi nơi có người, lời yêu cầu đối với tôi lại hết sức vô lí, tôi đành rút từ trong túi ra một tờ giấy và một cây bút máy.	Akármilyen képtelenségnek találtam, hogy ezer mérföldre minden lakott helytől és rá­adásul halálos veszedelemben: elővettem a zsebemből egy darab papirost meg a töltőtolla­mat.	0.254913
-Nhưng tôi liền nhớ ngay rằng mình đã chỉ học môn địa lí, môn sử, môn toán và môn ngữ pháp nhiều nhất, nên tôi nói với cậu bé (tôi hơi khó chịu) rằng tôi không biết vẽ. ~~~ Em trả lời tôi:	Hanem akkor eszembe jutott, hogy én főként földrajzot, történelmet, számtant és nyelv­tant tanultam, és egy kicsit kedvetlenül közöltem az emberkémmel, hogy nem tudok rajzolni.	-0.0160714
- ~~~ - Không hề gì.	- Annyi baj legyen - felelte.	0.215625
+Nhưng tôi liền nhớ ngay rằng mình đã chỉ học môn địa lí, môn sử, môn toán và môn ngữ pháp nhiều nhất, nên tôi nói với cậu bé (tôi hơi khó chịu) rằng tôi không biết vẽ.	Hanem akkor eszembe jutott, hogy én főként földrajzot, történelmet, számtant és nyelv­tant tanultam, és egy kicsit kedvetlenül közöltem az emberkémmel, hogy nem tudok rajzolni.	0.267857
+Em trả lời tôi: ~~~ - Không hề gì.	- Annyi baj legyen - felelte.	0.215625
 Ông vẽ cho tôi một con cừu.	- Rajzolj nekem egy bárányt.	0.266667
 Vì tôi chưa hề vẽ một con cừu nào, nên tôi vẽ lại cho em một trong hai bức hình duy nhất mà tôi có thể vẽ. ~~~ Hình con trăn bụng kín.	Minthogy bárányt soha életemben nem rajzoltam, papírra vetettem neki a két rajz közül, amire egyáltalán képes voltam, az egyiket: a csukott óriáskígyót.	-0.00755396
-Tôi ngạc nhiên nghe cậu bé trả lời: ~~~ 	De hogy elképedtem, mikor az emberke azt mondta rá:	-0.0142857
+Tôi ngạc nhiên nghe cậu bé trả lời:	De hogy elképedtem, mikor az emberke azt mondta rá:	0.255
 - Không!	- Nem!	1.15
 Không!	Nem!	0.12
 Tôi không thích con voi trong bụng con trăn đâu.	Nem elefántot akarok óriáskígyóban!	0.221053
@@ -108,89 +84,88 @@ Con trăn nó thật là nguy hiểm, mà con voi thì kềnh càng quá!	Az ór
 Tôi cần một con cừu.	Nekem bárányka kell.	0.257143
 Vẽ cho tôi một con cừu!	Rajzolj nekem egy bárányt.	0.3
 Thế là tôi vẽ.	Hát erre rajzoltam egyet.	0.2
-Em nhìn chăm chú, rồi nói: ~~~ 	Figyelmesen szemügyre vette, aztán:	-0.025
+Em nhìn chăm chú, rồi nói:	Figyelmesen szemügyre vette, aztán:	0.225
 - Không, con ấy ốm quá rồi.	- Nem! ~~~ - mondta.	0.36875
 Ông hãy làm con khác.	- Ez már nagyon beteg.	0.27
 	Csinálj egy másikat nekem.	-0.3
-Tôi vẽ: ~~~ 	Rajzoltam egy másikat.	-0.125
-Cậu bạn tôi mỉm cười dễ thương, giọng khoan dung: ~~~ 	Kis barátom kedvesen, de elnézően mosolygott.	-0.0443182
+Tôi vẽ:	Rajzoltam egy másikat.	-0.06
+Cậu bạn tôi mỉm cười dễ thương, giọng khoan dung:	Kis barátom kedvesen, de elnézően mosolygott.	0.211364
 - Ông nhìn xem... không phải cừu, nó là dê.	- Jó, jó... Csakhogy ez nem bárány, hanem kos.	0.586047
 Nó có sừng mà...	Ennek szarva van.	0.24375
- ~~~ Tôi liền vẽ lại bức vẽ một lần nữa.	Megint újat rajzoltam.	-0.156818
-Nhưng bức này cũng bị bác như những bức trước: ~~~  ~~~  ~~~ 	Ez se volt jó neki, akárcsak az előzők.	-0.184459
+Tôi liền vẽ lại bức vẽ một lần nữa.	Megint újat rajzoltam.	-0.0136364
+Nhưng bức này cũng bị bác như những bức trước:	Ez se volt jó neki, akárcsak az előzők.	0.162162
 - Con ấy nó già quá.	- Nagyon öreg.	0.9
 Tôi muốn một con cừu sống được lâu cơ.	Nekem olyan bárány kell, amelyik sokáig él.	0.271429
 Không có đủ kiên nhẫn, vì tôi sốt ruột muốn bắt tay vào việc tháo ngay cái máy, thế là tôi nguệch ngoạc bức vẽ này.	Erre már kifogytam a türelemből. ~~~ Mielőbb neki akartam kezdeni a motorom szétszerelésének; ráfirkáltam hát a papírra a mellékelt rajzot.	-0.0046875
-Và tôi nói to: ~~~ 	- Tessék - mondtam.	-0.00882353
+Và tôi nói to:	- Tessék - mondtam.	0.24
 - Cái này là cái hòm.	- Ez itt a ládája.	0.711765
 Con cừu em thích nó ở trong đó.	Benne van a bárány, amit akarsz.	0.27
-Nhưng tôi hết sức kinh ngạc thấy khuôn mặt của vị giám khảo trẻ tuổi của tôi sáng rỡ lên: ~~~ 	Nagy meglepetésemre egyszeriben fölragyogott az arca.	-0.15
+Nhưng tôi hết sức kinh ngạc thấy khuôn mặt của vị giám khảo trẻ tuổi của tôi sáng rỡ lên:	Nagy meglepetésemre egyszeriben fölragyogott az arca.	0
 - Đúng là tôi muốn như thế này đây!	- Ez az! ~~~ Éppen így akartam!	-0.0722222
 Với con cừu này, có cần nhiều cỏ không ạ?	Mit gondolsz, sok fű kell ennek a báránynak?	0.24878
 - Sao em hỏi thế?	- Miért?	1
-- Vì căn nhà tôi, nó bé tí tẹo mà... ~~~ 	- Hát mert nálam odahaza minden olyan kicsi...	0.150877
+- Vì căn nhà tôi, nó bé tí tẹo mà...	- Hát mert nálam odahaza minden olyan kicsi...	0.601754
 - Chắc là đủ, em ạ. Con cừu tôi cho em cũng chỉ bé tí.	- Biztosan elég lesz neki.	0.3875
-Em cúi đầu xuống bức vẽ: ~~~ 	Egészen kicsi bárány. ~~~ A rajz fölé hajolt.	-0.195652
+Em cúi đầu xuống bức vẽ:	Egészen kicsi bárány. ~~~ A rajz fölé hajolt.	-0.0456522
 - Chẳng bé quá đâu... Ôi!	- Nem is olyan kicsi... Nézd csak!	0.707143
 Nó ngủ rồi đây này!	Elaludt...	-0.0545455
-Và thế đấy, tôi làm quen với hoàng tử nhỏ. ~~~ III	Így ismerkedtem meg a kis herceggel.	-0.0727273
- ~~~ 	3.	0
+Và thế đấy, tôi làm quen với hoàng tử nhỏ.	Így ismerkedtem meg a kis herceggel.	0.154545
+III	3.	0.2
 Phải rất lâu, tôi mới hiểu em từ đâu đến.	Hosszú időbe tellett, míg megértettem, honnét jött.	0.288
 Cậu hoàng tử hỏi tôi nhiều câu mà dường như không bao giờ chú ý nghe tôi hỏi.	A kis herceg ugyanis engem elhalmozott kérdésekkel, az enyéimet azonban mintha meg se hallotta volna.	0.278824
 Chỉ là những tiếng ngẫu nhiên buột ra dần dần nói cho tôi hiểu mọi sự.	Lassanként, véletlenül elejtett szavakból tudtam meg, amit megtudtam.	0.241791
-Ví dụ như, khi lần đầu em chợt thấy chiếc máy bay của tôi, (tôi sẽ không vẽ chiếc máy bay đâu: bức vẽ đó sẽ phức tạp hơn nhiều lắm, so với tài vẽ của tôi) em hỏi tôi: ~~~ 	Így mikor először látta meg a repülőmet (nem rajzo­lom le: repülőgépet rajzolni az én számomra túl fogas föladat volna), azt kérdezte:	-0.0646154
+Ví dụ như, khi lần đầu em chợt thấy chiếc máy bay của tôi, (tôi sẽ không vẽ chiếc máy bay đâu: bức vẽ đó sẽ phức tạp hơn nhiều lắm, so với tài vẽ của tôi) em hỏi tôi:	Így mikor először látta meg a repülőmet (nem rajzo­lom le: repülőgépet rajzolni az én számomra túl fogas föladat volna), azt kérdezte:	0.170769
 - Cái kia là vật gì thế ?	- Hát ez meg mi a szösz?	0.603571
 - Không phải vật.	- Ez nem szösz.	0.771429
 Nó bay được đấy.	Ez repül.	-0.06
 Nó là một chiếc máy bay.	Repülőgép.	0.0214286
 Đó là chiếc máy bay của tôi.	Az én repülőgépem.	0.142857
 Tôi tự hào nói cho em biết là tôi bay.	Szinte hetvenkedtem neki azzal, hogy repülök.	0.269231
-Em bé liền kêu lên: ~~~ 	- Hogyan?! ~~~ - kiáltott föl.	-0.192857
+Em bé liền kêu lên:	- Hogyan?! ~~~ - kiáltott föl.	-0.0428571
 - Thế ra ông rơi từ trên trời xuống?	- Az égből pottyanttál le?	0.638462
 - Phải - tôi nói khiêm tốn.	- Igen - feleltem szerényen.	1.26538
 - Ôi , đã lạ lùng chưa...	- Hát ez furcsa...	0.723529
- ~~~ Và hoàng tử bật lên một tiếng cười khanh khách rất xinh nhưng làm tôi cáu lắm.	És fölkacagott, gyöngyöző kacagással; ez határozottan bosszantott.	-0.0397059
+Và hoàng tử bật lên một tiếng cười khanh khách rất xinh nhưng làm tôi cáu lắm.	És fölkacagott, gyöngyöző kacagással; ez határozottan bosszantott.	0.220588
 Tôi muốn ai cũng phải đánh giá nghiêm trọng mọi tai nạn của tôi.	Megkívánom, hogy komo­lyan vegyék a szerencsétlenségeimet.	0.245
-Cười xong, em nói thêm: ~~~ 	- Szóval te is az égből jöttél?	-0.0222222
+Cười xong, em nói thêm:	- Szóval te is az égből jöttél?	0.228
 - Thế là cả ông, ông cũng từ trên trời xuống?	- tette hozzá.	0.257143
 Ông ở hành tinh nào?	- Melyik bolygóról való vagy?	0.204545
-Tức thì tôi thấy lóe lên một tia sáng gì đó, về sự có mặt bí ẩn của em, và đột nhiên tôi hỏi:	Mintha hirtelen fény világította volna meg rejtélyes jelenlétét.	0.107812
- ~~~ - Thế ra em ở một hành tinh khác tới ?	- Eszerint egy másik bolygóról való vagy?	0.183654
+Tức thì tôi thấy lóe lên một tia sáng gì đó, về sự có mặt bí ẩn của em, và đột nhiên tôi hỏi:	Mintha hirtelen fény világította volna meg rejtélyes jelenlétét.	0.107813
+- Thế ra em ở một hành tinh khác tới ?	- Eszerint egy másik bolygóról való vagy?	0.667308
 Nhưng em không trả lời tôi.	- szegeztem neki a kérdést.	0.253846
-Em vừa nhìn chiếc máy bay của tôi vừa lắc đầu khe khẽ: ~~~ 	Nem felelt. ~~~ Csak a fejét csóválta lassan, és a repülőmet nézte.	-0.154918
-- Nhưng mà, ngồi trên cái đó thì ông cũng chẳng thể tới đây, nếu ông ở xa quá... ~~~ 	- Igaz, ezen nem jöhetsz valami messziről...	0.0155488
+Em vừa nhìn chiếc máy bay của tôi vừa lắc đầu khe khẽ:	Nem felelt. ~~~ Csak a fejét csóválta lassan, és a repülőmet nézte.	-0.00491803
+- Nhưng mà, ngồi trên cái đó thì ông cũng chẳng thể tới đây, nếu ông ở xa quá...	- Igaz, ezen nem jöhetsz valami messziről...	0.331098
 Rồi em đắm mình mơ màng rất lâu.	És hosszas töprengésbe merült.	0.253125
 Sau đó, móc túi lấy con cừu, em lại ngắm nghía mê mệt của báu đó của mình.	Aztán elővette zsebéből a bárányomat, és kincse szemlélésébe mélyedt.	0.263014
-Các bạn hãy tưởng tượng là tôi bị kích động như thế nào bởi lời tâm sự nửa vời về "các hành tinh khác" ấy.	Képzelhetni, hogy izgatott ez az elharapott vallomás a „másik bolygóról”.	0.101351
-Vì vậy, tôi cố tìm hiểu rõ hơn: ~~~ 	Próbáltam hát többet is megtudni.	-0.00882353
+Các bạn hãy tưởng tượng là tôi bị kích động như thế nào bởi lời tâm sự nửa vời về "các hành tinh khác" ấy.	Képzelhetni, hogy izgatott ez az elharapott vallomás a "másik bolygóról".	0.0728571
+Vì vậy, tôi cố tìm hiểu rõ hơn:	Próbáltam hát többet is megtudni.	0.282353
 - Cậu em, em từ đâu đến?	- Honnét jöttél, emberkém?	0.9
-"Quê em" là đâu thế?	Hol van az az „odahaza”?	0.273913
+"Quê em" là đâu thế?	Hol van az az "odahaza"?	0.271429
 Em muốn mang con cừu của ta về đâu.	Hová akarod magaddal vinni a bárá­nyo­mat?	0.260526
 Sau một lát im lặng trầm ngâm, em trả lời tôi:	Tűnődve hallgatott, aztán azt mondta:	0.194595
- ~~~ - Thuận lợi nhất, với cái thùng ông cho tôi, là ban đêm, cừu có thể dùng nó làm nhà ở.	- Az a jó ebben a ládában, amit adtál, hogy éjszakára háznak is megfelel neki.	0.05
+- Thuận lợi nhất, với cái thùng ông cho tôi, là ban đêm, cừu có thể dùng nó làm nhà ở.	- Az a jó ebben a ládában, amit adtál, hogy éjszakára háznak is megfelel neki.	0.4
 - Được chứ.	- Persze, persze.	1.05
 Em mà ngoan, ta còn cho em một sợi dây để buộc cừu ban ngày.	Ha jó leszel, kötelet is adok, amivel megkötheted.	0.204255
 Và một cái cọc nữa.	Meg egy karót.	0.0857143
 Lời đề nghị đó có vẻ làm cậu hoàng tử không vừa lòng:	Ajánlatom szemlátomást meghökkentette a kis herceget.	0.237736
- ~~~ - Buộc?	- Megkötni?	0.45
-Ôi! ~~~ Ngộ nghĩnh chưa!	Milyen ostoba ötlet!	-0.00789474
+- Buộc? ~~~ Ôi!	- Megkötni?	0.45
+Ngộ nghĩnh chưa!	Milyen ostoba ötlet!	0.284211
 - Nhưng không buộc, nó sẽ đi lung tung, đi lạc...	- De ha nem kötöd meg, elkószál, elvész...	0.560163
- ~~~ Rồi người bạn mới của tôi tức thì lại bật cười: ~~~ 		-0.3
+Rồi người bạn mới của tôi tức thì lại bật cười:		-0.3
 - Nó đi đằng nào được cơ chứ?	Kis barátom erre megint fölkacagott.	0.291429
 - Bất cứ đâu.	- Elkószál?	1.20769
-Cứ đi thẳng... ~~~ 	Hová?	-0.235714
+Cứ đi thẳng...	Hová?	-0.171429
 - Bất cứ đâu.	- Mit tudom én.	0.835714
 Cứ đi thẳng...	Az orra után...	0.24
- ~~~ Đến đó, cậu hoàng tử nghiêm trang nhận xét:	A kis herceg elkomolyodott.	-0.15
- ~~~ - Không hề gì.	- Annyi baj legyen.	0.290625
-Quê tôi bé lắm! ~~~ Rồi, với một chút xíu ngậm ngùi, có lẽ thế, em nói thêm: ~~~  ~~~ - Nếu mà cứ đi thẳng thì chẳng lấy gì làm xa... ~~~  ~~~  ~~~  ~~~  ~~~ 	Hiszen nálam odahaza olyan kicsi minden... - És mintha egy kis szomo­rú­ság bujkált volna a hangjában, ahogy hozzátette: - Nem valami sokáig mehet az orra után az ember...	-0.263415
+Đến đó, cậu hoàng tử nghiêm trang nhận xét:	A kis herceg elkomolyodott.	0
+- Không hề gì.	- Annyi baj legyen.	0.88125
+Quê tôi bé lắm! ~~~ Rồi, với một chút xíu ngậm ngùi, có lẽ thế, em nói thêm: ~~~ - Nếu mà cứ đi thẳng thì chẳng lấy gì làm xa...	Hiszen nálam odahaza olyan kicsi minden... - És mintha egy kis szomo­rú­ság bujkált volna a hangjában, ahogy hozzátette: - Nem valami sokáig mehet az orra után az ember...	-0.134483
 IV	4.	0.3
-		-0.3
- ~~~ Vậy đấy, tôi biết được một điều nữa thật quan trọng: Rằng cái hành tinh quê quán của cậu em chỉ nhỉnh hơn cái nhà có một chút!	Így tudtam meg egy másik fontos dolgot: hogy a bolygó, ahonnét jött, alig nagyobb egy háznál.	-0.101163
+Vậy đấy, tôi biết được một điều nữa thật quan trọng: Rằng cái hành tinh quê quán của cậu em chỉ nhỉnh hơn cái nhà có một chút!	Így tudtam meg egy másik fontos dolgot: hogy a bolygó, ahonnét jött, alig nagyobb egy háznál.	0.0976744
 Điểu ấy chẳng làm được tôi ngạc nhiên nhiều lắm.	Ezen nem is kellett különösebben csodálkoznom.	0.208696
 Tôi vẫn biết ngoài các hành tinh lớn như Trái Đất, Sao Kim, Sao Hỏa, Sao Thủy, mà người ta đặt tên cho, có hàng trăm ngôi sao khác, đôi khi bé đến nỗi người ta lấy kính nhìn xa ra soi cũng khó thấy.	Hiszen tudtam, hogy a nagy bolygókon kívül, amilyen a Föld, a Jupiter, a Mars, a Vénusz, s aminek mind megvan a maga neve, van még száz és száz más bolygó is, és köztük egyik-másik olyan parányi, hogy távcsövön is csak alig-alig lehet kivenni.	0.278155
 Khi một nhà thiên văn khám phá ra một trong bọn chúng, nhà thiên văn ấy cho nó một con số.	Ha egy csillagász fölfedezi valamelyiket, név helyett egyszerűen számot ad neki.	0.232895
-Ví dụ ông gọi nó là "thiên thạch 3251".	Például elkereszteli „a 3251. kisbolygó”-nak.	0.25814
+Ví dụ ông gọi nó là "thiên thạch 3251".	Például elkereszteli "a 3251. kisbolygó"-nak.	0.286047
 Tôi có những lí do chính đáng để tin rằng cái hành tinh của cậu hoàng tử, từ đó cậu đến đây, là thiên thạch B.612.	Minden okom megvan rá, hogy azt higgyem: a bolygó, ahonnét a kis herceg jött, a B-612-es kisbolygó.	0.17191
 Thiên thạch đó chỉ được trông thấy có một lần trong kính nhìn xa, năm 1909, bởi một nhà thiên văn Thổ.	Távcsövön ezt a csillagocskát csak egyetlenegyszer észlelték: 1909-ben egy török csillagász.	0.231522
 Ông ta liền lí giải ồn ào về sự khám phá của mình tại một hội nghị quốc tế về Thiên văn.	Fölfedezéséről akkor nagy előadást tartott a Nemzetközi Csillagászati Kongresszuson.	0.24
@@ -201,11 +176,12 @@ Nhà thiên văn làm lại cuộc trình bày năm 1920, trong một bộ quầ
 Và lần này, tất cả mọi người đồng ý với ông ta.	És ezúttal egyet is értett vele mindenki.	0.161538
 Nếu tôi kể với các bạn tỉ mỉ về thiên thạch B.612, và nếu tôi rỉ tai với các bạn về con số của nó, ấy là tại các người lớn.	Csak a fölnőttek miatt mesélem el ezeket a részleteket a B-612-es kisbolygóról, és a számát is csak miattuk árultam el; a fölnőttek ugyanis szeretik a számokat.	0.285211
 Các người lớn thích chữ số.	Ha egy új barátunkról be­szélünk nekik, sosem a lényeges dolgok felől kérdezősködnek.	-0.158824
-Khi bạn nói chuyện với họ về một người bạn mới, không bao giờ họ hỏi bạn về cái chính đâu. ~~~ Họ không bao giờ hỏi: "Giọng nói hắn ta thế nào ?	Sosem azt kérdezik: „Milyen a hangja?” „Mik a kedves játékai?” „Szokott-e lepkét gyűjteni?” Ehelyett azt tudakolják: „Hány éves?” „Hány testvére van?” „Hány kiló?” „Mennyi jövedelme van a papájának?” És csak ezek után vélik úgy, hogy ismerik.	-0.0875776
-Hắn ta thích chơi trò gì ? ~~~ Hắn ta có tập sưu tầm bươm bướm không?" ~~~ Họ chỉ hỏi bạn: "Hắn ta bao nhiêu tuổi? ~~~ Hắn ta có mấy anh em? ~~~ Hắn ta bao nhiêu cân?	Ha azt mondjuk a fölnőtteknek: „Láttam egy szép házat, rózsaszínű téglából épült, ablakában muskátli, tetején galambok...” - sehogy sem fogják tudni elképzelni ezt a házat.	-0.232174
-Bố hắn ta lương bao nhiêu?" ~~~ Thế. ~~~ Sau đó, họ cho vậy là họ hiểu hắn ta rồi.	Azt kell mondani nekik: „Láttam egy százezer frankot érő házat.” Erre aztán fölkiáltanak: „Ó, milyen szép!”	-0.201818
-Nếu bạn nói với những người lớn: " Tôi có thấy một cái nhà bằng gạch màu hồng, với hoa phong lữ trên cửa sổ, và chim bồ câu trên mái..." họ chẳng làm thế nào hình dung nổi nhà ấy như thế nào đâu. ~~~ Phải nói với họ: "Tôi có thấy một cái nhà mười vạn đồng". ~~~ Họ sẽ kêu lên ngay: " - Ôi, thật là đẹp!".	Ugyanígy, ha azt mondanánk nekik: „Íme a bizonyság arról, hogy a kis herceg létezett: elraga­dó teremtés volt, és nevetett, és egy bárányt akart; s ha valaki bárányt akar, akkor ez nyilván­való bizonyság rá, hogy létezik” - ha ezt mondanánk nekik, vállat vonnának, és gyereknek tartanák az embert.	-0.101418
-Như vậy đó, nếu các bạn bảo họ: "Cậu hoàng tử là có thật, chứng cớ là cậu ta rất đẹp, cậu ta cười và cậu ta thích có một con cừu.	Ha ellenben azt mondjuk nekik: „A bolygó, ahonnét jött, a B-612-es kisbolygó” - ez meggyőzi őket, és békén hagynak a kérdéseikkel.	0.247619
+Khi bạn nói chuyện với họ về một người bạn mới, không bao giờ họ hỏi bạn về cái chính đâu. ~~~ Họ không bao giờ hỏi: "Giọng nói hắn ta thế nào ?	Sosem azt kérdezik: "Milyen a hangja?" "Mik a kedves játékai?" "Szokott-e lepkét gyűjteni?" Ehelyett azt tudakolják: "Hány éves?" "Hány testvére van?" "Hány kiló?" "Mennyi jövedelme van a papájának?" És csak ezek után vélik úgy, hogy ismerik.	-0.0614907
+Hắn ta thích chơi trò gì ? ~~~ Hắn ta có tập sưu tầm bươm bướm không?" ~~~ Họ chỉ hỏi bạn: "Hắn ta bao nhiêu tuổi?	Ha azt mondjuk a fölnőtteknek: "Láttam egy szép házat, rózsaszínű téglából épült, ablakában muskátli, tetején galambok..." - sehogy sem fogják tudni elképzelni ezt a házat.	-0.182609
+Hắn ta có mấy anh em? ~~~ Hắn ta bao nhiêu cân? ~~~ Bố hắn ta lương bao nhiêu?" ~~~ Thế.	Azt kell mondani nekik: "Láttam egy százezer frankot érő házat." Erre aztán fölkiáltanak: "Ó, milyen szép!"	-0.220755
+Sau đó, họ cho vậy là họ hiểu hắn ta rồi. ~~~ Nếu bạn nói với những người lớn: " Tôi có thấy một cái nhà bằng gạch màu hồng, với hoa phong lữ trên cửa sổ, và chim bồ câu trên mái..." họ chẳng làm thế nào hình dung nổi nhà ấy như thế nào đâu.	Ugyanígy, ha azt mondanánk nekik: "Íme a bizonyság arról, hogy a kis herceg létezett: elraga­dó teremtés volt, és nevetett, és egy bárányt akart; s ha valaki bárányt akar, akkor ez nyilván­való bizonyság rá, hogy létezik" - ha ezt mondanánk nekik, vállat vonnának, és gyereknek tartanák az embert.	-0.00795455
+Phải nói với họ: "Tôi có thấy một cái nhà mười vạn đồng". ~~~ Họ sẽ kêu lên ngay: " - Ôi, thật là đẹp!".	Ha ellenben azt mondjuk nekik: "A bolygó, ahonnét jött, a B-612-es kisbolygó" - ez meggyőzi őket, és békén hagynak a kérdéseikkel.	-0.00775862
+Như vậy đó, nếu các bạn bảo họ: "Cậu hoàng tử là có thật, chứng cớ là cậu ta rất đẹp, cậu ta cười và cậu ta thích có một con cừu.		-0.3
 Khi người ta thích có một con cừu, thế là có người ấy chứ!	Egyszerűen ilyenek; még csak haragudni sem kell rájuk miatta.	0.252632
 ", họ sẽ nhún vai và cho bạn là trẻ con!	A gyerekeknek nagyon elnézőknek kell lenniük a fölnőttek iránt.	0.157143
 Nhưng nếu bạn bảo họ: "Cái hành tinh từ đó cậu ấy đi đến đây là thiên thạch B.612", thế là họ nghe ra ngay, và thôi không phá quấy bạn với các câu hỏi của họ nữa.		-0.3
@@ -214,8 +190,8 @@ Trẻ con phải hết sức rộng lượng đối với người lớn.	Ezt a 
 Phải, đúng thế.	Ilyesformán:	0.171429
 Đối với bọn ta là những người hiểu cuộc sống, chúng ta cóc cần những con số thứ tự!		-0.3
 Giá tôi bắt đầu kể câu chuyện này như cách một câu chuyện thần tiên thì thích hơn.		-0.3
-Thích hơn, giá tôi nói: ~~~ 	„Hol volt, hol nem volt, volt egyszer egy kis herceg.	-0.111111
-"Xưa có một lần, một cậu hoàng tử ở một căn nhà chỉ lớn hơn cậu ấy có một tẹo, cậu ấy thấy cần có một người bạn thân..." Đối với những ai hiểu cuộc sống, kể như vậy có vẻ thật hơn nhiều.	Ez a kis herceg egy parányi bolygócskán lakott, olyan parányin, hogy a bolygója alig volt nagyobb nála; ezen a bolygón élt, és nagyon szerette volna, ha van egy jó barátja...” Azoknak, akik értik az életet, ez így sokkal igazabbul hangzott volna.	0.295909
+Thích hơn, giá tôi nói:	"Hol volt, hol nem volt, volt egyszer egy kis herceg.	0.06
+"Xưa có một lần, một cậu hoàng tử ở một căn nhà chỉ lớn hơn cậu ấy có một tẹo, cậu ấy thấy cần có một người bạn thân..." Đối với những ai hiểu cuộc sống, kể như vậy có vẻ thật hơn nhiều.	Ez a kis herceg egy parányi bolygócskán lakott, olyan parányin, hogy a bolygója alig volt nagyobb nála; ezen a bolygón élt, és nagyon szerette volna, ha van egy jó barátja..." Azoknak, akik értik az életet, ez így sokkal igazabbul hangzott volna.	0.298636
 Bởi vì tôi không muốn người ta đọc cuốn sách của tôi dễ dãi quá.	Mert semmiképp sem szeretném, ha félvállról vennék a könyvemet.	0.247619
 Khi kể lại các kỉ niệm này, tôi tủi cực biết bao.	Hiszen úgy elfog a bánat, mikor ezeket az emlékeimet elmesélem.	0.283929
 Sáu năm đã qua, từ khi cậu bạn thân thiết của tôi đi mất với con cừu của em.	Hat esztendeje már, hogy a barátom búcsút vett tőlem a bárányával.	0.212308
@@ -238,26 +214,26 @@ Nhưng về điều này, các bạn cần tha lỗi cho tôi.	Végül bizonyos 
 Cậu bạn thân tôi không hề giảng giải gì cho tôi.	Ezt azonban meg kell bocsátanotok nekem.	0.162162
 Có lẽ em cho là tôi cũng như em. ~~~ Nhưng tôi thật không may, tôi đâu có nhìn thấy được các con cừu xuyên qua những cái hòm.	Barátom sosem magya­rázkodott; talán azt hitte, én is olyan vagyok, amilyen ő. Nekem azonban, sajnos, nem volt semmiféle tehetségem hozzá, hogy meglássam ládájuk fáján keresztül a bárányokat.	-0.0644531
 Có lẽ tôi hơi hơi giống các người lớn.	Ki tudja, nem vagyok-e egy kicsit magam is olyan, mint a fölnőttek?	0.206667
-Chắc tôi bắt đầu già. ~~~ V	Alighanem megöregedtem.	-0.01875
- ~~~ 	5.	0
+Chắc tôi bắt đầu già.	Alighanem megöregedtem.	0.2625
+V	5.	0.15
 Mỗi ngày qua, tôi biết thêm một điều về hành tinh, về lúc ra đi, về cuộc đi của cậu.	Naponta megtudtam valamit a bolygójáról, az útrakeléséről, az utazásáról.	0.228947
 Biết lần hồi, theo dòng ngẫu nhiên của suy nghĩ.	Szép lassacskán, egy-egy elejtett megjegyzés jóvoltából.	0.271698
-Như vậy đó, ngày thứ ba thì tôi rõ tấn bi kịch của những cây bao-bá.	Így szereztem tudomást harmadnap a majomkenyérfák drámájáról.	0.248437
-Lần này nữa, cũng là nhờ con cừu, vì đột nhiên, cậu hoàng tử hỏi tôi, rất phân vân: ~~~ 	Ezt is a báránynak köszönhettem, mert a kis herceg, mintha valami súlyos kétsége támadt volna, hirtelen azt kérdezte tőlem:	-0.03125
+Như vậy đó, ngày thứ ba thì tôi rõ tấn bi kịch của những cây bao-bá.	Így szereztem tudomást harmadnap a majomkenyérfák drámájáról.	0.248438
+Lần này nữa, cũng là nhờ con cừu, vì đột nhiên, cậu hoàng tử hỏi tôi, rất phân vân:	Ezt is a báránynak köszönhettem, mert a kis herceg, mintha valami súlyos kétsége támadt volna, hirtelen azt kérdezte tőlem:	0.229787
 - Có thật đúng là cừu ăn cây con không?	- Igaz, hogy a bárányok cserjéket esznek?	0.651923
 - Phải.	- Igaz.	1.21429
 Đúng đấy. ~~~ - Ôi.	- Ó, akkor jól van.	0.2
 Tốt quá! ~~~ Tôi không hiểu ngay tại sao những con cừu phải ăn cây con lại quan trọng như thế.	Sehogyan sem értettem, miért olyan fontos, hogy a bárányok cserjéket egyenek.	-0.0267123
 Nhưng cậu hoàng tử nói thêm:	A kis herceg azonban hozzátette:	0.28
- ~~~ - Cho nên chúng ăn cả những cây bao-bá chứ?	- Szóval a majomkenyérfákat is megeszik?	0.187363
+- Cho nên chúng ăn cả những cây bao-bá chứ?	- Szóval a majomkenyérfákat is megeszik?	0.674725
 Tôi nói rõ với cậu em rằng cây bao-bá không phải loài cây con, mà là những cây to như cả cái nhà thờ, và cậu em có mang theo cả một đàn voi, thì cả đàn voi ấy cũng chẳng làm gì xuể chỉ mỗi một cây bao-bá.	Erre megjegyeztem neki, hogy a majomkenyérfák nem cserjék, hanem hatalmas, templom­torony nagyságú fák, és magával vihetne akár egy csordára való elefántot is: egyetlenegy majomkenyérfával sem bírnának el.	0.269543
-Ý nghĩ về đàn voi làm cho cậu hoàng tử bật cười: ~~~  ~~~ 	Az elefántcsorda ötlete megnevettette a kis herceget.	-0.11
- ~~~ - Phải chồng con này lên con kia...	- Egymás tetejébe kellene rakni őket...	0.201429
- ~~~ Nhưng rất tinh khôn, cậu em nhận xét:	Hanem aztán komolyan azt mondta:	-0.05
- ~~~ - Bọn bao-bá, trước khi lớn, cũng từng bé tẹo chứ?	- Mielőtt megnőnek, a majomkenyérfák is úgy kezdik, hogy kicsinyek.	0.117943
+Ý nghĩ về đàn voi làm cho cậu hoàng tử bật cười:	Az elefántcsorda ötlete megnevettette a kis herceget.	0.27
+- Phải chồng con này lên con kia...	- Egymás tetejébe kellene rakni őket...	0.702857
+Nhưng rất tinh khôn, cậu em nhận xét:	Hanem aztán komolyan azt mondta:	0.2
+- Bọn bao-bá, trước khi lớn, cũng từng bé tẹo chứ?	- Mielőtt megnőnek, a majomkenyérfák is úgy kezdik, hogy kicsinyek.	0.535885
 - Đúng thế.	- Pontosan így van!	0.964286
 Nhưng sao em lại cứ muốn cho các con cừu của em ăn những cây bao-bá?	De miért akarod, hogy a bárányok megegyék a majomkenyérfákat?	0.245
-Em trả lời: "Hi! ~~~ Thế thôi!" ~~~ như đó là một chuyện tất nhiên.	Azt felelte: „Miért ne?” - mintha valami nyilvánvaló dologról volna szó.	-0.141176
+Em trả lời: "Hi! ~~~ Thế thôi!" ~~~ như đó là một chuyện tất nhiên.	Azt felelte: "Miért ne?" - mintha valami nyilvánvaló dologról volna szó.	-0.133333
 Tôi phải bắt trí thông minh của tôi làm việc dữ dội mới tự tôi hiểu được vấn đề ấy.	Alaposan össze kellett szednem az eszemet, hogy magamtól jussak a probléma nyitjára.	0.215385
 Nguyên trên hành tinh của cậu hoàng tử, cũng như trên mọi hành tinh khác, đều có những loại cỏ tốt và những loại cỏ xấu. ~~~ Do đó, có hạt tốt của cỏ tốt và hạt xấu của cỏ xấu.	Nos, mint minden bolygón, a kis hercegén is voltak jó növények meg rossz növények; tehát voltak jó növényektől származó jó magvak meg rossz növényektől származó rossz magvak is.	-0.0236842
 Nhưng không nhìn thấy hạt.	A magvak azonban láthatatlanok.	0.3
@@ -276,40 +252,39 @@ Và nếu hành tinh mà bé quá, và nếu cây bao-bá mà nhiều quá, bao-
 Một việc ta hoãn đến hôm sau hãy làm, đôi khi cũng chẳng hại gì.	Néha semmi baj sem származik belőle, ha valamilyen munkát későbbre halasztunk.	0.278571
 Nhưng nếu là những cây bao-bá, thì bao giờ cũng tai họa đấy.	De mindig végzetes következményekkel jár, ha a majomkenyérfákról van szó.	0.268182
 Tôi có biết một hành tinh, trên hành tinh ấy là một cậu bé lười.	Tudok egy bolygót: lusta gazdája volt, figyelmen kívül hagyott három cserjét...	0.278873
-Hắn ta bỏ bẵng ba cái cây con..." ~~~  ~~~ 		-0.3
-		0.3
+Hắn ta bỏ bẵng ba cái cây con..."		-0.3
 Thế là, theo những điều chỉ dẫn của cậu hoàng tử, tôi đã vẽ cái hành tinh đó.		-0.3
 Tôi tuyệt không thích lên giọng dạy đời.	Itt van, ezt a bolygót rajzoltam a kis herceg útmutatásai szerint.	0.217021
-Nhưng cái họa bao-bá còn ít người biết quá, mà những hiểm nguy một cậu bé một mai lạc vào một thiên thạch gặp phải thì nhiều, nên lần này, ngoại lệ, tôi không giữ gìn nữa. ~~~ Tôi nói: "Hỡi các em!	Sosem szerettem az erkölcsi intelmek modorában írni; a majomkenyérfák veszedelmét azonban olyan kevéssé ismerik, és azt, aki netán egy kisbolygóra tévedne, akkora kockázat fenyegeti, hogy ezúttal kivételesen legyőzöm a viszolygásomat, és azt mondom: „Gyerekek!	-0.0237209
-Các em phải để phòng bọn bao-bá!". ~~~ Ấy chính là để báo trước cho các bạn của tôi về một nguy cơ mà các bạn cũng như tôi vẫn đi gần kể, mà tôi cặm cụi biết bao để vẽ bức vẽ đó!	Ügyeljetek a majomkenyérfákra!” Azért dolgoztam annyit ezen a rajzon, hogy figyelmeztessem barátaimat egy veszélyre, melyet nem ismernek, noha régtől fogva ott leselkedik a sarkukban, akárcsak az enyémben.	-0.00625
+Nhưng cái họa bao-bá còn ít người biết quá, mà những hiểm nguy một cậu bé một mai lạc vào một thiên thạch gặp phải thì nhiều, nên lần này, ngoại lệ, tôi không giữ gìn nữa. ~~~ Tôi nói: "Hỡi các em!	Sosem szerettem az erkölcsi intelmek modorában írni; a majomkenyérfák veszedelmét azonban olyan kevéssé ismerik, és azt, aki netán egy kisbolygóra tévedne, akkora kockázat fenyegeti, hogy ezúttal kivételesen legyőzöm a viszolygásomat, és azt mondom: "Gyerekek!	-0.0223256
+Các em phải để phòng bọn bao-bá!". ~~~ Ấy chính là để báo trước cho các bạn của tôi về một nguy cơ mà các bạn cũng như tôi vẫn đi gần kể, mà tôi cặm cụi biết bao để vẽ bức vẽ đó!	Ügyeljetek a majomkenyérfákra!" Azért dolgoztam annyit ezen a rajzon, hogy figyelmeztessem barátaimat egy veszélyre, melyet nem ismernek, noha régtől fogva ott leselkedik a sarkukban, akárcsak az enyémben.	-0.00789474
 Bài học mà tôi rút ra đáng cho tôi cố công.	A tanulság, melyet nyújtok, megérte a fáradságot.	0.280435
-Có lẽ bạn sẽ tự hỏi: Tại sao trong cuốn sách này không có bức vẽ nào to lớn bằng bức vẽ những cây bao-bá? ~~~ Câu trả lời giản dị thôi: Tôi có thử vẽ nhưng đã không thành.	Lehet, hogy fölteszitek majd a kérdést: „Miért nincs több ilyen nagyszabású rajz a könyvben, amilyen a majomkenyérfáké?” Erre egyszerű a válasz: „Próbálni próbáltam, de nem sikerült.	-0.00576923
-Khi vẽ cây bao-bá, ý nghĩ về một cái gì rất khẩn cấp thúc giục tôi. ~~~ VI	Amikor a majomkenyérfákat rajzoltam, lelkesí­tett az az érzés, hogy sürgősen kell cselekednem .”	-0.0303797
- ~~~ 	6.	0
+Có lẽ bạn sẽ tự hỏi: Tại sao trong cuốn sách này không có bức vẽ nào to lớn bằng bức vẽ những cây bao-bá? ~~~ Câu trả lời giản dị thôi: Tôi có thử vẽ nhưng đã không thành.	Lehet, hogy fölteszitek majd a kérdést: "Miért nincs több ilyen nagyszabású rajz a könyvben, amilyen a majomkenyérfáké?" Erre egyszerű a válasz: "Próbálni próbáltam, de nem sikerült.	-0.0110795
+Khi vẽ cây bao-bá, ý nghĩ về một cái gì rất khẩn cấp thúc giục tôi.	Amikor a majomkenyérfákat rajzoltam, lelkesí­tett az az érzés, hogy sürgősen kell cselekednem ."	0.228
+VI	6.	0.3
 Ôi! ~~~ Cậu hoàng tử ơi, dần dà, như vậy đó, tôi hiểu ra cuộc đời nhỏ nhoi, man mác của em.	Így aztán, hercegecském, apránként megértettem szomorú kis életedet.	-0.0471429
 Để đùa chơi, bao lâu em chỉ có mỗi ánh dịu dàng khi mặt trời sắp tắt.	Sokáig nem volt egyéb szórakozásod, mint a naplementék szelíd szépsége.	0.270423
-Vào sáng ngày thứ tư thì tôi biết được nét mới đó, khi em bảo tôi: ~~~ 	Ezt az újabb részletet negyednap reggel tudtam meg, amikor azt mondtad:	-0.0234375
+Vào sáng ngày thứ tư thì tôi biết được nét mới đó, khi em bảo tôi:	Ezt az újabb részletet negyednap reggel tudtam meg, amikor azt mondtad:	0.253125
 - Tôi rất thích cảnh mặt trời lặn.	- Nagyon szeretem a naplementéket.	0.725
 Ta đi xem mặt trời lặn đi.	Gyerünk, nézzünk meg egy naplementét...	0.186207
-- Phải đợi chứ... ~~~ 	- De ahhoz várni kell...	0.3
+- Phải đợi chứ...	- De ahhoz várni kell...	0.9
 - Đợi cái gì?	- Várni? ~~~ Mit?	0.383333
 - Đợi lúc mặt trời nó lặn.	- Hát hogy lemenjen a nap.	0.61118
 Thoạt tiên em có vẻ rất kinh ngạc, và rồi em cười em. ~~~ Và em bảo tôi:	Először meglepetés látszott az arcodon, aztán nevettél egyet magadon.	-0.0154412
- ~~~ - Tôi cứ tưởng còn ở nhà!	- Folyton azt hiszem, hogy otthon vagyok!	0.1575
+- Tôi cứ tưởng còn ở nhà!	- Folyton azt hiszem, hogy otthon vagyok!	0.615
 Thế đấy.	- mondtad.	0.21
 Khi là buổi trưa ở nước Mỹ thì ai cũng biết là mặt trời đang lặn ở nước Pháp.	Nos: mikor az Egyesült Államokban dél van, Franciaországban köztudomásúlag éppen le­megy a nap.	0.286517
 Chỉ cần đi một phút mà đến được nước Pháp là dự được cảnh mặt trời lặn.	Az embernek elég lenne egyetlen szempillantás alatt Franciaországban teremnie, hogy napnyugtát lásson.	0.28022
 Không may là nước Pháp ở xa quá.	Ehhez azonban Franciaország, sajnos, túlságosan messze van.	0.111429
 Nhưng, trên cái hành tinh bé đến thế của em, em chỉ cần dịch ghế vài bước.	Neked viszont, a parányi bolygódon, egyéb sem kellett, mint pár lépéssel odébb húznod a székedet.	0.263855
-Khi nào em thích là em nhìn thấy mặt trời lặn... ~~~ 	S annyiszor láttad a naplementét, ahányszor csak akartad...	-0.00849057
+Khi nào em thích là em nhìn thấy mặt trời lặn...	S annyiszor láttad a naplementét, ahányszor csak akartad...	0.270588
 - Có một ngày, tôi thấy mặt trời lặn bốn mươi ba lần!	- Volt egy nap, amikor negyvenháromszor láttam lemenni a napot!	0.551675
 Một chốc sau đó, em nói thêm:	Kisvártatva hozzátetted:	0.230769
- ~~~ - Ông biết đấy... khi người ta buồn quá, người ta thích cảnh mặt trời lặn...	- Tudod, az ember, ha olyan nagyon-nagyon szomorú, szereti a naplementéket...	0.0907143
- ~~~ - Ngày có bốn mươi ba lần ấy, em buồn đến thế sao ?	- Hát annyira szomorú voltál azon a negyvenháromszoros napon?	0.144643
-Nhưng cậu hoàng tử không trả lời. ~~~ VII	Erre azonban a kis herceg nem felelt.	-0.0328125
- ~~~ 	7.	0
+- Ông biết đấy... khi người ta buồn quá, người ta thích cảnh mặt trời lặn...	- Tudod, az ember, ha olyan nagyon-nagyon szomorú, szereti a naplementéket...	0.481429
+- Ngày có bốn mươi ba lần ấy, em buồn đến thế sao ?	- Hát annyira szomorú voltál azon a negyvenháromszoros napon?	0.589286
+Nhưng cậu hoàng tử không trả lời.	Erre azonban a kis herceg nem felelt.	0.234375
+VII	7.	0.2
 Ngày thứ năm, vẫn là nhờ ở con cừu, tôi biết được cái bí mật ấy của cuộc đời cậu hoàng tử.	Az ötödik napon, változatlanul a bárány jóvoltából, föltárult előttem a kis herceg életének ez a titka is.	0.288462
-Không cần mào đầu, em hỏi giật tôi như hỏi đáp số của một bài tính vốn im lặng suy nghĩ đã lâu rồi: ~~~ 	Hirtelen, minden bevezetés nélkül, mintha előzőleg sokáig töprengett volna a dolgon, halkan azt kérdezte tőlem:	-0.00700935
+Không cần mào đầu, em hỏi giật tôi như hỏi đáp số của một bài tính vốn im lặng suy nghĩ đã lâu rồi:	Hirtelen, minden bevezetés nélkül, mintha előzőleg sokáig töprengett volna a dolgon, halkan azt kérdezte tőlem:	0.285981
 - Một con cừu, nó ăn cây con, tất nó cũng ăn hoa chứ?	- Ha a bárány cserjéket eszik, megeszi a virágokat is?	0.542727
 - Cừu thì gặp cái gì nó ăn cái ấy.	- A bárány mindent megeszik, ami az útjába akad.	0.544737
 - Cả bông hoa có gai nó cũng ăn ư?	- Az olyan virágot is, amelyiknek tüskéje van?	0.553922
@@ -321,39 +296,39 @@ Tôi bấy giờ đang rất bận tháo một đinh ốc vặn chặt quá tron
 Tôi lo quá vì thấy cái máy có vẻ hỏng nặng lắm, mà nước uống thì cạn dần, làm cho tôi sợ xảy ra điều tệ hại nhất.	Tele voltam aggodalommal: gépem hibája egyre súlyosabbnak látszott, ivóvizem meg folyton fogyott, úgyhogy a legrosszabbtól kellett tartanom.	0.293023
 - Gai, gai thì dùng để làm gì?	- Mire valók a tüskék?	0.677273
 Cậu hoàng tử mà đã đặt một câu hỏi nào là không bao giờ chịu bỏ.	Ha egyszer egy kérdést föltett, a kis herceg soha nem tágított tőle többé.	0.283099
-Đang bực mình vì chiếc đinh ốc của tôi, tôi trả lời liều: ~~~ 	Én meg, mert nagyon bosszantott az a csavar, csak úgy vaktában válaszoltam:	-0.00220588
+Đang bực mình vì chiếc đinh ốc của tôi, tôi trả lời liều:	Én meg, mert nagyon bosszantott az a csavar, csak úgy vaktában válaszoltam:	0.286364
 - Gai, nó chẳng dùng được vào việc gì sất.	- A tövisek nem valók semmire.	0.514286
 Nó chỉ là cái áo của loài hoa thôi!	A tövis puszta gonoszság a virág részéről.	0.260526
 - Ôi chao!	- Ó!	1
 Nhưng sau một lát lặng im, cậu em chảu môi lại phía tôi, vẻ hờn đỗi:	- De némi hallgatás után, már-már ingerülten vetette oda: - Nem hiszem!	0.259701
- ~~~ - Tôi không tin!	A virágok gyöngék.	-0.0166667
+- Tôi không tin!	A virágok gyöngék.	0.225
 Loài hoa, chúng yếu lắm.	Gyanútlanok.	0.0214286
 Chúng ngây thơ lắm.	Úgy védekeznek ahogy tudnak.	0.218182
 Chỉ là chúng cố tự làm cho chúng được vững tâm.	Félelmetesnek képzelik magukat a tüskéikkel.	0.233333
 Chúng cho là với những cái gai, chúng đã ghê gớm lắm.		-0.3
 Tôi không trả lời gì cả.	Nem feleltem.	-0.0692308
-Lúc ấy, tôi nói thầm: "Cái đinh ốc này, mày mà cưỡng lại ông, ông quại mày một nhát búa". ~~~ Cậu hoàng tử một lần nữa làm xao lãng những suy nghĩ của tôi: ~~~ 	Éppen azt gondoltam magamban: „Ha ez a csavar semmiképp sem mozdul, ráverek a kalapáccsal, úgy ugratom ki a helyéből.” De a kis herceg újra megzavarta töpren­gésemet.	-0.107006
-- Ông, ông cho rằng loài hoa... ~~~ 	- És te, mondd, te is azt hiszed...	0.1825
+Lúc ấy, tôi nói thầm: "Cái đinh ốc này, mày mà cưỡng lại ông, ông quại mày một nhát búa". ~~~ Cậu hoàng tử một lần nữa làm xao lãng những suy nghĩ của tôi:	Éppen azt gondoltam magamban: "Ha ez a csavar semmiképp sem mozdul, ráverek a kalapáccsal, úgy ugratom ki a helyéből." De a kis herceg újra megzavarta töpren­gésemet.	-0.0147059
+- Ông, ông cho rằng loài hoa...	- És te, mondd, te is azt hiszed...	0.665
 - Không, không mà!	- Nem!	0.65
 Tôi có cho là gì đâu!	Nem! ~~~ Nem hiszek semmit.	0
 Tôi trả lời linh tinh thế thôi.	Csak úgy mondtam.	0
 Tôi, tôi đang bận vì những việc hệ trọng mà!	Én komoly dolgokkal foglalkozom.	0.106452
-Cậu nhìn tôi ngạc nhiên: ~~~ 	Elképedve nézett rám.	-0.0326087
+Cậu nhìn tôi ngạc nhiên:	Elképedve nézett rám.	0.234783
 - Những việc hệ trọng!	- Komoly dolgokkal?	0.9
 Cậu em nhìn thấy tôi tay cầm búa, các ngón đen nhẻm vì dầu máy, cúi xuống một vật đối với cậu xấu xí lắm.	Látta, ahogy kezemben a kalapáccsal, olajtól fekete ujjakkal görnyedek valami fölé, amit szerfölött rondának talált.	0.284071
 - Ông lại nói như các người lớn mất thôi!	- Úgy beszélsz, mint a fölnőttek.	0.601299
 Cậu ấy có hơi làm cho tôi xấu hổ.	Erre elszégyelltem magam.	0.144
 Nhưng, không xót thương, cậu em nói thêm:	Ő azonban könyörtelenül hozzátette:	0.252632
- ~~~ - Ông lẫn lộn hết... ông xáo trộn hết!	- Mindent összezavarsz... Mindent összekeversz...	0.236364
+- Ông lẫn lộn hết... ông xáo trộn hết!	- Mindent összezavarsz... Mindent összekeversz...	0.772727
 Cậu em thực sự bực tức.	Szemlátomást nagyon haragudott.	0.268966
 Em xõa tung ra trước gió mái tóc vàng óng:	Megrázta aranyhaját a szélben.	0.183871
- ~~~ - Tôi có biết một hành tinh, trên đó có một ông mặt mũi đỏ gay.	- Tudok egy bolygót, egy vörös képű uraság lakik rajta.	0.0910806
+- Tôi có biết một hành tinh, trên đó có một ông mặt mũi đỏ gay.	- Tudok egy bolygót, egy vörös képű uraság lakik rajta.	0.482161
 Ông ta không hề hít một bông hoa.	Az soha egyetlen virágot meg nem szagolt életében.	0.197143
 Không hề nhìn một vì sao.	Soha egyetlen csillagot meg nem nézett.	0.214286
 Không hề yêu một người nào.	Soha senkit nem szeretett.	0.1875
 Chẳng bao giờ làm cái gì khác những bài tính cộng.	Soha nem csinált egyebet, mint folyton csak számolt.	0.25625
-Thế mà suốt ngày, ông ta cứ lặp đi lặp lại như hệt ông: "Tôi là một người đứng đắn!	És egész álló nap azt hajtogatta, amit te mondtál az imént: „Én komoly ember vagyok!	0.2325
-Tôi là một người đứng đắn!	Én komoly ember vagyok!”, és csak úgy dagadt a kevélységtől.	0.0857143
+Thế mà suốt ngày, ông ta cứ lặp đi lặp lại như hệt ông: "Tôi là một người đứng đắn!	És egész álló nap azt hajtogatta, amit te mondtál az imént: "Én komoly ember vagyok!	0.223077
+Tôi là một người đứng đắn!	Én komoly ember vagyok!", és csak úgy dagadt a kevélységtől.	0.102857
 ", và cái đó làm ông ta ưỡn ngực ra.	Hát ember ez? ~~~ Dehogy ember!	-0.0666667
 Nhưng, ông ta đâu có phải là người, ông ta chỉ là cái nấm thôi!	Gomba!	-0.6
 - Cái gì?	- Micsoda!	1.3
@@ -366,8 +341,8 @@ Chiến tranh giữa loài cừu và loài hoa là chuyện không quan trọng 
 Không đứng đắn hơn, không quan trọng hơn những bài tính cộng của một cái ông to tướng mặt mũi đỏ gay hay sao?	Nem komolyabb és nem fontosabb, mint annak a kövér, vörös úrnak a számadásai?	0.113514
 Và tôi biết một cái hoa duy nhất trên đời không đâu có nó, ngoài cái hành tinh của tôi, thế mà một con cừu nhỏ có thể táp một cái như thế, và hủy nó, một sáng nào đó, rồi không mảy may chú ý là mình vừa làm cái gì, chuyện đó không quan trọng hay sao?	És ha én tudok egy virágot, egy egyetlen virágot az egész világon, olyat, amilyen sehol másutt nem létezik, egyedül csak az én bolygómon, aztán egy bárányka egy csapásra megsemmisítheti, csak úgy, anélkül, hogy akár csak sejtené is, hogy mit művel: ez talán nem fontos?	0.2796
 Em đỏ mặt nói tiếp:	Elpirult, folytatta:	0.24
- ~~~ - Khi một người yêu một đóa hoa, hoa ấy chỉ có một đóa thôi, trong hàng triệu hàng triệu ngôi sao, chừng ấy đủ làm cho anh sung sướng khi nhìn những ngôi sao.	- Ha valaki szeret egy virágot, amely csak egyetlen példányban létezik a csillagmilliókon: ez épp elég neki, hogy boldog legyen, ha a csillagokra pillant.	0.0297842
-Anh ta nghĩ thầm: "Đóa hoa của mình nó ở đâu đây..." Nhưng con cừu mà ăn cái hoa đi, thì anh ta sẽ thấy như là tất cả các ngôi sao bỗng nhiên đều tắt!	„Ott van valahol az én virágom” - gondolja magában. ~~~ De ha a bárány megeszi a virágot: ez az ő számára olyan, mintha hirtelen valamennyi csillag kialudnék.	-0.0133562
+- Khi một người yêu một đóa hoa, hoa ấy chỉ có một đóa thôi, trong hàng triệu hàng triệu ngôi sao, chừng ấy đủ làm cho anh sung sướng khi nhìn những ngôi sao.	- Ha valaki szeret egy virágot, amely csak egyetlen példányban létezik a csillagmilliókon: ez épp elég neki, hogy boldog legyen, ha a csillagokra pillant.	0.359568
+Anh ta nghĩ thầm: "Đóa hoa của mình nó ở đâu đây..." Nhưng con cừu mà ăn cái hoa đi, thì anh ta sẽ thấy như là tất cả các ngôi sao bỗng nhiên đều tắt!	"Ott van valahol az én virágom" - gondolja magában. ~~~ De ha a bárány megeszi a virágot: ez az ő számára olyan, mintha hirtelen valamennyi csillag kialudnék.	-0.0179577
 Và chuyện đó không quan trọng hay sao?	És ez talán nem fontos?	0.0545455
 Cậu em không nói được gì thêm.	Többet nem bírt mondani.	0.1625
 Thốt nhiên em bật lên nức nở.	Váratlanul kitört belőle a zokogás.	0.282353
@@ -378,8 +353,8 @@ Trên một ngôi sao, một hành tinh, hành tinh của tôi, Trái Đất, c�
 Tôi ôm em trong vòng tay tôi.	A karomba vettem, ringatni kezdtem.	0.257143
 Tôi ru em. ~~~ Tôi nói với em: "Đóa hoa mà em thích không phải đang gặp tai nạn đâu... Tôi sẽ vẽ một cái rọ mõm cho con cừu của em... Tôi sẽ vẽ một cái áo giáp cho đóa hoa của em... Tôi..." Tôi không biết nói với em thế nào nữa.	- Ne félj - mondtam neki -, semmi veszedelem nem fenyegeti a virágot, amit szeretsz... Száj­kosarat rajzolok a bárányodnak... A virágodnak meg rajzolok majd vértet... És... - Már nem is tudtam, mint mondjak neki.	-0.0276316
 Tôi cảm thấy tôi rất vụng về.	Nagyon ügyetlennek éreztem magam.	0.272727
-Tôi không biết làm sao đạt được đến em, đi đâu thì gặp lại em... Thật huyền bí làm sao, xứ sở của nước mắt. ~~~ VIII	Nem tudtam, hogyan férkőzzem hozzá, hogyan találjak közösséget vele... Olyan titokzatos világ a könnyek országa.	-0.0206422
- ~~~ 	8.	0
+Tôi không biết làm sao đạt được đến em, đi đâu thì gặp lại em... Thật huyền bí làm sao, xứ sở của nước mắt.	Nem tudtam, hogyan férkőzzem hozzá, hogyan találjak közösséget vele... Olyan titokzatos világ a könnyek országa.	0.258716
+VIII	8.	0.1
 Tôi tìm biết rất nhanh và rõ hơn về đóa hoa này.	Rövidesen jobban is megismerhettem ezt a virágot.	0.26087
 Trên hành tinh của cậu hoàng tử, vẫn có những bông hoa rất đơn giản, điểm trang bằng chỉ một hàng cánh, tuyệt chẳng chiếm nơi chiếm chỗ gì, và chẳng làm phiền ai.	A kis herceg bolygóján mindig voltak virágok, nagyon egyszerű virágok, egy sor szirommal, helyet is alig foglaltak, és nem zavartak senkit.	0.171429
 Một buổi sáng, chúng lộ ra trong cỏ rồi lại chết lịm đi vào chiều tối.	Reggel megjelentek a fűben, estére elhervadtak.	0.0666667
@@ -395,34 +370,34 @@ Hoa chỉ muốn ra đời trong hoàn cảnh rỡ ràng hương sắc.	Nem akar
 Hoa thật là điệu!	Nagyon kacér virág volt!	0.257143
 Cuộc trang điểm huyền bí của nó kéo dài rất nhiều ngày, rất nhiều ngày.	Így aztán hosszú napokon át tartott a titokzatos öltözködése.	0.208065
 Và rồi tới một sớm mai, đúng giờ mặt trời mọc, nó hiện ra.	Aztán egy hajnalban, éppen napkeltekor, végre megjelent.	0.222222
-Và cô ả, vốn đã chăm chút tỉa tót đến như thế, bây giờ vừa ngáp vừa nói: ~~~ 	Ásított egyet, és azt mondta, ő, aki olyan aggályos pontossággal dolgozott:	-0.025
+Và cô ả, vốn đã chăm chút tỉa tót đến như thế, bây giờ vừa ngáp vừa nói:	Ásított egyet, és azt mondta, ő, aki olyan aggályos pontossággal dolgozott:	0.25
 - Ôi! ~~~ Em chỉ vừa thức dậy... Em xin lỗi anh... Tóc tai em còn rũ rượi lắm...	- Ó, még szinte föl sem ébredtem... Elnézést kérek... Még meg se fésülködtem...	-0.00379747
- ~~~ Thế là cậu hoàng tử không nén nổi khâm phục: ~~~ 	A kis herceg nem bírta magába fojtani a csodálkozását:	-0.101923
+Thế là cậu hoàng tử không nén nổi khâm phục:	A kis herceg nem bírta magába fojtani a csodálkozását:	0.294118
 - Cô em đẹp thế!	- Milyen szép vagy!	0.883333
 - Thật ư anh - hoa trả lời dịu dàng.	- Ugye? ~~~ - felelte kedvesen a virág.	0.227273
 - Em sinh cùng lúc với mặt trời, anh biết không...	- És épp egyszerre születtem a nappal...	0.564474
- ~~~ Cậu hoàng tử đoán biết cô ả không lấy gì làm khiêm tốn lắm nhưng cô thật dễ làm cho người ta xúc động!	A kis herceg ebből könnyen kitalálta, hogy a virág nem valami szerény; viszont olyan meg­ható volt!	-0.0391304
-- Đã đến giờ điểm tâm, hình như thế phải không anh, - cô ả nói thêm ngay sau đó, - xin anh hãy nhớ đến em... ~~~ 	- Azt hiszem, épp most van a reggeli ideje - tette hozzá a virág kisvártatva. ~~~ - Volnál szíves gondoskodni rólam?	0.0214806
+Cậu hoàng tử đoán biết cô ả không lấy gì làm khiêm tốn lắm nhưng cô thật dễ làm cho người ta xúc động!	A kis herceg ebből könnyen kitalálta, hogy a virág nem valami szerény; viszont olyan meg­ható volt!	0.221739
+- Đã đến giờ điểm tâm, hình như thế phải không anh, - cô ả nói thêm ngay sau đó, - xin anh hãy nhớ đến em...	- Azt hiszem, épp most van a reggeli ideje - tette hozzá a virág kisvártatva. ~~~ - Volnál szíves gondoskodni rólam?	0.171481
 Thế là cậu hoàng tử, xấu hổ quá, đi lấy một chiếc ô-doa nước lã và dọn lên cho bông hoa.	A kis herceg pedig, mélységes zavarban, sietve kerített egy öntözőkannát, és kiszolgálta a virágot.	0.293814
 Như vậy đấy, cô ả đã làm cho cậu em lo nghĩ nhiều và nhanh chóng với tính kiêu kì hơi u ám của cô.	Az meg már mindjárt az elején zaklatni kezdte az ijedős hiúságával.	0.12
-Chẳng hạn một hôm, cô đã nói với cậu hoàng tử về bốn cái gai của mình: ~~~ 	Egy napon például, mikor a négy töviséről beszélt, azt mondta a kis hercegnek:	-0.0141892
+Chẳng hạn một hôm, cô đã nói với cậu hoàng tử về bốn cái gai của mình:	Egy napon például, mikor a négy töviséről beszélt, azt mondta a kis hercegnek:	0.271622
 - Chúng có thể tới đây, lũ hổ ấy, móng vuốt dễ sợ...	- Most aztán jöhetnek a tigrisek a karmaikkal!	0.497619
- ~~~ - Trên hành tinh của anh không có hổ - cậu hoàng tử nhận xét.	- Az én bolygómon nincsenek tigrisek - jegyezte meg erre a kis herceg.	0.206909
+- Trên hành tinh của anh không có hổ - cậu hoàng tử nhận xét.	- Az én bolygómon nincsenek tigrisek - jegyezte meg erre a kis herceg.	0.713817
 - Vả lại, hổ không ăn cỏ mà.	- A tigrisek különben sem esznek füvet.	0.638636
 - Em có phải là cỏ đâu - bông hoa đáp lại dịu dàng.	- Én nem vagyok fű - felelte szelíden a virág.	0.752597
 - Xin lỗi cô...	- Bocsáss meg...	1.05
- ~~~ - Em chẳng sợ gì hổ, nhưng em khiếp các luồng gió.	- Különben sem félek a tigrisektől. ~~~ A huzattól viszont irtózom.	-0.0171429
+- Em chẳng sợ gì hổ, nhưng em khiếp các luồng gió.	- Különben sem félek a tigrisektől. ~~~ A huzattól viszont irtózom.	0.132857
 Anh có một tấm chắn gió nào không anh?	Nincs véletlenül valamilyen szélfogód?	0.2925
-"Khiếp các luồng gió... đối với một cái cây nhỏ thế là không hay - cậu hoàng tử nhận xét.	„Irtózni a huzattól - gondolta a kis herceg - elég kockázatos kilátás egy növénynek.	0.434146
-Cô ả hoa này khó tính đây..."	- Furcsa egy virág ez...”	0.216
- ~~~ - Chiều tối, anh hãy đặt em trong bầu kính nhé.	- Esténként tégy majd bura alá.	0.12235
+"Khiếp các luồng gió... đối với một cái cây nhỏ thế là không hay - cậu hoàng tử nhận xét.	"Irtózni a huzattól - gondolta a kis herceg - elég kockázatos kilátás egy növénynek.	0.425
+Cô ả hoa này khó tính đây..."	- Furcsa egy virág ez..."	0.182609
+- Chiều tối, anh hãy đặt em trong bầu kính nhé.	- Esténként tégy majd bura alá.	0.5447
 Quê anh rét lắm.	Nagyon hideg van itt nálad.	0.183333
 Thiếu tiện nghi quá.	Rosszul vagy berendezkedve.	0.26087
-Ở chỗ của em ấy ư... ~~~ 	Ahonnét én jöttem...	-0.0204545
+Ở chỗ của em ấy ư...	Ahonnét én jöttem...	0.259091
 Nhưng cô ả nín bặt.	De nem folytatta.	0.16875
 Cô ta quên, cô đến đây lúc cô ấy hãy còn là hạt.		-0.3
 Cô ta chẳng thể hiểu được điều gì về các thế giới khác.	Hiszen mag formájában jött: más világokról nem tudhatott semmit.	0.280952
-Ngượng vì lỡ mà để bị bắt gặp là mình nói dối đến ngây ngô quá như thế, cô húng hắng ho hai ba lượt, để nhắc lại cho cậu hoàng tử biết cậu thật không chu đáo: ~~~ 	Szégyenében, hogy ilyen együgyű füllentésen kapatta rajta magát, kettőt-hármat köhintett, így akart fölébe kerekedni a kis hercegnek.	-0.0561069
+Ngượng vì lỡ mà để bị bắt gặp là mình nói dối đến ngây ngô quá như thế, cô húng hắng ho hai ba lượt, để nhắc lại cho cậu hoàng tử biết cậu thật không chu đáo:	Szégyenében, hogy ilyen együgyű füllentésen kapatta rajta magát, kettőt-hármat köhintett, így akart fölébe kerekedni a kis hercegnek.	0.187786
 - Cái chắn gió, anh có không?...	- A szélfogó?	0.642857
 - Anh đã định đi lấy thì em bắt đầu nói!	- Épp azért indultam, de elkezdtél beszélni hozzám...	0.594203
 Tuy vậy cô ả vẫn ho nữa để buộc cậu phải biết lỗi.	Erre a virág még jobban köhécselt, hadd furdalja csak a lelkiismeret a kis herceget.	0.22623
@@ -431,9 +406,9 @@ Cậu đã suy nghĩ nghiêm trang về những lời tưởng không quan trọ
 "Đáng lẽ tôi không nên căn cứ vào những điều mình nghe, không bao giờ nên nghe loài hoa cả - một hôm cậu em tâm sự với tôi.	- Nem lett volna szabad meghallgatnom - vallotta meg egy napon. ~~~ - A virágok szavát sosem szabad meghallgatni.	0.0724227
 Chỉ nên nhìn chúng, hít mùi hương của chúng thôi.	Nézni kell őket, beszívni az illatukat.	0.173684
 Cái hoa của tôi làm thơm ngát hành tinh của tôi, nhưng tôi lại không vui vì thế.	Az enyém egész bolygómat elárasztotta az illatával, mégse tudtam örülni neki.	0.272368
-Câu chuyện móng vuốt ấy đáng lẽ làm cho tôi mềm lòng thì tôi lại bực..." ~~~ 	Annyira bosszantott az a tigriskarom-história, holott inkább meg kellett volna hatódnom rajta...	-0.0108434
+Câu chuyện móng vuốt ấy đáng lẽ làm cho tôi mềm lòng thì tôi lại bực..."	Annyira bosszantott az a tigriskarom-história, holott inkább meg kellett volna hatódnom rajta...	0.27037
 Cậu còn tâm sự với tôi:	Aztán:	-0.45
- ~~~ - Ngày ấy, tôi chẳng biết cách tìm hiểu gì cả.	- Bizony, nagyon értelmetlen voltam én akkor!	0.151786
+- Ngày ấy, tôi chẳng biết cách tìm hiểu gì cả.	- Bizony, nagyon értelmetlen voltam én akkor!	0.603571
 Đáng lẽ tôi phải xét đoán cô ả trên việc làm chứ không phải bằng vào lời nói.	A tetteiből kellett volna megítélnem, nem a szavaiból.	0.0865385
 Cô tỏa thơm tôi, làm cho tôi sáng rực lên.	Beburkolt az illatával, elborított a ragyogásával.	0.266667
 Đáng lẽ tôi không nên bao giờ bỏ đi cả!	Sosem lett volna szabad meg­szöknöm!	0.225
@@ -441,14 +416,13 @@ Cô tỏa thơm tôi, làm cho tôi sáng rực lên.	Beburkolt az illatával, e
 Loài hoa, họ hay trái tính trái nết lắm.	Minden virág csupa ellentmondás.	0.196875
 Lúc bấy giờ tôi còn trẻ quá nên chẳng biết quý người.	De én még sokkal fiatalabb voltam, semhogy szeretni tudtam volna!	0.284746
 IX	9.	0.3
-		-0.3
- ~~~ Tôi cho rằng cậu em đã đi được nhờ vào một cuộc chuyển vùng của loài chim hoang.		-0.3
+Tôi cho rằng cậu em đã đi được nhờ vào một cuộc chuyển vùng của loài chim hoang.		-0.3
 Buổi sáng hôm ra đi, em đã dọn dẹp hành tinh thật ngăn nắp.	Szökéséhez, azt hiszem, a vadmadarak húzását használta föl.	0.285246
 Em nạo vét kĩ càng các quả núi lửa đang hoạt động của em.	Indulása reggelén szépen rendbe tette a bolygóját.	0.216
 Em có hai quả núi lửa đang hoạt động.	Gondosan kipucolta a működő vulkánjait.	0.285
 Và chúng rất thuận tiện cho việc thổi nấu bữa sáng.	Két ilyen működő vulkánja volt szerencsére: kényelmesen megfőzhette rajtuk a reggelijét.	0.152542
 Em cũng có một quả núi lửa đã tắt... Nhưng vì em thường nghĩ: "Biết đâu đấy!"	Volt egy kialudt vulkánja is.	-0.377778
-nên em cũng nạo vét cả quả núi lửa đã tắt nữa.	De mert úgy gondolta: „Sosem lehet tudni!”, kipucolta ezt a kialudt vulkánt is.	0.188889
+nên em cũng nạo vét cả quả núi lửa đã tắt nữa.	De mert úgy gondolta: "Sosem lehet tudni!", kipucolta ezt a kialudt vulkánt is.	0.211111
 Được nạo vét kĩ, các quả núi lửa sẽ cháy nhỏ thôi, liu riu thôi, không gây nên động đất đâu.	A vulkánok, ha jól kipucolják őket, szabályosan, enyhe lánggal égnek, kitörések nélkül.	0.242045
 Các cuộc động đất do núi lửa cũng giống như lửa trong lò sưởi của ta ấy mà.	A vulkánkitörések olyanok, mint a mi kéménytüzeink.	0.103846
 Tất nhiên là trên trái đất của chúng ta, chúng ta thật bé nhỏ quá, không nạo vét được các quả núi lửa của mình.	Mi itt a Földön nyilván túl kicsinyek vagyunk hozzá, hogy rendesen kipucoljuk a vulkánjainkat.	0.177273
@@ -475,26 +449,26 @@ Vì anh, anh cũng vụng dại như em. ~~~ Chúc anh hạnh phúc.	Te azonban 
 Thôi, anh hãy để yên cái bầu kính đó.	Próbálj meg boldog lenni... Hagyd békén azt a burát.	0.242857
 Em chẳng thiết nữa.	Nem kell.	-0.166667
 - Thế gió nó...	- De a szél...	0.807692
- ~~~ - Em có bị sổ mũi nhiều đâu... Gió mát ban đêm hay cho em chứ. ~~~ Em là một cái hoa mà.	- Egyáltalán nem vagyok olyan náthás... Virág vagyok: jót fog tenni az éjszaka hűs levegője.	-0.075
+- Em có bị sổ mũi nhiều đâu... Gió mát ban đêm hay cho em chứ. ~~~ Em là một cái hoa mà.	- Egyáltalán nem vagyok olyan náthás... Virág vagyok: jót fog tenni az éjszaka hűs levegője.	0.0375
 - Còn bọn thú nữa...	- De az állatok...	0.794118
- ~~~ - Em muốn biết bươm bướm là thế nào, em phải chịu đựng vài ba con sâu.	- Két-három hernyót el kell tűrnöm, ha meg akarom ismerni a pillangókat.	0.0955317
+- Em muốn biết bươm bướm là thế nào, em phải chịu đựng vài ba con sâu.	- Két-három hernyót el kell tűrnöm, ha meg akarom ismerni a pillangókat.	0.491063
 Hình như lũ bướm ấy thật là đẹp.	Állítólag olyan szépek.	0.138462
 Nếu không, rồi ai sẽ viếng thăm em?	Meg aztán ki más látogatna meg?	0.21
 Anh thì ở xa.	Mert ami téged illet, te messze leszel.	-0.15
 Còn bọn thú dữ, em có lo gì.	A vad­állatoktól pedig egy csöppet sem félek.	0.15
 Em có móng vuốt của em.	Nekem is vannak karmaim.	0.259091
 Thực đấy, cô chìa bốn cái gai ra. ~~~ Và nói thêm:	És ártatlanul megmutatta a négy tövisét.	-0.0162162
- ~~~ - Anh chớ có chần chừ thế, khó chịu lắm.	- Ne ácsorogj itt ilyen ügyefogyottan - tette hozzá.	0.143478
+- Anh chớ có chần chừ thế, khó chịu lắm.	- Ne ácsorogj itt ilyen ügyefogyottan - tette hozzá.	0.586957
 Anh đã quyết đi thì hãy đi đi.	- Idegesítő... Elhatároztad, hogy elmégy.	0.218182
 Bởi vì cô không muốn cậu em nhìn thấy cô khóc.	Hát menj. ~~~ Nem akarta, hogy a kis herceg sírni lássa.	-0.00612245
 Đóa hoa ấy nó vô cùng kiêu hãnh.	Kevély virág volt.	0.0473684
-X ~~~ 	10.	0
- ~~~ Cậu em ở vùng có những thiên thạch 325, 326, 327, 328, 329 và 330. ~~~ Nên em bắt đầu đi thăm các thiên thạch ấy để tìm một việc gì mê mải và để học tập.	Ez a 325-ös, 326-os, 327-es, 328-as, 329-es és 330-as kisbolygók vidéke volt; a kis herceg tehát azzal kezdte, hogy sorra látogatta őket, foglalkozást keresni meg művelődni is.	-0.101242
+X	10.	0
+Cậu em ở vùng có những thiên thạch 325, 326, 327, 328, 329 và 330. ~~~ Nên em bắt đầu đi thăm các thiên thạch ấy để tìm một việc gì mê mải và để học tập.	Ez a 325-ös, 326-os, 327-es, 328-as, 329-es és 330-as kisbolygók vidéke volt; a kis herceg tehát azzal kezdte, hogy sorra látogatta őket, foglalkozást keresni meg művelődni is.	-0.00186335
 Thiên thạch thứ nhất là do một ông vua ở. Ông vua, mặc quần áo bằng nhung và bằng lông thú, ngự trên một cái ngai trông giản dị thế nhưng uy nghi lắm.	Az elsőn egy király lakott. ~~~ A király, bíborban és hermelinben, egy nagyon egyszerű, de méltó­ságteljes trónuson ült.	-0.0586957
 - Ôi!	- Hohó!	1.2
 Đây, một thần dân!	Itt egy alattvaló!	0.216667
 - Ông vua kêu lên thế khi nhác thấy cậu hoàng tử.	- kiáltott föl, amikor megpillantotta a kis herceget.	0.614966
-Cậu hoàng tử nghe liền nghĩ thầm: ~~~  ~~~ "Ông ta chưa gặp mình bao giờ, sao ông ta nhận ra được mình nhỉ?".	„Hogyan ismerhet meg - gondolta magában a kis herceg -, ha még soha életében nem látott?”	-0.116667
+Cậu hoàng tử nghe liền nghĩ thầm: ~~~ "Ông ta chưa gặp mình bao giờ, sao ông ta nhận ra được mình nhỉ?".	"Hogyan ismerhet meg - gondolta magában a kis herceg -, ha még soha életében nem látott?"	-0.0214286
 Em không rõ rằng đối với các ông vua, thế giới đơn giản lắm. ~~~ Tất cả ai ai cũng đều là thần dân cả.	Nem tudta, hogy a királyok szemében a világ fölöttébb egyszerű: minden ember alattvaló.	-0.0326087
 - Ngươi hãy đến gần ta cho ta nhìn ngươi được kĩ! ~~~ -Ông vua nói với em, ông ta rất đắc chí vì làm vua mãi, giờ mới có một thần dân.	- Gyere közelebb, hogy jobban szemügyre vehesselek - mondta a király, és nagyon büszke volt rá, hogy végre valaki fölött királykodhatik.	-0.0177165
 Cậu hoàng tử đưa mắt tìm chỗ ngồi, nhưng cái áo choàng lông thú tuyệt đẹp choán hết chỗ của hành tinh.	A kis herceg körülnézett, hová ülhetne le, de a bolygót mindenestül beborította a pompás hermelin palást.	0.258416
@@ -503,7 +477,7 @@ Thế nên em phải đứng, và nhọc quá, em ngáp một cái.	Állva marad
 - Ta cấm ngươi ngáp.	- Megtiltom.	1.05
 - Chỉ là vì tôi không giữ được ạ, - cậu hoàng tử rất ngượng đáp lại.	- Nem bírom megállni ásítás nélkül - felelte a kis herceg zavartan.	0.681851
 - Tôi từ xa đến đây, chưa được ngủ...	- Nagy utat tettem meg, és nem aludtam...	0.558333
- ~~~ - Thế thì, - vua lại phán - ta ra lệnh cho ngươi ngáp.	- Akkor megparancsolom, hogy ásíts - mondta a király.	0.287755
+- Thế thì, - vua lại phán - ta ra lệnh cho ngươi ngáp.	- Akkor megparancsolom, hogy ásíts - mondta a király.	0.87551
 Bao nhiêu năm nay, ta chưa được thấy ai ngáp.	- Hosszú esztendők óta senkit sem láttam ásítani.	0.287234
 Ngáp đối với ta là trò hiếm đấy.	Az ilyesmi ritka szórakozás nekem.	0.245455
 Ngươi ngáp nữa đi.	Tessék, ásíts még egyet!	0.245455
@@ -512,21 +486,21 @@ Ngươi ngáp nữa đi.	Tessék, ásíts még egyet!	0.245455
 - Lại thế!	Nem megy... - felelte a kis herceg, és elpirult.	0.380769
 - Vua đáp.	- Hm... hm... - tűnődött a király.	0.45
 - Thế thì... ta ra lệnh cho ngươi vừa ngáp vừa...	- Hát akkor... megparancsolom, hogy hol ásíts, hol meg...	0.594231
- ~~~ Nhà vua nói hơi lắp và có vẻ phật ý.	Dünnyögött valamit, szemlátomást feszengve.	-0.0142857
- ~~~ Vì vua chú trọng nhất vào điều uy quyền của mình phải được tuân theo.	Mert a király föltétlenül ragaszkodott hozzá, hogy tiszteljék a királyi tekintélyét.	-0.0075
+Nhà vua nói hơi lắp và có vẻ phật ý.	Dünnyögött valamit, szemlátomást feszengve.	0.255
+Vì vua chú trọng nhất vào điều uy quyền của mình phải được tuân theo.	Mert a király föltétlenül ragaszkodott hozzá, hogy tiszteljék a királyi tekintélyét.	0.276923
 Ông không tha thứ sự trái mệnh. ~~~ Đó là một bậc vua chuyên chế.	Semmiféle engedetlenséget nem tűrt: abszolút uralkodó volt.	-0.0279661
 Nhưng, vì ông ta nhát lắm, nên ông ta cũng ra những cái lệnh hợp tình hợp lí thôi.	De mivel ugyanakkor jóságos is volt, értelmes parancsokat osztogatott.	0.209091
-Ông thường nói như thế này: "Nếu ta mà ra lệnh cho một võ tướng phải biến thành chim biển, và võ tướng ấy chẳng tuân lệnh ta, thì ấy không phải là lỗi của võ tướng đó.	„Ha egy generálisnak megparancsolnám - mondogatta -, hogy változzék tengeri madárrá, és a generális nem engedelmeskednék: ebben nem ő lenne a hibás.	0.202128
-Ấy là lỗi của ta".	Én lennék a hibás miatta.”	0.218182
+Ông thường nói như thế này: "Nếu ta mà ra lệnh cho một võ tướng phải biến thành chim biển, và võ tướng ấy chẳng tuân lệnh ta, thì ấy không phải là lỗi của võ tướng đó.	"Ha egy generálisnak megparancsolnám - mondogatta -, hogy változzék tengeri madárrá, és a generális nem engedelmeskednék: ebben nem ő lenne a hibás.	0.196403
+Ấy là lỗi của ta".	Én lennék a hibás miatta."	0.245455
 - Tôi ngồi được không ạ?	- Leülhetek?	0.907692
 - Cậu hoàng tử rụt rè hỏi.	- kérdezte a kis herceg félénken.	0.718894
 - Ta lệnh cho ngươi ngồi - vua đáp lại, vừa kéo lại về phía chân mình một vạt áo lông thú.	- Parancsolom, hogy ülj le - felelte a király, és méltóságteljesen odébb húzta egy kicsit a hermelin palástja szegélyét.	0.547423
 Song cậu hoàng tử vẫn lạ quá. ~~~ Cái hành tinh đến bé.	A kis herceg elcsodálkozott: a bolygó egészen parányi volt.	-0.00803571
 Thế thì ông vua trị vì cái gì?	Vajon min uralkodik akkor a király?	0.290625
 - Thưa bệ hạ, - cậu nói - cúi xin bệ hạ tha tội cho tôi được hỏi...	- Fölség - mondta -, engedelmet kérek, de kérdeznék fölségedtől valamit...	0.8
- ~~~ - Ta lệnh cho ngươi hỏi - vua vội vàng nói.	- Parancsolom, hogy kérdezz tőlem valamit - mondta sietve a király.	0.192045
+- Ta lệnh cho ngươi hỏi - vua vội vàng nói.	- Parancsolom, hogy kérdezz tőlem valamit - mondta sietve a király.	0.684091
 - Tâu bệ hạ, bệ hạ trị vì cái gì ?	- Fölséged... min uralkodik?	0.782143
-Nhà vua đáp, hết sức giản dị: ~~~ 	- Mindenen - válaszolta mérhetetlen egyszerűséggel a király.	-0.0891892
+Nhà vua đáp, hết sức giản dị:	- Mindenen - válaszolta mérhetetlen egyszerűséggel a király.	0.0942857
 - Muôn vật.	- Mindenen?	1.24545
 - Muôn vật ư, thưa bệ hạ? ~~~ Vị vua kín đáo trỏ cái hành tinh của mình, các hành tinh khác và các ngôi sao.	A király futó kis mozdulattal végigmutatott a bolygóján meg a többi bolygón meg a csillagokon.	-0.015
 - Tất cả muôn vật này?	- Ezen mind?	0.640909
@@ -539,15 +513,15 @@ Bởi vì đó không những là một vị vua chuyên chế mà còn là mộ
 Trẫm không dung tha sự bất tuân.	Semmi fegyelmezetlenséget nem tűrök.	0.282857
 Quyền lực như thế làm cho cậu hoàng tử mê thích lắm.	A kis herceg elámult ekkora nagy hatalmon.	0.134211
 Nếu bản thân em mà có quyền lực ấy, em mặc sức chứng kiến, không phải bốn mươi bốn, mà bảy mươi hai, dễ đến một trăm, hai trăm cảnh mặt trời lặn trong một ngày, mà chẳng phải dịch ghế bao giờ hết.	Ha neki ilyen hatalma lenne, napjában nem negy­vennégy naplementét láthatna, hanem hetvenkettőt, sőt százat vagy akár kétszázat is, és még csak odébb se kellene húznia a székét!	0.205917
-Rồi em cảm thấy hơi buồn vì chợt nghĩ đến cái hành tinh nhỏ giờ vắng vẻ của mình, em đánh bạo xin nhà vua ân huệ: ~~~ 	S mivel egy kicsit szomorú volt, mert eszébe jutott az elhagyott bolygócskája, olyannyira nekibátorodott, hogy egy kegyet merészelt kérni a királytól:	-0.0153543
-- Tôi ao ước được xem một cảnh mặt trời lặn... Bệ hạ thi ân cho, hãy ra lệnh cho mặt trời lặn... ~~~ 	- Úgy szeretnék naplementét látni... Örvendeztessen meg fölséged. ~~~ Parancsolja meg a napnak, hogy nyugodjék le...	-0.0765152
+Rồi em cảm thấy hơi buồn vì chợt nghĩ đến cái hành tinh nhỏ giờ vắng vẻ của mình, em đánh bạo xin nhà vua ân huệ:	S mivel egy kicsit szomorú volt, mert eszébe jutott az elhagyott bolygócskája, olyannyira nekibátorodott, hogy egy kegyet merészelt kérni a királytól:	0.264
+- Tôi ao ước được xem một cảnh mặt trời lặn... Bệ hạ thi ân cho, hãy ra lệnh cho mặt trời lặn...	- Úgy szeretnék naplementét látni... Örvendeztessen meg fölséged. ~~~ Parancsolja meg a napnak, hogy nyugodjék le...	0.0734848
 - Nếu ta ra lệnh cho một võ tướng bay từ đóa hoa này sang đóa hoa kia như một con bướm, hay lệnh cho ông ta viết một vở kịch, hay biến thành chim biển, và nếu vị võ tướng ấy không tuân lệnh, thì lỗi ấy là ở ông ta hay là ở ta?	- Ha egy generálisnak azt parancsolnám, szálljon virágról virágra, mint egy lepke, vagy írjon egy tragédiát, vagy változzék tengeri madárrá, és a generális nem hajtaná végre a parancsot, ki lenne a hibás emiatt: ő vagy én? ~~~ - Fölséged!	0.0297297
 - Muôn tâu, ở bệ hạ - cậu hoàng tử nói cả quyết.	- jelentette ki a kis herceg nagy határozottsággal.	0.58227
 - Đúng.	- Látod.	1.3
 Phải buộc người nào làm việc người đó có thể làm - vua nói thêm.	Mindenkitől azt kell követelni, amit az illető megtehet.	0.186792
 - Uy quyền trước hết dựa trên lẽ phải.	A tekintély legelső alapja az értelem - mondta a király.	0.553333
 Nếu nhà ngươi ra lệnh cho thần dân của mình nhảy xuống bể, cách mạng tất sẽ nổ ra.	- Ha népednek azt parancsolod, vesse magát a tengerbe: föllázad, forradalmat csinál.	0.246835
-Ta có quyển buộc tuân lệnh ta vì mọi lệnh ta đều hợp lẽ.	Azért van jogom engedelmességet követelni, mert ésszerűek a parancsaim.	0.276562
+Ta có quyển buộc tuân lệnh ta vì mọi lệnh ta đều hợp lẽ.	Azért van jogom engedelmességet követelni, mert ésszerűek a parancsaim.	0.276563
 - Thế nhưng cảnh mặt trời lặn mà tôi xin bệ hạ ban cho ạ?	- Akkor mi lesz a naplementémmel?	0.398571
 - cậu hoàng tử vốn đã đặt ra câu hỏi gì thì không bao giờ quên, hỏi lại.	- firtatta a kis herceg, mert ha már föltett egy kérdést, többé nem tágított tőle.	0.475962
 - Cảnh mặt trời lặn nhà ngươi xin, nhà ngươi sẽ có.	- Meg fogod kapni a naplementédet.	0.467281
@@ -561,7 +535,7 @@ Nhà ngươi sẽ được thấy có phải lệnh ta được tuân theo đún
 Cậu hoàng tử ngáp.	A kis herceg ásított.	0.285714
 Em tiếc sẽ bỏ nhỡ cảnh mặt trời lặn.	Sajnálta, hogy oda a napnyugtája.	0.178125
 Và em cũng đã bắt đầu thấy chán:	Ráadásul egy kicsit unatkozott is már.	0.291892
- ~~~ - Tâu bệ hạ, tôi chẳng có việc gì ở đây nữa, xin bệ hạ cho tôi lại ra đi.	- Nincs itt semmi dolgom többet - mondta a királynak.	0.027853
+- Tâu bệ hạ, tôi chẳng có việc gì ở đây nữa, xin bệ hạ cho tôi lại ra đi.	- Nincs itt semmi dolgom többet - mondta a királynak.	0.355706
 - cậu nói với nhà vua.	- Megyek tovább. ~~~ - Ne menj!	0.3625
 - Ngươi chớ đi - nhà vua vừa mới kiêu hãnh xiết bao vì có được một thần dân, đáp lời hoàng tử.	- mondta a király, hiszen olyan büszke volt rá, hogy végre akadt egy alattvalója.	0.374324
 - Chớ đi, ta phong ngươi làm thượng thư!	- Ne menj el, megteszlek miniszternek.	0.64916
@@ -574,7 +548,7 @@ Ta già quá rồi, chẳng có cỗ xa giá nào cho ta, mà đi bộ thì ta n
 - Lại thế!	- Ó, hiszen már láttam!	0.819231
 Nhưng tôi đã nhìn thấy rõ - cậu hoàng tử nghiêng mình nhìn sang phía bên kia của hành tinh.	- mondta a kis herceg, és előrehajolt, hogy egy pillantást vessen a bolygó túlsó felére.	0.443598
 - Bên kia cũng chẳng có ai đâu ạ...	- Ott sincs senki.	0.50625
- ~~~ - Có hay không, tùy nhà ngươi xét.	- Hát akkor ítélkezzél saját magadon - mondta a király.	0.0895238
+- Có hay không, tùy nhà ngươi xét.	- Hát akkor ítélkezzél saját magadon - mondta a király.	0.479048
 - Vua đáp lại em.	- Ez a legnehezebb.	0.882353
 - Đó là điều khó nhất. ~~~ Xét mình khó hơn xét người nhiều.	Magunkon ítél­kezni sokkal nehezebb, mint máson.	-0.0394737
 Nếu ngươi xét được mình đúng đắn, thì ngươi là một bậc hiền nhân chân chính.	Ha sikerül helyesen ítélkezned saját magad fölött, az annak a jele, hogy valódi bölcs vagy.	0.286047
@@ -590,17 +564,17 @@ Như thế, cuộc đời của nó sẽ tùy ở luật pháp của nhà ngươ
 Nhưng mỗi lần buộc tội xong, thì ngươi lại nên tha, để dành dụm chuột. ~~~ Chỉ có mỗi con ấy thôi.	Aztán minden egyes alkalommal meg­kegyelmezel neki, takarékosságból, mivel csak egy van belőle.	-0.020625
 - Tôi không thích buộc tội tử hình, - cậu hoàng tử đáp lại - và tôi nhất thiết phải từ biệt bệ hạ.	- Nem szeretem a halálos ítéleteket - mondta a kis herceg -, és minden bizonnyal elmegyek. ~~~ - Ne!	0.132866
 - Không - vua nói.	- mondta a király.	0.9
-Nhưng cậu hoàng tử đã sửa soạn xong, không muốn làm phiền lòng vị vua già một chút nào hết: ~~~ 	A kis herceg azonban nekifogott az előkészületeknek, majd, mivel nem akart fájdalmat okozni az öreg uralkodónak, így szólt:	-0.0174757
+Nhưng cậu hoàng tử đã sửa soạn xong, không muốn làm phiền lòng vị vua già một chút nào hết:	A kis herceg azonban nekifogott az előkészületeknek, majd, mivel nem akart fájdalmat okozni az öreg uralkodónak, így szólt:	0.258416
 - Nếu bệ hạ muốn được tuân theo một cách đúng đắn, bệ hạ hãy cho tôi một cái lệnh hợp lẽ.	- Ha fölségednek az a kívánsága, hogy pontosan engedelmeskedjenek a parancsainak, nekem is adhatna egy ésszerű parancsot.	0.44381
 Ví dụ như lệnh phải ra đi ngay tức khắc.	Megparancsolhatná például, hogy egy percen belül keljek útra.	0.2
-Hình như mọi điều kiện đều thuận lợi... ~~~ 	A körülmények, úgy látom, kedvezőek...	-0.0292683
+Hình như mọi điều kiện đều thuận lợi...	A körülmények, úgy látom, kedvezőek...	0.241463
 Nhà vua chẳng trả lời thế nào cả.	A király nem felelt.	-0.0157895
 Thoạt đầu cậu hoàng tử hơi do dự, rồi chợt thở dài, bắt đầu lên đường.	A kis herceg először tétovázott, aztán egy sóhajtással mégis útra kelt.	0.23662
 - Ta phong ngươi làm sứ giả của ta - nhà vua vội vàng kêu lên.	- Kinevezlek nagykövetemnek!	0.675
 - Ông ta có vẻ uy nghi lẫm liệt.	- kiáltott utána sietve a király.	0.719196
-"Những người lớn thật rất kì quặc", cậu hoàng tử nghĩ thầm trong khi đi.	Arcáról csak úgy sugárzott a tekintély. ~~~ „Hát bizony furcsák a fölnőttek” - gondolta útközben a kis herceg.	-0.0335821
-XI ~~~ 	11.	-0.0375
- ~~~ Hành tinh thứ hai, người ở là một kẻ khoác lác.	A második bolygón lakott a hiú. ~~~ - Lám, lám!	-0.184884
+"Những người lớn thật rất kì quặc", cậu hoàng tử nghĩ thầm trong khi đi.	Arcáról csak úgy sugárzott a tekintély. ~~~ "Hát bizony furcsák a fölnőttek" - gondolta útközben a kis herceg.	-0.0402439
+XI	11.	0.2
+Hành tinh thứ hai, người ở là một kẻ khoác lác.	A második bolygón lakott a hiú. ~~~ - Lám, lám!	-0.0348837
 - Ôi, kia, một kẻ khâm phục ta đến thăm ta!	- kiáltotta már messziről, amikor megpillantotta a kis herceget.	0.508696
 - Từ xa nhìn thấy cậu hoàng tử, lão khoác lác đã kêu lên thế!	- Meglátogat egy csodálóm!	0.455556
 Bởi vì, đối với kẻ khoác lác, ai cũng là người khâm phục mình.	Mert aki hiú, annak az összes többi ember olybá tűnik, mint a csodálója.	0.286765
@@ -614,9 +588,9 @@ Không may, chẳng ai qua đây bao giờ cả.	De sajnos, soha nem jár erre s
 - Bây giờ, chú em hãy vỗ tay này vào tay kia của chú xem - người khoác lác liền khuyên.	- Csapd össze a tenyeredet - javasolta neki a hiú.	0.545455
 Cậu hoàng tử vỗ tay này vào tay kia của mình.	A kis herceg összeütötte a két tenyerét.	0.24
 Gã khoác lác cất mũ chào một cách khiêm tốn.	A hiú szerényen megemelte a kalapját.	0.191667
-- Thế này thì vui hơn đi thăm nhà vua - cậu hoàng tử nói thầm. ~~~ Và em tiếp tục vỗ tay này vào tay kia của em.	„Itt már mulatságosabb, mint az imént a királynál volt” - gondolta a kis herceg, és újra össze­verte a tenyerét.	-0.00275229
+- Thế này thì vui hơn đi thăm nhà vua - cậu hoàng tử nói thầm. ~~~ Và em tiếp tục vỗ tay này vào tay kia của em.	"Itt már mulatságosabb, mint az imént a királynál volt" - gondolta a kis herceg, és újra össze­verte a tenyerét.	-0.00785846
 Gã khoác lác lại chào bằng cách cất mũ.	A hiú meg újra megemelte a kalapját.	0.211765
-Sau năm phút làm như thế, cậu hoàng tử chán cái trò chơi buồn tẻ ấy: ~~~ 	Így ment ez öt percig; akkor a kis herceg elunta az egyhangú játékot.	-0.0285714
+Sau năm phút làm như thế, cậu hoàng tử chán cái trò chơi buồn tẻ ấy:	Így ment ez öt percig; akkor a kis herceg elunta az egyhangú játékot.	0.242857
 - Thế, muốn cho chiếc mũ nó rơi tuột xuống thì phải làm thế nào ạ?	- Hát ahhoz mit kell csinálni, hogy a kalap leessék?	0.400387
 - Em hỏi.	- kérdezte.	1.24
 Nhưng gã khoác lác không nghe thấy.	A hiú ezt egyszerűen elengedte a füle mellett.	0.251351
@@ -631,10 +605,10 @@ Chú em dẫu sao cũng hãy cứ khâm phục ta!	Azért mégiscsak csodálj!	0
 - Tôi khâm phục anh - cậu hoàng tử vừa nói vừa hơi nhún hai vai.	- Csodállak - mondta a kis herceg, és egy parányit megvonta a vállát.	0.714286
 - Nhưng anh có chịu biết là tôi khâm phục anh cái gì không?	- Csak azt nem értem, mire jó az neked!	0.361765
 Thế là cậu hoàng tử ra đi.	És sietve odébbállt.	0.190909
-"Những người lớn chắc chắn là kì quặc rồi", cậu chỉ nói đơn giản có thế trong khi đi.	„Szó, ami szó - gondolta útközben -, a fölnőttek nagyon-nagyon furcsák.”	0.202703
+"Những người lớn chắc chắn là kì quặc rồi", cậu chỉ nói đơn giản có thế trong khi đi.	"Szó, ami szó - gondolta útközben -, a fölnőttek nagyon-nagyon furcsák."	0.18
 XII	12.	0.3
- ~~~ 	A következő bolygón egy iszákos lakott.	-0.45
-Cái hành tinh sau là của một gã nát rượu ở. Cuộc viếng thăm này hết sức ngắn nhưng lại làm cho cậu hoàng tử miên man buồn: ~~~ 	Ez a látogatás nagyon rövid ideig tartott, de nagyon elszomorította a kis herceget. ~~~ Ott találta az iszákost egy sor üres meg egy sor teli palack előtt. ~~~ - Hát te mit csinálsz itt?	-0.202239
+	A következő bolygón egy iszákos lakott.	-0.3
+Cái hành tinh sau là của một gã nát rượu ở. Cuộc viếng thăm này hết sức ngắn nhưng lại làm cho cậu hoàng tử miên man buồn:	Ez a látogatás nagyon rövid ideig tartott, de nagyon elszomorította a kis herceget. ~~~ Ott találta az iszákost egy sor üres meg egy sor teli palack előtt. ~~~ - Hát te mit csinálsz itt?	-0.102239
 - Anh làm gì đây?	- kérdezte tőle.	1.03235
 Cậu hoàng tử hỏi người nát rượu khi em thấy hắn ngồi lặng thinh trước một đống lớn chai không và một đống lớn chai có rượu.		-0.3
 - Ta uống rượu - người nát rượu nói, vẻ thiểu não.	- Iszom - felelte gyászos képpel az iszákos.	0.842276
@@ -649,10 +623,9 @@ Cậu hoàng tử hỏi người nát rượu khi em thấy hắn ngồi lặng 
 - Xấu hổ vì uống rượu!	- kérdezte.	0.9
 - Gã nát rượu thôi không nói nữa, và lần này quyết định nhốt mình trong lặng thinh.	- Mert iszom - vágta el a további beszélgetést az iszákos, és mélységes hallgatásba süllyedt.	0.484167
 Còn cậu hoàng tử thì ra đi, sửng sốt.	A kis herceg meghökkenve szedelőzködött.	0.292683
-"Những người lớn nhất định là rất, rất kì quặc" cậu tự nói thầm trong khi đi.	„Bizony, bizony - gondolta út közben -, a fölnőttek rettentően furcsák.”	0.230137
+"Những người lớn nhất định là rất, rất kì quặc" cậu tự nói thầm trong khi đi.	"Bizony, bizony - gondolta út közben -, a fölnőttek rettentően furcsák."	0.208696
 XIII	13.	0.225
-		-0.3
- ~~~ Hành tinh thứ tứ là của một lão tư sản ở. Lão này bận rộn đến nỗi không chịu ngẩng đầu khi cậu hoàng tử tới.	A negyedik bolygó az üzletemberé volt. ~~~ Ennek annyi dolga volt, hogy még csak föl se nézett, amikor a kis herceg megérkezett.	-0.165789
+Hành tinh thứ tứ là của một lão tư sản ở. Lão này bận rộn đến nỗi không chịu ngẩng đầu khi cậu hoàng tử tới.	A negyedik bolygó az üzletemberé volt. ~~~ Ennek annyi dolga volt, hogy még csak föl se nézett, amikor a kis herceg megérkezett.	-0.0157895
 - Chào ông, - em nói.	- Jó napot!	0.804545
 - Điếu thuốc lá của ông tắt ngấm rồi đấy.	- mondta a kis herceg. ~~~ - Uraságodnak kialudt a cigarettája.	0.238235
 - Ba với hai là năm.	- Három meg kettő, az öt.	0.668571
@@ -671,18 +644,18 @@ Thế mày vẫn đứng đấy à?	Még mindig itt vagy?	0.110526
 Năm trăm linh một triệu... ta cũng chẳng biết là triệu gì nữa.	Ötszázmillió izé... már nem is tudom... Annyi dolgom van!	0.229091
 Công việc ngập cả đâu!		-0.3
 Ta đứng đắn, không đùa chơi với những trò nhảm nhí đâu!	Én komoly ember vagyok, én nem fecsérlem léhaságokra az időmet!	0.280328
-Hai với năm, bảy... ~~~ 	Kettő meg öt, az hét...	-0.00652174
+Hai với năm, bảy...	Kettő meg öt, az hét...	0.286364
 - Năm trăm linh một triệu cái gì?	- Ötszázmillió micsoda?	0.93
 - Cậu hoàng tử lặp lại, suốt đời cậu có bao giờ đã đặt một câu hỏi mà lại thôi không hỏi nữa đâu.	- ismételte a kis herceg, mert ha egyszer egy kérdést föltett, nem tágított tőle többé.	0.371837
 Lão tư sản ngửng đấu lên:	Az üzletember fölkapta a fejét.	0.3
- ~~~ - Từ năm mươi bốn năm nay, ở trên cái hành tinh này, ta chỉ bị quấy rầy có ba lần.	- Ötvennégy éve lakom ezen a bolygón, de eddig még csak háromszor zavartak.	0.0685714
+- Từ năm mươi bốn năm nay, ở trên cái hành tinh này, ta chỉ bị quấy rầy có ba lần.	- Ötvennégy éve lakom ezen a bolygón, de eddig még csak háromszor zavartak.	0.437143
 Lần đầu cách đây hai mươi năm bởi một con bọ hung rơi từ đâu xuống, có mà Trời biết.	Először hu­szonkét éve egy cserebogár; isten tudja, honnét pottyant ide.	0.194366
 Nó gây nên một tiếng động dữ dội lắm và làm cho ta phạm đến bốn lỗi trong một bài tính cộng.	Iszonyatos zajt csapott, úgyhogy négy hibát is ejtettem a számadásomban.	0.143478
 Lần thứ hai cách đây mười một năm, do một cơn sổ mũi.	Másodszor tizenegy esztendeje köszvényrohamot kaptam.	0.254717
 Ta ít tập tành. ~~~ Ta không có thì giờ đi nhởi.	Keveset mozgok, nincs időm lófrálni; én komoly ember vagyok.	-0.0244898
 Ta đứng đắn, ta ấy!	Harmadszor pedig: most!	0.272727
 Lần thứ ba... là lần này!		-0.3
-Ta đang nói, năm trăm linh một triệu... ~~~ 	Szóval azt mondtam, hogy ötszázegymillió...	-0.00348837
+Ta đang nói, năm trăm linh một triệu...	Szóval azt mondtam, hogy ötszázegymillió...	0.278049
 - Triệu gì?	- Micsoda?	1.21
 Lão tư sản biết không mong được để yên!	Az üzletember látta: semmi reménye rá, hogy békén hagyják.	0.229787
 - Triệu những vật li ti đôi khi ta nhìn thấy trên trời ấy.	- Olyan kis apróság, amit az égen látni olykor. ~~~ - Légy?	0.124528
@@ -706,15 +679,15 @@ Ta là người đứng đắn, ta ấy, ta rất chính xác!	Komoly ember vagy
 Ta có chúng thôi.	Birtoklom őket.	0.2625
 - Ông có những ngôi sao ấy?	- Birtoklod a csillagokat?	0.8375
 - Phải.	- Igen.	1.21429
-- Nhưng tôi có trông thấy một ông vua, ông ấy cũng... ~~~ 	- Találkoztam egy királlyal, aki...	0.152941
+- Nhưng tôi có trông thấy một ông vua, ông ấy cũng...	- Találkoztam egy királlyal, aki...	0.605882
 - Các ông vua không thể có.	- A királyok nem birtokolnak.	0.788889
-Các ông vua chỉ trị vì thôi.	A királyok „uralkodnak” valamin.	0.26129
+Các ông vua chỉ trị vì thôi.	A királyok "uralkodnak" valamin.	0.3
 Rất khác nhau chứ.	Ez más.	-0.1875
 - Thế có những ngôi sao, việc ấy giúp gì cho ông nào?	- És mire jó neked, hogy birtoklod a csillagokat?	0.518182
 - Nó giúp ta giàu.	- Arra, hogy gazdag legyek.	0.7
 - Giàu giúp ông được gì?	- És mire jó a gazdagságod?	0.705495
 - Mua những ngôi sao khác nếu có người tìm thấy nữa.	- Más csillagokat is megvenni, ha történetesen talál valaki.	0.6
-"Cái lão ấy - cậu hoàng tử nghĩ thầm - lão lí sự hơi giống cái lão nát rượu". ~~~ Tuy thế, cậu em vẫn còn đặt những câu hỏi khác: ~~~ 	„Ez körülbelül olyasformán okoskodik, mint a részegesem” - gondolta a kis herceg; de azért tovább faggatta:	-0.0635294
+"Cái lão ấy - cậu hoàng tử nghĩ thầm - lão lí sự hơi giống cái lão nát rượu". ~~~ Tuy thế, cậu em vẫn còn đặt những câu hỏi khác:	"Ez körülbelül olyasformán okoskodik, mint a részegesem" - gondolta a kis herceg; de azért tovább faggatta:	0.0617647
 - Làm thế nào người ta có được những ngôi sao?	- Hogyan lehet birtokolni a csillagokat?	0.595238
 - Chúng của ai nào?	- Kinek a tulajdona?	0.866667
 - Lão tư sản bẳn tính vặn lại.	- vágott vissza zsémbesen az üzletember.	0.694286
@@ -742,30 +715,30 @@ Còn ông đâu có thể hái các ngôi sao!	De te nem szedheted le a csillaga
 - Nghĩa là ta viết trên một mảnh giấy con số ngôi sao của ta. ~~~ Rồi ta khóa chặt mẩu giấy ấy trong một ngăn kéo.	- Azt jelenti, hogy fölírom egy darabka papirosra a csillagaim számát; aztán ezt a papír­darab­kát bezárom egy fiókba.	-0.0079646
 - Chỉ thế thôi à?	- Ennyi az egész?	0.825
 - Thế đủ rồi.	- Mi kell több?	0.814286
-"Buồn cười thật - cậu hoàng tử nghĩ thầm.	„Érdekes - gondolta a kis herceg.	0.569196
+"Buồn cười thật - cậu hoàng tử nghĩ thầm.	"Érdekes - gondolta a kis herceg.	0.538571
 - Có vẻ thơ ca đấy.	- Sőt költői.	0.91
-Nhưng mà không đứng đắn lắm đâu".	Csak éppen komolynak nem valami komoly.”	0.284615
-Về những việc đứng đắn, cậu hoàng tử có những ý rất khác với ý các người lớn: ~~~ 	A kis hercegnek ugyanis egészen más fogalmai voltak a komoly dolgokról, mint a fölnőttek­nek.	-0.012069
+Nhưng mà không đứng đắn lắm đâu".	Csak éppen komolynak nem valami komoly."	0.267568
+Về những việc đứng đắn, cậu hoàng tử có những ý rất khác với ý các người lớn:	A kis hercegnek ugyanis egészen más fogalmai voltak a komoly dolgokról, mint a fölnőttek­nek.	0.275862
 - Tôi, - cậu em lại nói - tôi có một bông hoa mà hôm nào tôi cũng tưới.	- Nekem - mondta - van egy virágom, azt naponta megöntözöm.	0.944444
 Tôi có ba quả núi lửa mà tuần nào tôi cũng nạo vét. ~~~ Và tôi nạo vét cả quả núi lửa đã tắt.	Van három vulkánom, azokat hetente kipucolom; mert azt is kipucolom, amelyik kialudt.	-0.0487013
 Biết nó là thế nào!	Sosem lehet tudni.	0.194118
 Tôi cần thiết cho các quả núi lửa, cho bông hoa của tôi, nên tôi có chúng.	A vulkán­jaimnak is meg a virágomnak is hasznukra válik, hogy birtoklom őket.	0.275
 Còn ông đâu có ích cho các ngôi sao!	Te azonban nem vagy hasznukra a csillagoknak.	0.275676
 Tên tư sản mở miệng nhưng chẳng biết trả lời sao cả, và cậu hoàng tử đi ra.	Az üzletember eltátotta a száját, de felelni egy mukkot sem tudott, a kis herceg pedig szedte a sátorfáját, és ment tovább.	0.201176
-"Những người lớn nhất định là những người hoàn toàn kì dị" - cậu em nghĩ thầm một cách đơn giản như vậy trong khi đi.	„Szó, ami szó: ezek a fölnőttek fölöttébb furcsák” - gondolta útközben.	0.328947
+"Những người lớn nhất định là những người hoàn toàn kì dị" - cậu em nghĩ thầm một cách đơn giản như vậy trong khi đi.	"Szó, ami szó: ezek a fölnőttek fölöttébb furcsák" - gondolta útközben.	0.3
 XIV	14.	0.3
- ~~~  ~~~ Hành tinh thứ năm rất lạ.	Az ötödik bolygó nagyon érdekes bolygó volt.	-0.141935
+Hành tinh thứ năm rất lạ.	Az ötödik bolygó nagyon érdekes bolygó volt.	0.144828
 Nó bé hơn tất cả các hành tinh.	Ez volt valamennyi közt a legkisebb.	0.290909
 Ở đây chỉ đúng đủ chỗ cho một cây cột đèn và một người thắp đèn.	Éppen csak akkorka, hogy egy lámpa meg egy lámpagyújtogató elfért rajta.	0.252174
 Cậu hoàng tử nghĩ mãi không thể nào hiểu được tại sao, đâu đó trong bầu trời, trên một hành tinh không nhà cửa, không dân cư, lại có một cột đèn và một người thắp đèn để làm chi.	A kis herceg el sem tudta képzelni, mi értelme lehet valahol az égbolton egy bolygón - amelyiken se ház nincs, se embe­rek nem laknak - egy lámpának meg egy lámpagyújtogatónak.	0.220755
 Tuy vậy, cậu em vẫn nghĩ thầm:	Mégis azt gondolta magában:	0.222222
- ~~~ "Có lẽ con người này là vô lí.	„Lehet, hogy ez az ember itt: merő képtelenség.	-0.0416667
+"Có lẽ con người này là vô lí.	"Lehet, hogy ez az ember itt: merő képtelenség.	0.211765
 Tuy thế, ông ta còn ít vô lí hơn ông vua, ít vô lí hơn gã khoác lác, ít vô lí hơn gã tư sản, ít vô lí hơn gã nát rượu.	Mégis kevésbé képtelen, mint a király, a hiú, az üzletember meg az iszákos. ~~~ Az ő munkájának legalább van valami értelme.	-0.00512821
 Khi ông ta thắp cây đèn của mình, như là ông ta làm sinh thêm một ngôi sao, hay một bông hoa.	Ha meggyújtja a lámpáját, mintha egy csillagot segítene világra vagy egy virágot.	0.242308
 Khi ông ta tắt cây đèn, ông ta giúp bông hoa hay ngôi sao ấy ngủ.	Ha eloltja a lámpáját: elaltatja vele a virágot vagy a csillagot.	0.275
 Ấy là một công việc rất đẹp chứ.	Szép foglalkozás.	-0.0473684
-Việc ấy mới thật sự là có ích vì nó đẹp".	És mert szép, valóban hasznos is.”	0.171429
-Khi đến gần hành tinh, cậu em kính trọng chào người thắp đèn: ~~~ 	Amikor a bolygó közelébe ért, tisztelettel köszöntötte a lámpagyújtogatót:	-0.0126761
+Việc ấy mới thật sự là có ích vì nó đẹp".	És mert szép, valóban hasznos is."	0.145455
+Khi đến gần hành tinh, cậu em kính trọng chào người thắp đèn:	Amikor a bolygó közelébe ért, tisztelettel köszöntötte a lámpagyújtogatót:	0.265217
 - Chào ông.	- Jó napot kívánok!	0.85
 Tại sao ông vừa tắt đèn đi đó?	Miért oltottad el a lámpádat?	0.227586
 - Điều lệnh mà - người thắp đèn trả lời.	- Mert ez a parancs - felelte a lámpagyújtogató.	0.865909
@@ -783,7 +756,7 @@ Và ông ta rút chiếc mùi-soa kẻ ô vuông đỏ của ông thấm mồ h�
 - Nghề của ta làm đây thật kinh khủng.	- Szörnyű mesterség ez!	0.675
 Xưa kia dễ chịu hơn.	Valaha régen nagyon értelmes volt.	0.169565
 Sáng ta tắt, chiều ta thắp.	Este meggyújtottam, reggel eloltottam a lámpát.	0.14
-Phần ngày còn lại, ta nghỉ, phần đêm còn lại ta ngủ... ~~~ 	Aztán reggeltől estig pihenhettem, és estétől reggelig alhattam.	0
+Phần ngày còn lại, ta nghỉ, phần đêm còn lại ta ngủ...	Aztán reggeltől estig pihenhettem, és estétől reggelig alhattam.	0.290164
 - Nhưng sau đó, điều lệnh thay đổi sao?	- Azóta megváltozott a parancs?	0.67
 - Điều lệnh không thay đổi - người thắp đèn nói.	- A parancs nem változott - mondta a lámpagyújtogató.	0.864
 - Bi kịch là chỗ này đây!	- Éppen ez a baj!	0.54
@@ -804,11 +777,11 @@ Chúc cậu một đêm ngon giấc.	Jó estét!	-0.272727
 Rồi ông thắp lại ngọn đèn.	És meggyújtotta megint a lámpáját.	0.272727
 Cậu hoàng tử nhìn ông ta và thấy mến yêu người thắp đèn trung thành đến thế với điều lệnh.	A kis herceg meg csak nézte, és megszerette ezt a lámpagyújtogatót, aki olyan híven ragasz­kodik a parancshoz.	0.291176
 Cậu em nhớ tới những cảnh mặt trời lặn mà xưa kia chính em phải đi kiếm để xem, bằng cách dịch ghế ngồi.	Eszébe jutott, hogyan kereste annak idején a napnyugtákat, hogyan húzta odébb a székét.	0.173494
-Em muốn giúp ông bạn thân: ~~~ 	Szeretett volna segíteni a barátján.	-0.0241935
+Em muốn giúp ông bạn thân:	Szeretett volna segíteni a barátján.	0.227586
 - Này ông... Tôi biết cách cho ông khi nào muốn nghỉ thì nghỉ.	- Figyelj csak ide... Tudok egy módot rá, hogy pihenhess, amikor csak akarsz.	0.50044
 - Bao giờ ta chả muốn - người thắp đèn nói.	- Vagyis mindig - jegyezte meg a lámpagyújtogató.	0.953623
-Bởi vì người ta có thể, cùng một lúc, vừa trung thành, vừa lười biếng.		-0.3
-Cậu hoàng tử nói tiếp: ~~~ 	Mert lehet valaki egyszerre hűséges is meg lusta is.	-0.0931034
+Bởi vì người ta có thể, cùng một lúc, vừa trung thành, vừa lười biếng.	Mert lehet valaki egyszerre hűséges is meg lusta is.	0.0893617
+Cậu hoàng tử nói tiếp:		-0.3
 - Cái hành tinh của ông bé đến nỗi ông có thể bước sải ba bước là đi khắp.	- A te bolygód - folytatta a kis herceg - olyan kicsi, hogy három lépéssel körüljárhatod.	0.469154
 Ông chỉ có việc đi rất chậm để lúc nào cũng ở dưới ánh sáng mặt trời cả.	Ahhoz, hogy állandóan a napvilágon maradj, egyebet sem kell tenned, mint elég lassan járnod.	0.296471
 Khi nào ông muốn nghỉ, ông cứ bước đi... thế là ông muốn ngày dài bao nhiêu nó dài bằng ấy.	Így aztán, ha pihenni akarsz, elkezdesz járni... és a nappal addig fog tartani, ameddig kívánod.	0.262921
@@ -819,17 +792,16 @@ Khi nào ông muốn nghỉ, ông cứ bước đi... thế là ông muốn ngà
 - Chúc cậu một ngày tốt lành.	- Jó napot!	0.45
 Rồi ông ta tắt cây đèn.	És eloltotta a lámpáját.	0.288462
 "Cái ông này - cậu hoàng tử nghĩ thầm trong lúc tiếp tục đi xa hơn nữa.		-0.3
-- Ông ta sẽ bị tất cả những người kia khinh, ông vua, lão nói khoác, lão nát rượu, lão tư sản.	„Ezt - gondolta a kis herceg, ahogy továbbment -, ezt a többiek mind megvetnék: a király is, a hiú is, az iszákos is, az üzletember is.	0.373999
+- Ông ta sẽ bị tất cả những người kia khinh, ông vua, lão nói khoác, lão nát rượu, lão tư sản.	"Ezt - gondolta a kis herceg, ahogy továbbment -, ezt a többiek mind megvetnék: a király is, a hiú is, az iszákos is, az üzletember is.	0.37994
 Tuy thế, chỉ có ông ta là ta không thấy buồn cười.	Pedig szerintem ő az egyetlen, aki nem nevetséges.	0.241304
-Có lẽ bởi vì ông ta lo toan cho một cái gì khác chứ không phải là bản thân ông ta".	Talán mert mással törődik, nem saját magával.”	0.0734694
+Có lẽ bởi vì ông ta lo toan cho một cái gì khác chứ không phải là bản thân ông ta".	Talán mert mással törődik, nem saját magával."	0.0510638
 Em thở dài, buồn tiếc, và lại nghĩ:	És sajnálkozva sóhajtott egyet.	0.225
- ~~~ "Chỉ ông ấy là đáng cho mình kết làm bạn thân.	„Ő az egyetlen - folytatta gondolatait -, akivel meg tudnék barátkozni.	-0.0361111
+"Chỉ ông ấy là đáng cho mình kết làm bạn thân.	"Ő az egyetlen - folytatta gondolatait -, akivel meg tudnék barátkozni.	0.225
 Nhưng hành tinh của ông ấy quá bé.	Csakhogy igazán túl kicsi a bolygója.	0.291667
-Chẳng thể ở được hai người..."	Nem férnek el rajta ketten...”	0.21
- ~~~ Điều mà cậu hoàng tử không thể thú nhận với mình, ấy là em tiếc cái hành tinh thiên phúc này chủ yếu ở chỗ nó có một nghìn bốn trăm mười lần mặt trời lặn trong hai mươi bốn tiếng đồng hồ!	Magának sem merte bevallani, hogy legkivált a napi ezernégyszáznegyven napnyugtájáért sajnálja ezt az áldott bolygót.	-0.128947
+Chẳng thể ở được hai người..."	Nem férnek el rajta ketten..."	0.182143
+Điều mà cậu hoàng tử không thể thú nhận với mình, ấy là em tiếc cái hành tinh thiên phúc này chủ yếu ở chỗ nó có một nghìn bốn trăm mười lần mặt trời lặn trong hai mươi bốn tiếng đồng hồ!	Magának sem merte bevallani, hogy legkivált a napi ezernégyszáznegyven napnyugtájáért sajnálja ezt az áldott bolygót.	0.0421053
 XIX	15.	0.3
-		-0.3
- ~~~ Cậu hoàng tử trèo lên một quả núi cao.	A hatodik bolygó tízszerte nagyobb volt.	-0.0197368
+Cậu hoàng tử trèo lên một quả núi cao.	A hatodik bolygó tízszerte nagyobb volt.	0.260526
 Trước nay những hòn núi cao độc nhất mà em biết chỉ là ba quả núi lửa ngang đầu gối em.		-0.3
 Nên em dùng quả núi lửa đã tắt làm ghế ngồi.	Egy öregúr lakott rajta, és óriási könyveket írt.	0.294
 "Từ trên một quả núi cao như quả này - em nói thầm - mình sẽ đưa mắt là thấy ngay tất cả hành tinh và tất cả mọi người..." Nhưng em đã chỉ thấy có những mũi nhọn của các tảng đá mài rất sắc. ~~~ - Chúc một ngày tốt lành - em buột miệng nói.		-0.3
@@ -845,7 +817,7 @@ Lúc đó em nghĩ thầm.	Egy kicsit lihegett.	0.236842
 Nó khô khốc, lại nhọn hoắt nữa, và lại mặn ơi là mặn.		-0.3
 Mà những con người thì thiếu óc tưởng tượng.		-0.3
 Ai nói câu gì cứ lặp lại câu đó.	Annyit utazott már!	0.0157895
-Ở quê mình có một bông hoa, cô ta bao giờ cũng nói trước..." ~~~  ~~~  ~~~  ~~~  ~~~  ~~~ XV ~~~  ~~~ 		-0.3
+Ở quê mình có một bông hoa, cô ta bao giờ cũng nói trước..." ~~~ XV		-0.3
 Hành tinh thứ sáu là một hành tinh mười lần rộng hơn.		-0.3
 Ở hành tinh đó là một Tôn Ông đã già và viết được nhiều cuốn sách khổng lồ.		-0.3
 - Ồ! ~~~ Một nhà thám hiểm!	- Honnét jössz?	0.25
@@ -896,7 +868,7 @@ Vậy nên khi tư cách của nhà thám hiểm xem thấy là tốt rồi, th�
 - Không, đi thì phức tạp quá.	- Nem, nem. ~~~ Az túl bonyodalmas lenne.	0.045
 Người ta chỉ đòi hỏi nhà thám hiểm phải cung cấp bằng chứng thôi.	Hanem fölszólítják a kutatót, hogy szolgáltasson bizonyítékokat.	0.264179
 Ví dụ như tìm thấy một hòn núi lớn, người ta chỉ buộc phải mang về những tảng đá to.	Ha például egy nagy hegy fölfedezéséről van szó, megkívánják tőle, hogy mutatóba szép, nagy köveket hozzon belőle.	0.24375
-Nhưng nhà địa lí bỗng nhiên giọng xúc động: ~~~ 	Hirtelen izgalom vett erőt a geográfuson.	-0.0461538
+Nhưng nhà địa lí bỗng nhiên giọng xúc động:	Hirtelen izgalom vett erőt a geográfuson.	0.207692
 - Nhưng mà khách là khách đến từ xa!	- De te, te nagyon messziről jöttél!	0.630882
 Khách đúng là nhà thám hiểm rồi!	Te kutató vagy!	-0.14
 Khách hãy tả cho ta cái hành tinh của khách đi!	Írd le nekem a bolygódat!	0
@@ -915,36 +887,33 @@ Nhưng ai biết nó thế nào.	Bár sosem lehet tudni.	0.2
 - Sao thế?	- Miért nem?	1.02273
 Nó là thứ đẹp nhất kia mà!	Hiszen az a legszebb rajta!	0.2125
 - Bởi vì đời hoa ngắn ngủi lắm.	- Mert a virágok múlékonyak.	0.703571
-- "Ngắn ngủi" nghĩa là thế nào ạ?	- Mit jelent az, hogy „múlékony”?	0.702857
+- "Ngắn ngủi" nghĩa là thế nào ạ?	- Mit jelent az, hogy "múlékony"?	0.660829
 - Các sách địa lí - nhà địa lí nói - là quý nhất trong tất cả các loại sách.	- A földrajzkönyvek - mondta a földrajztudós - a világ legértékesebb könyvei.	0.964308
 Chẳng bao giờ hết thời cả.	Nem avulnak el soha.	0.0666667
 Chẳng mấy khi một quả núi lại chuyển chỗ.	Fölöttébb ritkán fordul elő, hogy egy hegy megváltoztassa a helyét.	0.195918
 Chẳng mấy khi một đại dương lại cạn nước.	Fölöttébb ritka dolog az is, hogy egy óceánnak kiapadjon a vize.	0.253846
 Bọn ta viết nên những điều vĩnh cửu.	Mi csak örök dolgokat írunk le.	0.17
 - Song những núi lửa đã tắt có thể thức dậy được - cậu hoàng tử ngắt lời.	- De a kialudt vulkán egyszer csak működni kezdhet - szólt közbe a kis herceg.	0.606429
-- "Ngắn ngủi" nghĩa là gì ?	- Mit jelent az, hogy „múlékony”?	0.666502
+- "Ngắn ngủi" nghĩa là gì ?	- Mit jelent az, hogy "múlékony"?	0.707882
 - Núi lửa tắt hay núi lửa thức đối với bọn ta cũng là thế thôi - nhà địa lí nói.	- Számunkra teljességgel mindegy, hogy egy vulkán kialudt-e, vagy működik - felelte a geográfus.	0.696629
 - Cái ta kể tới, đó là núi.	- Nekünk csak a hegy számít.	0.695238
 Núi không thay đổi.	Az pedig nem változik.	0.285714
-- Nhưng "ngắn ngủi" nghĩa là gì?	- De mit jelent az, hogy „múlékony”?	0.657857
+- Nhưng "ngắn ngủi" nghĩa là gì?	- De mit jelent az, hogy "múlékony"?	0.656818
 - Cậu hoàng tử lặp lại, suốt đời cậu em đã đặt ra một câu hỏi là không chịu bỏ.	- makacskodott a kis herceg, mert ha egyszer föltett egy kérdést, nem tágított tőle soha többet.	0.462987
 - Nghĩa là "bị đe dọa sắp tới lúc chết" đấy.	- Azt jelenti, hogy előbb-utóbb megsemmisül.	0.665781
 - Cái hoa của tôi bị đe dọa sắp phải chết ư?	- Az én virágom előbb-utóbb megsemmisül?	0.662718
 - Hẳn thế.	- Úgy bizony.	1.05
-"Đóa hoa của ta ngắn ngủi - cậu hoàng tử nghĩ thầm. ~~~ - Cô bé chỉ có bốn cái gai để chống chọi ở đời!	„Múlékony a virágom - gondolta a kis herceg -, s mindössze négy tüskéje van, hogy a világtól védekezzék!	0.0878359
-Thế mà ta để cô ấy một mình ở quê nhà!".	És én magára hagytam otthon!”	0.145161
+"Đóa hoa của ta ngắn ngủi - cậu hoàng tử nghĩ thầm. ~~~ - Cô bé chỉ có bốn cái gai để chống chọi ở đời!	"Múlékony a virágom - gondolta a kis herceg -, s mindössze négy tüskéje van, hogy a világtól védekezzék!	0.0844156
+Thế mà ta để cô ấy một mình ở quê nhà!".	És én magára hagytam otthon!"	0.113793
 Ấy là cơn thương tiếc đầu tiên dấy lên trong lòng cậu em.	Most érzett először valami lelkifurdalás-félét.	0.216
-Em lấy lại can đảm: ~~~ 	De nyomban összeszedte magát.	-0.024
+Em lấy lại can đảm:	De nyomban összeszedte magát.	0.221739
 - Bây giờ ông khuyên tôi nên đi thăm đâu?	- Mit tanácsol uraságod?	0.65
 - Em hỏi.	- kérdezte.	1.24
 - Hành tinh Trái Đất - nhà địa lí trả lời em.	- Milyen bolygót látogassak meg! ~~~ - A Földet - felelte a földrajztudós.	0.315
 - Hành tinh ấy nổi tiếng lắm...	- Jó híre van...	0.54375
- ~~~ Thế là cậu hoàng tử ra đi, vừa nghĩ đến đóa hoa của mình.	A kis herceg útra kelt, de közben egyre a virágjára gondolt.	-0.0272727
+Thế là cậu hoàng tử ra đi, vừa nghĩ đến đóa hoa của mình.	A kis herceg útra kelt, de közben egyre a virágjára gondolt.	0.245455
 XVI	16.	0.3
-		-0.3
-		-0.3
-V		-0.3
- ~~~ ậy hành tinh thứ bảy là Trái Đất.	A hetedik bolygó tehát a Föld volt.	-0.0272727
+V ~~~ ậy hành tinh thứ bảy là Trái Đất.	A hetedik bolygó tehát a Föld volt.	-0.0272727
 Trái Đất đâu có phải là một hành tinh xoàng!	Ez a Föld nem akármilyen bolygó ám!	0.158824
 Ở đây có tới một trăm mười ông vua (trong đó, hiển nhiên ta không quên kể các ông vua đen), bảy nghìn nhà địa lí, chín trăm nghìn tên tư sản, bảy triệu rưỡi gã nát rượu, ba trăm mười triệu cha khoác lác, nghĩa là vào quãng hai tỉ rưỡi người lớn.	Van rajta száztizenegy király (beleszámítva természe­tesen a néger királyokat is), hétezer geográfus, kilencszázezer üzletember, hét és fél millió részeges, háromszáztizenegymillió hiú, vagyis körülbelül kétmilliárd fölnőtt.	0.248908
 Để các bạn có chút ý niệm về kích thước Trái Đất, tôi phải nói với các bạn rằng trước khi tìm ra được điện, trên cả sáu châu người ta phải nuôi để dùng như nuôi dùng cả một đạo quân thật sự bốn trăm sáu mươi hai nghìn năm trăm mười một người đốt đèn.	Hogy valami fogalmunk legyen a Föld nagyságáról, gondoljuk meg, hogy az elektromosság fölfedezése előtt a hat kontinensen egész hadseregnyi lámpagyújtogatót kellett alkalmazni, szám szerint négyszázhetvenkétezer-ötszáztizenegyet.	0.211607
@@ -961,8 +930,7 @@ Thế nhưng chẳng bao giờ họ vào ra sân khấu nhầm lẫn cả.	És s
 Cảnh tượng thật là huy hoàng.	Nagyszerű volt!	-0.0375
 Chỉ có ông đốt cây đèn độc nhất ở Bắc Cực và ông đốt cây đèn độc nhất ở Nam Cực là sống cuộc đời lề mề ăn không nằm rỗi: hai ông ấy chỉ làm việc một năm có hai lần.	Mindössze két lámpagyújtogató élt henyén és nemtörődöm módra: az Északi-sark egyetlen lámpájának gyújtogatója, valamint kartársa, a Déli-sark egyetlen lámpájáé. ~~~ Ők évente csupán kétszer dolgoztak.	-0.00773196
 XVII	17.	0.225
-		-0.3
- ~~~ Khi người ta muốn tỏ ra thông minh, có khi người ta phải nói dối một chút.	Ha az ember mindenáron szellemes akar lenni, megesik, hogy egy kicsit elveti a sulykot.	-0.00592105
+Khi người ta muốn tỏ ra thông minh, có khi người ta phải nói dối một chút.	Ha az ember mindenáron szellemes akar lenni, megesik, hogy egy kicsit elveti a sulykot.	0.288158
 Tôi không thật thà lắm đâu khi kể với các bạn về những người đốt đèn.	Én sem voltam egészen szavahihető, amikor a lámpagyújtogatókról beszéltem.	0.268
 Có thể có rủi ro là tôi gây một ý niệm sai lầm đối với những ai chứa quen biết hành tinh của chúng ta.	Így aztán félő, hogy hamis fogalmat adok bolygónkról azoknak, akik nem ismerik.	0.16
 Loài người chiếm rất ít chỗ trên mặt đất.	Az emberek ugyanis igen-igen kevéske helyet foglalnak el a Földön.	0.241176
@@ -990,7 +958,7 @@ Chẳng có ai trên sa mạc đâu.	- Ez itt a sivatag.	0.01875
 Trái Đất rộng lắm.	A sivatagban nincs senki.	0.286957
 - Rắn nói.	De a Föld nagy - mondta a kígyó.	0.625
 Cậu hoàng tử ngồi trên một tảng đá và ngửa mặt lên trời:	A kis herceg leült egy kőre, és szemét az égre emelte.	0.198
- ~~~ - Có phải những ngôi sao được thắp sáng là để mỗi người một ngày kia trở về được ngôi sao của mình?	- Nem tudom - mondta -, nem azért vannak-e kivilágítva a csillagok, hogy egy napon minden­ki megtalálhassa a magáét.	0.0622642
+- Có phải những ngôi sao được thắp sáng là để mỗi người một ngày kia trở về được ngôi sao của mình?	- Nem tudom - mondta -, nem azért vannak-e kivilágítva a csillagok, hogy egy napon minden­ki megtalálhassa a magáét.	0.424528
 Đằng ấy hãy nhìn xem cái hành tinh của tớ.	Nézd csak, az ott az én bolygóm.	0.13
 Nó ở ngay bên trên ta... Nhưng nó lại xa thế!	Éppen fölöttünk... De milyen messze van!	0.2475
 - Nó đẹp nhỉ - rắn nói.	- Szép csillag - mondta a kígyó.	1.01667
@@ -1001,33 +969,33 @@ Nó ở ngay bên trên ta... Nhưng nó lại xa thế!	Éppen fölöttünk... 
 Và cả hai lặng thinh.	És sokáig hallgattak.	0.286364
 - Loài người ở đâu?	- Hol vannak az emberek?	0.757143
 - Cậu hoàng tử lại nói tiếp.	- kérdezte később a kis herceg.	0.698571
-- Trong sa mạc hơi bơ vơ... ~~~ 	- Itt a sivatagban olyan egyedül van az ember.	0.115278
+- Trong sa mạc hơi bơ vơ...	- Itt a sivatagban olyan egyedül van az ember.	0.530556
 - Ngay giữa loài người, cũng bơ vơ - rắn nói.	- Nincs kevésbé egyedül az emberek közt sem - mondta a kígyó.	0.74375
 Cậu hoàng tử nhìn rắn rất lâu:	A kis herceg hosszasan szemügyre vette.	0.3
- ~~~ - Đằng ấy là một con vật buồn cười thật, - em nói - mảnh khảnh cứ như một cái ngón tay... ~~~ 	- Furcsa jószág vagy, vékony, mint az ujjam...	-0.116796
+- Đằng ấy là một con vật buồn cười thật, - em nói - mảnh khảnh cứ như một cái ngón tay...	- Furcsa jószág vagy, vékony, mint az ujjam...	0.249612
 - Nhưng tớ lại mạnh hơn ngón tay của một ông vua - Rắn nói.	- De bármilyen király ujjánál hatalmasabb - mondta a kígyó.	0.813876
 Cậu hoàng tử mỉm cười:	A kis herceg elmosolyodott.	0.252
- ~~~ - Đằng ấy không mạnh lắm đâu... đến chân, đằng ấy cũng chả có... đi đây đi đó đằng ấy cũng chả đi được.	- Nem mondhatnám, hogy nagyon hatalmas vagy, hiszen még lábad sincs... utazni se tudsz.	0.00961538
+- Đằng ấy không mạnh lắm đâu... đến chân, đằng ấy cũng chả có... đi đây đi đó đằng ấy cũng chả đi được.	- Nem mondhatnám, hogy nagyon hatalmas vagy, hiszen még lábad sincs... utazni se tudsz.	0.319231
 - Tớ có thể chở cậu đi xa hơn tàu thủy cơ - rắn nói.	- De nincs az a hajó, amelyik messzebbre bírna vinni, mint én - mondta a kígyó.	0.606579
 Rắn quấn quanh mắt cá của cậu hoàng tử, trông giống một chiếc vòng vàng:	Azzal, mint egy aranypánt, a kis herceg bokájára tekeredett.	0.160714
- ~~~ - Tớ mà chạm vào kẻ nào là tớ cho hắn ta trở về ngay với đất là nơi hắn chui ra.	- Akit én megérintek, azt visszaadom a földnek, ahonnét származik - mondta.	0.078956
-Còn cậu, cậu trong sạch và cậu từ một ngôi sao tới... ~~~ 	- Te azonban tiszta vagy, és egy csillagról jöttél.	-0.0375
+- Tớ mà chạm vào kẻ nào là tớ cho hắn ta trở về ngay với đất là nơi hắn chui ra.	- Akit én megérintek, azt visszaadom a földnek, ahonnét származik - mondta.	0.457912
+Còn cậu, cậu trong sạch và cậu từ một ngôi sao tới...	- Te azonban tiszta vagy, és egy csillagról jöttél.	0.225
 Cậu hoàng tử không nói gì.	A kis herceg nem felelt.	0.171429
 - Cậu làm cho tớ mủi lòng, cậu yếu đuối thế kia trên Trái Đất đá hoa cương này.	- Olyan gyönge vagy ezen a gránit Földön, hogy megesik rajtad a szívem.	0.403516
-Nếu cậu tiếc quá cái hành tinh của cậu, một hôm nào, rồi tớ sẽ giúp cậu... Tớ có thể... ~~~ 	Ha egy szép napon majd nagyon visszavágyol a bolygódra, segíthetek rajtad. ~~~ Mert én...	-0.185185
+Nếu cậu tiếc quá cái hành tinh của cậu, một hôm nào, rồi tớ sẽ giúp cậu... Tớ có thể...	Ha egy szép napon majd nagyon visszavágyol a bolygódra, segíthetek rajtad. ~~~ Mert én...	-0.0351852
 - Ồ!	- Ó!	1.24
 Tớ hiểu hết - cậu hoàng tử nói.	- mondta a kis herceg.	0.515789
 - Nhưng sao đằng ấy lúc nào cũng nói hiểm hóc thế?	- Értem, nagyon is értem. ~~~ De miért beszélsz mindig rejtélyekben?	0.05625
 - Mọi điều hiểm hóc, tớ đều giải hết - rắn nói.	- Valamennyit megfejtem - mondta a kígyó.	0.9
-Và họ lặng thinh. ~~~ XVIII	És hallgattak utána tovább.	-0.00555556
- ~~~ 	18.	-0.05
+Và họ lặng thinh.	És hallgattak utána tovább.	0.18
+XVIII	18.	0.15
 Cậu hoàng tử đi qua sa mạc và chỉ gặp có một bông hoa.	A kis herceg nekivágott a sivatagnak, de nem találkozott, csak egy virággal.	0.249153
 Một bông hoa chỉ ba cánh, một hoa xoàng...	Egy három­szirmú, semmi kis virággal.	0.252632
- ~~~ - Chúc một ngày tốt lành, - cậu hoàng tử nói.	- Jó napot! ~~~ - mondta a kis herceg.	0.0129032
+- Chúc một ngày tốt lành, - cậu hoàng tử nói.	- Jó napot! ~~~ - mondta a kis herceg.	0.162903
 - Chúc một ngày tốt lành, - bông hoa nói.	- Jó napot! ~~~ - mondta a virág.	0.225
 - Loài người ở đâu?	- Hol vannak az emberek?	0.757143
 - Cậu hoàng tử lễ phép hỏi.	- kérdezte udvariasan a kis herceg.	0.728571
-Bông hoa vốn một hôm có trông thấy một đoàn người đi qua: ~~~ 	A virág látott egyszer egy bandukoló karavánt.	-0.0633333
+Bông hoa vốn một hôm có trông thấy một đoàn người đi qua:	A virág látott egyszer egy bandukoló karavánt.	0.173333
 - Người hả?	- Az emberek?	0.975
 Có loài ấy đấy, sáu hay bảy mống, hình như thế.	Van belőlük, azt hiszem, hat vagy hét.	0.15
 Em có nhìn thấy ngữ ấy mấy năm trước kia.	Évekkel ezelőtt láttam őket.	0.13
@@ -1037,51 +1005,62 @@ Họ chẳng có rễ, cái đó phiền cho họ lắm.	Nagy baj nekik, hogy ni
 - Từ biệt - cậu hoàng tử nói.	- Viszontlátásra - mondta a kis herceg.	1.02273
 - Từ biệt - hoa nói.	- Viszontlátásra - mondta a virág.	0.985714
 XX	19.	0.2
-	A kis herceg fölkapaszkodott egy hegyre.	-0.3
-	Életében nem látott még más hegyet, mint a három vulkánját, de azok éppen csak a térdéig értek.	-0.3
-	A kialudt vulkánját zsámolynak használta.	-0.3
-	„Egy ekkora hegyről - gondolta - egyetlen szempillantással látni fogom az egész bolygót meg az összes embert.” De nem látott egyebet, mint tűhegyes sziklacsúcsokat. ~~~ - Jó napot! ~~~ - mondta találomra. ~~~ - Jó napot!... ~~~ Jó napot!... ~~~ Jó napot!... ~~~ - válaszolta a visszhang. ~~~ - Ki vagy? ~~~ - kérdezte a kis herceg. ~~~ - Ki vagy... ki vagy... ki vagy... - felelte a visszhang. ~~~ - Légy a barátom, olyan egyedül vagyok - mondta. ~~~ - Egyedül vagyok... egyedül vagyok... egyedül vagyok - felelte a visszhang. ~~~ „Milyen furcsa bolygó! ~~~ - gondolta a kis herceg. ~~~ - Milyen száraz, milyen hegyes, milyen sós. ~~~ És az embereknek nincs semmi képzelőtehetségük. ~~~ Folyton csak azt szajkózzák, amit mon­danak nekik... Nekem otthon volt egy virágom: mindig ő kezdte a beszélgetést...”	-0.3
- ~~~ 	20.	-0.05
-Nhưng cậu hoàng tử đi đã lâu qua các bãi cát, qua đá, qua tuyết, bỗng sau cùng tìm thấy một con đường.	Egy szép napon aztán, miután sokáig vándorolt homokon, sziklákon, havon keresztül, a kis herceg végre rábukkant egy útra.	0.286364
-Và mọi con đường, đều đưa đến nơi có người.	És az utak mind az emberekhez vezetnek.	0.128571
-- Chúc một ngày tốt lành - em nói.	- Jó napot! ~~~ - mondta.	0.275
-Ấy là một khu vườn đầy hoa hồng.	Virágzó rózsakert előtt állt.	0.234375
-- Chúc một ngày tốt lành - các hoa hồng trả lời.	- Jó napot! ~~~ - mondták a rózsák.	0.20625
-Cậu hoàng tử nhìn các hoa hồng.	A kis herceg csak nézte őket.	0.211111
-Họ tất cả đều giống bông hoa của em.	Mind olyanok voltak, mint a virágja.	0.209091
-- Các bạn là ai ?	- Kik vagytok?	0.957692
+Nhưng cậu hoàng tử đi đã lâu qua các bãi cát, qua đá, qua tuyết, bỗng sau cùng tìm thấy một con đường.	A kis herceg fölkapaszkodott egy hegyre. ~~~ Életében nem látott még más hegyet, mint a három vulkánját, de azok éppen csak a térdéig értek.	-0.0272727
+Và mọi con đường, đều đưa đến nơi có người.	A kialudt vulkánját zsámolynak használta.	0.207143
+	"Egy ekkora hegyről - gondolta - egyetlen szempillantással látni fogom az egész bolygót meg az összes embert." De nem látott egyebet, mint tűhegyes sziklacsúcsokat. ~~~ - Jó napot!	-0.3
+- Chúc một ngày tốt lành - em nói.	- mondta találomra. ~~~ - Jó napot!...	0.370588
+	Jó napot!...	-0.3
+Ấy là một khu vườn đầy hoa hồng.	Jó napot!... ~~~ - válaszolta a visszhang.	-0.00394737
+	- Ki vagy?	-0.3
+	- kérdezte a kis herceg.	-0.3
+	- Ki vagy... ki vagy... ki vagy... - felelte a visszhang.	-0.3
+- Chúc một ngày tốt lành - các hoa hồng trả lời.	- Légy a barátom, olyan egyedül vagyok - mondta.	0.845455
+	- Egyedül vagyok... egyedül vagyok... egyedül vagyok - felelte a visszhang.	-0.3
+	"Milyen furcsa bolygó!	-0.3
+	- gondolta a kis herceg.	-0.3
+Cậu hoàng tử nhìn các hoa hồng.	- Milyen száraz, milyen hegyes, milyen sós.	0.257143
+	És az embereknek nincs semmi képzelőtehetségük.	-0.3
+	Folyton csak azt szajkózzák, amit mon­danak nekik... Nekem otthon volt egy virágom: mindig ő kezdte a beszélgetést..."	-0.3
+	20. ~~~ Egy szép napon aztán, miután sokáig vándorolt homokon, sziklákon, havon keresztül, a kis herceg végre rábukkant egy útra.	-0.3
+Họ tất cả đều giống bông hoa của em.	És az utak mind az emberekhez vezetnek. ~~~ - Jó napot!	-0.0139535
+- Các bạn là ai ?	- mondta.	1.03333
+	Virágzó rózsakert előtt állt.	-0.3
+	- Jó napot!	-0.3
+	- mondták a rózsák.	-0.3
+	A kis herceg csak nézte őket.	-0.3
+	Mind olyanok voltak, mint a virágja.	-0.3
+	- Kik vagytok?	-0.3
 - Kinh ngạc, em hỏi họ.	- kérdezte meghökkenten.	1.05
 - Chúng em là hoa hồng - các bông hồng nói.	- Rózsák vagyunk - felelték a rózsák.	1.00135
 - Thế ư?	- Ó!	1
 - Cậu hoàng tử kêu lên.	- mondta a kis herceg.	0.689474
 Và em liền cảm thấy rất đau khổ.	És nagyon boldogtalannak érezte magát.	0.3
 Đóa hoa của em, cô ta đã có kể với em rằng cô là độc nhất vô nhị của loài hoa hồng trong vũ trụ.	Neki a virágja azt mesélte, hogy sehol a világon nincsen párja; és most ott volt előtte ötezer, szakasztott ugyanolyan, egyetlen kertben!	0.242857
-Thế nhưng đây này, chỉ mới trong mỗi một khu vườn đã có đến năm nghìn đóa giống nhau hết.	„Hogy bosszankodnék, ha látná! ~~~ - gondolta.	-0.19
+Thế nhưng đây này, chỉ mới trong mỗi một khu vườn đã có đến năm nghìn đóa giống nhau hết.	"Hogy bosszankodnék, ha látná! ~~~ - gondolta.	-0.205814
 "Trông thấy cảnh này cô ta chắc sẽ ngượng - em nghĩ thầm... - Cô ta sẽ ho thật to và giả chết để đỡ xấu hổ.	- Iszonyatosan köhécselne, és úgy tenne, mint aki a halálán van, csak hogy nevetségessé ne váljék.	0.396683
-Còn mình, mình buộc làm ra vẻ chăm sóc cô ta, nếu không, cô ta chết thật mất, cốt làm cho chính mình xấu hổ mà..."	Nekem pedig úgy kellene tennem, mintha ápolnám; különben még valóban meghalna, csak hogy megszégyenítsen...”	0.260748
- ~~~ Rồi em lại nói thầm: "Trước, mình chỉ có một bông hoa độc nhất mà mình tưởng mình giàu có, thật ra mình chỉ có một bông hoa thường thôi.	És utána még ezt gondolta: „Azt hittem, gazdag vagyok, van egy párjanincs virágom; és lám, nincs, csak egy közönséges rózsám.	-0.0371901
-Nó và ba trái núi lửa chỉ thấp đến đầu gối mình, trong đó một quả thì có lẽ đã tắt vĩnh viễn rồi, tất cả những cái ấy không làm được cho mình thành một ông hoàng lớn lắm đâu..." Thế là, nằm trong cỏ, em nức lên khóc.	Ezzel meg a három térdig érő vulkánommal, melyek közül az egyik talán egyszer s mindenkorra kialudt, igazán nem vagyok valami híres nagy herceg...” ~~~ Lefeküdt a fűbe, és sírni kezdett.	-0.0615607
+Còn mình, mình buộc làm ra vẻ chăm sóc cô ta, nếu không, cô ta chết thật mất, cốt làm cho chính mình xấu hổ mà..."	Nekem pedig úgy kellene tennem, mintha ápolnám; különben még valóban meghalna, csak hogy megszégyenítsen..."	0.254286
+Rồi em lại nói thầm: "Trước, mình chỉ có một bông hoa độc nhất mà mình tưởng mình giàu có, thật ra mình chỉ có một bông hoa thường thôi.	És utána még ezt gondolta: "Azt hittem, gazdag vagyok, van egy párjanincs virágom; és lám, nincs, csak egy közönséges rózsám.	0.219328
+Nó và ba trái núi lửa chỉ thấp đến đầu gối mình, trong đó một quả thì có lẽ đã tắt vĩnh viễn rồi, tất cả những cái ấy không làm được cho mình thành một ông hoàng lớn lắm đâu..." Thế là, nằm trong cỏ, em nức lên khóc.	Ezzel meg a három térdig érő vulkánommal, melyek közül az egyik talán egyszer s mindenkorra kialudt, igazán nem vagyok valami híres nagy herceg..." ~~~ Lefeküdt a fűbe, és sírni kezdett.	-0.0640351
 XXI	21.	0.3
-		-0.3
- ~~~ Vừa lúc đó bỗng nhiên hiện ra một con cáo.	Akkor jelent meg a róka. ~~~ - Jó napot!	-0.207353
+Vừa lúc đó bỗng nhiên hiện ra một con cáo.	Akkor jelent meg a róka. ~~~ - Jó napot!	-0.0573529
 Chào một ngày tốt lành - con cáo nói.	- mondta a róka. ~~~ - Jó napot!	0.233333
 - Chào một ngày tốt lành, - cậu hoàng tử đáp lại lễ phép, cậu xoay người lại nhưng chẳng thấy gì cả.	- felelte udvariasan a kis herceg. ~~~ Megfordult, de nem látott senkit.	-0.123387
 - Tôi ở đây cơ mà, - giọng nói cất lên nói - dưới cây táo...	- Itt vagyok az almafa alatt - mondta a hang. ~~~ - Ki vagy?	0.21528
- ~~~ - Cậu là ai thế?	- kérdezte a kis herceg.	0.216667
-- Cậu hoàng tử nói - Cậu thật bảnh... ~~~ 	- Csinosnak csinos vagy...	0.1875
+- Cậu là ai thế?	- kérdezte a kis herceg.	0.733333
+- Cậu hoàng tử nói - Cậu thật bảnh...	- Csinosnak csinos vagy...	0.675
 - Tớ là một con cáo - con cáo nói.	- Én vagyok a róka - mondta a róka.	0.870968
 - Đến đây chơi với tôi - cậu hoàng tử rủ cáo.	- Gyere, játsszál velem - javasolta a kis herceg.	0.845455
 - Tôi buồn chết đi được...	- Olyan szomorú vagyok...	0.8
- ~~~ - Tớ không chơi với cậu được.	- Nem játszhatom veled - mondta a róka.	0.183214
+- Tớ không chơi với cậu được.	- Nem játszhatom veled - mondta a róka.	0.666429
 Tớ không quen.	- Nem vagyok megszelídítve.	0.09375
 - Thế ư?	- Ó, bocsánat!	0.9
 Xin lỗi - cậu hoàng tử nói.	- mondta a kis herceg.	0.626316
-Nhưng, sau khi suy nghĩ, em hỏi thêm: ~~~ 	Némi tűnődés után azonban hozzátette: - Mit jelent az, hogy „megszelídíteni”?	-0.165789
+Nhưng, sau khi suy nghĩ, em hỏi thêm:	Némi tűnődés után azonban hozzátette: - Mit jelent az, hogy "megszelídíteni"?	-0.0333333
 - "Quen" nghĩa là gì thế ?	- Te nem vagy idevalósi - mondta a róka.	0.571154
 - Ra cậu không phải ở đây.	- Mit keresel?	0.657692
 Cậu đi tìm cái gì?		-0.3
 - Tớ đi tìm những con người - cậu hoàng tử nói.	- Az embereket keresem - mondta a kis herceg.	0.789474
-- "Quen" nghĩa là gì vậy?	- Mit jelent az, hogy „megszelídíteni”?	0.555495
+- "Quen" nghĩa là gì vậy?	- Mit jelent az, hogy "megszelídíteni"?	0.601648
 - Loài người - cáo nói - họ có súng, họ bắn.	- Az embereknek - mondta a róka - puskájuk van, és vadásznak.	0.948558
 Phiền lắm.	Mondhatom, nagyon kelle­metlen!	-0.0642857
 Họ cũng nuôi gà nữa.	Azonfölül tyúkot is tenyésztenek.	0.1625
@@ -1089,7 +1068,7 @@ Họ mà đáng cho ta chú ý... là ở việc nuôi gà này thôi.	Ez minden
 Cậu đi kiếm gà, phải không?	Tyúkokat keresel?	0.0666667
 - Không, - cậu hoàng tử nói.	- Nem - mondta a kis herceg.	0.958696
 - Mình kiếm bạn bè.	- Barátokat keresek.	1.02
-"Quen" nghĩa là gì ?	Mit jelent az, hogy „megszelídíteni”?	0
+"Quen" nghĩa là gì ?	Mit jelent az, hogy "megszelídíteni"?	0.06
 - Ấy là một việc mình bỏ quên đã lâu - cáo nói.	- Olyasmi, amit nagyon is elfelejtettek - mondta a róka.	0.827087
 - Nó có nghĩa là "tạo nên những tình cảm ràng buộc".	- Azt jelenti: kapcsolatokat teremteni.	0.625
 - Tạo nên những tình cảm ràng buộc?	- Kapcsolatokat teremteni?	0.87
@@ -1102,11 +1081,11 @@ Nhưng, nếu cậu làm cho tớ quen dần cậu, hai đứa ta, đứa này s
 Đối với tớ, cậu sẽ là người duy nhất trên đời.	Egyetlen leszel számomra a világon.	0.0882353
 Tớ đối với cậu sẽ duy nhất trên đời.	És én is egyetlen leszek a te számodra...	0.236842
 - Tôi bắt đầu hiểu, - cậu hoàng tử nói.	- Kezdem érteni - mondta a kis herceg.	0.857576
-- Có một bông hoa... tôi cho là nó đã làm cho tôi quen... ~~~ 	- Van egy virág... az, azt hiszem, megszelídített engem...	0.144444
+- Có một bông hoa... tôi cho là nó đã làm cho tôi quen...	- Van egy virág... az, azt hiszem, megszelídített engem...	0.588889
 - Có thể, - cáo nói.	- Lehet - mondta a róka.	1.15714
 - Trên Trái Đất, có đủ mọi vật...	- Annyi minden megesik a Földön...	0.653571
- ~~~ - Ôi, không phải trên Trái Đất - cậu hoàng tử nói.	- Ó, ez nem a Földön volt - mondta a kis herceg.	0.17955
-Cáo có vẻ chú ý: ~~~ 	A róka egyszeriben csupa kíváncsiság lett.	-0.15
+- Ôi, không phải trên Trái Đất - cậu hoàng tử nói.	- Ó, ez nem a Földön volt - mondta a kis herceg.	0.659099
+Cáo có vẻ chú ý:	A róka egyszeriben csupa kíváncsiság lett.	-0.0631579
 - Trên một hành tinh khác à?	- Egy másik bolygón?	0.765
 - Phải.	- Igen.	1.21429
 - Trên hành tinh ấy, có kẻ đi săn không?	- Vannak azon a bolygón vadászok?	0.62212
@@ -1115,7 +1094,7 @@ Cáo có vẻ chú ý: ~~~ 	A róka egyszeriben csupa kíváncsiság lett.	-0.15
 Nhưng có gà không?	Hát tyúkok?	0.138462
 - Không.	- Nincsenek.	1.2
 - Thế thì chả có gì hoàn hảo thật!	- Semmi sem tökéletes - sóhajtott a róka.	0.633333
-- Cáo thở dài. ~~~ Nhưng rồi cáo bỗng trở lại với ý nghĩ của mình: ~~~ 	De aztán visszatért a gondolatára: - Nekem bizony egyhangú az életem.	-0.110769
+- Cáo thở dài. ~~~ Nhưng rồi cáo bỗng trở lại với ý nghĩ của mình:	De aztán visszatért a gondolatára: - Nekem bizony egyhangú az életem.	-0.0161538
 - Đời tớ buồn tẻ. ~~~ Tớ săn gà, người săn tớ.	Én tyúkokra vadászom, az emberek meg énrám vadásznak.	-0.00283019
 Tất cả loài gà đều giống nhau, tất cả loài người đều giống nhau.	Egyik tyúk olyan, mint a másik; és egyik ember is olyan, mint a másik.	0.232258
 Vì thế, tớ hơi chán.	Így aztán meglehetősen unat­ko­zom.	0.125
@@ -1130,9 +1109,9 @@ Lúa mì đối với tớ là vô dụng.	Nincs a búzára semmi szükségem.	0
 Các cánh đồng lúa mì đối với tớ chẳng có khêu gợi gì hết.	Nekem egy búzatábláról nem jut eszembe semmi. ~~~ Tudod, milyen szomorú ez?	-0.00220588
 Mà thế thì buồn quá.	De neked olyan szép aranyhajad van.	0.2
 Nhưng mái tóc màu vàng kim của cậu, mái tóc vàng kim của cậu thật là tuyệt, khi cậu đã làm cho tớ quen thân cậu, rồi lúa mì, vốn màu vàng, sẽ gợi cho tớ nhớ cậu.	Ha megszelídítesz, milyen nagyszerű lenne! ~~~ Akkor az aranyos búzáról rád gondolhatnék.	-0.153488
-Tớ sẽ yêu cả tiếng gió khua trong lúa mì nữa... ~~~ 	És hogy szeretném a búzában a szél susogását...	-0.0125
+Tớ sẽ yêu cả tiếng gió khua trong lúa mì nữa...	És hogy szeretném a búzában a szél susogását...	0.275
 Cáo nín thinh và nhìn cậu hoàng tử một lúc lâu:	A róka elhallgatott, és sokáig nézte a kis herceget.	0.287755
- ~~~ - Tớ yêu cầu cậu... hãy làm cho tớ quen thân cậu đi - cáo nói.	- Légy szíves, szelídíts meg! ~~~ - mondta.	0.00625
+- Tớ yêu cầu cậu... hãy làm cho tớ quen thân cậu đi - cáo nói.	- Légy szíves, szelídíts meg! ~~~ - mondta.	0.15625
 - Tôi cũng muốn thế lắm, - cậu hoàng tử trả lời - nhưng tôi không có nhiều thì giờ.	- Kész örömest - mondta a kis herceg -, de nem nagyon érek rá.	0.503636
 Tôi cần tìm kiếm nhiều bạn bè và tìm hiểu nhiều sự vật.	Barátokat kell találnom, és annyi mindent meg kell ismernem!	0.251786
 - Người ta chỉ hiểu được những vật người ta đã thân quen - cáo nói.	- Az ember csak azt ismeri meg igazán, amit megszelídít - mondta a róka.	0.64375
@@ -1146,7 +1125,7 @@ Cậu cần bạn hữu thì cậu hãy tập tớ quen thân cậu!	Ha azt akar
 - Ban đầu, cậu hãy ngồi hơi xa tớ một tí, thế, ở trong cỏ.	- Először leülsz szép, tisztes távolba tőlem, úgy, ott a fűben.	0.535484
 Tớ đứa mắt liếc nhìn cậu, nhưng cậu chẳng nói sao cả.	Én majd a szemem sarkából nézlek, te pedig nem szólsz semmit.	0.268421
 Tiếng nói là nguồn gốc của mọi sự hiểu nhầm.	A beszéd csak félreértések forrása.	0.162162
-Nhưng mỗi ngày, cậu có thể ngồi dịch lại một tí... ~~~ 	De minden áldott nap egy kicsit közelebb ülhetsz...	-0.034375
+Nhưng mỗi ngày, cậu có thể ngồi dịch lại một tí...	De minden áldott nap egy kicsit közelebb ülhetsz...	0.23125
 Ngày hôm sau, cậu hoàng tử trở lại.	Másnap visszajött a kis herceg.	0.2
 - Tốt hơn, nên đến đúng giờ như hôm trước - cáo nói.	- Jobb lett volna, ha ugyanabban az időben jössz - mondta a róka.	0.718045
 - Vì chẳng hạn như bốn giờ chiều cậu đến, thế là từ ba giờ, mình đã thấy vui.	- Ha például délután négy­kor érkezel majd, én már háromkor elkezdek örülni.	0.488462
@@ -1162,7 +1141,7 @@ Mỗi thứ năm, họ nhảy múa với các cô gái trong làng.	Eszerint min
 Thế thứ năm là một ngày kì diệu!	Ezért aztán a csütörtök csodálatos nap!	0.276316
 Hôm ấy tớ có thể rong chơi đến tận vườn nho.	Olyankor egészen a szőlőig elsétálok.	0.2
 Nếu bất cứ ngày nào những kẻ đi săn ấy cũng múa nhảy được, thì ngày nào rồi cũng sẽ như ngày nào, tớ sẽ chẳng có tí ngày nghỉ nào nữa.	Ha a vadászok csak úgy akármikor táncolnának, minden nap egyforma lenne, és nekem egyáltalán nem lenne vakációm.	0.171028
-Nhứ vậy đấy, cậu hoàng tử đã làm cho con cáo thân quen, tới khi giờ ra đi đã đến gần: ~~~ 	Így aztán a kis herceg megszelídítette a rókát. ~~~ S amikor közeledett a búcsú órája:	-0.171687
+Nhứ vậy đấy, cậu hoàng tử đã làm cho con cáo thân quen, tới khi giờ ra đi đã đến gần:	Így aztán a kis herceg megszelídítette a rókát. ~~~ S amikor közeledett a búcsú órája:	-0.0216867
 - Ôi chao!	- Ó!	1
 - Cáo nói - tớ khóc lên mất.	- mondta a róka. ~~~ - Sírnom kell majd.	0.28
 - Lỗi tại cậu - cậu hoàng tử nói.	- Te vagy a hibás - mondta a kis herceg.	0.854545
@@ -1174,9 +1153,9 @@ Nhứ vậy đấy, cậu hoàng tử đã làm cho con cáo thân quen, tới k
 - Cáo nói.	- Igaz, igaz - mondta a róka.	0.668182
 - Khóc cũng chả được gì kia mà?	- Akkor semmit sem nyertél az egésszel.	0.666429
 - Được chứ - cáo nói.	- De nyertem - mondta a róka.	1.15714
-- Vẫn còn cái màu vàng kim kia của lúa mì... ~~~ 	- A búza színe miatt.	0.0625
+- Vẫn còn cái màu vàng kim kia của lúa mì...	- A búza színe miatt.	0.425
 Rồi nó nói thêm:		-0.3
- ~~~ - Cậu hãy trở lại xem bọn hoa hồng đi.	- Majd hozzáfűzte: - Nézd meg újra a rózsákat.	0.139286
+- Cậu hãy trở lại xem bọn hoa hồng đi.	- Majd hozzáfűzte: - Nézd meg újra a rózsákat.	0.578571
 Cậu sẽ rõ ra bông hoa kia của cậu là duy nhất trên đời.	Meg fogod érteni, hogy a tiéd az egyetlen a világon.	0.217021
 Rồi cậu hãy trở lại đây từ biệt tớ, tớ sẽ làm quà cho cậu một điều bí mật.	Aztán gyere vissza elbúcsúzni, s akkor majd ajándékul elárulok neked egy titkot.	0.244737
 Cậu hoàng tử đi thăm lại các hoa hồng.	A kis herceg elment, hogy újra megnézze a rózsákat.	0.265116
@@ -1195,7 +1174,7 @@ Bởi vì chính nó tôi đã đem ẩn giấu sau cái chắn gió.	Mert ő az
 Bởi vì chính trên thân nó mà tôi diệt các con sâu (trừ hai hay ba con dành để thành bướm).	Mert róla öldöstem le a hernyókat (kivéve azt a kettőt-hármat, a lepkék miatt).	0.228947
 Bởi vì chính nó, mà tôi nghe thở than, hay khoe khoang, hay đôi khi, cả nín thinh nữa.	Mert őt hallottam panaszkodni meg dicsekedni, sőt néha hall­gat­ni is.	0.219403
 Bởi vì nó là bông hồng của tôi.	Mert ő az én rózsám.	0.0857143
-Rồi em trở lại chỗ con cáo: ~~~ 	Azzal visszament a rókához.	-0.0222222
+Rồi em trở lại chỗ con cáo:	Azzal visszament a rókához.	0.255556
 - Từ biệt - em nói.	- Isten veled - mondta.	1.3
 - Từ biệt - cáo nói.	- Isten veled - mondta a róka.	1.1026
 - Đây, cái bí quyết của tớ.	- Tessék, itt a titkom.	0.642857
@@ -1208,10 +1187,9 @@ Cái chủ yếu thì mắt chẳng thể thấy.	Ami igazán lényeges, az a sz
 - Nhưng cậu không nên quên.	- Neked azonban nem szabad elfelejtened.	0.656158
 Cậu trở nên mãi mãi có trách nhiệm về những cái gì cậu đã tập cho quen thân.	Te egyszer s mindenkorra felelős lettél azért, amit megszelídítettél.	0.229412
 Cậu có trách nhiệm đối với bông hồng của cậu...	Felelős vagy a rózsádért...	0.0103448
- ~~~ - Tôi có trách nhiệm đối với bông hồng của tôi... - cậu hoàng tử lặp lại, để cho nhớ.	- Felelős vagyok a rózsámért - ismételte a kis herceg, hogy jól az emlékezetébe vésse.	0.160061
+- Tôi có trách nhiệm đối với bông hồng của tôi... - cậu hoàng tử lặp lại, để cho nhớ.	- Felelős vagyok a rózsámért - ismételte a kis herceg, hogy jól az emlékezetébe vésse.	0.620122
 XXII	22.	0.225
-		-0.3
- ~~~ - Chào một ngày tốt lành - cậu hoàng tử nói.	- Jó napot! ~~~ - mondta a kis herceg.	0.0177419
+- Chào một ngày tốt lành - cậu hoàng tử nói.	- Jó napot! ~~~ - mondta a kis herceg.	0.167742
 - Chào một ngày tốt lành - người gác ghi nói.	- Jó napot! ~~~ - mondta a váltóőr.	0.225
 - Ông làm gì ở đây?	- Mit csinálsz te itt?	0.77
 - Cậu hoàng tử hỏi.	- kérdezte a kis herceg.	0.786364
@@ -1224,7 +1202,7 @@ Rồi một con tàu nhanh sáng choang, ầm ầm như sấm dậy, bỗng làm
 Và liền gầm lên, từ hướng ngược lại, một chuyến tàu nhanh thứ hai sáng choang.	Ellenkező irányból eldübörgött egy másik kivilágított gyorsvonat.	0.217391
 - Chúng đã trở về rồi ư?	- Máris visszajöttek?	0.954545
 - Cậu hoàng tử hỏi...	- kérdezte a kis herceg.	0.759091
- ~~~ - Không phải những toa lúc nãy đâu.	- Ezek nem ugyanazok - mondta a váltóőr.	0.162613
+- Không phải những toa lúc nãy đâu.	- Ezek nem ugyanazok - mondta a váltóőr.	0.625225
 Đổi chỗ cho nhau đấy mà.	- Ez egy ellenvonat.	0.116667
 - Chúng không bằng lòng chỗ chúng đứng ư?	- Nem érezték jól magukat ott, ahol voltak?	0.588333
 - Người ta không bao giờ bằng lòng chỗ mình đứng cả! ~~~ - Người gác ghi nói.	- Az ember sosem érzi jól magát ott, ahol éppen van - mondta a váltóőr.	0.10013
@@ -1235,9 +1213,9 @@ Và tức thì gầm lên một chuyến tàu nhanh thứ ba sáng choang.	Föld
 - Người ta ngủ trong đó, hay người ta ngáp.	- Alusznak odabent vagy ásítoznak.	0.681818
 chỉ có những đứa trẻ là dí đến bẹp mũi vào cửa kính thôi.	Csak a gyerekek nyomják az orrukat az ablaküveghez.	0.165957
 - Chỉ có những đứa trẻ biết là mình tìm cái gì - cậu hoàng tử nói.	- Mert csak a gyerekek tudják, hogy mit keresnek - mondta a kis herceg.	0.63
-- Chúng mất thì giờ vì một con búp bê bó bằng giẻ, và con búp bê ấy trở nên quan trọng lắm, ai lấy đi của chúng, chúng sẽ khóc... ~~~ 	- Időt vesztegetnek egy rongybabára, amitől egyszerre nagyon fontos lesz az a rongybaba, és ha elveszik tőlük, sírnak...	0.0424609
-- Chúng thật may mắn - người gác ghi nói. ~~~ XXIII	- Könnyű nekik - mondta a váltóőr.	0.335294
- ~~~ 	23.	-0.05
+- Chúng mất thì giờ vì một con búp bê bó bằng giẻ, và con búp bê ấy trở nên quan trọng lắm, ai lấy đi của chúng, chúng sẽ khóc...	- Időt vesztegetnek egy rongybabára, amitől egyszerre nagyon fontos lesz az a rongybaba, és ha elveszik tőlük, sírnak...	0.384922
+- Chúng thật may mắn - người gác ghi nói.	- Könnyű nekik - mondta a váltóőr.	0.970588
+XXIII	23.	0.15
 - Chào một ngày tốt lành - cậu hoàng tử nói.	- Jó napot! ~~~ - mondta a kis herceg.	0.167742
 - Chào một ngày tốt lành - người lái buôn nói.	- Jó napot! ~~~ - mondta a kereskedő.	0.215625
 Ấy là một lão buôn thuốc viên gia công, có thể làm cho đỡ khát.	Ez a kereskedő szomjúságoltó labdacsokat árult.	0.16875
@@ -1249,24 +1227,23 @@ Chỉ một tuần uống một viên, và người ta thấy không cần phả
 Mỗi tuần lễ ta sẽ tiết kiệm được năm mươi ba phút.		-0.3
 - Thế người ta dùng để làm gì năm mươi ba phút ấy?	- És mit csinál az ember azzal az ötvenhárom perccel?	0.52987
 - Muốn làm gì thì làm...	- Amit akar...	0.75
- ~~~ "Mình ấy a, - cậu hoàng tử nghĩ thầm - nếu mình có năm mươi ba phút ấy để mà tiêu phí, mình sẽ rón rén tìm đến một cái vòi nước..." ~~~  ~~~  ~~~  ~~~  ~~~ 	„Én - gondolta a kis herceg -, ha nekem ötvenhárom fölösleges percem volna, szépen elindul­nék egy forrás felé...”	-0.203974
+"Mình ấy a, - cậu hoàng tử nghĩ thầm - nếu mình có năm mươi ba phút ấy để mà tiêu phí, mình sẽ rón rén tìm đến một cái vòi nước..."	"Én - gondolta a kis herceg -, ha nekem ötvenhárom fölösleges percem volna, szépen elindul­nék egy forrás felé..."	0.357895
 XXIV	24.	0.225
-		-0.3
- ~~~ Bây giờ là ngày thứ tám từ khi máy bay của tôi bị hỏng ở giữa sa mạc, và câu chuyện này về người lái buôn, tôi vừa nghe vừa nuốt giọt nước dự trữ cuối cùng của tôi.	A defektemet követő nyolcadik napon voltunk, és úgy hallgattam a kereskedő históriáját, hogy közben vízkészletem utolsó csöppjeit kortyoltam.	-0.051087
+Bây giờ là ngày thứ tám từ khi máy bay của tôi bị hỏng ở giữa sa mạc, và câu chuyện này về người lái buôn, tôi vừa nghe vừa nuốt giọt nước dự trữ cuối cùng của tôi.	A defektemet követő nyolcadik napon voltunk, és úgy hallgattam a kereskedő históriáját, hogy közben vízkészletem utolsó csöppjeit kortyoltam.	0.197826
 - Ôi chao! ~~~ - Tôi nói với cậu hoàng tử - Các kỉ niệm của em thật là đẹp, nhưng anh vẫn còn chưa chữa được máy bay của anh, anh chẳng còn tí gì để uống nữa, anh, anh cũng thèm được rón rén bước tới một vòi nước!	- Kétségkívül szépek az emlékeid - mondtam a kis hercegnek -, én azonban még mindig nem javítottam meg a gépemet, viszont innivalóm sincs több, úgyhogy magam is nagyon örülnék neki, ha szépen elindulhatnék egy forrás felé!	0.0724272
 - Thằng bạn cáo của tôi... - em nói.	- Barátom, a róka azt mondta...	0.635468
 - Cậu nhỏ ạ, chồn cáo gì nữa lúc này!	- Édes kis öregem, hagyd már azt a rókát!	0.569231
 - Sao thế ?	- Miért?	1.23333
 - Ta sắp chết khát rồi kia mà...	- Mert rövidesen szomjan halunk...	0.78125
- ~~~ Cậu em không hiểu lí lẽ viện ra của tôi, em trả lời tôi:	Nem értette az okoskodásomat, azt mondta:	-0.0884615
- ~~~ - Có được một đứa bạn thân là tuyệt chứ, cho dẫu ta sắp chết cũng vẫn là tuyệt.	- Jó az embernek, ha volt egy barátja, még ha rövidesen meg is kell halnia.	0.0346591
-Tôi, tôi rất thú vị được có một bạn thân là cáo... ~~~ 	Én a magam részéről nagyon örülök neki, hogy volt egy róka barátom...	-0.0172131
-"Cậu em không lường được hiểm nguy - tôi nghĩ thầm.	„Képtelen fölfogni a veszélyt - gondoltam.	0.62392
+Cậu em không hiểu lí lẽ viện ra của tôi, em trả lời tôi:	Nem értette az okoskodásomat, azt mondta:	0.123077
+- Có được một đứa bạn thân là tuyệt chứ, cho dẫu ta sắp chết cũng vẫn là tuyệt.	- Jó az embernek, ha volt egy barátja, még ha rövidesen meg is kell halnia.	0.369318
+Tôi, tôi rất thú vị được có một bạn thân là cáo...	Én a magam részéről nagyon örülök neki, hogy volt egy róka barátom...	0.254237
+"Cậu em không lường được hiểm nguy - tôi nghĩ thầm.	"Képtelen fölfogni a veszélyt - gondoltam.	0.604181
 - Em không hề bị đói và bị khát.	- Nem volt soha se éhes, se szomjas.	0.584946
-Chỉ một ít mặt trời cũng đủ cho em rồi..."	Beéri egy kis napfénnyel...”	0.11
- ~~~ Nhưng em nhìn tôi, trả lời đúng vào điều tôi vừa nghĩ: ~~~ 	Ő azonban rám nézett, úgy felelt a gondolatomra:	-0.132609
+Chỉ một ít mặt trời cũng đủ cho em rồi..."	Beéri egy kis napfénnyel..."	0.075
+Nhưng em nhìn tôi, trả lời đúng vào điều tôi vừa nghĩ:	Ő azonban rám nézett, úgy felelt a gondolatomra:	0.202174
 - Tôi cũng đang khát... ta đi tìm một cái giếng đi...	- Én is szomjas vagyok... Keressünk egy kutat...	0.558333
- ~~~ Tôi có một cử chỉ mệt mỏi: trong mênh mang của sa mạc, đi vất vơ vất vưởng kiếm một cái giếng, thật là chuyện vô lí.	Csüggedten legyintettem: képtelen vállalkozás vaktában kutat keresni a határtalan sivatagban.	-0.0659341
+Tôi có một cử chỉ mệt mỏi: trong mênh mang của sa mạc, đi vất vơ vất vưởng kiếm một cái giếng, thật là chuyện vô lí.	Csüggedten legyintettem: képtelen vállalkozás vaktában kutat keresni a határtalan sivatagban.	0.168132
 Tuy thế, chúng tôi vẫn ra đi.	De azért mégis elindultunk.	0.255556
 Khi chúng tôi bước, lặng thinh, không biết đã bao nhiêu giờ, bóng đêm bỗng đổ xuống và các ngôi sao bắt đầu sáng lên.	Némán vándoroltunk órákon át, aztán leszállt az éjszaka, és sorra fölragyogtak a csillagok.	0.174725
 Tôi nhìn thấy trời sao như tưởng mình đang mê, vì khát nên tôi có hơi sốt.	Mintha álomban láttam volna őket: egy kicsit lázas voltam a szomjúságtól.	0.261972
@@ -1274,16 +1251,16 @@ Những lời cậu hoàng tử nói cứ nhảy múa trong trí nhớ tôi.	Eml
 - Em cũng khát ư, em?	- Azt mondtad, te is szomjas vagy?	0.593571
 - Tôi hỏi em.	- kérdeztem.	1.27692
 Nhưng em không trả lời câu tôi hỏi.	De ő nem felelt a kérdésemre.	0.182143
-Em chỉ nói: ~~~ 	Egyszerűen csak ennyit mondott:	-0.15
+Em chỉ nói:	Egyszerűen csak ennyit mondott:	-0.0923077
 - Nước cũng có thể tốt lành đối với lòng ta...	- Néha a szívnek is jó a víz...	0.385057
- ~~~ Câu em đáp, tôi không hiểu, nhưng tôi nín thinh... Tôi biết là không nên hỏi em.	Nem értettem a válaszát, de nem szóltam többet. ~~~ Tudtam, hogy őt sosem szabad faggatni.	-0.151829
+Câu em đáp, tôi không hiểu, nhưng tôi nín thinh... Tôi biết là không nên hỏi em.	Nem értettem a válaszát, de nem szóltam többet. ~~~ Tudtam, hogy őt sosem szabad faggatni.	-0.00182927
 Em có vẻ nhọc.	Elfáradt.	0.136364
 Em ngồi xuống.	Leült.	-0.0375
 Tôi ngồi xuống cạnh em.	Én melléje ültem.	0.173684
 Và sau một lát im lặng, em lại nói:	Akkor némi csönd után azt mondta:	0.253125
- ~~~ - Các ngôi sao sở dĩ đẹp là do ở đó có một bông hoa mà ta không nhìn thấy... ~~~ 	- A csillagok szépek.	-0.2
- ~~~  ~~~ Tôi đáp lại "Đúng thế!"	Attól, hogy van rajtuk egy láthatatlan virág...	-0.145161
-và không nói gì nữa. ~~~ Tôi nhìn cát như sóng gợn dưới ánh trăng.	Olyasmit feleltem, hogy „persze, persze”, aztán szótlanul bámultam a holdfényben a homok redőit.	-0.0514286
+- Các ngôi sao sở dĩ đẹp là do ở đó có một bông hoa mà ta không nhìn thấy...	- A csillagok szépek.	0
+Tôi đáp lại "Đúng thế!"	Attól, hogy van rajtuk egy láthatatlan virág...	0.134483
+và không nói gì nữa. ~~~ Tôi nhìn cát như sóng gợn dưới ánh trăng.	Olyasmit feleltem, hogy "persze, persze", aztán szótlanul bámultam a holdfényben a homok redőit.	-0.0428571
 - Sa mạc đẹp thật, - em nói thêm.	- A sivatag is szép - tette hozzá.	0.916667
 Và thật thế.	Igaza volt.	0.163636
 Tôi vẫn yêu sa mạc.	Mindig szerettem a sivatagot.	0.231818
@@ -1291,48 +1268,47 @@ Ta ngồi trên một đụn cát.	Az ember leül egy homokdombra.	0.278571
 Ta không trông thấy gì hết.	Nem lát semmit.	0
 Ta không nghe thấy gì hết.	Nem hall semmit.	0.04
 Thế nhưng, trong lặng lẽ, vẫn có một cái gì đó lóe sáng...	Valami mégis csöndesen sugárzik...	0.0428571
- ~~~ - Cái làm cho sa mạc càng thêm đẹp, - cậu hoàng tử nói - ấy là ở chỗ nó ẩn giấu một cái giếng ở một nơi nào đó...	- Az teszi széppé a sivatagot - mondta a kis herceg -, hogy valahol egy kutat rejt...	0.05625
- ~~~ Tôi kinh ngạc vì bỗng nhiên hiểu ra cái lóe sáng huyền bí ấy của cát.	Meglepődtem, mert egyszerre megértettem a homoknak ezt a titokzatos sugárzását.	-0.00197368
+- Cái làm cho sa mạc càng thêm đẹp, - cậu hoàng tử nói - ấy là ở chỗ nó ẩn giấu một cái giếng ở một nơi nào đó...	- Az teszi széppé a sivatagot - mondta a kis herceg -, hogy valahol egy kutat rejt...	0.4125
+Tôi kinh ngạc vì bỗng nhiên hiểu ra cái lóe sáng huyền bí ấy của cát.	Meglepődtem, mert egyszerre megértettem a homoknak ezt a titokzatos sugárzását.	0.296
 Khi còn là đứa con trai bé nhỏ, ở một ngôi nhà cổ, và có truyền thuyết là ở ngôi nhà cổ này có chôn một kho báu.	Gyerek­koromban egy régi házban laktam; a legenda szerint valahol kincs volt elásva benne.	0.162651
 Tất nhiên, chưa có ai biết cách tìm ra kho báu đó.	Igaz, soha senki nem jött a nyomára; meglehet, nem is kereste soha senki.	0.230769
 Có lẽ cũng chưa ai thử đi tìm.	Mégis elvarázsolta az egész házat.	0.281818
 Nhưng cái kho báu ấy nó làm cho cả ngôi nhà trở nên thần tiên.		-0.3
 Cái nhà của tôi có giấu trong đáy trái tim của nó một điều bí mật...		-0.3
- ~~~ - Phải - tôi nói với cậu hoàng tử.	Titkot rejtett valahol a szíve mélyén...	-0.00384615
+- Phải - tôi nói với cậu hoàng tử.	Titkot rejtett valahol a szíve mélyén...	0.292105
 - Ngôi nhà, hay ngôi sao, hay sa mạc cái làm cho những cái ấy trở nên đẹp, cái đó không thể nhìn thấy đâu!	- Igen - mondtam a kis hercegnek -, akár egy házról van szó, akár a csillagokról, akár a sivatagról: ami széppé teszi őket, az láthatatlan.	0.372527
 - Em thích lắm - em nói. ~~~ - Vì ông cũng đồng ý với bạn cáo của em.	- Örülök neki, hogy egy véleményen vagy a rókámmal - mondta a kis herceg.	0.122794
 Cậu hoàng tử chợp mắt ngủ, tôi bế em lên vòng tay tôi và lại lên đường.	És mert elaludt, a karomba vettem, és úgy folytattam utamat.	0.158182
 Lòng tôi xúc động.		-0.3
 Tôi có cảm giác như đang ôm trong tay một kho báu mong manh.	Meghatottságot éreztem: mintha törékeny kincset vittem volna.	0.294915
 Tôi có cảm giác như trên Mặt Đất này không có gì mong manh hơn.	Sőt, mintha törékenyebb dolog egyáltalán nem is lett volna a Földön.	0.295455
-Nhờ ánh sáng trăng, tôi nhìn thấy vầng trán nhợt nhạt ấy, đôi mắt nhắm nghiền các lẵng tóc run rẩy trước gió, và tôi nghĩ thầm: "Cái mà ta thấy đây chỉ là cái vỏ.	Néztem a holdvilágban ezt a sápadt homlokot, ezt a csukott szempárt, ezeket a szélben meg-megrezdülő aranyfürtöket, és azt gondoltam magamban: „Amit látok, az csak a kéreg.	0.264815
-Cái quan trọng nhất thì không nhìn thấy được..."	Ami a legfontosabb, az láthatatlan...”	0.165789
- ~~~ Hai môi hé mở của em phác một cái mỉm cười, tôi lại nghĩ: "Cái làm cho ta xúc động nhường này về cậu hoàng tử đang thiếp ngủ đây, đó là lòng chung thủy của em đối với một bông hoa, ấy là hình ảnh một bông hoa trong em chói rực như một ngọn đèn, cả trong khi em ngủ...". ~~~ Và tôi ước chừng em còn mong manh hơn nữa.	S mivel nyitott ajkai körül valami mosolyféle derengett, még ezt is gondoltam: „Ebben az alvó kis hercegben a legjobban a virágjához való hűsége hat meg: egy rózsa képe, mely akkor is úgy ragyog benne, mint egy lámpa lángja, amikor alszik...” És ettől még törékenyebbnek tűnt a szememben.	-0.108582
-Ta phải hết sức chở che cho những ngọn đèn: một ngọn gió có thể thổi tắt được... ~~~ 	A lámpákra nagyon kell vigyázni: elég egy hirtelen kis szél, hogy kioltsa őket...	-0.0355263
+Nhờ ánh sáng trăng, tôi nhìn thấy vầng trán nhợt nhạt ấy, đôi mắt nhắm nghiền các lẵng tóc run rẩy trước gió, và tôi nghĩ thầm: "Cái mà ta thấy đây chỉ là cái vỏ.	Néztem a holdvilágban ezt a sápadt homlokot, ezt a csukott szempárt, ezeket a szélben meg-megrezdülő aranyfürtöket, és azt gondoltam magamban: "Amit látok, az csak a kéreg.	0.260625
+Cái quan trọng nhất thì không nhìn thấy được..."	Ami a legfontosabb, az láthatatlan..."	0.141667
+Hai môi hé mở của em phác một cái mỉm cười, tôi lại nghĩ: "Cái làm cho ta xúc động nhường này về cậu hoàng tử đang thiếp ngủ đây, đó là lòng chung thủy của em đối với một bông hoa, ấy là hình ảnh một bông hoa trong em chói rực như một ngọn đèn, cả trong khi em ngủ...". ~~~ Và tôi ước chừng em còn mong manh hơn nữa.	S mivel nyitott ajkai körül valami mosolyféle derengett, még ezt is gondoltam: "Ebben az alvó kis hercegben a legjobban a virágjához való hűsége hat meg: egy rózsa képe, mely akkor is úgy ragyog benne, mint egy lámpa lángja, amikor alszik..." És ettől még törékenyebbnek tűnt a szememben.	-0.0153409
+Ta phải hết sức chở che cho những ngọn đèn: một ngọn gió có thể thổi tắt được...	A lámpákra nagyon kell vigyázni: elég egy hirtelen kis szél, hogy kioltsa őket...	0.228947
 Và cứ bước đi như vậy, mà vào lúc tinh mơ, tôi bỗng tìm ra cái giếng.	Mentem, mentem, és hajnalban rábukkantam a kútra.	0.121277
 XXV	25.	0.3
-		-0.3
- ~~~ - Loài người - cậu hoàng tử nói - họ chui vào trong các chuyên tàu nhanh, nhưng họ chẳng biết mình tìm kiếm cái gì.	- Az emberek - mondta a kis herceg - gyorsvonatokon zötykölődnek, de már nem tudják, mit keresnek.	0.195455
-Thế mà họ cứ cuống quýt lên, quay cuồng lên... ~~~ 	Erre elkezdenek ágálni, és csak forognak körbe-körbe...	-0.00277778
-Và em nói thêm: ~~~ 	Aztán még hozzátette:	-0.0416667
+- Loài người - cậu hoàng tử nói - họ chui vào trong các chuyên tàu nhanh, nhưng họ chẳng biết mình tìm kiếm cái gì.	- Az emberek - mondta a kis herceg - gyorsvonatokon zötykölődnek, de már nem tudják, mit keresnek.	0.690909
+Thế mà họ cứ cuống quýt lên, quay cuồng lên...	Erre elkezdenek ágálni, és csak forognak körbe-körbe...	0.282692
+Và em nói thêm:	Aztán még hozzátette:	0.16875
 - Nào có ích gì...	- Nem éri meg...	0.82
- ~~~ Cái giếng mà chúng tôi đi tới, nó không giống các giếng sa mạc ở Sahara.	A kút, amit találtunk, nem hasonlított a szaharai kutakhoz.	-0.0627273
+Cái giếng mà chúng tôi đi tới, nó không giống các giếng sa mạc ở Sahara.	A kút, amit találtunk, nem hasonlított a szaharai kutakhoz.	0.174545
 Cái giếng Sahara chỉ đơn giản là những cái lỗ đào trong cát.	A szaharai kutak egyszerűen ho­mok­ba ásott lyukak.	0.198
 Còn cái giếng kia giống như giếng làng.	Ez meg olyan volt, mint egy falusi kút.	0.220588
 Nhưng ở đây còn có ngôi làng nào đâu.	Holott falunak nyoma sem volt, úgyhogy azt hittem, káprázik a szemem.	0.15
 Thế nên tôi tưởng tôi đang mơ.	- Nem furcsa? ~~~ - mondta a kis herceg.	-0.0140625
 - Lạ thật - tôi nói với cậu hoàng tử - mọi cái đều có sẵn: cái ròng rọc, cái gầu, và sợi dây...	- Minden készen van: csiga, vödör, kötél...	0.235465
- ~~~ Em cười, sờ sợi dây, lăn cái ròng rọc.	Nevetett, megfogta a kötelet, megmozgatta a csigát.	-0.00652174
+Em cười, sờ sợi dây, lăn cái ròng rọc.	Nevetett, megfogta a kötelet, megmozgatta a csigát.	0.272727
 Cái ròng rọc liền rên lên một tiếng giống như tiếng rên của chiếc chong chóng chỉ hướng gió sau một hồi gió ngủ yên lâu quá.	A csiga nyikorgott, mint egy öreg szélkakas, ha hosszú szünet után fölébred a szél. ~~~ - Hallod?	-0.0825843
-- Ông nghe thấy không - cậu hoàng tử nói - ta đánh thức cái giếng này, nó đang hát đấy... ~~~ 	- mondta a kis herceg. ~~~ - Fölébresztjük a kutat, ő meg énekel...	-0.0475
+- Ông nghe thấy không - cậu hoàng tử nói - ta đánh thức cái giếng này, nó đang hát đấy...	- mondta a kis herceg. ~~~ - Fölébresztjük a kutat, ő meg énekel...	0.1025
 Không muốn em gắng sức, tôi nói:	Nem akartam, hogy megerőltesse magát.	0.3
- ~~~ - Để anh, gầu nặng quá đối với em.	- Hagyd, majd én - mondtam. ~~~ - Neked ez túl nehéz.	0.0455357
+- Để anh, gầu nặng quá đối với em.	- Hagyd, majd én - mondtam. ~~~ - Neked ez túl nehéz.	0.195536
 Chậm rãi, tôi kéo gầu lên tận thành giếng.	Lassan fölvontam a vödröt a káváig.	0.2
 Tôi đặt gầu ngay ngắn trên đó.	Ráállítottam a kávára, jó szilárdan.	0.266667
 Trong tai tôi vẫn còn vẳng mãi tiếng reo của cái ròng rọc, và trong nước vẫn còn run rẩy, thấy ánh sáng mặt trời rung lên.	Fülemben még tartott a csiga éneke; a vödörben még remegett a víz, és benne, láttam, ott remegett a nap.	0.19375
 - Tôi thèm giọt nước này đây - cậu hoàng tử nói.	- Éppen erre a vízre szomjazom - mondta a kis herceg.	0.747826
 - Cho tôi uống...	- Adj innom...	0.934615
- ~~~ Và tôi liền hiểu ra cậu em tìm kiếm cái gì.	Egyszerre megértettem, hogy mit keresett!	-0.0307692
+Và tôi liền hiểu ra cậu em tìm kiếm cái gì.	Egyszerre megértettem, hogy mit keresett!	0.238462
 Tôi nhấc chiếc gầu lên kề môi em.	Ajkához emelte a vödröt.	0.144
 Em uống, hai mắt nhắm nghiền.	Hunyt szemmel ivott.	0.0789474
 Dịu hiền như là lễ Tết.	Olyan volt ez, mint egy ünnep.	0.277778
@@ -1340,11 +1316,11 @@ Thứ nước này thật còn là một cái gì khác hơn, không chỉ là m
 Nó sinh ra từ cuộc đi bộ dưới trời sao, từ tiếng hát của cái ròng rọc, từ sự gắng sức của hai cánh tay tôi.	A csillagok alatti vándorlásból született, a csiga énekéből, a karom megfeszített erejéből.	0.207692
 Nó tốt lành cho lòng ta, như một món quà tặng vậy.	Olyan jólesett a szívnek, mint egy ajándék.	0.214286
 Ngày tôi còn là một cậu con trai nhỏ, ánh sáng của cây Noel, tiếng nhạc của buổi lễ nửa đêm, niềm dịu dàng của các nụ cười như vậy đó, làm nên tất cả ánh chói chang của món quà Noel mà tôi được nhận.	Mikor gyerek voltam, így aranyozta be a karácsonyi ajándékot a karácsonyfa fénye, az éjféli mise zenéje meg a mosolyok varázsa.	0.0403361
-- Loài người nơi ông - cậu hoàng tử nói - trồng năm nghìn hoa hồng cùng trong một khu vườn... Thế mà họ chẳng thấy cái họ tìm... ~~~ 	- Nálatok - mondta a kis herceg - az emberek egyetlen kertben ötezer rózsát nevelnek. ~~~ Mégse találják meg, amit keresnek.	0.00888158
+- Loài người nơi ông - cậu hoàng tử nói - trồng năm nghìn hoa hồng cùng trong một khu vườn... Thế mà họ chẳng thấy cái họ tìm...	- Nálatok - mondta a kis herceg - az emberek egyetlen kertben ötezer rózsát nevelnek. ~~~ Mégse találják meg, amit keresnek.	0.158882
 - Họ chẳng tìm thấy đâu - tôi nói...	- Nem találják meg - mondtam.	1.0127
- ~~~ - Cái họ muốn tìm lại có thể gặp thấy trong chỉ một đóa hoa hồng hoặc chỉ một ít nước thôi...	- Pedig egyetlen rózsában vagy egy korty vízben megtalálhatnák...	0.0452381
- ~~~ - Đúng thế - tôi nói.	- Minden bizonnyal - feleltem.	0.473913
-Và cậu hoàng tử nói thêm: ~~~ 	- Csakhogy a szem vak - tette hozzá a kis herceg.	-0.0483871
+- Cái họ muốn tìm lại có thể gặp thấy trong chỉ một đóa hoa hồng hoặc chỉ một ít nước thôi...	- Pedig egyetlen rózsában vagy egy korty vízben megtalálhatnák...	0.390476
+- Đúng thế - tôi nói.	- Minden bizonnyal - feleltem.	1.24783
+Và cậu hoàng tử nói thêm:	- Csakhogy a szem vak - tette hozzá a kis herceg.	0.175862
 - Mắt vốn mù lòa.	- A szívünkkel kell keresni.	0.695
 Phải dùng trái tim mà tìm kiếm.		-0.3
 ... Tôi đã uống no.	Én is ittam.	0.075
@@ -1356,8 +1332,8 @@ Tại sao tôi cứ phải đau khổ làm chi.	Miért is ért utol aztán a sze
 - Lời hứa nào?	- Mit ígértem?	1.01
 - Ông biết đấy... Một cái rọ mõm cho con cừu của tôi... Tôi chịu trách nhiệm về cái hoa ấy!	- Tudod... szájkosarat a bárányomnak... hiszen felelős vagyok a virágomért!	0.461768
 Tôi rút từ trong túi ra các bản vẽ phác của tôi.	Előszedtem a zsebemből a rajzaimat.	0.141176
-Cậu hoàng tử trông thấy các bức vẽ, vừa nói vừa cười: ~~~ 	A kis herceg rájuk pillantott, és elnevette magát. ~~~ - Ó, a majomkenyérfáid!	-0.16875
-- Các cây bao-bá của ông, chúng hơi giống các cây bắp cải... ~~~ 	- mondta. ~~~ - Mint a káposztafejek...	0.0132353
+Cậu hoàng tử trông thấy các bức vẽ, vừa nói vừa cười:	A kis herceg rájuk pillantott, és elnevette magát. ~~~ - Ó, a majomkenyérfáid!	-0.01875
+- Các cây bao-bá của ông, chúng hơi giống các cây bắp cải...	- mondta. ~~~ - Mint a káposztafejek...	0.163235
 - Lại thế!	- Ugyan!	1.1125
 Tôi vốn tự hào biết bao khi vẽ những cây bao-bá!	Pedig olyan büszke voltam a majomkenyérfáimra!	0.246667
 - Con cáo của ông... hai tai nó... chúng hơi giống hai cái sừng... và lại dài quá kia!	- A rókád meg... a fülei... inkább mintha szarvak volnának... meg aztán túl nagyok is!	0.465
@@ -1365,27 +1341,27 @@ Và em lại cười nữa.	És megint nevetett.	0.221053
 - Cậu không công bằng, cậu nhỏ ơi, tôi vốn chỉ biết vẽ trăn kín với trăn bổ dọc thôi mà!	- Igazságtalan vagy, barátocskám; megmondtam, hogy nem tudok egyebet rajzolni, mint nyitott meg csukott óriáskígyót.	0.4575
 - Ôi, sẽ đâu vào đấy cả thôi, trẻ con chúng hiểu đấy.	- Semmi hiba - mondta. ~~~ - A gyerekek megértik.	0.173171
 Thế là tôi dùng bút chì phác một cái rọ mõm.	Rajzoltam hát egy szájkosarat.	0.11
-Và lòng tôi se lại khi tôi đưa cái rọ mõm đó cho em: ~~~ 	És elszorult a szívem, ahogy átnyújtottam neki.	-0.026087
-- Em có những dự định mà tôi không được rõ... ~~~ 	- Neked valami titkos terved van...	0.112673
+Và lòng tôi se lại khi tôi đưa cái rọ mõm đó cho em:	És elszorult a szívem, ahogy átnyújtottam neki.	0.247826
+- Em có những dự định mà tôi không được rõ...	- Neked valami titkos terved van...	0.525346
 Nhưng em chẳng trả lời tôi.	Nem felelt.	-0.245455
 Em bảo tôi:	Azt mondta:	0.245455
- ~~~ - Ông biết không, ngày tôi rơi xuống Trái Đất... mai đã là kỉ niệm một năm... ~~~ 	- Tudod... holnap lesz egy éve, hogy a Földre estem...	-0.0861742
-Rồi, sau một lát im lặng, em lại nói: ~~~ 	Majd némi szünet után:	-0.11087
-- Tôi rơi xuống ngay cạnh đây... ~~~ 	- Egészen közel ide...	0.211364
+- Ông biết không, ngày tôi rơi xuống Trái Đất... mai đã là kỉ niệm một năm...	- Tudod... holnap lesz egy éve, hogy a Földre estem...	0.341477
+Rồi, sau một lát im lặng, em lại nói:	Majd némi szünet után:	0.0782609
+- Tôi rơi xuống ngay cạnh đây...	- Egészen közel ide...	0.722727
 Và em đỏ mặt.	Elpirult.	0.09
 Và một lần nữa, chẳng hiểu tại sao, lòng tôi tủi cực lạ lắm.	S engem, magam sem tudom, miért, elfogott valami sötét szomorúság.	0.261905
 Tuy vậy, một câu hỏi chợt buột ra miệng tôi:	Egyszerre fölötlött bennem egy kérdés:	0.225
- ~~~ - Thế ra không phải ngẫu nhiên mà buổi sáng ấy, tôi gặp em, cách đây tám ngày, em dạo chơi lang thang một mình một nghìn dặm cách mọi vùng có người ở?	- Akkor hát egy hete reggel, amikor megismertelek, nem csak úgy véletlenül kószáltál itt, egyszál-egyedül, ezer mérföldnyire minden lakott helytől?	0.050152
+- Thế ra không phải ngẫu nhiên mà buổi sáng ấy, tôi gặp em, cách đây tám ngày, em dạo chơi lang thang một mình một nghìn dặm cách mọi vùng có người ở?	- Akkor hát egy hete reggel, amikor megismertelek, nem csak úgy véletlenül kószáltál itt, egyszál-egyedül, ezer mérföldnyire minden lakott helytől?	0.400304
 Bây giờ em trở về nơi em rơi xuống sao?	Oda akartál visszamenni, ahová leestél?	0.276923
 Cậu hoàng tử lại đỏ mặt.	A kis herceg újra elpirult.	0.216
-Và tôi nói, ngập ngừng: ~~~ 	Én pedig habozva hozzátettem:	0
+Và tôi nói, ngập ngừng:	Én pedig habozva hozzátettem:	0.277778
 - Vì ngày kỉ niệm, có lẽ thế chăng?...	- Csak nem az évforduló miatt?	0.567857
 Cậu hoàng tử đỏ mặt nữa.	A kis herceg még jobban elpirult.	0.28
-Em không bao giờ trả lời các câu hỏi, nhưng khi người ta đỏ mặt, như thế có nghĩa là "phải", phải không?	Felelni nem felelt a kérdéseimre; de ha valaki elpirul, az ugye azt jelenti, hogy „igen”.	0.182927
+Em không bao giờ trả lời các câu hỏi, nhưng khi người ta đỏ mặt, như thế có nghĩa là "phải", phải không?	Felelni nem felelt a kérdéseimre; de ha valaki elpirul, az ugye azt jelenti, hogy "igen".	0.161538
 - Ôi! ~~~ - Tôi nói.	- Ó - mondtam neki -, attól félek...	0.25
 - Tôi sợ...	Azt felelte:	0.275
- ~~~ Nhưng em trả lời tôi:		-0.3
- ~~~ - Bây giờ ông phải làm việc thôi.	- Neked most dolgoznod kell.	0.178
+Nhưng em trả lời tôi:		-0.3
+- Bây giờ ông phải làm việc thôi.	- Neked most dolgoznod kell.	0.656
 Ông phải trở về chỗ cái máy của ông.		-0.3
 Tôi đợi ông ở đây.	Vissza kell menned a gépedhez.	0.25
 Chiều mai ông hãy đến.	Itt várlak majd, gyere vissza holnap este...	0.138462
@@ -1393,25 +1369,24 @@ Song tôi không yên tâm.	Én azonban nyugtalan maradtam.	0.2375
 Tôi nhớ chuyện con cáo.	Eszembe jutott a róka.	0.228571
 Khi ta để ai làm cho ta thân quen, thế nào cũng có nguy cơ là ta có thể khóc một tí.	Aki hagyja, hogy megszelídítsék, az a sírás kockázatát is vállalja vele...	0.258904
 XXVI	26.	0.225
-		-0.3
- ~~~ Cạnh cái giếng có một bức thành đá cổ đổ nát.	A kút mellett romladozó kőfal húzódott.	-0.05625
+Cạnh cái giếng có một bức thành đá cổ đổ nát.	A kút mellett romladozó kőfal húzódott.	0.1875
 Khi ở chỗ sửa máy trở lại chiều hôm sau, từ xa, tôi đã thấy cậu hoàng tử của tôi ngồi vắt vẻo bên trên bức thành đó.	Mikor másnap este, munkám után visszajöttem, már messziről észrevettem a kis herceget: lábát lógatva fönt ült a fal tetején.	0.27
-Và tôi nghe em nói: ~~~ 	És hallottam, hogy beszél valakivel.	-0.1
+Và tôi nghe em nói:	És hallottam, hogy beszél valakivel.	0.0473684
 - Thế đằng ấy không nhớ ư?	- Hát nem emlékszel rá?	0.682609
 Chưa thật đúng là chỗ này đâu!	- mondta. ~~~ - Nem egészen itt volt!	-0.0241935
-Một giọng nói khác có lẽ trả lời em, vì nghe tiếng em đối đáp: ~~~ 	Erre egy másik hang felelhetett neki valamit, mert ő megint erősködni kezdett:	0
+Một giọng nói khác có lẽ trả lời em, vì nghe tiếng em đối đáp:	Erre egy másik hang felelhetett neki valamit, mert ő megint erősködni kezdett:	0.291429
 - Đúng chứ!	- Igen, igen!	1
 Đúng chứ!		-0.3
-Ngày thì đúng, nhưng không phải chỗ này... ~~~ 	A napja ma van, de a helye nem egészen ez...	-0.0405405
+Ngày thì đúng, nhưng không phải chỗ này...	A napja ma van, de a helye nem egészen ez...	0.218919
 Tôi bước tiếp đến chỗ bức thành.	Mentem tovább a fal felé.	0.0875
 Tôi không nhìn thấy, cũng vẫn chẳng nghe thấy ai.	Kívüle még mindig nem láttam, nem hallottam senkit.	0.27551
 Thế nhưng cậu hoàng tử lại đáp nữa:	Ő azonban tovább vitatkozott:	0.155172
- ~~~ - Hẳn thế.	- ...Úgy bizony.	0.340385
+- Hẳn thế.	- ...Úgy bizony.	0.980769
 Đằng ấy hãy xem nơi nào bắt đầu có dấu chân của tớ trên cát.	Nézd csak meg, hol kezdődik a nyomom a homokban.	0.111628
 Đằng ấy cứ đợi tớ ở đây.	És csak várj rám.	0.0166667
 Đêm nay tớ sẽ có mặt đấy.	Ma éjszaka ott leszek.	0.142857
 Tôi chỉ cách bức thành có hai mươi mét và tôi vẫn chẳng nhìn thấy gì.	Már csak húszméternyire voltam a faltól, de még most sem láttam semmit.	0.259701
-Cậu hoàng tử, sau một lát im lặng, lại nói: ~~~ 	A kis herceg egy darabig hallgatott, aztán azt kérdezte:	-0.003
+Cậu hoàng tử, sau một lát im lặng, lại nói:	A kis herceg egy darabig hallgatott, aztán azt kérdezte:	0.28125
 - Nọc đằng ấy tốt đấy chứ?	- Jó mérged van?	0.54375
 Đằng ấy chắc là chẳng làm tớ khổ lâu chứ?	Biztos vagy benne, hogy nem fogok sokáig szenvedni?	0.267391
 Tôi dừng lại, trái tim se thắt, nhưng vẫn không hiểu.	Megtorpantam, elszorult a szívem, de még mindig nem értettem a dolgot.	0.268966
@@ -1427,64 +1402,64 @@ Tôi tháo chiếc khăn vàng kim bao giờ em cũng quàng ở cổ.	Kibontott
 Tôi đã dấp nước vào hai thái dương em và cho em uống.	Megnedvesítettem a halántékát, és itattam vele pár kortyot.	0.289474
 Và bây giờ, chính tôi không dám hỏi em điều gì.	De kérdezni már nem mertem tőle semmit.	0.178378
 Em nhìn tôi nghiêm nghị và đưa hai tay ôm cổ tôi.	Komolyan nézett rám, karját a nyakamba fonta.	0.244186
-Tôi nghe tiếng tim em đập như tiếng đập của trái tim một con chim sắp chết, khi trúng đạn săn. ~~~ Em bảo tôi: ~~~ 	Éreztem a szívét: úgy vert, mint egy meglőtt madáré.	-0.194231
+Tôi nghe tiếng tim em đập như tiếng đập của trái tim một con chim sắp chết, khi trúng đạn săn. ~~~ Em bảo tôi:	Éreztem a szívét: úgy vert, mint egy meglőtt madáré.	-0.141346
 - Tôi sung sướng lắm, vì biết ông đã rõ máy bay của ông đang thiếu cái gì.	- Örülök neki, hogy sikerült megjavítanod a gépedet.	0.471795
-Rồi ông sẽ trở về được nhà ông... ~~~ 	Most aztán hazatérhetsz...	-0.0833333
+Rồi ông sẽ trở về được nhà ông...	Most aztán hazatérhetsz...	0.133333
 - Làm thế nào em biết thế?	- Honnan tudod?	0.728571
 Đúng là lúc ấy, tôi vừa định báo cho em biết, tưởng tuyệt vọng rồi hóa ra tôi đã sửa được máy.	Éppen azt akartam elújságolni neki, hogy minden várakozás ellenére mégiscsak zöld ágra vergődtem a munkámmal.	0.294393
-Em chẳng trả lời sao về câu hỏi, nhưng lại nói thêm: ~~~ 		-0.3
-- Tôi cũng như ông, hôm nay tôi về nhà tôi... ~~~ 	Nem felelt a kérdésemre.	-0.1375
+Em chẳng trả lời sao về câu hỏi, nhưng lại nói thêm:		-0.3
+- Tôi cũng như ông, hôm nay tôi về nhà tôi...	Nem felelt a kérdésemre.	0.025
 Rồi, giọng ngậm ngùi:	Aztán azt mondta:	0.141176
- ~~~ - Nhà tôi ở xa hơn nhiều... đi khó hơn nhiều... ~~~ 	- Én is hazamegyek ma... - És szomorkásan hozzátette: - De az sokkal messzebb van... és sokkal nehezebb...	-0.106667
+- Nhà tôi ở xa hơn nhiều... đi khó hơn nhiều...	- Én is hazamegyek ma... - És szomorkásan hozzátette: - De az sokkal messzebb van... és sokkal nehezebb...	0.28
 Tôi có cảm giác vừa xảy ra một việc gì dị thường.	Éreztem, hogy valami rendkívüli dolog történik.	0.2375
-Tôi siết chặt em trong vòng tay như thường người ta siết chặt một em bé, nhưng tôi vẫn có cảm giác em đang chuồi thẳng đứng xuống một vực thẳm nào đó, và tôi không làm cách nào giữ em lại được... ~~~ 	Úgy szorítottam a karomba, mint egy gyereket; közben mégis olyan volt, mintha függőlegesen elfolynék valami szakadékba, és én mit sem tehetek, hogy visszatartsam...	-0.0607843
+Tôi siết chặt em trong vòng tay như thường người ta siết chặt một em bé, nhưng tôi vẫn có cảm giác em đang chuồi thẳng đứng xuống một vực thẳm nào đó, và tôi không làm cách nào giữ em lại được...	Úgy szorítottam a karomba, mint egy gyereket; közben mégis olyan volt, mintha függőlegesen elfolynék valami szakadékba, és én mit sem tehetek, hogy visszatartsam...	0.178431
 Mắt em nghiêm nghị, đăm đắm nhìn về một nơi nào xa lắm.	Tekintete komoly volt, és valahol a messzeségben járt.	0.229412
 - Tôi đã được ông cho con cừu.	- Mim van?	0.216667
 Tôi lại có cái hòm cho cừu.	A bárányod. ~~~ Meg a bárány ládája.	-0.03
 Tôi lại có chiếc rọ mõm...	Meg a szájkosár...	0.110526
- ~~~ Và em mỉm cười, có vẻ hơi buồn.	Szomorúan elmosolyodott.	-0.072
+Và em mỉm cười, có vẻ hơi buồn.	Szomorúan elmosolyodott.	0.156
 Tôi đợi rất lâu.	Vártam, hosszan, sokáig.	0.242857
 Tôi có cảm giác là em dần dà ấm lên:	Éreztem, hogy lassacskán átmelegszik.	0.284211
- ~~~ - Cậu em ạ, cậu có hơi sợ...	- Kedves kis barátom, te féltél...	0.209598
- ~~~ Em có sợ, đúng rồi!	Igen, félt, de még mennyire félt!	-0.042
-Nhưng em cười khẽ: ~~~ 	Hanem azért szelíden fölnevetett.	-0.0625
+- Cậu em ạ, cậu có hơi sợ...	- Kedves kis barátom, te féltél...	0.719196
+Em có sợ, đúng rồi!	Igen, félt, de még mennyire félt!	0.182609
+Nhưng em cười khẽ:	Hanem azért szelíden fölnevetett.	0.136364
 - Chiều nay, em còn sợ nhiều nữa cơ... Một lần nữa, tôi lại cảm thấy người giá lạnh vì một cái gì đó không thể cứu vãn được nữa.	- Este sokkal jobban fogok félni... ~~~ Megint belém hasított a jóvátehetetlenség fagyasztó érzése.	-0.0836842
 Và tôi hiểu rằng ấy là ý nghĩ rồi đây không bao giờ còn nghe thấy tiếng cười này, đó là điều tôi không chịu được.	És tűrhetetlennek éreztem már a puszta gondolatát is, hogy nem hallom többet a nevetését.	0.141176
 Tiếng cười ấy của em đỗi với tôi giống như một cái giếng nước trong sa mạc.	Hiszen olyan volt számomra, mint forrás a sivatagban.	0.0612245
-- Cậu em ạ, tôi còn muốn được nghe em cười... ~~~ 	- Kis barátom, hallani akarom még a nevetésedet...	0.153901
+- Cậu em ạ, tôi còn muốn được nghe em cười...	- Kis barátom, hallani akarom még a nevetésedet...	0.607801
 Nhưng em bảo tôi:	De ő azt mondta:	0.22
- ~~~ - Đêm nay, vừa đúng một năm.	- Ma éjszaka éppen egy éve.	0.17967
-Ngôi sao của tôi sẽ lại ở đúng bên trên chỗ tôi rơi xuống năm ngoái... ~~~ 	Ma éjjel a csillagom pontosan a fölött a hely fölött lesz, ahol egy esztendeje földre hullottam...	-0.01875
+- Đêm nay, vừa đúng một năm.	- Ma éjszaka éppen egy éve.	0.659341
+Ngôi sao của tôi sẽ lại ở đúng bên trên chỗ tôi rơi xuống năm ngoái...	Ma éjjel a csillagom pontosan a fölött a hely fölött lesz, ahol egy esztendeje földre hullottam...	0.253846
 - Cậu em ạ, chuyện rắn, chuyện hẹn gặp, chuyện ngôi sao này, có phải chỉ là mộng dữ không?	- Kedves kis barátom, ugye, ez az egész csak rossz álom, ez a kígyóhistória, ez a találkozó, ez a csillagmese...	0.439887
 Nhưng em không trả lời câu tôi hỏi.	Erre a kérdésre azonban nem válaszolt.	0.283784
 Em bảo tôi:	Azt mondta:	0.245455
- ~~~ - Cái gì mà quan trọng, cái đó không thấy được đâu... ~~~ 	- Ami fontos, azt nem lehet látni...	-0.0625
+- Cái gì mà quan trọng, cái đó không thấy được đâu...	- Ami fontos, azt nem lehet látni...	0.4125
 - Đúng thế...	- Persze...	1.16364
- ~~~ - Giống như bông hoa của tôi.	- A virágokkal is így van.	0.170536
+- Giống như bông hoa của tôi.	- A virágokkal is így van.	0.641071
 Khi ông yêu một bông hoa, mà bông hoa ấy lại ở trên một ngôi sao, ban đêm, khi ông nhìn trời, ông thấy lòng dịu dàng lắm.	Ha szeretsz egy virágot, valahol egy csillagon, jólesik éjszaka fölnézned az égre.	0.111538
 Toàn thể các ngôi sao đều nở hoa.	Minden csillagon van egy virág.	0.217241
 - Đúng thế...	- Persze...	1.16364
- ~~~ - Nước cũng thế.	- És a vízzel is így van.	0.2775
+- Nước cũng thế.	- És a vízzel is így van.	0.855
 Vốc nước ông cho tôi uống ấy, nó như là nhạc vậy, nhờ cái ròng rọc và sợi dây... ông nhớ chứ... ngon lành thật.	Amit innom adtál, olyan volt, mint a muzsika, a csiga meg a kötél miatt... ~~~ Emlékszel?... ~~~ Nagyon jó volt.	-0.153086
 - Đúng thế...	- Persze...	1.16364
- ~~~ - Đêm ông sẽ nhìn sao.	- Éjszaka majd fölnézel a csillagokra.	0.133036
+- Đêm ông sẽ nhìn sao.	- Éjszaka majd fölnézel a csillagokra.	0.566071
 Nhà tôi bé tí teo nên tôi không thể chỉ cho ông đâu là ngôi sao của tôi được.	Az enyém sokkal kisebb, semhogy megmutathatnám, hol van.	0.121154
 Thế có lẽ lại tốt hơn.	De jobb is így.	0
 Ngôi sao của tôi, đối với ông, sẽ là một trong các ngôi sao kia... Như thế, tất cả các ngôi sao, ông đều sẽ thích nhìn.	Számodra az én csillagom egy lesz valamerre a többi csillag közt.	-0.04
 Tất cả các ngôi sao sẽ là bạn thân ông.	Így aztán minden csillagot szívesen nézel majd...	0.272727
-Và rồi tôi biếu ông một món quà... ~~~ 	Mind a barátod lesz.	-0.157895
- ~~~  ~~~ Em lại cười lên nữa.	Azonfölül egy ajándékot is adok neked.	-0.140741
+Và rồi tôi biếu ông một món quà...	Mind a barátod lesz.	-0.0157895
+Em lại cười lên nữa.	Azonfölül egy ajándékot is adok neked.	0.144
 - Ôi!	Megint nevetett.	-0.2
 Em ơi, em ơi, tôi thích nghe em cười như thế này biết mấy!	- Ó, kedves kis barátom, hogy szeretem hallani a nevetésedet!	0.273214
 - Đúng đó là món quà tôi biếu ông... như nước vậy mà...	- Éppen ez lesz az ajándékom... olyasforma, mint a víz...	0.521784
- ~~~ - Em muốn nói sao?	- Mit akarsz ezzel mondani?	0.2
+- Em muốn nói sao?	- Mit akarsz ezzel mondani?	0.7
 - Mọi người có những ngôi sao, không của ai giống của ai.	- Az embereknek nem ugyanazt jelentik a csillagaik.	0.52
 Đối với một số, ưa thích đi xa, các ngôi sao là những kẻ dẫn đường.	Akik úton járnak, azoknak vezetőül szolgálnak a csillagok.	0.189474
 Đối với số khác, chúng chỉ là những đốm sáng nhỏ.	Másoknak nem egyebek csöppnyi kis fényeknél.	0.190909
 Đối với những người khác nữa, họ là nhà bác học, chúng là những bài tính.	Ismét mások, a tudó­sok számára problémák.	0.0456522
 Đối với lão tư sản tôi kể ấy, chúng vốn là vàng.	Az üzletemberem szemében aranyból voltak.	0.182927
 Nhưng tất cả các loại ngôi sao đều đã tắt.	A csillagok viszont mind-mind hallgatnak.	0.205263
-Còn ông, ông sẽ có những ngôi sao trước nay không ai có... ~~~ 	De neked olyan csillagaid lesznek, amilyenek senki másnak...	-0.0163636
+Còn ông, ông sẽ có những ngôi sao trước nay không ai có...	De neked olyan csillagaid lesznek, amilyenek senki másnak...	0.267273
 - Em muốn nói sao?	- Hogyhogy?	1.10909
 - Rồi đây, ban đêm, khi ông nhìn trời, bởi vì ở một trong những ngôi sao đó có tôi, bởi vì trong một ngôi sao đó có tôi cười, nên ông sẽ tưởng chừng tất cả các ngôi sao đều cười.	- Mert én ott lakom majd valamelyiken, és ott nevetek majd valamelyiken: ha éjszakánként fölnézel az égre, olyan lesz számodra, mintha minden csillag nevetne.	0.314483
 Ông, ông sẽ có được những ngôi sao biết cười!	Neked, egyedül neked, olyan csillagaid lesznek, amik nevetni tudnak!	0.255556
@@ -1493,34 +1468,34 @@ Rồi em lại cười nữa.	És megint nevetett.	0.189474
 Ông mãi mãi là bạn thân tôi.	Mindig is a barátom leszel.	0.228
 Ông sẽ thèm được cười với tôi.	És szívesen fogsz együtt nevetni velem.	0.292105
 Rồi đôi khi ông mở cửa sổ nhà ông, tự nhiên thích mở, thế thôi... Các bạn hữu của ông sẽ lấy làm lạ, thấy ông vừa nhìn trời vừa cười.	És néha kinyitod majd az ablakodat, csak úgy, kedvtelésből... És a barátaid nagyot néznek majd, ha látják, hogy nevetsz, amikor fölnézel az égre.	0.262774
-Ông sẽ bảo họ: "Phải, các ngôi sao, lúc nào chúng cũng làm cho mình cười!" ~~~ Và họ sẽ tưởng ông điên.	Te meg majd azt mondod nekik: „Igen, engem a csillagok mindig megnevettetnek!” Erre azt hiszik majd, hogy meghibbantál.	-0.00555556
+Ông sẽ bảo họ: "Phải, các ngôi sao, lúc nào chúng cũng làm cho mình cười!" ~~~ Và họ sẽ tưởng ông điên.	Te meg majd azt mondod nekik: "Igen, engem a csillagok mindig megnevettetnek!" Erre azt hiszik majd, hogy meghibbantál.	-0.0115385
 Tôi đùa ghẹo ông, thế đấy!	Szép kis tréfa lesz...	0.15
 Rồi em lại cười nữa.	És nevetett újra.	0.166667
-- Như là đáng lẽ phải cho ông những ngôi sao, tôi lại đứa cho ông hàng đống những cái chuông nhỏ biết cười... ~~~ 	- Mintha a csillagok helyett egy csomó kacagni tudó csengettyűt kaptál volna tőlem...	0.027396
+- Như là đáng lẽ phải cho ông những ngôi sao, tôi lại đứa cho ông hàng đống những cái chuông nhỏ biết cười...	- Mintha a csillagok helyett egy csomó kacagni tudó csengettyűt kaptál volna tőlem...	0.354792
 Rồi em lại cười nữa.	És újból nevetett.	0.21
 Và bỗng trở lại nghiêm nghị:	De aztán elkomolyodott.	0.156522
- ~~~ - Đêm nay... ông ạ... ông đừng đến.	- Ma éjszaka... tudod... ne gyere el.	0.151136
+- Đêm nay... ông ạ... ông đừng đến.	- Ma éjszaka... tudod... ne gyere el.	0.602273
 - Tôi sẽ không rời em đâu.	- Nem hagylak magadra.	0.765
 - Hình như tôi ốm... Tôi hơi có vẻ sắp chết.	- Olyan leszek majd, mintha valami bajom volna... egy kicsit olyan, mintha meghalnék.	0.390816
 Thế thôi mà!	Úgy bizony.	0.225
-Ông đừng đến nhìn trông cảnh đó, không cần đâu... ~~~ 	Ne gyere el, semmi szükség rá, hogy végignézd... Nem éri meg...	-0.0025
+Ông đừng đến nhìn trông cảnh đó, không cần đâu...	Ne gyere el, semmi szükség rá, hogy végignézd... Nem éri meg...	0.294915
 - Tôi sẽ không rời em.	- Nem hagylak magadra.	0.84
 Nhưng em có vẻ lo lắng.	Ő szemlátomást gondterhelt volt.	0.204
 - Tôi nói với ông cái này... cũng tại con rắn đấy.	- Azért mondom... a kígyó miatt.	0.496313
 Chớ để rắn nó cắn ta. ~~~ Loài rắn, ác lắm.	Nehogy esetleg téged is megmarjon... A kígyók komiszak.	-0.00918367
-Chúng lại có thể vì thích mà cắn... ~~~ 	Puszta kedvtelésből is marnak...	-0.0375
+Chúng lại có thể vì thích mà cắn...	Puszta kedvtelésből is marnak...	0.225
 - Tôi sẽ không rời em.	- Nem hagylak magadra.	0.84
 Nhưng có cái gì đó làm em yên tâm trở lại:	De valami megnyugtatta.	-0.0272727
- ~~~ - Song đúng là đến lần cắn thứ hai thì chúng chẳng còn nọc nữa đâu!...	- Igaz, második marásra már nem marad mérgük...	0.059058
+- Song đúng là đến lần cắn thứ hai thì chúng chẳng còn nọc nữa đâu!...	- Igaz, második marásra már nem marad mérgük...	0.418116
 Đêm ấy, khi em lên đường, tôi không nhìn thấy.	Azon az éjszakán észre sem vettem, mikor kelt útra.	0.275
 Em đã lặng lẽ trốn đi.	Nesztelenül megszökött.	0.288462
 Khi tôi theo kịp em, em bước nhanh, cả quyết.	Mikor végre utolértem, elszántan, gyors léptekkel menetelt.	0.229787
-Em chỉ nói với tôi: ~~~ 	Csak ennyit mondott:	-0.0236842
+Em chỉ nói với tôi:	Csak ennyit mondott:	0.252632
 - Ôi, ông đấy ư?	- Ó, hát itt vagy...	0.8
 Rồi em cầm tay tôi.	És kézen fogott.	0.229412
 Nhưng em lại dằn vặt nữa:	De még mindig bántotta valami.	0.289655
- ~~~ - Ông không đúng, ông ạ. Ông chỉ tổ làm cho ông khổ.	- Nem jól tetted.	-0.084375
-Tôi sẽ có vẻ chết, nhưng chẳng phải thật thế đâu... ~~~ 	Fájni fog neked. ~~~ Olyan lesz, mintha meghaltam volna, pedig nem is igaz...	-0.162295
+- Ông không đúng, ông ạ. Ông chỉ tổ làm cho ông khổ.	- Nem jól tetted.	0.13125
+Tôi sẽ có vẻ chết, nhưng chẳng phải thật thế đâu...	Fájni fog neked. ~~~ Olyan lesz, mintha meghaltam volna, pedig nem is igaz...	-0.0122951
 Còn tôi, tôi nín thinh.	Én csak hallgattam.	0.221053
 - Ông biết không.	- Ugye, érted?	0.942857
 Xa lắm!	Nagyon messze van.	0.0333333
@@ -1528,28 +1503,28 @@ Tôi không lê cái thân xác này về được.	Nem vihetem magammal ezt a t
 Nặng lắm!	Túl nehéz.	0.275
 Tôi, tôi nín thinh.	Hallgattam.	0.1
 - Nhưng nó sẽ cũng chỉ như một cái vỏ già lột ra vứt bỏ.	- Olyan lesz, mint egy levetett, régi kéreg.	0.460833
-Những cái vỏ già thì có gì đáng buồn... ~~~ 	Mért volna szomorú egy levetett kéreg?...	-0.01875
+Những cái vỏ già thì có gì đáng buồn...	Mért volna szomorú egy levetett kéreg?...	0.2625
 Tôi, tôi nín thinh.	Hallgattam.	0.1
 Em có hơi nản.	Egy kicsit elbátortalanodott.	0.05625
-Nhưng em có vẻ lại gắng sức một lần nữa: ~~~ 	De aztán újra összeszedte magát.	-0.0681818
+Nhưng em có vẻ lại gắng sức một lần nữa:	De aztán újra összeszedte magát.	0.163636
 - Sẽ hay lắm chứ, ông?	- Tudod, milyen jó lesz?	0.759091
 Tôi cũng sẽ nhìn các ngôi sao.	Én is nézem majd a csillagokat.	0.268966
 Tất cả các ngôi sao sẽ là những cái giếng với một cái ròng rọc cót két.	Minden egyes csillag kút lesz, rozsdás csigával.	0.0782609
-Tất cả mọi ngôi sao sẽ rót cho tôi uống... ~~~ 	És mind innom ad majd.	-0.2025
+Tất cả mọi ngôi sao sẽ rót cho tôi uống...	És mind innom ad majd.	-0.105
 Tôi, tôi nín thinh.	Hallgattam.	0.1
 - Sẽ thích biết bao nhiêu!	- Olyan mulatságos lesz!	0.834783
-Ông sẽ có năm trăm triệu chiếc chuông nhỏ, còn tôi, năm trăm triệu vòi nước uống... ~~~ 	Neked ötszázmillió csengettyűd lesz, nekem ötszázmillió forrásom...	-0.0492857
+Ông sẽ có năm trăm triệu chiếc chuông nhỏ, còn tôi, năm trăm triệu vòi nước uống...	Neked ötszázmillió csengettyűd lesz, nekem ötszázmillió forrásom...	0.201429
 Nhưng bỗng em cũng nín thinh. ~~~ Bởi vì em khóc...	És most már ő is elhallgatott, mert sírt...	-0.0329268
- ~~~ - Chỗ này.	- Helyben vagyunk.	0.3125
+- Chỗ này.	- Helyben vagyunk.	0.925
 Ông để tôi bước tới một bước, một mình tôi thôi.	Most hadd menjek pár lépést egyedül.	0.108333
 Nhưng em bỗng ngồi xuống, vì em sợ.	De leült, mert fél.	-0.0157895
 Em lại nói nữa:	Aztán azt mondta:	0.282353
- ~~~ - Ông biết đấy... Bông hoa của tôi... Tôi chịu trách nhiệm về cô ấy!	- Tudod... a virágom... felelős vagyok érte.	0.0660714
+- Ông biết đấy... Bông hoa của tôi... Tôi chịu trách nhiệm về cô ấy!	- Tudod... a virágom... felelős vagyok érte.	0.432143
 Cô ấy yếu đuối nhường ấy!	Hiszen olyan gyönge!	0.09
 Cô ấy thơ ngây nhường ấy!	És olyan gyanútlan.	0.135
-Để tự bảo vệ trên đời, cô chỉ có bốn cái gai có nghĩa lí gì đâu... ~~~ 	Egyebe sincs, mint négy semmi kis tövise, hogy a világtól védekezzék...	-0.0198529
+Để tự bảo vệ trên đời, cô chỉ có bốn cái gai có nghĩa lí gì đâu...	Egyebe sincs, mint négy semmi kis tövise, hogy a világtól védekezzék...	0.260294
 Tôi ngồi xuống vì không thể đứng được nữa.	Leültem én is, mert nem bírtam tovább állva maradni.	0.282
-Em nói: ~~~ 	- Hát igen - mondta.	-0.12
+Em nói:	- Hát igen - mondta.	-0.075
 - Chuyện chỉ có thế thôi mà!	- Ennyi az egész.	0.6
 Em lưỡng lự một chút, rồi ngửng lên.	Egy kicsit még tétovázott, aztán fölállt.	0.3
 Em bước một bước.	Lépett egyet.	0.107143
@@ -1557,30 +1532,29 @@ Còn tôi rầu rĩ không thể nào cử động được.	Én moccanni se bí
 Chỗ mắt cá của em, chỉ thấy có một thoáng chớp màu vàng.	Csak ennyi volt: egy sárga villanás a bokájánál.	0.191489
 Em đứng một lúc không động đậy.	Egy pillanatig mozdulatlanul állt.	0.245455
 Em không khóc.	Nem kiáltott.	0.278571
-Em bỗng ngả xuống từ từ, như một cái cây đổ.		-0.3
-Mà cũng chẳng có một tiếng động nào.	Szelíden dőlt el, ahogyan a fák.	0.183871
-Vì bên dưới là cát. ~~~ XXVII	Még csak zajt sem keltett, a homok miatt.	-0.03
- ~~~ 	27.	-0.05
-Và giờ đây, đúng vậy, sáu năm đã trôi qua... Tôi vẫn chưa kể câu chuyện này.	És ennek bizony immár hat éve. ~~~ S én még soha senkinek sem meséltem el ezt a történetet.	-0.0054878
+Em bỗng ngả xuống từ từ, như một cái cây đổ.	Szelíden dőlt el, ahogyan a fák.	0.0870968
+Mà cũng chẳng có một tiếng động nào.	Még csak zajt sem keltett, a homok miatt. ~~~ 27.	-0.00731707
+Vì bên dưới là cát. ~~~ XXVII	És ennek bizony immár hat éve.	-0.00517241
+Và giờ đây, đúng vậy, sáu năm đã trôi qua... Tôi vẫn chưa kể câu chuyện này.	S én még soha senkinek sem meséltem el ezt a történetet.	0.109615
 Những bạn bè gặp lại tôi... rất lấy làm thích thấy tôi còn sống mà về.	Bajtársaim, mikor viszontláttak, örültek, hogy élve látnak.	0.195
-Tôi buồn, và tôi nói với họ: "Mình mệt đấy thôi!"...	Én szomorú voltam, de azt mond­tam: „Azért, mert nagyon fáradt vagyok...”	0.235
+Tôi buồn, và tôi nói với họ: "Mình mệt đấy thôi!"...	Én szomorú voltam, de azt mond­tam: "Azért, mert nagyon fáradt vagyok..."	0.255
 Bây giờ tôi đã nguôi nguôi.	Most már egy kicsit megvigasztalódtam.	0.241935
 Nghĩa là... không hẳn là như thế.	Azaz... mégsem egészen.	0.1375
 Nhưng tôi biết cậu em đã trở về cái hành tinh của mình, vì, tinh mơ hôm sau, tôi đã không còn thấy thân xác em.	De tudom, hogy visszatért a bolygójára, mert mikor fölkelt a nap, nem találtam ott a testét.	0.185714
 Thân xác ấy nào có nặng gì cho cam... Và bây giờ, ban đêm, tôi thích lắng nghe các ngôi sao.	Annyira mégsem volt nehéz... És szeretem a csillagokat hallgatni éjszakánként.	0.228947
-Chúng như năm trăm triệu cái chuông nhỏ... ~~~ 	Mintha ötszázmillió csengettyű volna...	-0.0182927
+Chúng như năm trăm triệu cái chuông nhỏ...	Mintha ötszázmillió csengettyű volna...	0.263415
 Nhưng có xảy ra một điều không thường.	De lám csak, van itt egy rendkívüli kérdés!	0.278571
 Chiếc rọ mõm mà tôi đã vẽ cho cậu hoàng tử, tôi đã quên vẽ thêm cái đai da!	A szájkosárról, amit a kis hercegnek rajzoltam, lefelejtettem a bőrszíjat!	0.249296
 Thế em làm thế nào buộc rọ ấy vào cho con cừu được?	Sose tudhatja fölcsatolni a bárányára.	0.146154
-Vậy nên tôi lại tự hỏi: "Việc gì đã diễn ra trên hành tinh của em?	S én azt kérdezem magamban: „Mi történt a bolygón?	0.162
-Hẳn là con cừu đã ăn mất bông hoa rồi, có lẽ thế..." ~~~ 	Lehet, hogy a bárány megette a virágot...”	-0.0607143
-Lúc khác, tôi lại nghĩ: "Tin chắc là không!	Egyszer azt gondolom: „Nem, semmiképpen sem!	0.27907
-Cậu hoàng tử đêm nào cũng ẩn giấu bông hoa của mình dưới cái bầu kính, và em canh chừng cẩn thận con cừu..." Nghĩ thế, tôi thấy tôi sung sướng.	A kis herceg mindig üvegbura alá teszi éjszakára a virágját, és éberen vigyáz a bárányára...” Ilyenkor boldog vagyok, és a csillagok mind kedvesen nevetnek.	0.283893
-Và tất cả các ngôi sao đều cười lên khe khẽ.		-0.3
-Lúc khác nữa, tôi lại nghĩ thầm: "Ai chẳng có hồi đãng trí, chỉ cần đãng trí một lần thôi, và thế là xong!	Másszor meg ezt gondolom: „Az ember olykor-olykor figyelmetlen, és máris kész a baj!	0.151899
-Một tối nào đó, em quên bẵng cái bầu kính, hoặc con cừu lẻn ra se sẽ trong đêm..." Nghĩ thế, các tiếng chuông liền biến hết thành nước mắt!...	Egy este elfelejti föltenni az üvegburát, vagy éjszaka nesztelenül kiszökik a bárány...” És ilyenkor a csengettyűk mind csupa könnyé változnak.	0.263571
+Vậy nên tôi lại tự hỏi: "Việc gì đã diễn ra trên hành tinh của em?	S én azt kérdezem magamban: "Mi történt a bolygón?	0.14375
+Hẳn là con cừu đã ăn mất bông hoa rồi, có lẽ thế..."	Lehet, hogy a bárány megette a virágot..."	0.1575
+Lúc khác, tôi lại nghĩ: "Tin chắc là không!	Egyszer azt gondolom: "Nem, semmiképpen sem!	0.263415
+Cậu hoàng tử đêm nào cũng ẩn giấu bông hoa của mình dưới cái bầu kính, và em canh chừng cẩn thận con cừu..." Nghĩ thế, tôi thấy tôi sung sướng.	A kis herceg mindig üvegbura alá teszi éjszakára a virágját, és éberen vigyáz a bárányára..." Ilyenkor boldog vagyok, és a csillagok mind kedvesen nevetnek.	0.279592
+Và tất cả các ngôi sao đều cười lên khe khẽ.	Másszor meg ezt gondolom: "Az ember olykor-olykor figyelmetlen, és máris kész a baj!	0.147059
+Lúc khác nữa, tôi lại nghĩ thầm: "Ai chẳng có hồi đãng trí, chỉ cần đãng trí một lần thôi, và thế là xong!		-0.3
+Một tối nào đó, em quên bẵng cái bầu kính, hoặc con cừu lẻn ra se sẽ trong đêm..." Nghĩ thế, các tiếng chuông liền biến hết thành nước mắt!...	Egy este elfelejti föltenni az üvegburát, vagy éjszaka nesztelenül kiszökik a bárány..." És ilyenkor a csengettyűk mind csupa könnyé változnak.	0.258696
 Đó thật là một điều bí mật to lớn.	Nagy rejtelem ez.	-0.1875
-Đối với các bạn là người cũng yêu cậu hoàng tử nhỏ, cũng như đối với tôi, không gì trên vũ trụ này còn giống nguyên như trước, nếu đâu đây, không biết là nơi nào, có một con cừu mà chúng ta không biết, nó có ăn hay đã không ăn một bông hồng... ~~~ 	Mert ti szeretitek a kis herceget, nektek se mindegy, mint ahogy nem mind­egy nekem sem, hogy valahol a mindenségben, ki tudja, hol, ki tudja, merre, egy bárány, akit nem is ismerünk, lelegelt-e egy rózsát, vagy sem...	-0.0604712
+Đối với các bạn là người cũng yêu cậu hoàng tử nhỏ, cũng như đối với tôi, không gì trên vũ trụ này còn giống nguyên như trước, nếu đâu đây, không biết là nơi nào, có một con cừu mà chúng ta không biết, nó có ăn hay đã không ăn một bông hồng...	Mert ti szeretitek a kis herceget, nektek se mindegy, mint ahogy nem mind­egy nekem sem, hogy valahol a mindenségben, ki tudja, hol, ki tudja, merre, egy bárány, akit nem is ismerünk, lelegelt-e egy rózsát, vagy sem...	0.179058
 Bạn hãy nhìn trời.	Nézzetek föl az égre.	0.3
 Bạn hãy tự hỏi: Con cừu đã ăn hay không ăn bông hồng nhỉ?	És tegyétek föl a kérdést: megette vagy nem ette meg a virágot a bárány?	0.28125
 Và bạn sẽ thấy là mọi vật liền đổi khác.	S aszerint, igen vagy nem, meglátjátok, egyszerre megváltozik minden...	0.198

@@ -1,13 +1,4 @@
-﻿
-JOHANN WOLFGANG GOETHE
-Werther szerelme és halála
-
-Fordította
-SZABÓ LŐRINC
-
-
-
-Amit csak megtudhattam a szegény Werther történetéről, szorgalmasan összegyűjtöttem, és most elétek bocsátom, és tudom, hálásak lesztek érte.
+﻿Amit csak megtudhattam a szegény Werther történetéről, szorgalmasan összegyűjtöttem, és most elétek bocsátom, és tudom, hálásak lesztek érte.
 Lehetetlen, hogy ne csodáljátok és szeressétek a szellemét és jellemét, meg ne sirassátok a sorsát.
 És te, jóságos lélek, aki ugyanazt a szorongást érzed, amit ő, meríts vigaszt a szenvedéseiből, és legyen barátod ez a kis könyv, ha a sors végzése vagy a saját hibád miatt jobbat nem tudsz találni.
 ELSŐ KÖNYV
@@ -46,8 +37,8 @@ Magam vagyok, és örülök életemnek ezen a tájon: olyan lelkeknek teremtett�
 Oly boldog vagyok, barátom, annyira elmerülök a nyugodt lét érzésében, hogy ez már árt a művészetemnek.
 Nem tudnék most rajzolni egyetlen vonást sem, és sose voltam nagyobb festő, mint ezekben a pillanatokban.
 Ha párázik körülöttem a gyönyörű völgy, és a nap fent pihen erdőm áthatolhatatlan sötétjének felszínén, és csak egy-egy sugara lopózik a belső szentélybe, én pedig a magas fűben fekszem az alázuhogó pataknál, és közvetlen közelről a földön ezer mindenféle kis fűszál kelti fel érdeklődésemet; ha a fűszálak közt az apró világ nyüzsgését, a parányi férgeknek, legyecs­kéknek megszámlálhatat­lan, kifürkészhetetlen alakját közelebb érzem a szívemhez, és érzem a Mindenható jelenlétét, aki a saját képére teremtett bennünket, a Mindeneket Szerető leheletét, aki örök gyönyörűségben lebegve tart és megtart; barátom!
-ha aztán elhomályosul a szemem, s köröttem ez a világ és az ég egészen a lelkembe simul, mint egy szeretett leány képe, akkor gyakran elfog a vágy, és azt gondolom: „- Ó, ha ki tudnád fejezni, bele tudnád lehelni a papírba azt, ami oly teljesen, oly melegen él benned, hogy lelked tükrévé váljék, ahogyan a lelked tükrözi a végtelen Istent!
--” Barátom - csakhogy ez már tönkretesz, és lever e jelenségek nagyszerű hatalma.
+ha aztán elhomályosul a szemem, s köröttem ez a világ és az ég egészen a lelkembe simul, mint egy szeretett leány képe, akkor gyakran elfog a vágy, és azt gondolom: "- Ó, ha ki tudnád fejezni, bele tudnád lehelni a papírba azt, ami oly teljesen, oly melegen él benned, hogy lelked tükrévé váljék, ahogyan a lelked tükrözi a végtelen Istent!
+-" Barátom - csakhogy ez már tönkretesz, és lever e jelenségek nagyszerű hatalma.
 Május 12.
 Nem tudom, csalóka szellemek lebegnek-e ezen a tájon, vagy a szívemben lakó meleg, mennyei képzelet varázsol-e mindent paradicsomivá köröttem.
 Itt van, mindjárt a helység előtt, egy kút, amelyhez úgy hozzáköt valami bűvölet, mint Meluzinát meg a húgait.
@@ -240,7 +231,7 @@ Félelmüket fölényeskedő meteorológiai bölcsességemmel elütöttem, noha 
 Kiszálltam, és egy szolgáló, aki a kapuhoz jött, pillanatnyi türelmet kért, mondván, hogy Lotte kisasszony mindjárt jön.
 Átvágtam az udvaron, a szép nagy ház felé, és mikor elöl felmentem a lépcsőn és a küszöbre léptem, a legbájosabb látvány tűnt a szemembe, amelyet valaha láttam.
 Az első, nagy szobában hat gyerek tolongott, a legidősebb tizenegy, a legfiatalabb kétesztendős, egy szép termetű, középmagas lány körül, aki egyszerű fehér ruhát viselt, halványpiros szalagcsokrokkal a karján és a keblén.
-Fekete kenyér volt a kezében, és a kicsinyeinek sorra egy-egy karéjt vágott, koruknak és étvágyuknak megfelelően; mindegyik­nek nyájasan adta oda a magáét, és mindegyik gyerek, magasra lengetve kis kezét, mielőtt még levágta volna a karéjt a kés, szívéből kiáltozta, hogy „Köszönöm!”, és aztán vacsorájával elégedetten vagy odább ugrott, vagy, ha csendesebb természetű volt, nyugodtan a kapu felé indult, hogy megnézze az idegeneket és a kocsit, amelyen Lottéjuk majd elmegy.
+Fekete kenyér volt a kezében, és a kicsinyeinek sorra egy-egy karéjt vágott, koruknak és étvágyuknak megfelelően; mindegyik­nek nyájasan adta oda a magáét, és mindegyik gyerek, magasra lengetve kis kezét, mielőtt még levágta volna a karéjt a kés, szívéből kiáltozta, hogy "Köszönöm!", és aztán vacsorájával elégedetten vagy odább ugrott, vagy, ha csendesebb természetű volt, nyugodtan a kapu felé indult, hogy megnézze az idegeneket és a kocsit, amelyen Lottéjuk majd elmegy.
 - Bocsásson meg - mondta a nagylány -, hogy befárasztottam, és hogy a hölgyeket megváratom.
 Az öltözködés meg a házi rendelkezések távollétem idejére egészen kiverték a fejemből, hogy vacsorát is kell adnom a gyerekeimnek, pedig csak tőlem fogadják el a kenyeret.
 Valami jelentéktelen bókkal válaszoltam, egész lelkem az alakján, a hangján, a viselkedésén csüggött, és mire felocsúdtam meglepetésemből, ő már beszaladt a szobába a kesztyűjéért meg a legyezőjéért.
@@ -392,7 +383,7 @@ De egyáltalán nem zavartattam magamat, hagytam, hogy csak pakolja ki a tudomá
 Házalt is városszerte a panaszával, hogy az intéző gyerekei eddig is épp elég neveletlenek voltak, de ez a Werther most teljesen elrontja őket.
 Bizony, drága Wilhelm, az én szívemhez az egész föld kerekségén a gyerekek vannak legközelebb.
 Ha elnézem őket, s abban a kis jószágban meglátom mindannak az erénynek, mindannak az erőnek a csíráit, melyekre egykor oly nagy szükségük lesz; ha észreveszem a makacsságban a jellem jövendő állhatatosságát és szilárdságát, a bátorságban a jókedvet és azt a könnyedséget, amely átsegít bennünket a világ veszélyein, s mindezt oly romlatlanul, annyira egészen!
-- akkor nem győzöm ismételni az Emberek Tanítójának arany szavait: „Ha olyanok nem lesztek, mint egy ezek közül!” ... És mi, barátom, noha egyvágásúak velünk, és példaképül kellene választanunk őket, úgy bánunk velük, mintha alattvalóink volnának.
+- akkor nem győzöm ismételni az Emberek Tanítójának arany szavait: "Ha olyanok nem lesztek, mint egy ezek közül!" ... És mi, barátom, noha egyvágásúak velünk, és példaképül kellene választanunk őket, úgy bánunk velük, mintha alattvalóink volnának.
 Nekik ne legyenek akaratuk!
 - Hát nekünk talán nincs?
 honnan az előjogunk?
@@ -458,7 +449,7 @@ Egész szívem tele volt e pillanatban; sok múlt emlék tódult a lelkembe, és
 Adhatsz-e egyetlen csöpp enyhülést nekik, ha lelkük bensejét aggasztó szenvedély gyötri, hasogatja?...
 És ha aztán a végső, szívszorongató betegség rátámad arra a teremtésre, akit virágzó napjaiban elsorvasztottál, és ott fekszik szegény gyászos bágyadtságában, szeme érzéketlenül mered az ég felé, sápadt homlokán ki-kiüt a verejték, és te kárhozottként állsz az ágya előtt, lelkedig átérezve, hogy minden erőd milyen erőtlen, és beléd markol a görcsös rettegés, hogy mindent odaadnál, csak egy csöppnyi erősítést, egy szikrányi bátorságot önthess a megsemmisülő porhüvelybe...
 E szavaknál teljes hatalmával rohant meg az emléke egy ilyen jelenetnek, amelynek tanúja voltam.
-Szememhez kaptam a zsebkendőmet, és elhagytam a társaságot, és csak Lotte hangja, hogy: „Indulás”, térített magamhoz.
+Szememhez kaptam a zsebkendőmet, és elhagytam a társaságot, és csak Lotte hangja, hogy: "Indulás", térített magamhoz.
 Hogy dorgált aztán az úton, amiért oly forrón beleélem magamat mindenbe!
 és hogy ebbe bele fogok pusztulni!
 hogy kíméljem magamat!
@@ -483,7 +474,7 @@ Természetessége és jósága, ahogy ezt mondta, annyira hatott rám, hogy érz
 - Rosszul tette - mondta Lotte.
 Megdöbbentem.
 - Gyere, Malchen - folytatta Lotte, és kézen fogta és levezette a lépcsőn a kislányt -, mosdj meg a friss forrásban, hamar, hamar, nem lesz semmi baj.
-Ahogy ott álltam, és néztem, milyen buzgón dörzsölte a kicsike nedves kis kezével az arcát, milyen hittel, hogy a csodaforrás minden tisztátalanságot lemos, és megmenti a szégyentől, hogy csúf szakálla nő; és ahogy Lotte megszólalt, hogy: „Elég!”, és a gyermek serényen egyre csak mosdott tovább, mintha a sok többet segítene, mint a kevés - mondom neked, Wilhelm, soha nagyobb tisztelettel nem voltam még tanúja keresztelői szertartásnak -, és mikor Lotte feljött, szerettem volna leborulni előtte, mint egy próféta előtt, akinek szentsége egy egész nemzet bűnét törölte el.
+Ahogy ott álltam, és néztem, milyen buzgón dörzsölte a kicsike nedves kis kezével az arcát, milyen hittel, hogy a csodaforrás minden tisztátalanságot lemos, és megmenti a szégyentől, hogy csúf szakálla nő; és ahogy Lotte megszólalt, hogy: "Elég!", és a gyermek serényen egyre csak mosdott tovább, mintha a sok többet segítene, mint a kevés - mondom neked, Wilhelm, soha nagyobb tisztelettel nem voltam még tanúja keresztelői szertartásnak -, és mikor Lotte feljött, szerettem volna leborulni előtte, mint egy próféta előtt, akinek szentsége egy egész nemzet bűnét törölte el.
 Este nem bírtam megállni, hogy szívem örömében el ne meséljem az esetet egy olyan ember­nek, akiben, gondoltam, van emberség, mert van ész; de hogy jártam!
 Azt mondta, hogy Lotte nagyon helytelenül cselekedett; a gyermekeket nem szabad bolondítani; az ilyesmi rengeteg tévelygést és babonát terjeszt, amitől idejekorán óvni kell a gyerekeket.
 - Ekkor már eszembe jutott, hogy az illetőnél alig egy hete volt keresztelő, így hát nem törődtem a szavával, és szí­vemben megmaradtam az igazság mellett: bánjunk úgy a gyerekekkel, ahogy az Isten mivelünk, aki akkor tesz legboldogabbá, amikor hagyja, hogy édes káprázatokban támolyog­junk.
@@ -761,9 +752,9 @@ mert az hagyta el, akiben egyes-egyedül érezte a létét.
 Nem látja a nagy-nagy világot, amely előtte elterül, nem látja a sok embert, aki pótolhatná a veszteségét, úgy érzi, hogy árva, hogy elhagyta mindenki - és vakon, szíve iszonyú fájdalmától űzve, leveti magát, hogy a körülölelő halálban minden szenvedését megfojtsa... Látod, Albert, ez a története nagyon sok embernek!
 És mondd, nem így van a betegséggel is?
 A természet nem talál kivezető utat az összekuszált és ellentmondó erők labirintusából, és az embernek meg kell halnia.
-- Jaj annak, aki, ha mindezt látja, azt tudja mondani: „Milyen bolond lány!
-ha várt volna, hogy hasson az idő, majd akadt volna egy másik férfi, aki megvigasztalja.” - Éppolyan ez, mintha azt mondaná valaki: „Ni, a bolond, meghal a láztól!
-Ha várt volna, míg az ereje megjön, nedvei megjavulnak, vérének vihara elcsöndesül: akkor minden jól ment volna, és ő ma is élne!”
+- Jaj annak, aki, ha mindezt látja, azt tudja mondani: "Milyen bolond lány!
+ha várt volna, hogy hasson az idő, majd akadt volna egy másik férfi, aki megvigasztalja." - Éppolyan ez, mintha azt mondaná valaki: "Ni, a bolond, meghal a láztól!
+Ha várt volna, míg az ereje megjön, nedvei megjavulnak, vérének vihara elcsöndesül: akkor minden jól ment volna, és ő ma is élne!"
 Albert, aki a hasonlatot még mindig nem találta szemléletesnek, ellenvetett egyet-mást, többek között azt, hogy én csak egy együgyű lányról beszéltem; de nem bírja felfogni, hogyan lehetne menteni egy értelmes férfit, aki nem olyan korlátolt, aki több viszonylatot képes áttekinteni.
 - Barátom - kiáltottam fel -, az ember ember, és az a kis esze, amije van, alig vagy egyáltalán nem számít, ha dühöng a szenvedély, és az emberi lét határai szorítanak bennünket.
 Sőt, inkább... De erről majd máskor - mondtam, és vettem a kalapomat.
@@ -790,7 +781,7 @@ Szegény bolond, te, aki mindent leki­csinyelsz, mert magad oly kicsiny vagy!
 Testvérem, csak ezeknek az óráknak az emléke esik jól.
 Még az erőfeszítés is, hogy visszaidézzem, újra kimondjam azokat a kimondhatatlan érzéseket, önmagam fölé emeli a lelkemet, és aztán kétszeresen érezteti velem mostani helyzetem nyomorúságát.
 Mintha egy függönyt húztak volna félre a lelkemről, és a végtelen élet színtere egy örökké nyitott sír szakadékává változik előttem.
-Mondhatod-e, hogy: „Ez van!”, ha minden elmúlik?
+Mondhatod-e, hogy: "Ez van!", ha minden elmúlik?
 ha minden viharsebességgel tovahömpölyög, létének teljes erejét oly ritkán őrzi meg, ah!
 belekerül a sodró folyamba, elmerül és ronccsá zúzódik a sziklán!
 Ezt látva, nincs egyetlen pillanat, amely ne sorvasztana téged és körötted a tieidet, egy pillanat, mikor ne pusztítanál, ne kénysze­rül­nél pusztítani, a legártatlanabb séta ezer szegény féreg életébe kerül, egyetlen lépés lerombolja a hangyák fáradságos építményeit, és egy kis világot tipor gyalázatos sírba.
@@ -887,11 +878,11 @@ Nem bírtam folytatni - Wilhelm, miért kellett ezt tőlem kérdeznie, mikor a r
 - És vajon tudnak-e rólunk elhunyt kedveseink - folytatta -, vajon érzik-e, hogy mikor jól megy a dolgunk, meleg szeretettel gondolunk rájuk?
 Ó!
 anyám alakja mindig körülöttem lebeg, ha az esti csendben a kis cselédei közt, a kis cselédeim közt ülök, és ők körém gyűlnek, ahogy egykor őköréje gyűltek.
-Ha ilyenkor könnyes lázban felnézek az égre, és kívánom, bárcsak alátekinthetne egy pillanatra, hogy lássa, csakugyan megtartom szavamat, melyet a halál órájában adtam neki: anyja leszek a gyermekeinek; milyen érzéssel kiáltok fel: „Bocsásd meg, drága anyám, ha én nem vagyok nekik az, ami te voltál.
+Ha ilyenkor könnyes lázban felnézek az égre, és kívánom, bárcsak alátekinthetne egy pillanatra, hogy lássa, csakugyan megtartom szavamat, melyet a halál órájában adtam neki: anyja leszek a gyermekeinek; milyen érzéssel kiáltok fel: "Bocsásd meg, drága anyám, ha én nem vagyok nekik az, ami te voltál.
 Ah!
 hisz megteszek mindent, amit bírok; gondoskodom a ruhájukról, ételükről, és ami mindennél több, ápolom és szeretem őket.
 Bárcsak láthatnád, drága szent, hogy mennyire egyetértünk!
-Forró hálával magasztalnád az Istent, akitől utolsó keserű könnyeddel a gyerekeid boldogulását kérted.”
+Forró hálával magasztalnád az Istent, akitől utolsó keserű könnyeddel a gyerekeid boldogulását kérted."
 Ezt mondta!
 Ó, Wilhelm, ki tudja elismételni, amit mondott!
 Hogy tudná a hideg, halott betű feltárni ezt a virágszerű, mennyei szellemet!
@@ -911,11 +902,11 @@ Azt hittem, meghalok.
 Sose mondtak rám nagyobb, büszkébb szót - és Lotte folytatta:
 - És ennek az asszonynak meg kellett halnia élete virágjában, mikor a legkisebb fia még féléves sem volt!
 Nem betegeskedett sokáig; nyugodt volt, megadta magát a sorsnak, csak a gyermekei­ért fájt a szíve, különösen a kicsiért.
-Mikor közeledett a vég, és ő azt mondta: „Hozd fel őket”, és amikor én mind bevezettem a kicsiket, akik semmiről se tudtak, és a nagyobbakat, akik szinte összerogytak a rémülettől, és körülállták az ágyát, és ő felemelte a kezét, és imádkozott értük, és sorra megcsókolta és elküldte őket, és így szólt hozzám: „Légy anyjuk!” - én kezet adtam rá.
-- „Sokat ígérsz, lányom - mondta -, egy anya szívét és egy anya szemét.
+Mikor közeledett a vég, és ő azt mondta: "Hozd fel őket", és amikor én mind bevezettem a kicsiket, akik semmiről se tudtak, és a nagyobbakat, akik szinte összerogytak a rémülettől, és körülállták az ágyát, és ő felemelte a kezét, és imádkozott értük, és sorra megcsókolta és elküldte őket, és így szólt hozzám: "Légy anyjuk!" - én kezet adtam rá.
+- "Sokat ígérsz, lányom - mondta -, egy anya szívét és egy anya szemét.
 Hálás könnyeden gyakran láttam, hogy érzed, mi ez.
 Legyen meg benned az anya jósága a testvéreid iránt, s a feleség hűsége és engedelmessége az apád iránt.
-Majd csak meg­vigasztalod.” - Kérdezte, hol van az apám; apa elment hazulról, hogy rejtse előlünk elviselhetetlen fájdalmát, amit érzett, mert teljesen összeroskadt.
+Majd csak meg­vigasztalod." - Kérdezte, hol van az apám; apa elment hazulról, hogy rejtse előlünk elviselhetetlen fájdalmát, amit érzett, mert teljesen összeroskadt.
 - Albert, te ott voltál a szobában.
 Anyánk hallotta, hogy valaki járkál, kérdezte, ki az, és magához hívott, és hogy nézett rád és rám, megvigasztalódott, megnyugodott tekintettel, hogy boldogok leszünk, együtt boldogok leszünk!
 Albert megölelte és megcsókolta és:
@@ -973,14 +964,14 @@ Nincs oly igazi, meleg öröm a világon, mint látni egy nagy lelket, amint meg
 1771. december 24.
 A követtel sok bosszúságom van, tudtam előre.
 A legpontosabb bolond, képzelni se lehet különbet; csak lassan, lépésben, és körülményes, mint egy néni; sosincs megelégedve magá­val, ennélfogva senki se tehet semmit a kedvére.
-Az én kezem alatt ég a munka, s ami kész, az kész; ő meg képes visszaadni valamely fogalmazványomat, és azt mondani: „Jó ugyan, de nézze át, az ember mindig talál egy-egy jobb kifejezést, egy-egy tisztább viszonyszót.” - Ilyenkor majd megesz a méreg.
+Az én kezem alatt ég a munka, s ami kész, az kész; ő meg képes visszaadni valamely fogalmazványomat, és azt mondani: "Jó ugyan, de nézze át, az ember mindig talál egy-egy jobb kifejezést, egy-egy tisztább viszonyszót." - Ilyenkor majd megesz a méreg.
 Egyetlen és, egyetlen kötőszó sem maradhat ki, s főként a fordított szórendet gyűlöli halálosan, amire pedig néha rájár a tollam; ha a körmondatokat nem a szabványos dallamban verklizem le, akkor egy kukkot sem ért meg belőlük.
 Micsoda kínszenvedés ilyen emberrel dolgozni.
 C... gróf bizalma még az egyetlen kárpótlásom.
 Legutóbb egész őszintén megmondta nekem, hogy mennyire elégedetlen a követem lassúságával és aggodalmaskodásával.
 Az ilyen emberek csak megnehezítik a maguk meg a mások életét; de, mondta, ebbe bele kell nyugod­ni, mint az utazónak, ha egy hegyen kell átkelnie; persze, ha a hegy nem volna ott, sokkal kényelmesebb és rövidebb volna az út; de hát ott van, és túl kell jutni rajta!
 Az öregem bizonyára szintén érzi, hogy a gróf engem jobban kedvel, és ez bosszantja, és megragad minden alkalmat, hogy a grófot ócsárolja előttem: én természetesen ellentmondok, és ez egyre tovább rontja a helyzetet.
-Tegnap egyenesen dühbe gurított, mert felém is szúrt a fullánkja: „Afféle nagyvilági ügyekben egész használható ember a gróf - mondta -, szaporán dolgozik, és jól forgatja a pennát, de az alaposabb tudás hiányzik belőle, mint minden belletristából.” S ehhez olyan arcot vágott, mintha azt akarná mondani: „Érzed a szúrást?” De nem érte el a kívánt hatást, én megvetem az olyan embert, aki így gondolkozik, és így viselkedik.
+Tegnap egyenesen dühbe gurított, mert felém is szúrt a fullánkja: "Afféle nagyvilági ügyekben egész használható ember a gróf - mondta -, szaporán dolgozik, és jól forgatja a pennát, de az alaposabb tudás hiányzik belőle, mint minden belletristából." S ehhez olyan arcot vágott, mintha azt akarná mondani: "Érzed a szúrást?" De nem érte el a kívánt hatást, én megvetem az olyan embert, aki így gondolkozik, és így viselkedik.
 Vitába szálltam vele, és meglehetősen hevesen replikáztam.
 Azt mondtam, a grófot jelleménél és tudásánál fogva egyaránt tisztelni kell.
 Senkit sem ismerek, mondtam, akinek sikerült volna annyira kiszélesítenie, oly rengeteg tárgyra kiterjesztenie a szellemét, és mégis megőriznie cselekvőképességét a mindennapi életben.
@@ -1116,7 +1107,7 @@ Egyszer csak belép a derék Adelin, leteszi a kalapját, rám néz, hozzám lé
 Csak ekkor kezdett furkálni az eset.
 Valahány ember az asztalhoz jött és rám nézett, mindről azt hittem, hogy azért néz rám.
 Felforrt a vérem.
-S minthogy ma már, bárhova megyek, mindenütt sajnálnak, s hallom, hogy az irigyeim tréfálnak, és azt mondják: „No ugye, hogy pórul jár, aki elbizakodik, és csöpp esze miatt azt hiszi, hogy minden szokáson túlteheti magát”, és mert folyton ugatnak a kutyák - az ember szeretne kést döfni a szívébe; mert akármennyire maga ura is az ember, szeretném látni, ki tudja elviselni, hogy fölébe került csirkefogók folyton rajta rágódjanak; ha üresen jár a beszélőkéjük, ah, akkor könnyű nem törődni velük.
+S minthogy ma már, bárhova megyek, mindenütt sajnálnak, s hallom, hogy az irigyeim tréfálnak, és azt mondják: "No ugye, hogy pórul jár, aki elbizakodik, és csöpp esze miatt azt hiszi, hogy minden szokáson túlteheti magát", és mert folyton ugatnak a kutyák - az ember szeretne kést döfni a szívébe; mert akármennyire maga ura is az ember, szeretném látni, ki tudja elviselni, hogy fölébe került csirkefogók folyton rajta rágódjanak; ha üresen jár a beszélőkéjük, ah, akkor könnyű nem törődni velük.
 Március 16.
 Minden üldöz.
 Ma találkoztam a fasorban B... kisasszonnyal; nem tudtam megállni, hogy meg ne szólítsam, és amint kissé eltávolodtunk a társaságtól, fel ne tárjam előtte neheztelésemet legutóbbi viselkedésem miatt.
@@ -1152,7 +1143,7 @@ Látni, hogy a szép iram, amellyel a fia egyenesen a titkos tanácsosság és a
 Most már gondoljatok, amit akartok, és kombináljátok a lehetséges eseteket, hogy miképpen lehetett és kellett volna maradnom; én, mondom, megyek, s hogy tudjátok, hová, hát itt van ... herceg, aki nagyon kedveli a társa­ságomat; miután hallott a szándékomról, kért, menjek vele a birtokára, és töltsem ott a szép tavaszt.
 Teljesen a magam ura leszek, ígérte, s minthogy bizonyos pontig megértjük egymást, szerencsét próbálok, és vele megyek.
 Április 19.
-ÉRTESÍTÉSÜL 
+ÉRTESÍTÉSÜL
 Köszönöm két leveledet.
 Nem feleltem, mert hevertettem ezt a lapot, míg felmentésem meg nem jön az udvartól; féltem, hogy anyám esetleg a miniszterhez fordul, és megnehezíti szándékomat.
 Most azonban megvan a döntés, itt a felmentésem.
@@ -1296,7 +1287,7 @@ Olvasd, drága szívem, és gondold meg, hogy barátodnak is ez a története.
 Igen, így jártam én, így fogok járni, s nincs bennem félannyi erő; félannyi határozottság, mint abban a szegény boldogtalanban, akihez hasonlítani is alig merem magamat.
 Szeptember 5.
 Lotte pár sort írt a férjének, vidékre, ahol az a dolgait intézte.
-Így kezdődött: „Drágám, kedvesem, jöjj, mihelyt tudsz, szívrepesve várlak.” - Egy barátjuk, aki bejött, hírül hozta, hogy Albert bizonyos körülmények miatt egyelőre még nem térhet vissza.
+Így kezdődött: "Drágám, kedvesem, jöjj, mihelyt tudsz, szívrepesve várlak." - Egy barátjuk, aki bejött, hírül hozta, hogy Albert bizonyos körülmények miatt egyelőre még nem térhet vissza.
 A cédula ott maradt, és este a kezembe került.
 Elolvastam és elmosolyodtam; Lotte megkérdezte, miért.
 - Mily isteni ajándék a képzelet - mondtam -, egy pillanatra sikerült elhitetni magammal, hogy ez a levél nekem szól.
@@ -1367,7 +1358,7 @@ Vándo­rolni a pusztán, a zúgó fergetegben, amely gőzölgő ködökben az �
 A hegy felől, mialatt bömböl az erdei folyam, hallani a barlangjukból kisíró szellemek foszlányos jajongását és nemes halállal elhullt kedvesének négy, moha födte, fűlepte sírkövénél a zokogó leány öngyilkos panaszát.
 Ha aztán ővele találkoztam, az ősz, vándor bárddal, aki a rengeteg pusztán atyáinak a nyomdokát keresi, és ah!
 a sírköveit találja, és feljajdulva az édes esti csillagra tekint, amely a hánykódó tengerbe rejtőzik, és lelkében meg­elevenednek a múlt idők, mikor még biztató fénysugár ragyogott a vitézek veszélyeire, és a hold sütött diadalmasan hazatérő, koszorús hajójukra.
-Ha olvasom homlokán a mély bánatot, ha látom az utolsó elárvult hőst, amint végképp kimerülve tántorog a sírja felé, és hogy elköltözöttjei árnyának erőtlen jelenéből hogyan szív magába mindig új és fájdalmasan izzó örömöket, és hogy a hideg földre, a magasan rengő fűre tekint és felkiált: „Eljő majd a vándor, eljő majd, aki ismert szépségem idején”, s megkérdezi majd: „Hol van a dalnok, Fingal dicső fia?” Lába tovalép a sírom fölött, és ajka hiába szólít a földön.
+Ha olvasom homlokán a mély bánatot, ha látom az utolsó elárvult hőst, amint végképp kimerülve tántorog a sírja felé, és hogy elköltözöttjei árnyának erőtlen jelenéből hogyan szív magába mindig új és fájdalmasan izzó örömöket, és hogy a hideg földre, a magasan rengő fűre tekint és felkiált: "Eljő majd a vándor, eljő majd, aki ismert szépségem idején", s megkérdezi majd: "Hol van a dalnok, Fingal dicső fia?" Lába tovalép a sírom fölött, és ajka hiába szólít a földön.
 - Ó, barátom!
 ilyenkor szeretném, mint nemes fegyverhordozó, a kardomat kirántani, fejedelmemet egyszerre meg­váltani a lassan elhaló élet rángó kínjaitól, és lelkemet utánaküldeni a megszabadított félistennek.
 Október 19.
@@ -1383,12 +1374,12 @@ Hallottam csöndes beszélgetésüket; jelentéktelen dolgokat meséltek egymás
 - Egész felpuffadt - folytatta a másik.
 És az én eleven képzeletem odavitt a szerencsétlenek ágyához; láttam, milyen kelletlenül fordítanak hátat az életnek, milyen... Wilhelm!
 és hát ezek az asszonykák úgy beszéltek minderről, ahogy arról szokás beszélni - hogy egy idegen meghal.
-- És ha szétnézek és meg­nézem a szobát, és körös-körül látom Lotte ruháit és Albert iratait, és ezeket a bútorokat, amelyekkel úgy összebarátkoztam, még ezzel a tintatartóval is, és elgondolom: „Nézd, mi vagy most ebben a házban!
+- És ha szétnézek és meg­nézem a szobát, és körös-körül látom Lotte ruháit és Albert iratait, és ezeket a bútorokat, amelyekkel úgy összebarátkoztam, még ezzel a tintatartóval is, és elgondolom: "Nézd, mi vagy most ebben a házban!
 Mindenében részesülsz.
 Barátaid tisztelnek!
 gyakran örülnek neked, és szíved úgy érzi, hogy nem élhet nélkülük; és mégis - ha most elmennél, ha távoznál ebből a körből?
 éreznék-e vajon, meddig éreznék az űrt, amelyet elvesztésed a sorsukba szakítana?
-meddig?” - Ó, olyan mulandó az ember, hogy ott is, ahová biztosan tapad az élete, ott is, ahol egyedül hathat igazán jelenlétével, kedveseinek az emlékezetében, lelkében - hogy ott is ki kell hunynia, onnan is el kell tűnnie, és oly hamar!
+meddig?" - Ó, olyan mulandó az ember, hogy ott is, ahová biztosan tapad az élete, ott is, ahol egyedül hathat igazán jelenlétével, kedveseinek az emlékezetében, lelkében - hogy ott is ki kell hunynia, onnan is el kell tűnnie, és oly hamar!
 Október 27.
 Sokszor szeretném széttépni a keblemet és bezúzni a koponyámat, amiért oly kevesek lehetünk egymásnak.
 Ah, a szerelmet, örömöt, boldogságot és gyönyörűséget, melyet nem magam viszek magammal, nem adja meg soha a másik, és ha túlcsordul is a szív az üdvösségtől, nem tudom boldogítani a másikat, ha hidegen és erőtlenül áll előttem.
@@ -1443,9 +1434,9 @@ ha engem magának akar megtartani, ahogy a szívem súgja?
 - Kérlek, ne érts félre, ne láss valahogy gúnyt ezekben az ártatlan szavakban; egész lelkemet tárom most eléd, máskülönben bár hallgattam volna: hiszen mindarra, amiről más is éppoly keveset tud, mint én, nem szeretek szót vesztegetni.
 Nem emberi sors-e, végigszenvedni a mértékünket, kiüríteni a poharunkat?
 - És ha a mennyei Isten is keserűnek érezte emberajkain a poharat, miért nagyzoljak és tegyek úgy én, mintha édesnek érezném?
-És miért szégyenkezzem abban a szörnyű pillanatban, mikor egész lényem lét és nemlét között remeg, mikor a múlt villámként lángol a jövő sötét szakadéka fölött, és köröttem minden elsüllyed, és velem együtt elpusztul a világ - nem az egészen önmagában visszaűzött, önmagát elveszített és feltartóztathatatlanul alázuhanó ember hangja-e, mikor felfelé hasztalan küszködő erőinek legmélyén azt csikorogja: „Én Istenem!
+És miért szégyenkezzem abban a szörnyű pillanatban, mikor egész lényem lét és nemlét között remeg, mikor a múlt villámként lángol a jövő sötét szakadéka fölött, és köröttem minden elsüllyed, és velem együtt elpusztul a világ - nem az egészen önmagában visszaűzött, önmagát elveszített és feltartóztathatatlanul alázuhanó ember hangja-e, mikor felfelé hasztalan küszködő erőinek legmélyén azt csikorogja: "Én Istenem!
 én Istenem!
-miért hagytál el engem?” És szégyelljem e kifejezést, restelljem ezt a pillanatot, mikor az sem kerülte el, aki úgy göngyöli az egeket, mint egy kendőt?
+miért hagytál el engem?" És szégyelljem e kifejezést, restelljem ezt a pillanatot, mikor az sem kerülte el, aki úgy göngyöli az egeket, mint egy kendőt?
 November 21.
 Nem látja, nem érzi, hogy mérget készít, amely elpusztít mindkettőnket, és én maradéktalan gyönyörrel szürcsölöm fenékig a poharat, amelyet romlásomra felém nyújt.
 Mit ér a jóságos tekintet, amellyel gyakran - gyakran?
@@ -1458,8 +1449,8 @@ Százszor elismételtem magamban, és tegnap éjszaka, lefekvés előtt, mikor m
 - Jó éjszakát, drága Werther!
 És aztán nevetnem kellett magamon.
 November 22.
-Nem imádkozhatom, hogy: „Hagyd meg nekem őt!”, és mégis, gyakran úgy érzem, hogy az enyém.
-Nem imádkozhatom, hogy: „Add nekem őt!”, hiszen már másé.
+Nem imádkozhatom, hogy: "Hagyd meg nekem őt!", és mégis, gyakran úgy érzem, hogy az enyém.
+Nem imádkozhatom, hogy: "Add nekem őt!", hiszen már másé.
 Gúnyolódom a fájdalma­mon, ha nem tenném, ellentétek egész litániája támadna.
 November 24.
 Érzi, mit tűrök, szenvedek.
@@ -1472,10 +1463,10 @@ miért nem válaszolhattam ezer csókkal borulva a nyakába?
 Zongorájához menekült, és édes, halk hangon kísérte a dalt, amit játszott.
 Sohasem láttam ily gyönyörűnek az ajkait; mintha sóváran nyíltak volna ki, hogy szürcsöljék a hangszerből buggyanó édes hangokat, és mintha csak a titkos visszhang zengene vissza tiszta szájából.
 - Persze ha ezt úgy el tudnám mondani neked!
-- Nem bírtam tovább ellenállni, lehajoltam és megesküdtem: - „Sohasem fogom megkísérelni, hogy csókot nyomjak reátok, ajkak, melyeken az ég szellemei lebegnek.” - És mégis - akarom... Ó!
+- Nem bírtam tovább ellenállni, lehajoltam és megesküdtem: - "Sohasem fogom megkísérelni, hogy csókot nyomjak reátok, ajkak, melyeken az ég szellemei lebegnek." - És mégis - akarom... Ó!
 látod, mint választófal áll a lelkem előtt... ez az üdvösség... és aztán elpusztulni, levezekelni ezt a bűnt - bűnt?
 November 26.
-Néha azt mondom magamnak: „Nincs még egy ilyen sors; magasztald a többieket boldognak - így még nem gyötrődött senki.” Aztán egy régi költőt olvasok, és úgy érzem, mintha a saját szívembe látnék.
+Néha azt mondom magamnak: "Nincs még egy ilyen sors; magasztald a többieket boldognak - így még nem gyötrődött senki." Aztán egy régi költőt olvasok, és úgy érzem, mintha a saját szívembe látnék.
 Oly sokat kiálltam!
 Ah, hát voltak előttem mások is ilyen nyomorultak?
 November 30.
@@ -1495,7 +1486,7 @@ Minthogy a ruhája alacsony sorsú emberre vallott, úgy véltem, nem veszi ross
 - Az én kertemben van rózsa meg lonc, kétfajta, az egyiket az apámtól kaptam, úgy nő, mint a gyom; már másodnapja keresem, és nem tudok rájuk akadni.
 Otthon is mindig van virág, sárga, kék meg piros, és az ezerjófűnek olyan szép a virága.
 Egyiket se találom.
-Valami ijesztő titkot éreztem, és ezért kerülő úton kérdeztem: 
+Valami ijesztő titkot éreztem, és ezért kerülő úton kérdeztem:
 - De hát mit akar a virágokkal?
 Furcsa, rángó mosoly húzta el az arcát.
 - Ha nem árul el - mondta, ajkára téve az ujját -, csokrot ígértem a kedvesemnek.
@@ -1664,11 +1655,11 @@ Az öreg ezt is elutasította.
 Albert, aki a végén maga is beleszólt a vitába, az öreg mellé állt: Werthert leszavazták, és ő szörnyű gyötrelmek közepette távozott, miután a tiszttartó többször megmondta:
 - Nem, nem, az az ember menthetetlen!
 Hogy milyen erősen hatottak rá e szavak, láthatjuk egy kis feljegyzésből, mely az iratai között volt, és amelyet bizonyára azon a napon írt.
-„Menthetetlen vagy, te szerencsétlen!
-Jól látom, menthetetlenek vagyunk.”
+"Menthetetlen vagy, te szerencsétlen!
+Jól látom, menthetetlenek vagyunk."
 Amit Albert legutóbb a fogolyról mondott, azt Werther rendkívül ellenszenvesnek találta: úgy vélte, hogy némi ingerültség volt benne őellene is, és noha többször átgondolva a dolgot, be kellett látnia, hogy a két férfinak igaza lehet, mégis úgy érezte, hogy saját legbensőbb természetét kéne megtagadnia, ha bevallaná, ha elismerné az igazukat.
 Papírjai közt találtunk egy lapot, amely erre vonatkozik, és talán Alberthez való egész viszonyát feltárja.
-„Hiába mondom el újra meg újra magamnak, hogy ő derék, jó ember, ha a dolog a szívemet tépi; nem tudok igazságos lenni.”
+"Hiába mondom el újra meg újra magamnak, hogy ő derék, jó ember, ha a dolog a szívemet tépi; nem tudok igazságos lenni."
 Minthogy enyhe este volt, és az idő olvadásra kezdett hajolni, Lotte gyalog ment haza Alberttel.
 Útközben itt-ott körülnézett, mintha nélkülözné Werther kíséretét.
 Albert róla kezdett beszélni, és kifogást emelt, de igazságosan.
@@ -1681,7 +1672,7 @@ Mind ami kellemetlenség a közélet terén valaha érte, a követségen szenved
 Úgy találta, hogy mindez valahogyan jogot ad neki a semmittevésre, úgy találta, hogy megfosztották minden kilátástól, hogy képtelen bármibe fogni, ami a mindennapi élet tennivalója, és így bánatos, örök-egyforma érintkezésben a kedves és szeretett teremtéssel, akinek nyugalmát zavarta, magát teljesen átadva különös érzelmeinek, gondolkozásmódjának és végtelen szenvedélyének, céltalanul és reménytelenül sorvasztva viharzó erőit, egyre közelebb került a szomorú véghez.
 Ziláltságának, szenvedélyének, szüntelen háborgásának, életunalmának legerősebb bizonyí­téka az a néhány levél, amit most ideiktatunk.
 December 2.
-„Drága Wilhelm, olyan állapotban vagyok, amilyenben azok a szerencsétlenek lehetnek, akikről azt hitték, hogy gonosz szellem hajszolja őket.
+"Drága Wilhelm, olyan állapotban vagyok, amilyenben azok a szerencsétlenek lehetnek, akikről azt hitték, hogy gonosz szellem hajszolja őket.
 Néha belém markol valami; nem félelem, nem vágyakozás - valami belső tombolás, amely széttépéssel fenyegeti szívemet, marok­ra fogja torkomat!
 Jaj, jaj!
 És ilyenkor csavarognom kell ennek az embergyűlölő évszaknak szörnyű éjszakai jelenései közt.
@@ -1702,14 +1693,14 @@ hogy tovazúdulok én is, mint a hullámok!
 És mily fájdalmasan tekintettem alá a tisztásra, ahol egy forró séta után egy fűzfa alatt Lottéval megpihentem - azt is elöntötte az ár, a fa is alig látszott ki!
 Wilhelm!
 És Lotte rétjei, gondoltam, a vadászlak környéke!
-»Hogy összerombolta lugasunkat a sodró zuhatag!« - gondoltam.
+"Hogy összerombolta lugasunkat a sodró zuhatag!" - gondoltam.
 És felragyogott bennem a múlt napsugara, mint egy rab agyában a nyájak, mezők és díszes méltóságok álma!
 Ott álltam!
 - Nem gyalázom magamat, mert van bátorságom meghalni!...
 Csak az kellett volna, hogy...
-Most itt ülök, mint egy vén anyóka, aki sövényekről szedegeti össze a rőzséjét és küszöbökön a kenyerét, hogy elhaló, örömtelen életét meghosszabbítsa és megkönnyítse egy pillanattal.”
+Most itt ülök, mint egy vén anyóka, aki sövényekről szedegeti össze a rőzséjét és küszöbökön a kenyerét, hogy elhaló, örömtelen életét meghosszabbítsa és megkönnyítse egy pillanattal."
 December 14.
-„Mi az, barátom?
+"Mi az, barátom?
 Megrémülök magamtól!
 Nem a legszentebb, legtisztább, legtestvéribb szerelem az, amit Lotte iránt érzek?
 Támadt valami bűnös kívánság a szívemben?
@@ -1725,20 +1716,20 @@ Lotte!
 agyam megzavarodik, már egy hete nem vagyok magamnál, szemem csupa könny.
 Sehol se érzem jól magamat, és mindenütt jól érzem magamat.
 Nem vágyom semmire, nem kell semmi.
-Jobb volna, ha mennék.”
+Jobb volna, ha mennék."
 Az elhatározás, hogy itt hagyja a világot, ebben az időben, ilyen körülmények közt erősödött meg egyre jobban Werther lelkében.
 Mióta visszatért Lottéhoz, mindig ez volt a végső célja és reménye; de azt mondogatta magának, hogy ne cselekedjék gyorsan, elhamarkodva, és hogy a legjobb meggyőződésből, a lehető legnyugodtabb elhatározásból tegye meg ezt a lépést.
 Kétségei, magános küszködései pillantanak ránk abból a lapból, amely valószínűleg egy megkezdett levél Wilhelmhez, és keltezés nélkül hevert a papírjai között.
-„Lotte jelenléte, sorsa, sorsom iránti részvéte az utolsó könnyeket sajtolja ki fölperzselt agyamból.
+"Lotte jelenléte, sorsa, sorsom iránti részvéte az utolsó könnyeket sajtolja ki fölperzselt agyamból.
 A függönyt felemelni és mögéje lépni!
 Ennyi az egész!
 És miért ez a késlekedés, tétovázás?
 Mert nem tudjuk, milyen világ van mögötte?
 és mert nem térünk vissza?
-És mert szellemünk sajátsága, hogy zűrzavarnak és sötétségnek sejtjük azt, amiről semmi bizonyosat nem tudunk.”
+És mert szellemünk sajátsága, hogy zűrzavarnak és sötétségnek sejtjük azt, amiről semmi bizonyosat nem tudunk."
 A végén egyre jobban megbékélt és megbarátkozott a szomorú gondolattal, és elhatározása szilárd lett és visszavonhatatlan, bizonyság erre a következő kétértelmű levél, melyet barátjának írt.
 December 20.
-„Köszönöm szeretetednek, Wilhelm, hogy úgy fogtad fel azt a szót.
+"Köszönöm szeretetednek, Wilhelm, hogy úgy fogtad fel azt a szót.
 Igen, igazad van: jobb volna, ha mennék.
 Ajánlatod, hogy térjek vissza hozzátok, nem tetszik egészen; szeretnék legalább még egy kerülőt csinálni, főként mivel tartós fagyot és jó utakat remélhetünk.
 Nekem is nagyon kedves, hogy értem akarsz jönni; csak két hetet adj még és várd meg egy újabb levelemet a továbbiakról.
@@ -1748,7 +1739,7 @@ Anyámnak mondd meg, hogy imádkozzék a fiáért, és hogy kérem, bocsássa me
 Hiába, az lett a sorsom, hogy szomorítsam azokat, akiknek örömére kéne lennem.
 Isten veled, drága - drága barátom!
 Az ég minden áldása rád!
-Isten veled!”
+Isten veled!"
 Hogy mi zajlott le ezalatt Lotte lelkében, miket érzett a férje iránt, boldogtalan barátja iránt, azt alig merjük szavakkal kifejezni, noha, ismervén a jellemét, meglehetősen tisztában lehetünk felőle, és egy szép női lélek beleképzelheti magát az övébe, és vele érezhet.
 Annyi bizonyos, szilárdan elhatározta, hogy mindent megtesz Werther eltávolítására, és ha tétovázott, az csak igaz baráti kímélet volt, mert tudta, milyen sokat jelent, sőt, hogy szinte lehetetlen Werther számára az elválás.
 De ebben az időben a helyzet egyre jobban sürgette részéről a komoly elintézést; férje sohasem beszélt erről a kapcsolatról, ahogyan ő is hallgatott róla, de azért annál jobban igyekezett tettel bebizonyítani, hogy felfogása mennyire méltó az Albertéhez.
@@ -1809,7 +1800,7 @@ Menni akart, nem bírt, és minthogy rosszkedve és levertsége egyre nőtt, est
 Albert marasztalta, ő azonban üres udvariasságnak tekintette a meghívást, hidegen megköszönte és eltávozott.
 Hazament, inasának a kezéből, aki világítani akart neki, kivette a gyertyát, és egyedül ment a szobájába, hangosan sírt, ingerülten beszélt magában, hevesen járkált fel s alá, s végül ruhástul az ágyra dobta magát, ott találta a szolga, mikor tizenegy felé bemerészkedett, hogy megkérdezze, ne húzza-e le az ura csizmáját - Werther hagyta, de megtiltotta neki, hogy másnap bemenjen hozzá, míg nem hívja.
 Hétfőn reggel, december 21-én, megírta Lotténak az alábbi levelet, melyet halála után lepecsételve találtak az íróasztalán, és átadtak a címzettnek; részletekben iktatom ide, úgy, ahogyan, mint a körülményekből kiderül, Werther írta.
-„Elvégeztem, Lotte, meg fogok halni, és ezt minden regényes túlzás nélkül, nyugodtan írom neked, annak a napnak a reggelén, amelyen utoljára foglak látni.
+"Elvégeztem, Lotte, meg fogok halni, és ezt minden regényes túlzás nélkül, nyugodtan írom neked, annak a napnak a reggelén, amelyen utoljára foglak látni.
 Mikor ezt olvasod, drágám, már a hideg sír borítja annak a nyugtalan, szerencsétlen embernek kihűlt tetemét, aki élete utolsó pillanatai számára nem tud nagyobb üdvösséget, mint azt, hogy veled beszélgessen.
 Rettenetes éjszakám volt, és ó!
 jótevő éjszakám!
@@ -1828,7 +1819,7 @@ ebben a szétdúlt szívben sokszor és dühöngve ólálkodott a titkos gondola
 - magamat!
 - Legyen hát!
 - Ha egy szép nyári estén felmégy a hegyre, gondolj majd rám, hányszor mentem föl völgy mentén, és aztán nézz át a temető felé a síromra, hogy a lebukó nap fényében hogyan lengeti rajta ide-oda a füvet a szél.
-- Nyugodt voltam, amikor írni kezdtem, most pedig, most sírok, mint egy gyerek, mert minden úgy megelevenedik körülöttem.”
+- Nyugodt voltam, amikor írni kezdtem, most pedig, most sírok, mint egy gyerek, mert minden úgy megelevenedik körülöttem."
 Tíz óra tájban Werther az inasát hívta, és öltözködés közben azt mondta neki, hogy pár nap múlva elutazik, tisztítsa hát ki a ruháit, és készítsen elő mindent a becsomagolásra; azt is meghagyta, hogy kérje be mindenütt a számláit, hozzon vissza néhány kölcsönadott könyvet, és néhány szegénynek, akinek hetenként adni szokott valamit, fizesse ki két hónapra előre a járandóságát.
 Ebédjét a szobájába vitette, és amikor végzett, kilovagolt a tiszttartóhoz.
 Nem találta otthon.
@@ -1844,13 +1835,13 @@ Ez nagyon megrázta, mindegyiküknek ajándékozott valamit, üdvözletét küld
 Öt óra felé érkezett haza, megparancsolta a szolgálónak, hogy fűtsön be, és késő éjszakáig rakjon a tűzre.
 Inasával a könyveket meg a fehérneműt berakatta alul a kofferébe, a ruhákat pedig bevarratta.
 Valószínűleg ezután írta Lottéhoz szóló utolsó levele itt következő részét:
-„Nem várod, hogy meglátogatlak!
+"Nem várod, hogy meglátogatlak!
 azt hiszed, engedelmeskedem, és csak karácsony este látlak viszont.
 Ó, Lotte!
 ma vagy soha többé.
 Karácsony estén kezedben tartod ezt a papírt, reszketsz, és drága könnyeiddel öntözöd.
 Meg fogok, meg kell...!
-Ó, be jó érzés, hogy elszántam magamat.”
+Ó, be jó érzés, hogy elszántam magamat."
 Lotte ezalatt különös lelkiállapotba került.
 A Wertherrel folytatott utolsó beszélgetés után érezte, mily nehezére esik tőle megválnia, és hogy mennyit fog szenvedni Werther, ha távoznia kell.
 Úgy mellékesen, Albert jelenlétében említés történt, hogy Werther karácsony este előtt nem jelentkezik, s Albert átlovagolt a szomszédságba egy hivatalnokhoz, akivel dolga volt, és akinél éjszakára is meg kellett szállnia.
@@ -1882,7 +1873,7 @@ Nem volt semmi.
 - A fiókomban - folytatta Lotte - ott van Osszián néhány éneke, a maga fordításában; nem olvastam el, mert mindig reméltem, hogy magától fogom hallani; de azóta sehogy se jutottunk hozzá.
 Werther mosolygott, előszedte a verseket, összeborzongott, amikor a kezébe vette, és könnybe lábadt a szeme, amikor beléjük nézett.
 Leült és olvasni kezdett.
-„Derengő éj csillaga, szépen szikrázol a nyugati égen, kiemeled felhődből tündöklő fejedet, büszkén haladsz a dombod felé.
+"Derengő éj csillaga, szépen szikrázol a nyugati égen, kiemeled felhődből tündöklő fejedet, büszkén haladsz a dombod felé.
 Mit kutatsz a pusztaságon?
 A viharzó szelek elültek; messziről idemorajlik a hegyi patak; zúgó hullámok játszanak a sziklán; esti bogarak zsongása rajzik a mezők felett.
 Mit keresel, szép csillag?
@@ -2074,7 +2065,7 @@ Daura hangja elgyengült, mielőtt megjött a hajnal, elhalt, mint az esti szél
 A keserűség ölte meg, itt hagyta Armint egyedül!
 Odavan erőm a hadban, oda büszkeségem a leányok között.
 Ha jönnek a hegyi viharok, ha az északi szél a hullámokat torlasztja, a visszhangzó parton ülök, nézem a szörnyű szirtet.
-A hanyatló holdfényben gyakran látom gyermekeim szellemét, mint derengő árnyak együtt testvéri szomorúságban.”
+A hanyatló holdfényben gyakran látom gyermekeim szellemét, mint derengő árnyak együtt testvéri szomorúságban."
 Lotte szeméből könnyek árja szakadt elő, és megkönnyítette a szívét, félbeszakította Werther énekét.
 Werther eldobta az írást, megragadta Lotte kezét, és keservesen zokogott.
 Lotte a másik kezére dőlt, és szemét kendőjébe rejtette.
@@ -2083,10 +2074,10 @@ Saját nyomorúságukat érezték a nemes hősök sorsában, együtt érezték, 
 Werther szeme és ajka Lotte karján izzott; Lotte megborzongott; távozni akart, és a fájdalom és a részvét ólmos kábulatként nehezedett rá.
 Mély lélegzetet vett, hogy magához térjen, és zokogva kérte Werthert, hogy folytassa, mennyei hangon kérte!
 Werther remegett, szíve csaknem meghasadt, fölemelte a papírlapot, és félig összetörve olvasta:
-„Miért ébresztesz, tavaszi szellő?
+"Miért ébresztesz, tavaszi szellő?
 Hízelegsz és szólsz: A mennyország könnyeit harmatozom rád!
 De már közel hervadásom ideje, közel a vihar, mely lekergeti leveleimet!
-Holnap majd jön, jön holnap a vándor, aki látott szépségemben, szeme mindenütt keres majd a mezőn, és nyomomat se találja.”
+Holnap majd jön, jön holnap a vándor, aki látott szépségemben, szeme mindenütt keres majd a mezőn, és nyomomat se találja."
 E szavak minden hatalma rászakadt a boldogtalanra.
 Teljes kétségbeesésében térdre dobta magát Lotte előtt, megragadta, szeméhez, homlokához szorította a kezét, és Lotténak úgy rémlett, mintha Werther szörnyű szándékának sejtelme röpült volna át a lelkén.
 Megszorította Werther kezét, odaszorította szívéhez, fájdalmas izgalomban hozzáhajolt, és izzó arcuk össze­ért.
@@ -2126,7 +2117,7 @@ A kalapot ké­sőbb megtalálták egy szirten, amely a hegyoldalról a völgy f
 Lefeküdt és sokáig aludt.
 Inasa másnap, amikor hívására bevitte a kávéját, írás közben találta.
 A következőket írta Lotte leveléhez:
-„Utoljára, tehát utoljára nyitottam föl a szememet.
+"Utoljára, tehát utoljára nyitottam föl a szememet.
 Ez a szem nem látja, jaj, nem látja többé a napfényt, zavaros, ködös derengés födi el.
 Gyászolj hát, természet!
 végéhez közeledik a fiad, barátod, szerelmesed.
@@ -2193,12 +2184,12 @@ Megmaradunk!
 viszont­látjuk egymást!
 Látni fogjuk anyádat!
 látni fogom őt, meg fogom találni, ah, és egész szívemet föltárom előtte!
-Anyád, képmásod előtt!”
+Anyád, képmásod előtt!"
 Tizenegy óra tájban Werther megkérdezte az inasát, hogy visszajött-e már Albert.
 Az inas azt felelte, hogy vissza, látta, amint a lovát elvezették.
 Erre gazdája a következő nyitott levélkét adja neki:
-„Volna olyan szíves egy tervezett utamra kölcsönadni a pisztolyait?
-Minden jót!”
+"Volna olyan szíves egy tervezett utamra kölcsönadni a pisztolyait?
+Minden jót!"
 Az édes nő keveset aludt az utolsó éjszakán; amitől félt, eldőlt; eldőlt úgy, ahogy se nem sejthette, se nem félhetett tőle.
 Egyébként oly tiszta és könnyű folyású vére lázasan háborgott, szép szívét ezerféle érzés dúlta.
 Werther ölelésének a tüzét érezte benne?
@@ -2244,7 +2235,7 @@ Aztán megint úgy érezte, hogy semmit sem érne a vallomással, legkisebb rem�
 Megterítették az asztalt, és egy jó barátnő, aki csak valamit kérdezni jött, rögtön menni akart - és ott ragadt, elviselhetővé tette az asztali társalgást; mindenki erőt vett magán, beszélt, mesélt, felejtkezett.
 Az inas bevitte, és Werther, mikor meghallotta, hogy Lotte adta át, ujjongva fogadta a pisztolyokat.
 Kenyeret és bort hozatott, a fiút ebédelni küldte, és ő maga íráshoz ült.
-„A te kezeden mentek hát keresztül, te tisztítottad le róluk a port, ezerszer megcsókolom őket, hiszen hozzájuk értél: és te, égi szellem, pártolod elhatározásomat!
+"A te kezeden mentek hát keresztül, te tisztítottad le róluk a port, ezerszer megcsókolom őket, hiszen hozzájuk értél: és te, égi szellem, pártolod elhatározásomat!
 és te, Lotte, te magad nyújtod nekem az eszközt, te, akinek kezéből kívántam és aki most kapom a halált.
 Ó, kikérdeztem a legényemet.
 Reszkettél, mikor odaadtad, nem mondtál istenhozzádot!
@@ -2253,18 +2244,18 @@ jaj!
 nem mondtál istenhozzádot!
 - Elzártad talán tőlem a szívedet, amiatt a pillanat miatt, amely örökre hozzád láncolt?
 Lotte, egy évezred sem tudja kioltani annak a nyomát!
-s érzem, nem gyűlölheted azt, aki így lángol érted.”
+s érzem, nem gyűlölheted azt, aki így lángol érted."
 Ebéd után az inassal mindent teljesen becsomagoltatott, sok írást összetépett, elment hazulról, és rendezte még apró adósságait.
 Hazatért, megint elment, ki a városkapu elé, nem törődve az esővel, a grófi kertbe; majd a környéken kóborolt, és mire beállt az éj, ismét otthon volt és írt.
-„Wilhelm, utoljára láttam erdőt, mezőt és eget.
+"Wilhelm, utoljára láttam erdőt, mezőt és eget.
 Isten áldjon téged is!
 Drága anyám, bocsás­satok meg!
 Vigasztald őt, Wilhelm!
 Isten áldása rajtatok!
 Minden dolgom rendben.
 Isten veletek!
-viszontlátjuk egymást, és vidámabban.”
-„Albert, rútul fizettem neked, de te megbocsátasz.
+viszontlátjuk egymást, és vidámabban."
+"Albert, rútul fizettem neked, de te megbocsátasz.
 Megzavartam házad békéjét, bizalmat­lanságot keltettem köztetek.
 Isten veled!
 Most véget vetek neki.
@@ -2272,11 +2263,11 @@ Most véget vetek neki.
 Albert!
 Albert!
 tedd boldoggá az angyalt!
-És úgy legyen rajtad az Isten áldása!”
+És úgy legyen rajtad az Isten áldása!"
 Este még sokat tett-vett az írásai közt, sok mindent összetépett, és a kályhába dobott, néhány csomagot lepecsételt Wilhelm címére.
 Kisebb dolgozatok, gondolatszilánkok voltak bennük, többet alkalmam volt látni közülük; és miután tíz órakor begyújtatott, és egy palack bort hozatott, a szolgát, akinek hálókamrája, éppúgy, mint a többi házinépé, messzi hátul volt, aludni küldte; az inas aztán ruhástul feküdt le, hogy reggel korán kéznél legyen, mert ura azt mondta, hogy a postalovak már hat előtt előállnak.
 Tizenegy után.
-„Minden oly csöndes köröttem, és a lelkem oly nyugodt.
+"Minden oly csöndes köröttem, és a lelkem oly nyugodt.
 Köszönet neked, Isten, aki e végső perceimnek ezt a melegséget, ezt az erőt adod.
 Az ablakhoz lépek, drágám!
 és látom, a viharzó, tovaszárnyaló felhőkön át is látom az örök égbolt néhány csillagát!
@@ -2330,7 +2321,7 @@ Meg vannak töltve.
 Legyen tehát!
 - Lotte!
 Lotte, Isten veled!
-Isten veled!”
+Isten veled!"
 Egy szomszéd látta a lőpor villanását, és hallotta a dörrenést; de minthogy utána minden csendes maradt, nem ügyelt rá tovább.
 Reggel hatkor belép a gyertyával az inas.
 Urát a földön találja, a pisztolyokat, a vért.
@@ -2359,4 +2350,3 @@ Az öreg és fiai kimentek a koporsóval, Albertnek nem volt rá ereje.
 Lotténak az életét féltették.
 Kézművesek vitték a halottat.
 Pap nem kísérte.
--oOo-

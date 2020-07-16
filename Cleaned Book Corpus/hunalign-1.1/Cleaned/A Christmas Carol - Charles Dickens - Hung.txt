@@ -1,15 +1,5 @@
-﻿
-Charles Dickens
+﻿Charles Dickens
 Karácsonyi ének
-Fordította: H. László Éva
-
-TARTALOM
-Marley, a kísértet
-Az első számu kísértet
-A második számu kísértet
-A harmadik számu, egyben utolsó kísértet
-A mese vége
-
 Marley, a kísértet
 Hogy az elején kezdjem, Marley halott volt.
 Ehhez nem fér semmi kétség.
@@ -25,7 +15,7 @@ Vajon tudott-e Scrooge a halálesetről?
 Már hogy az ördögbe ne tudott volna róla!
 Hiszen üzlettársak voltak, ki tudja, hány esztendeje már.
 Azonkívül Scrooge volt Marley egyetlen hagyatéki végrehajtója, egyetlen főörököse, egyetlen barátja és egyetlen hátramaradottja.
-Ám a gyászeset korántsem sújtotta le annyira Scrooge-ot, hogy mint kitűnő üzletember, egy remek „kötés”-sel ne ünnepelte volna meg Marley temetésének napját.
+Ám a gyászeset korántsem sújtotta le annyira Scrooge-ot, hogy mint kitűnő üzletember, egy remek "kötés"-sel ne ünnepelte volna meg Marley temetésének napját.
 Marley temetéséről beszélve, megint csak vissza kell térnem oda, ahonnan kiindultam.
 Tehát ismétlem, semmi kétség nem férhet hozzá, hogy Marley halott volt.
 Ezt feltétlenül tudomásul kell vennünk, mert egyébként az itt következő történetben semmi csodálatosat nem találnánk.
@@ -54,7 +44,7 @@ Nem látogatna meg egyszer?
 - Még a koldusok is messze elkerülték és nem akadt gyermek, aki megkockáztatta volna, hogy: - Bácsi, kérem, hány óra van?
 - kérdéssel útját állja.
 Soha életében nem történt Scrooge-al, hogy férfi vagy asszony megkérdezte volna, merre van ez, vagy az az utca vagy tér.
-Még a vak koldus kutyája is dühösen mordult rá, ha megpillantotta, mintha csak azt mondta volna: „Világtalan gazdám, az örök sötétségnél is rosszabb ez a sötét tekintet!”
+Még a vak koldus kutyája is dühösen mordult rá, ha megpillantotta, mintha csak azt mondta volna: "Világtalan gazdám, az örök sötétségnél is rosszabb ez a sötét tekintet!"
 Ám Scrooge-nak jó volt ez így!
 Nem is akart mást, mint észrevétlenül, minden emberi érzés és kapcsolat nélkül lopakodni át az életen.
 Egyszer egy este - éppen szent karácsonyeste volt - az öreg Scrooge javában dolgozott az iro­dájában.
@@ -151,7 +141,7 @@ Nyájas mosollyal húzta be maga mögött az ajtót, nem mulasztván el az elős
 - Még egy fajankó - dohogta Scrooge.
 - Ez a segéd, ez a szerencsétlen flótás, heti tizenöt shillingjével szintén boldogságról és szerencséről beszél.
 Meg kell ebbe őrülni!
-Ezalatt a „szerencsétlen flótás” az ajtóig kísérte a főnök unokaöccsét és két újabb látogatót tessékelt befelé.
+Ezalatt a "szerencsétlen flótás" az ajtóig kísérte a főnök unokaöccsét és két újabb látogatót tessékelt befelé.
 Jólöltözött, biztos fellépésű úriemberek voltak és már ott is álltak levett kalappal Scrooge dolgozószobájában.
 Az egyik könyvet, a másik tekintélyes iratcsomót tartott kezében.
 Mindketten mélyen meghajoltak.
@@ -161,7 +151,7 @@ Mindketten mélyen meghajoltak.
 Oly csendes, hogy csendesebb már nem is lehetett volna.
 Éppen ma este hét éve, hogy meghalt.
 - A megboldogult közismert jótékonysága és nemes áldozatkészsége bizonyára Önre szállott örökül - mondta a látogató ünnepélyesen és még mélyebben meghajolva, gyűjtőívet nyújtott át Scrooge-nak.
-A baljóslatú „jótékonyság” szóra Scrooge megvető mozdulattal tolta el maga elől az ívet.
+A baljóslatú "jótékonyság" szóra Scrooge megvető mozdulattal tolta el maga elől az ívet.
 De a vendég nem zavartatta magát.
 - Ma, a szeretet ünnepén ki kell nyújtanunk kezünket azok felé, akik adományainkra rászorultak - mondta kenetteljes hangon és már fel is vett az asztalról egy tollat s Scrooge felé nyújtva, folytatta:
 - Sok ezren éheznek és fáznak.
@@ -214,7 +204,7 @@ Néhány házzal odébb, a kis szabó­legény, akit csak a mult héten büntett
 Már olyan hideg volt, hogy, ha Belzebub - ha csak egy percre is - kidugta volna az orrát a jólfűtött pokolból, az menten lefagyott volna és a kárvallott ördög a fájdalomtól üvöltve húzódott volna vissza tüzes katlanai mellé.
 A kis betlehemes fiúcskának vékonyka orrát is úgy megmarta a hideg, mint kutya a csontot.
 A legényke megállt Scrooge ajtaja előtt, a kulcslyukra hajolt és nagymerészen rázendített:
-- „Mennyből az angyal, lejött hozzátok...”
+- "Mennyből az angyal, lejött hozzátok..."
 Ám Scrooge az ének hallatára felkapta az asztalról vonalzóját és úgy az ajtóhoz vágta, hogy a kisfiú ijedten futott el onnan.
 Dala helyén csak a hideg szél fütyült a kulcslyukon át.
 Végre eljött az üzletzárás órája.
@@ -501,9 +491,9 @@ Járókelőket nem látott; ezek szerint éjszaka volt, mert délben okvetlen le
 Kissé megkönnyebült.
 És elhessegette magától azt a riasztó gondolatot, ami néhány perce motosz­kált már álomittas fejében.
 Hogy is szólt a szöveg?
-„Fizessen Ön ezen első váltónál fogva Scrooge Ebenezár úrnak vagy rendeletére három nappal a bemutatás után, stb., stb.” De ha nem volna többé nappal?
+"Fizessen Ön ezen első váltónál fogva Scrooge Ebenezár úrnak vagy rendeletére három nappal a bemutatás után, stb., stb." De ha nem volna többé nappal?
 Mi lenne akkor?
-Mit jelenthet akkor a kifejezés, hogy „három nappal”?
+Mit jelenthet akkor a kifejezés, hogy "három nappal"?
 Ki fogja tudni kiszámítani?
 A legszörnyűbb jogbizonytalanság állhatna elő!
 Visszabújt az ágyba és újból meg újból átgondolta zavaros emlékeit, de nem lett semmivel sem okosabb.
@@ -610,7 +600,7 @@ Mitől dobogott öreg szíve egyszerre fiatalos hévvel?
 Miért érezte magát végtelen boldognak a gyermekek vidám kurjongatásának hallatára?
 Miért érzett mély megindultságot, amikor a fiúk szétszéledtek és boldog karácsony­ünnepet kívántak egymásnak?
 Miért?
-Mi volt Scrooge számára a „boldog karácsony?” Az ördögbe a karácsonnyal!
+Mi volt Scrooge számára a "boldog karácsony?" Az ördögbe a karácsonnyal!
 Volt ő valaha boldog karácsonykor?
 - Látod ott az iskolát?
 - kérdezte a szellem, - még nem zárták be.
@@ -655,7 +645,7 @@ A papagály!
 A taraja olyan csipkés, mint egy salátalevél.
 Tudod, melyik papagály ez?
 Az, amelyik Robinson Crusoe-ra rákiáltott, amikor körülvitorlázta a szigetet és ismét hazatért.
-Azt mondta neki: „Hol voltál Robinson?” Szegény Robinson azt hitte, álmodik; de nem álmodott, mi tudjuk, úgy-e?
+Azt mondta neki: "Hol voltál Robinson?" Szegény Robinson azt hitte, álmodik; de nem álmodott, mi tudjuk, úgy-e?
 A papagály kiáltott.
 És nézd ott van Péntek!
 Hogy fut lélekszakadva a kis öböl felé, hogy megmentse életét.
@@ -672,7 +662,7 @@ Egy szegény betlehemes kisfiú énekelt tegnap este az ajtóm előtt.
 Bárcsak adtam volna neki valamit.
 - A szellem elgondolkozottan mosolygott, majd intett:
 - Na, nézzünk egy másik karácsonyt.
-Szavaira, mint egy varázsigére, a „kisfiú-Scrooge” valamicskét megnőtt, a szoba sötétebb lett és még sokkal elhanyagoltabb.
+Szavaira, mint egy varázsigére, a "kisfiú-Scrooge" valamicskét megnőtt, a szoba sötétebb lett és még sokkal elhanyagoltabb.
 A padozat fája megrepedezett, az ablaküvegek megpattantak, a tetőről a vakolat nagy darabokban hullott alá és csupasz gerendák álltak ki helyén.
 Hogy mindez miért és hogyan ment végbe, azt Scrooge nem tudta volna megmondani, annyit azonban biztosan tudott, hogy színhely tökéletesen élethű volt.
 Az elárvult iskolában ismét csak önmagát látta, most már mint nagyobbacska fiút.
@@ -776,8 +766,8 @@ Tény az, hogy mikor csapzottan, csurom-borosan ismét felmerült, olyan tüzese
 Aztán ismét tánc rogyásig, zálogosdi, hölgyválasz, majd megint tánc, majd sütemény, szere­csen­fánk, hidegsült, főtt sonka vegyes salátával és sör annyi, amennyi csak belefért a sok szomjas torokba.
 Az est fénypontja a frissítők felszolgálása után következett, amikor a zenész (Istenemre, ez a fickó érti a mesterségét!
 Jobban, mint én az enyémet, vagy ti a tiéteket!)
-rázendített a „Sir Roger de Coverley”-re.
-Most az öreg Fezziwig állt az élre Fezziwigné asszonysággal; nem lebecsülendő teljesítmény huszonhárom vagy huszonnégy pár táncossal „Sir Roger”-t vezetni.
+rázendített a "Sir Roger de Coverley"-re.
+Most az öreg Fezziwig állt az élre Fezziwigné asszonysággal; nem lebecsülendő teljesítmény huszonhárom vagy huszonnégy pár táncossal "Sir Roger"-t vezetni.
 És micsoda elszánt emberekkel, akik táncolni akartak valamennyien és hallani sem akartak arról, hogy hazamenjenek.
 De Fezziwig apó győzte és ha kétszer vagy négyszer annyian lettek volna, akkor is állta volna a sarat.
 És Fezziwigné sem maradt mögötte - egy lépéssel sem.
@@ -1147,7 +1137,7 @@ Szegény kicsi Tibi egyik lába születésétől béna volt, sínben kellett tar
 - Még nem jött?
 Szent karácsonyestéjén ilyenkor még nincs itt - mondta Bobi és jókedve menten elpárolgott.
 Sóhajtott és izzadó üstökét törölgette, mert a templomtól hazáig ügetve kellett jönnie.
-Kicsi Tibi jól megszalajtotta „lovát”.
+Kicsi Tibi jól megszalajtotta "lovát".
 Márta látta búvóhelyéről apja gondterhelt arcát és előbújt, mert még tréfából sem akarta őt megszomorítani.
 A két kisebb gyermek felkapta kicsi Tibit és a konyhába vitték, hadd lássa ő is a sürgés-forgást, hadd hallja a vacsora sistergését.
 - Hogy viselkedett kicsi Tibi a templomban?
@@ -1411,15 +1401,15 @@ A lány duzzog is, alig tudja a fiú megengesztelni.
 A következő játékból mindketten ki is maradnak, és hosszan suttognak egy függöny mögött.
 A háziasszony nem játszott szembekötősdit; ott ült a tűz mellett, nagy öblös karosszékben.
 Scrooge és a szellem épp a háta mögött álltak.
-De mikor azután később „árverés”-t és „mesterségünk címeré”-t játszottak, ezekben a játékokban olyan gyors észjárású és szellemes volt, hogy férjének nem kis örömére, valamennyi húgát lepipálta.
+De mikor azután később "árverés"-t és "mesterségünk címeré"-t játszottak, ezekben a játékokban olyan gyors észjárású és szellemes volt, hogy férjének nem kis örömére, valamennyi húgát lepipálta.
 Ami elég nagy szó, ha meggondoljuk, hogy közöttük is akadt kiválóan okos leány - aki nem hiszi, kérdezze meg Toppert!
 Vagy húszan lehettek és valamennyien játszottak; még Scrooge is, aki teljesen megfeledkezve magáról és arról a körülményről, hogy láthatatlan és a hangját sem hallhatja senki, gyakran közbeszólt és fején találta a szöget; tudjuk, hogy ravasz és éleseszű öreg fickó volt, ha néha együgyűnek is tettette magát.
 A szellem örömmel látta, hogy Scrooge hogy belefeledkezett a játékba.
 Majd mikor már menni készültek, Scrooge, mint valami gyermek, könyörgött, hogy maradjanak még, amíg a vendégek szétszélednek.
 A szellem ebbe sehogysem akart beleegyezni.
 - Ni, épp egy új játék kezdődik, - mondta Scrooge - csak egy félórácskát maradjunk még!
-„Fekete-fehér, igen-nem”-et játszottak.
-Scrooge unokaöccsének a kitalálandó szót egy cédulára kellett titokban felírnia és a többiek kérdéseire „fekete-fehér, igen-nem”-mel válaszolnia; a feleletekből meg kellett állapítani a cédulára felírt szót.
+"Fekete-fehér, igen-nem"-et játszottak.
+Scrooge unokaöccsének a kitalálandó szót egy cédulára kellett titokban felírnia és a többiek kérdéseire "fekete-fehér, igen-nem"-mel válaszolnia; a feleletekből meg kellett állapítani a cédulára felírt szót.
 A kérdések pergőtüze megindult, rövidesen úgy alakult a helyzet, hogy a kérdések egy állat körül forogtak.
 Annyi bizonyos volt már, hogy élő állat, kellemetlen állat, vadállat; olyan állat, amelyik morog, dörmög, szabadon jár-kel London utcáin.
 Senki nem vezeti, nem él az állatkertben, sem a cirkuszban, nem ló, nem disznó, nem szamár, nem macska és nem medve.
@@ -1430,8 +1420,8 @@ Végül is a kis tömzsi lány (a csipkegallérral) mentette meg a helyzetet:
 - Scrooge úr!
 A nagybácsid!
 Eltalálta!
-Mindenki megcsodálta az éleseszű kislányt, bár egyesek hibáztatták, hogy a „medve?” kérdésre a házigazda „nem”-mel felelt.
-Ha egyáltalán számításba vették volna Scrooge urat, ez a „nem” megzavarhatta volna őket.
+Mindenki megcsodálta az éleseszű kislányt, bár egyesek hibáztatták, hogy a "medve?" kérdésre a házigazda "nem"-mel felelt.
+Ha egyáltalán számításba vették volna Scrooge urat, ez a "nem" megzavarhatta volna őket.
 - Lám, milyen pompás, mulatságos perceket szerzett nekünk az öregúr - mondta most az unokaöccs - igazán hálátlanság volna, ha nem innánk az egészségére.
 Hol a boroskancsó?
 Nosza igyunk!
@@ -1812,7 +1802,7 @@ A szobában csend volt.
 Szokatlan csend.
 A máskor oly pajkos és hangos kicsik összebújva ültek egy sarokban; Péter könyvet olvasott.
 Cratchitné és a lányok varrtak.
-„És előfogván egy gyermeket közéjük állítá azt.”
+"És előfogván egy gyermeket közéjük állítá azt."
 Ez a mondat csengett Scrooge fülében.
 Vajon hol hallotta?
 Bizonyára Péter olvasta fel az ölében levő könyvből, mikor beléptek az ajtón.
@@ -1864,7 +1854,7 @@ Anya és a lányok varrtak.
 Bobi elmesélte, hogy találkozott Scrooge úr unokaöccsével, aki igen finom úriember és nagyon kedves volt hozzá.
 - Talán látszott rajtam egy egészen kis levertség és ezért megkérdezte, hogy mi bajom van.
 Mire elmondtam neki nagy bajomat.
-Láttátok volna, hogy mennyi részvéttel szorongatta kezemet és milyen gyöngéden mondta: „Nagyon sajnálom önt, uram és feleségét is, azt a kitűnő asszonyt.” Vajon honnan tudta ezt?
+Láttátok volna, hogy mennyi részvéttel szorongatta kezemet és milyen gyöngéden mondta: "Nagyon sajnálom önt, uram és feleségét is, azt a kitűnő asszonyt." Vajon honnan tudta ezt?
 - Mit honnan tudott, drágám?
 - Hát azt, hogy oly kitünő asszony vagy!
 - mondta Bobi.
@@ -1954,7 +1944,7 @@ Mégpedig saját ágyának egyik tartóoszlopát.
 Kétségtelenül a saját ágyáét a saját szobájában.
 És - mily mennyei boldogság - saját nagyszerű jövőjét is maga előtt látta.
 Saját, új, teljesen megváltozott életét!
-„A multban, jelenben és jövőben akarok élni” - ismételgette boldogan, mialatt kibújt az ágyból.
+"A multban, jelenben és jövőben akarok élni" - ismételgette boldogan, mialatt kibújt az ágyból.
 Óh, három szellem, kik meglátogattatok, ti fogtok utamon vezérelni.
 És te, Marley Jakab!
 A magasságos ég áldjon meg érte!
@@ -2071,7 +2061,7 @@ De Scrooge azt se bánta, ha levágja is az orra hegyét, legföljebb visszaraga
 Tetőtől-talpig ünneplőbe öltözött és kisétált.
 A nép ellepte az utcákat; úgy jártak fel-alá, ahogy az idei karácsony szelleme mutatta volt neki.
 Scrooge hátradugta kezét és vidáman malmozott hüvelykujjával.
-Oly derűs és bizalomkeltő volt az öreg külseje, hogy nem egy vidám fickó köszöntött rá: „Jó reggelt, uram, kellemes karácsonyi ünnepeket!” Oly jól esett az öregnek ez a köszöngetés, hogy még évek mulva is, ha valami kellemes élményt akart elmondani, ezt emlegette.
+Oly derűs és bizalomkeltő volt az öreg külseje, hogy nem egy vidám fickó köszöntött rá: "Jó reggelt, uram, kellemes karácsonyi ünnepeket!" Oly jól esett az öregnek ez a köszöngetés, hogy még évek mulva is, ha valami kellemes élményt akart elmondani, ezt emlegette.
 Alig jutott el a szomszéd utcába, amint látja, hogy jön ám szembe vele a tegnapi jótékonysági urak közül az idősebb.
 Zavarba jött és már előre tartott tőle, micsoda szemeket fog rá vetni ez a derék öregúr.
 Ám hirtelen meggondolta magát és ő maga lépett oda hozzá:

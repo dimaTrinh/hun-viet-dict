@@ -1,47 +1,5 @@
-﻿
-JULES VERNE
-
-VILÁGÍTÓTORONY 
-A VILÁG VÉGÉN
-
-FORDÍTOTTA: 
-KOVÁCSI BARNABÁS
-
-
-TARTALOM
-  
-1.
-A felavatás
-  2.
-Az Államok-sziget
-  3.
-A három toronyőr
-  4.
-Kongre bandája
-  5.
-A Maule nevű kétárbocos
-  6.
-Az Elgor-öbölben
-  7.
-A barlang
-  8.
-Javítják a Maule-t
-  9.
-Vásquez
-10.
-A hajótörés után
-11.
-A roncsfosztogatók
-12.
-Az öbölkijáratánál
-13.
-Három nap
-14.
-A Santa Fé ágyúnaszád
-15.
-Befejezés
-
-
+﻿JULES VERNE
+VILÁGÍTÓTORONY A VILÁG VÉGÉN
 1.
 A felavatás
 A nap lenyugodni készült a nyugati láthatáron kirajzolódó dombok mögött.
@@ -330,7 +288,7 @@ Ezek az emberek általában tengerészek vagy halászok voltak valaha.
 Soha nem ültek ölbe tett kézzel, mindig találtak tennivalót, mulat­sá­got.
 A szolgálat különben nem csak abból állt, hogy napnyugta és napkelte között biztosítsák a világítást.
 Vásqueznek és társainak figyelmébe ajánlották, hogy gondosan ügyeljenek az Elgor-öböl környékére, hetente többször is menjenek el a San Juan-fokhoz, s tartsák szemmel a keleti partvidéket a Several-földnyelvig, de soha ne távolodjanak el három-négy mérföldnél messzebbre.
-Vezetniük kellett a „toronynaplót”, feljegyezni az esetleges incidenseket; az elhaladó vitorlás- és gőzhajók nemzetiségét, s ha hívójelükkel együtt közölték, nevüket is; az árapály-különbséget, a szélirányt és szélerősséget; az időjárás változását; az esők időtartamát, a viharok gyakoriságát, a barométer emelkedését és süllyedését, a hőmérsékletet és más olyan adatokat, amelyek segítségével meg lehet rajzolni a vidék meteorológiai térképét.
+Vezetniük kellett a "toronynaplót", feljegyezni az esetleges incidenseket; az elhaladó vitorlás- és gőzhajók nemzetiségét, s ha hívójelükkel együtt közölték, nevüket is; az árapály-különbséget, a szélirányt és szélerősséget; az időjárás változását; az esők időtartamát, a viharok gyakoriságát, a barométer emelkedését és süllyedését, a hőmérsékletet és más olyan adatokat, amelyek segítségével meg lehet rajzolni a vidék meteorológiai térképét.
 Vásquez, akárcsak Felipe és Moriz, argentin volt.
 Őt nevezték ki az Államok-szigeten a világító­torony őrparancsnokává.
 Negyvenhét éves volt ekkor: erőteljes, makkegészséges, rendkívül kitartó, ahogy illik is egy tengerészhez, aki nem is egyszer szelte át a Föld száz­nyolcvan szélességi fokának többségét; elszánt, energikus, veszélyhez szokott ember, aki több ízben vágta már ki magát életveszélyes helyzetekből.
@@ -1045,7 +1003,7 @@ Semmi sem árulkodott arról, hogy jártak már ezen a környékén, így abban 
 - mondta Carcante Kongrénak, akivel a hajó tatjában álltak.
 - Pedig lesz - felelte Kongre.
 Húsz perc sem telt bele, s a Maule a horgonyzóhelyhez ért.
-Ebben a percben két ember „azonosította”, most ereszkedtek le a sziklateraszról a fövenyre.
+Ebben a percben két ember "azonosította", most ereszkedtek le a sziklateraszról a fövenyre.
 Felipe és Moriz volt az.
 Előkészítették a bárkát, hogy odaevezzenek a vitorláshoz.
 Vásquez eközben az őrszobán teljesített szolgálatot.
@@ -1217,7 +1175,7 @@ Majd azt hiszik, megvakultak.
 Roskadásig meg kell raknunk a kétárbocost, ha már az ördög a kezünkre játszotta!
 - Hála legyen az ördögnek!...
 Csak úgy az ölünkbe pottyan a Szent Bertalan-foknál ez a jó kis hajó; a személyzet sehol, se kapitány, se matrózok, akiktől persze máskülönben megszaba­dultunk volna...
-Így kerítette hát kézre a banda a Maule nevű kétárbocost a sziget nyugati csücskében, s így veszett oda a roncsfosztogatók mesterkedéseinek „köszönhetően” számos hajó mindenestül a sziget előtti szirteken.
+Így kerítette hát kézre a banda a Maule nevű kétárbocost a sziget nyugati csücskében, s így veszett oda a roncsfosztogatók mesterkedéseinek "köszönhetően" számos hajó mindenestül a sziget előtti szirteken.
 - És most - kérdezte egyikük - mihez kezdünk, Kongre?
 - Visszamegyünk a Maule-ra, Carcante - felelte Kongre, akiben Vásquez helyesen ismerte fel a bandavezért.
 - Nem kezdjük el kirámolni a barlangot?
@@ -1552,7 +1510,7 @@ Nem olyan zivatar ígérkezett, amelyik néhány óra alatt elvonul.
 Szélvihar volt kialakulóban.
 Ezt jósolta a víz és az ég színe, ezt jósolták az egyre gyorsabban rohanó, feltorlódó felhők, a hullámok és áramlatok örvénylő összecsapása, a szirtekre zúduló víz bőgése.
 Egy olyan tengerész, mint Vásquez, nem tévedhetett.
-A toronyban most biztosan a „vihar” jelzés alá esett a barométer oszlopa.
+A toronyban most biztosan a "vihar" jelzés alá esett a barométer oszlopa.
 Eközben a tomboló szél ellenére Vásquez nem maradt barlangjában.
 A parton járkált, és az elsötétedő láthatárt kémlelte.
 A lemenő nap utolsó sugarai még nem haltak el, amikor Vásquez észrevette, hogy a nyílt tengeren egy sötét tömeg mozog.
@@ -1562,7 +1520,7 @@ A lemenő nap utolsó sugarai még nem haltak el, amikor Vásquez észrevette, h
 Valóban, egy hajó közelített kelet felől: vagy be fog fordulni a szorosba, vagy dél felől meg­kerüli a szigetet.
 A vihar ekkor már rendkívüli erővel tombolt.
 Ez már nem is vihar volt, hanem mindent el­söprő orkán, amely a legerősebb hajókat is végveszélybe sodorja.
-Ha nem találnak „egérútra”, ahogy a tengerészek mondani szokták, vagyis ha szélirányban szárazföld állja útjukat, akkor ritkán kerülik el a hajótörést.
+Ha nem találnak "egérútra", ahogy a tengerészek mondani szokták, vagyis ha szélirányban szárazföld állja útjukat, akkor ritkán kerülik el a hajótörést.
 - S ezek a nyomorultak nem gyújtanak lámpát a toronyban!
 - dühöngött Vásquez.
 - Hiába keresi a hajó, sehol semmi!
@@ -1610,7 +1568,7 @@ A még mindig borús égbolt arra engedett következtetni, hogy az orkán még n
 Semmi kétség nem lehetett affelől, hogy ezen a reggelen a kétárbocos nem szedi fel a horgonyt.
 Könnyen elképzelhető, mennyire felbőszítette ez a nem várt esemény Kongrét és bandáját.
 Így álltak tehát a dolgok, amikor Vásquez kora hajnalban felébredt és kilépett a kavaró homokviharba.
-A következő látvány tárult a szeme elé: 
+A következő látvány tárult a szeme elé:
 Kétszáz lépésre a fok északi oldalától - tehát az öblön kívül - hevert a szerencsétlenül járt hajó.
 Háromárbocos, körülbelül ötszáz tonnás jármű volt.
 Árbocaiból csak három csonk ma­radt, amelyek a hajópárkány szintjéig értek: vagy a kapitány vágatta le őket kényszerűségből, hogy könnyítsen a helyzeten, vagy az ütközés pillanatában törtek le.
@@ -1724,7 +1682,7 @@ Van egy kis kétszersült és hús!
 - ajánlotta Vásquez.
 - Nem... nem... inkább innék még!
 A brandyvel kevert friss víz nagyon jót tett John Davisnek, így hamarosan válaszolni tudott minden kérdésre.
-Néhány szóban a következőt mesélte el: 
+Néhány szóban a következőt mesélte el:
 A háromárbocos, ötszázötven tonnás, mobile-i illetőségű Century vitorlás hajó húsz nappal ezelőtt hagyta el Amerika partjait.
 Legénysége tizennégy főből állt: a kapitány Harry Steward, a másodkapitány John Davis volt, a tizenkét matróz közé tartozott egy-egy hajósinas és szakács is.
 Nikkelt és csecsebecsét szállított az ausztráliai Melbourne-be.
@@ -2315,7 +2273,7 @@ Fél napba is beletelt, míg felhordták az összes holmit a fedélzetre.
 Nem volt különben szükség sem arra, hogy kipakolják a teljes rakományt, sem arra, hogy a hajót a homokra vontassák.
 Mivel a lyukak közvetlenül a merülési vonal fölött voltak, nem túl nagy fáradsággal be lehetett tömni őket a hajó farához közel kikötött csónakról.
 A lényeg az volt, hogy az ágyúgolyók nem okoztak kárt a bordázatban.
-Kongre és a hajóács lement a raktérbe, és vizsgálatuk az alábbiakat állapította meg: 
+Kongre és a hajóács lement a raktérbe, és vizsgálatuk az alábbiakat állapította meg:
 A két golyó csak a burkolatot ütötte át körülbelül egy magasságban; meg is találták őket, amikor kipakolták a rakományt.
 Csak súrolták a bordákat, amelyek tartó erősségében így nem esett kár.
 Az egymástól két-három lábra található lyukak pereme olyan szabályos volt, mintha fűrésszel vágták volna ki őket.
@@ -2343,7 +2301,7 @@ A legfontosabb az, hogy minél előbb elhagyjuk a szigetet.
 - Holnapután reggel tengeren leszünk - jelentette ki határozottan Kongre.
 Minden esélyük megvolt tehát arra, hogy az ágyúnaszád - melyet csak néhány nappal későbbre vártak - ne fusson be indulásuk előtt.
 Egyébként is, ha Kongre és társai elmennek a San Juan-fokra, Vásqueznek és John Davisnek már csak hűlt helyét találják.
-Ott a következők történtek: 
+Ott a következők történtek:
 Előző nap délután, egészen estig mindketten John Davis javaslatának megvalósításával voltak elfoglalva.
 Úgy döntöttek: az ágyút éppen a sziklafal kiszögellésében állítják fel.
 A fordulót eltorlaszoló sziklatömbök között John Davisnek és Vásqueznek nem okozott nehézséget a lövegtalp fölállítása.
@@ -2673,7 +2631,7 @@ Carcante mindenki számára hallhatóan ezt ordította:
 14.
 A Santa Fé ágyúnaszád
 Hogyan is lehetne leírni, mekkora riadalom támadt az öbölben?
-E szavak: „A naszád... a naszád!”, villámcsapásként érték a nyomorultakat, hiszen mintha halálos ítéletet mondtak volna ki rájuk.
+E szavak: "A naszád... a naszád!", villámcsapásként érték a nyomorultakat, hiszen mintha halálos ítéletet mondtak volna ki rájuk.
 A Santa Fé az elkerülhetetlen igazságszolgáltatást, a bűnök megtorlását hozza a szigetre!
 De nem tévedett-e Carcante?
 Valóban az argentin haditengerészet ágyúnaszádja volt-e?
@@ -2915,7 +2873,7 @@ A hajó alig sínylette meg a robbanást, és a sérülést tizenkét óra alatt
 De épp ez a tizenkét óra kellett ahhoz, hogy önök az öbölben találják a kétárbocost.
 Ez egyedül Vásquez érdeme, mint ahogy ő észlelte az ágyúnaszádot, s az ő ötlete volt az is, hogy a toronyhoz rohanjon és meggyújtsa az oly régen eloltott lámpást.
 Lafayate kapitány melegen megszorította John Davis és Vásquez kezét, akik vakmerő közbe­lépéseikkel elérték, hogy a Santa Fé a kétárbocos indulását megelőzve futhatott be.
-Ezután beszámolt róla, milyen körülmények között észlelte a naszád egy órával napnyugta előtt az Államok-szigetet: 
+Ezután beszámolt róla, milyen körülmények között észlelte a naszád egy órával napnyugta előtt az Államok-szigetet:
 Lafayate kapitány, miután délelőtt mérést végzett, biztos volt hajója helyzetében.
 Az ágyú­naszádnak a San Juan-fok irányába kellett tartania, melyet még az est leszállta előtt meg kellett pillantani.
 Csakugyan, amikor az alkony kezdte elsötétíteni az eget, Lafayate kapitány tisztán kivehette, ha nem is a sziget keleti partját, de legalább a háttérben emelkedő hegycsúcsokat.
@@ -3006,4 +2964,3 @@ Március 18-án délután Lafayete kapitány, aki immáron bizonyos lehetett ben
 A nap akkor nyugodott le, amikor kiért az öbölből.
 Fönt a parton - ebben a pillanatban - egy fénysugár tört elő, amelynek visszfénye hosszan tán­colt a hajó nyomdokvizén.
 És az elsötétülő tengeren távolodó ágyúnaszád - úgy tűnt - magával vitt egy sugarat azok közül, amelyeket újra, számlálatlanul küldött az éjbe a világvégi világító­torony.
--&-

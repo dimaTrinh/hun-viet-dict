@@ -1,10 +1,5 @@
-﻿
-Turgenyev
+﻿Turgenyev
 Első szerelem
-
-Fordította: Áprily Lajos
-
-
 A vendégek rég elmentek.
 Fél egyet ütött az óra.
 A szobában csak a házigazda maradt, Szergej Nyikolajeviccsal meg Vlagyimir Petroviccsal.
@@ -38,7 +33,7 @@ Moszkvában, szüleimnél laktam.
 Villát béreltek a kalugai városkapu környékén, a Nyeszkucsnij-kerttel szemben.
 - Egyetemi felvételre készültem, de keveset dolgoztam, lassú tempóban.
 Senki sem korlátozta szabadságomat.
-Azt tettem, amit akartam, különösen azóta, hogy megváltam utolsó francia nevelőmtől, aki sohasem tudott megbarátkozni azzal a gondolattal, hogy „bombaként” (comme une bombe) hullt Oroszországba, s elkeseredett arckifejezéssel naphosszat az ágyon heverészett.
+Azt tettem, amit akartam, különösen azóta, hogy megváltam utolsó francia nevelőmtől, aki sohasem tudott megbarátkozni azzal a gondolattal, hogy "bombaként" (comme une bombe) hullt Oroszországba, s elkeseredett arckifejezéssel naphosszat az ágyon heverészett.
 Apám egykedvűen szíves volt hozzám; anyám úgyszólván nem is törődött velem, bár egyetlen gyermeke voltam: más gondok emésztették.
 Apám, aki még fiatal volt, s nagyon szép ember, számításból vette el: tíz évvel volt idősebb apámnál.
 Anyámnak szomorú volt az élete: állandóan nyugtalankodott, féltékenykedett és haragudott - de nem az apám jelenlétében; nagyon félt tőle, mert szigorú volt, hideg és tartózkodó.
@@ -84,15 +79,15 @@ Szerettem volna mindent elmondani neki, de megtartóztattam magam, s csak mosoly
 Mikor a lefekvéshez készültem, magam sem tudom miért, hármat fordultam a fél lábamon, megkentem a hajam, lefeküdtem, s egész éjjel aludtam, mint a tej.
 Hajnaltájban felébredtem egy pillanatra, felemeltem a fejem, elragadtatva körülnéztem - s megint elaludtam.
 3
-„Hogy tudnék vele megismerkedni?” - volt első gondolatom, mihelyt reggel felébredtem.
+"Hogy tudnék vele megismerkedni?" - volt első gondolatom, mihelyt reggel felébredtem.
 Reggeli előtt lementem a kertbe, de nem kerültem a kerítés közelébe, s nem is láttam senkit.
 Reggeli után néhányszor fel és alá sétáltam az utcán a nyaraló előtt - s messziről oda-odanéztem az ablakra... Úgy rémlett, hogy az ő arcát látom a függöny előtt, s gyorsan odább álltam.
-„Mégiscsak meg kell ismerkednem vele” - gondoltam, össze-vissza kóborolva a homokos síkon, mely a Nyeszkucsnij-kert előtt terült el.
-- „De hogyan?
-ez itt a kérdés.” Visszaidéztem tegnapi találkozásunk legapróbb részleteit, s magam sem tudom, miért, arra emlékeztem a legélesebben, hogyan nevetett rajtam... De mialatt így nyugtalankodtam, s különböző terveket szőttem, a sors már segítségemre jött.
+"Mégiscsak meg kell ismerkednem vele" - gondoltam, össze-vissza kóborolva a homokos síkon, mely a Nyeszkucsnij-kert előtt terült el.
+- "De hogyan?
+ez itt a kérdés." Visszaidéztem tegnapi találkozásunk legapróbb részleteit, s magam sem tudom, miért, arra emlékeztem a legélesebben, hogyan nevetett rajtam... De mialatt így nyugtalankodtam, s különböző terveket szőttem, a sors már segítségemre jött.
 Míg nem voltam otthon, anyám szürke papirosra írt levelet kapott az új szomszédasszonytól; barna pecsétviasszal volt lezárva, amilyent postautalványokon és olcsó borok dugóin szoktak használni.
 Ebben a gyenge fogalmazású, hanyag írású levélben a hercegné anyám pártfogását kérte: anyám, a hercegné levele szerint, jó ismerőse volt olyan tekintélyes embereknek, akiktől az ő és gyermekei sorsa függött, mert komoly perei voltak.
-„Önhöz fordulok- írta -, mint nemesasszony a nemesasszonyhoz, s ezért ragadom meg szívesen ezt az alkalmat.” A végén engedélyt kért anyámtól, hogy meglátogathassa.
+"Önhöz fordulok- írta -, mint nemesasszony a nemesasszonyhoz, s ezért ragadom meg szívesen ezt az alkalmat." A végén engedélyt kért anyámtól, hogy meglátogathassa.
 Kellemetlen hangulatban találtam anyámat: apám nem volt otthon, s nem volt kivel tanácskoznia a dologról.
 Válasz nélkül hagyni a hercegné levelét lehetetlen volt, de hogyan válaszoljon - ez volt anyámnak a bökkenő.
 Francia nyelvű írást küldeni helytelen lett volna, az orosz helyesírásban pedig anyám maga sem volt erős - ő tudta ezt -, s nem akarta kompromittálni magát.
@@ -117,7 +112,7 @@ jött valaki?
 - A szomszéd úrfi!
 - Kéretem.
 - A fogadószobába tessék - mondta az inas, mikor ismét megjelent, s felvette a tányért a padlóról.
-Utánaindultam, s beléptem a „fogadószobába”.
+Utánaindultam, s beléptem a "fogadószobába".
 Kisebb, nem egészen tiszta szoba volt ez, szegényes, szinte hevenyében összeállított bútor­felszereléssel.
 Az ablaknál egy törött karfájú támlásszékben, körülbelül ötvenéves, dísztelen hajú, nem szép nő ült, régi zöld ruha volt rajta, tarka gyapjúsál a nyaka körül.
 Apró, fekete szemét erősen rám szegezte.
@@ -140,7 +135,7 @@ A hercegné teleírt, piszkos papírokat vett ki a zsebéből, közvetlenül az 
 - Szép életkor - mondta aztán hirtelen, megfordulva és fészkelődve a széken.
 - Kérem, ne feszélyezze magát.
 Nálam minden egyszerű.
-„Nagyon is egyszerű” - gondoltam, önkéntelen utálattal nézegetve tiszteletet igazán nem parancsoló alakját.
+"Nagyon is egyszerű" - gondoltam, önkéntelen utálattal nézegetve tiszteletet igazán nem parancsoló alakját.
 Ebben a pillanatban a fogadószoba másik ajtaja hirtelen kitárult, s a küszöbén megjelent a lány, akit tegnap estefelé a kertben láttam.
 Felemelte a kezét, s az arcán gúnyos mosoly jelent meg.
 - Ez itt a lányom - mondta a hercegné, könyökével feléje mutatva.
@@ -211,12 +206,12 @@ Most még gyönyörűbbnek láttam az arcát, mint tegnap este: olyan finom, oko
 Háttal ült a fehér függönnyel takart ablaknak; a függönyön átütő napsugár szelíd fénnyel öntötte el sűrű aranyhaját, szűzies nyakát, szép hajlású vállát, gyengéden nyugvó kis mellét.
 - Ránéztem - s milyen drágának és közelinek éreztem!
 Úgy tűnt fel nekem, mintha régóta ismerném, s nem ismertem volna semmit, s nem is éltem volna a mai napig... Sötét, de már viseltes ruhát hordott, köténnyel: úgy éreztem, szívesen eldédelgetném minden redőjét annak a ruhának és köténynek.
-Cipőjének orra kikandikált szoknyája alól: imádva borultam volna le azokra a cipőkre... „Lám, most itt ülök előtte - gondoltam -, megismerkedtem vele... Úristen, micsoda boldogság!” Majdnem felug­rottam a székről, a gyönyörűségtől, de csak a lábammal harangoztam egy kicsit, mint a torkoskodó gyermek.
+Cipőjének orra kikandikált szoknyája alól: imádva borultam volna le azokra a cipőkre... "Lám, most itt ülök előtte - gondoltam -, megismerkedtem vele... Úristen, micsoda boldogság!" Majdnem felug­rottam a székről, a gyönyörűségtől, de csak a lábammal harangoztam egy kicsit, mint a torkoskodó gyermek.
 Úgy éreztem magam, mint a hal a vízben, s szerettem volna örökre itt maradni ebben a szobában, soha el nem hagyni ezt a helyet.
 Szemhéja csendesen emelkedett, s megint kedvesen megragyogott a szeme, s megint elmo­solyodott.
 - Hogy néz engem - szólalt meg lassan, s megfenyegetett az ujjával.
-Elpirultam... „Mindent ért és mindent lát - villant át az eszemen.
-- S hogy is ne értene és ne látna mindent!”
+Elpirultam... "Mindent ért és mindent lát - villant át az eszemen.
+- S hogy is ne értene és ne látna mindent!"
 Hirtelen zörej hallatszott a szomszéd szobából - kard csörrent.
 - Zina!
 - kiáltotta a hercegné a fogadószobából: - Belovzorov kiscicát hozott neked.
@@ -268,16 +263,16 @@ A hercegné gyorsan elővette burnótos szelencéjét, s akkorát tüsszentett, 
 - Ezt mondja - ismételte, pislogott megkönnyesedett szemével, és nyögött egyet.
 Még egyszer meghajoltam, megfordultam és kimentem a szobából, hátamban bizsergető érzéssel; az a fiatalember érez ilyet, aki tudja, hogy utána néznek.
 - Mszjő Voldemar, jöjjön el máskor is hozzánk - kiáltotta Zinaida, és újra nevetni kezdett.
-„Miért nevet mindig?” - gondoltam, mikor Fjodor kíséretében, aki egy szót sem szólt, csak rosszalló képpel ballagott utánam, hazaérkeztem.
+"Miért nevet mindig?" - gondoltam, mikor Fjodor kíséretében, aki egy szót sem szólt, csak rosszalló képpel ballagott utánam, hazaérkeztem.
 Anyám megszidott, s nagyon csodálkozott: mit csinálhattam a hercegnénél olyan sokáig.
 Nem feleltem a kérdésére, s bementem a szobámba.
 Egyszerre nagyon elfogott a szomorúság... Erővel tartottam vissza a sírást.
 Féltékeny voltam a huszárra.
 5
 A hercegné, ígérete szerint, meglátogatta anyámat; nem tetszett neki.
-Én nem voltam ott, amikor találkoztak, de az ebédkor anyám azt mondta apámnak, hogy az a Zaszekina hercegné „une femme tres vulgaire”,1 nagyon terhére volt azzal a kérésével, hogy járjon közbe Szergej hercegnél az érdekében, mindenféle ügyei és perei vannak, „de vilaines affaires d’argent”2 - s hogy bizonyosan nagyon intrikus személy.
-Anyuska azonban hozzátette, hogy lányával együtt meghívta holnapra ebédre (mikor a „lányával” szót meghallottam, lehajoltam a tányér fölé) - mert hát mégis szomszéd, és jó neve van.
-De apám azt mondta anyámnak, hogy most már tudja, ki ez az asszony: fiatal korában ismerte a néhai Zaszekin herceget, kitűnő nevelésben részesült, de üres lelkű, hebehurgya ember volt; a társaságban „le Parisien”-nek hívták, mert sokáig élt Párizsban; nagyon gazdag volt, de szerencsejátékokon elvesztette egész vagyonát, s nem lehet tudni, miért, alighanem a pénzért - ami ezt illeti, jobban is választhatott volna - tette hozzá apám hideg mosollyal -, feleségül vette valami hivatalnoknak a leányát, spekulálni kezdett, s végleg tönkrement.
+Én nem voltam ott, amikor találkoztak, de az ebédkor anyám azt mondta apámnak, hogy az a Zaszekina hercegné "une femme tres vulgaire",1 nagyon terhére volt azzal a kérésével, hogy járjon közbe Szergej hercegnél az érdekében, mindenféle ügyei és perei vannak, "de vilaines affaires d’argent"2 - s hogy bizonyosan nagyon intrikus személy.
+Anyuska azonban hozzátette, hogy lányával együtt meghívta holnapra ebédre (mikor a "lányával" szót meghallottam, lehajoltam a tányér fölé) - mert hát mégis szomszéd, és jó neve van.
+De apám azt mondta anyámnak, hogy most már tudja, ki ez az asszony: fiatal korában ismerte a néhai Zaszekin herceget, kitűnő nevelésben részesült, de üres lelkű, hebehurgya ember volt; a társaságban "le Parisien"-nek hívták, mert sokáig élt Párizsban; nagyon gazdag volt, de szerencsejátékokon elvesztette egész vagyonát, s nem lehet tudni, miért, alighanem a pénzért - ami ezt illeti, jobban is választhatott volna - tette hozzá apám hideg mosollyal -, feleségül vette valami hivatalnoknak a leányát, spekulálni kezdett, s végleg tönkrement.
 - Csak ne kérjen pénzt kölcsön - jegyezte meg anyám.
 - Az is lehet, hogy kér - mondta csendesen apám.
 - Beszél franciául?
@@ -293,7 +288,7 @@ Anyám sóhajtott és elgondolkozott.
 Apám többet nem szólt.
 Én egész beszélgetésük alatt nagyon kellemetlenül éreztem magam.
 Ebéd után lementem a kertbe, de puska nélkül.
-Megfogadtam volt, hogy nem megyek közel „Zaszekinék kertjé”-hez, de ellenállhatatlan erő vont oda - és nemhiába.
+Megfogadtam volt, hogy nem megyek közel "Zaszekinék kertjé"-hez, de ellenállhatatlan erő vont oda - és nemhiába.
 Alig értem a kerítés közelébe, megpillantottam Zinaidát.
 Most egyedül volt.
 Kis könyvet tartott a kezében, s lassan haladt az úton.
@@ -317,7 +312,7 @@ Mentem volna Zinaida felé, de rám sem nézett, ismét szeme elé emelte a kön
 6
 Az egész estét s a következő reggelt szomorú zsibbadtságban töltöttem.
 Emlékszem, meg­pró­báltam dolgozni, s elővettem Kajdanovot, de hiába vibráltak előttem a híres tudós könyvének terjedelmes sorai és oldalai.
-Tízszer is elolvastam egymás után ezeket a szavakat: „Julius Caesar katonai vitézségével” - semmit sem értettem belőle, s félredobtam a könyvet.
+Tízszer is elolvastam egymás után ezeket a szavakat: "Julius Caesar katonai vitézségével" - semmit sem értettem belőle, s félredobtam a könyvet.
 Ebéd előtt megint megkentem a hajam, s megint felvettem a kabátomat és nyakkendőmet.
 - Ezt miért teszed?
 - kérdezte anyám.
@@ -330,7 +325,7 @@ Micsoda vendégek azok!
 Meg kellett adnom magam.
 Újra felvettem a kabát helyett a zekét, de a nyakkendőt nem vettem le.
 A hercegné félórával ebéd előtt megérkezett leányával; az öregasszony a zöld ruha fölé, melyet már ismertem, sárga sálat vett fel, s egy régimódi, tűzpiros szalaggal díszített főkötőt tett a fejére.
-Rögtön váltóiról kezdett beszélni, sóhajtott, szegénységét panaszolta, „kunyerált”, de egyáltalában nem affektált: olyan zajosan tubákolt, s úgy forgolódott és fészkelődött a széken, mint otthon.
+Rögtön váltóiról kezdett beszélni, sóhajtott, szegénységét panaszolta, "kunyerált", de egyáltalában nem affektált: olyan zajosan tubákolt, s úgy forgolódott és fészkelődött a széken, mint otthon.
 Mintha nem is jutott volna eszébe, hogy hercegné.
 Viszont Zinaida magatartása szigorú, szinte dölyfös volt, mint egy igazi hercegkisasszonyé.
 Hideg mozdulatlanság és komolyság volt az arcán - rá sem ismertem: nem ismertem rá a nézésére, a mosolyára, bár ezt az új arcát is gyönyörűnek találtam.
@@ -416,25 +411,25 @@ Elhomályosult a szemem, féltérdre akartam ereszkedni, de két térdre buktam 
 A zálogosdi játékot folytatták.
 Zinaida maga mellé ültetett.
 Milyen büntetéseket ki nem eszelt!
-Többek között „szobrot” kellett állnia - s a csúnya Nyirmackijt választotta talapzatnak, meg­parancsolta, hogy feküdjék hasra, s húzza maga alá fejét, a mellére.
+Többek között "szobrot" kellett állnia - s a csúnya Nyirmackijt választotta talapzatnak, meg­parancsolta, hogy feküdjék hasra, s húzza maga alá fejét, a mellére.
 A nevetés egy pillanatig sem szűnt meg.
 Nekem, a józanul és társtalanul nevelt fiúnak, aki komoly nagyúri házban serdültem fel, ez az egész zaj és zsivaj, ez a szabados, majdnem szertelen jókedv, ez a szokatlan kapcsolat ismeretlen emberekkel, a fejembe szállt.
 Egyszerűen megrészegedtem tőle, mintha bort ittam volna.
 Elkezdtem a többieknél hangosabban nevetni és beszélni, úgy­hogy az öreg hercegasszony is, aki az Iveri-kaputól jött egy hivatalnokkal, kit tanácskozásra hívatott - átjött a szomszéd szobából, hogy megnézzen.
 De olyan rendkívül boldognak éreztem magam, hogy rá sem hederítettem, és senkinek a csúfolkodásával meg sanda pillantásaival nem törődtem.
 Zinaida továbbra is előnyben részesített, s nem engedett el maga mellől.
-Egyik büntetés az volt, hogy mellette kellett ülnöm közös selyemkendővel leborítva: úgy kellett elmondanom a „titkomat”.
+Egyik büntetés az volt, hogy mellette kellett ülnöm közös selyemkendővel leborítva: úgy kellett elmondanom a "titkomat".
 Jól emlékszem, hogy került egyszerre egymás mellé a fejünk, a fülledt, illatos homályban, milyen közelről, s milyen gyengéden fénylett a szeme, s milyen forró lélegzet áradt nyitott ajkai közül, a foga is látszott, s hajszálai csiklandoztak és égettek.
 Hallgattam.
-Ő titokzatosan és huncutul mosolygott, aztán ennyit súgott nekem: „No, mi az?”, s én csak elpirultam, nevettem, félrefordultam, s akadozott a lélegzetem.
+Ő titokzatosan és huncutul mosolygott, aztán ennyit súgott nekem: "No, mi az?", s én csak elpirultam, nevettem, félrefordultam, s akadozott a lélegzetem.
 Beleuntunk a zálogosdiba - madzagosdit kezdtünk játszani.
 Úristen!
 milyen gyönyörűséget éreztem, mikor elbámészko­dásom miatt erős, éles ütést kaptam tőle az ujjaimra, s aztán hogy igyekeztem színlelni az elbámészkodást - de Zinaida, csak hogy bosszantson vele, nem érintette meg kinyújtott kezemet.
 Mi mindent el nem követtünk ezen az estén!
 Zongoráztunk is, daloltunk, táncoltunk, cigány­karavánt játszottunk.
 Nyirmackijt felöltöztették medvének, s megitatták sós vízzel.
-Malevszkij gróf különböző kártyakunsztokat mutatott be, s befejezésül úgy keverte össze a kártyát, hogy whistjátékra az összes adut magának osztotta ki, amihez Lusinnak „volt szerencséje gratulálni”.
-Majdanov részleteket szavalt „A gyilkos” című elbeszélő költeményéből (benne voltunk még a romanticizmus fénykorában) - melyet vérszínű címbetűkkel szándékozott megjelentetni fekete fedőlapon; az Iveri-kaputól jött hivatalnoknak a térdéről ellopták a sapkát, s kényszerítették, hogy kozáktánccal váltsa ki; az öreg Vonyifatyijnak főkötőt tettek a fejére, a hercegkisasszony meg férfikalapot tett fel... Lehetetlen minden játékot felsorolni.
+Malevszkij gróf különböző kártyakunsztokat mutatott be, s befejezésül úgy keverte össze a kártyát, hogy whistjátékra az összes adut magának osztotta ki, amihez Lusinnak "volt szerencséje gratulálni".
+Majdanov részleteket szavalt "A gyilkos" című elbeszélő költeményéből (benne voltunk még a romanticizmus fénykorában) - melyet vérszínű címbetűkkel szándékozott megjelentetni fekete fedőlapon; az Iveri-kaputól jött hivatalnoknak a térdéről ellopták a sapkát, s kényszerítették, hogy kozáktánccal váltsa ki; az öreg Vonyifatyijnak főkötőt tettek a fejére, a hercegkisasszony meg férfikalapot tett fel... Lehetetlen minden játékot felsorolni.
 Csak Belovzorov húzódott vissza a sarokba, mogorván és haragosan... Néha vérben forgott a szeme, egészen elvörösödött, s már-már azt vártuk, hogy mindjárt reánk rohan, s szétszór minket, mint a pelyvát, de a hercegkisasszony ránézett, megfenyegette az ujjával, s megint visszabújt a szögletébe.
 Végre belefáradtunk.
 A hercegasszony is, bár, ahogy ő szokta mondani, izgő-mozgó nő volt - semmiféle kiabálás nem zavarta -, fáradtságot érzett, s szeretett volna lepihenni.
@@ -455,9 +450,9 @@ Végre felálltam, lábujjhegyen odamentem az ágyamhoz, s óvatosan, le nem vet
 Feküdtem, de be sem hunytam a szemem.
 Nagy sokára észrevettem, hogy szakadatlanul megújuló, gyenge fény hull a szobámba... Felemelkedtem és kinéztem az ablakon.
 Keresztfája élesen kivált a titokzatosan és homályosan derengő üvegtáblák között.
-„Vihar” - gondoltam, s csakugyan vihar volt, de olyan távoli, hogy a mennydörgését sem lehetett hallani; de az égen szüntelenül lobbantak a halovány fényű, hosszú, szinte szétágazó villámok: nem is annyira lobbantak, mint inkább remegtek és meg-megrándultak, mint egy haldokló madár szárnya.
+"Vihar" - gondoltam, s csakugyan vihar volt, de olyan távoli, hogy a mennydörgését sem lehetett hallani; de az égen szüntelenül lobbantak a halovány fényű, hosszú, szinte szétágazó villámok: nem is annyira lobbantak, mint inkább remegtek és meg-megrándultak, mint egy haldokló madár szárnya.
 Felálltam, odamentem az ablakhoz, s ott maradtam állva hajnalig.
-A villámlás egy pillanatig sem szűnt meg; „verebek éjszakájának” hívja az ilyent a nép.
+A villámlás egy pillanatig sem szűnt meg; "verebek éjszakájának" hívja az ilyent a nép.
 Kinéztem a néma, homokos mezőre, a Nyeszkucsnij-kert sötét tömegére, a távoli épületek sárgás homlokzatára, amelyek mintha szintén megremegtek volna minden gyenge lobbanásra... Néztem - és nem tudtam elfordulni: ezek a néma villámok, ezek a visszafojtott fellobbanások azoknak a néma és titkos ösztönöknek feleltek, melyek bennem is fellobbantak.
 Pirkadni kezdett; bíborszínű foltokkal érkezett a hajnal.
 A nap közeledtére egyre sápadtabbak és rövidebbek lettek a villámok, egyre ritkábban cikáztak s végre eltűntek: elárasztotta a beköszöntő nappal kijózanító, titoktalan fénye.
@@ -469,7 +464,7 @@ De ezt a képet most megnyugtatónak éreztem: mint a felszálló hattyú a mocs
 Másnap reggel, mikor lementem reggelizni, anyuska megszidott - de nem is olyan nagyon, ahogy vártam -, s elmondatta velem, hogyan töltöttem a tegnap estét.
 Én röviden feleltem, sok részletet elhagytam, s igyekeztem az egésznek a legártatlanabb színt adni.
 - Mégsem comme il faut emberek - jegyezte meg anyám -, s minek is járogatnál hozzájuk, ahelyett, hogy a vizsgádra készülnél, s foglalkoznál valamivel.
-Mivel tudtam, hogy anyám törődése „foglalkozásom”-mal erre a néhány szóra korlátozódik, nem tartottam szükségesnek, hogy feleljek; de reggeli után apám karon fogott - lement velem a kertbe, s mindent elmondatott velem, amit Zaszekinéknál láttam.
+Mivel tudtam, hogy anyám törődése "foglalkozásom"-mal erre a néhány szóra korlátozódik, nem tartottam szükségesnek, hogy feleljek; de reggeli után apám karon fogott - lement velem a kertbe, s mindent elmondatott velem, amit Zaszekinéknál láttam.
 Különös befolyása volt apámnak reám - különös volt az egymáshoz való viszonyunk is.
 Nevelésemmel szinte egyáltalában nem foglalkozott, de nem is bántott meg soha; tisztelte szabadságomat - sőt, ha lehet így mondani: udvarias volt hozzám... csak éppen nem engedett közel magához.
 Szerettem őt, csodáltam, a férfi mintaképét láttam benne - s istenem, milyen szenvedélyesen ragaszkodtam volna hozzá, ha állandóan nem éreztem volna elhárító kezét!
@@ -480,13 +475,13 @@ Néha jókedve kerekedett, s olyankor úgy hancúrozott és bolondozott velem, m
 Volt úgy, hogy elkezdtem nézni értelmes, szép, sugárzó arcát... szívem megremegett, egész lelkem feléje áradt... s mintha ő is érezte volna, mi megy végbe bennem, mellettem elhaladva megveregette az arcom - s vagy kiment, vagy foglalkozott valamivel, vagy egyszerre egészen kihűlt, ahogy csak ő tudott kihűlni, s akkor rögtön össze­zsugorodott a lelkem, s én is kihűltem.
 Hozzám való ritka érzelmi megnyilatkozásait sohasem az én néma, de megérthető kéréseim idézték elő: mindig váratlanul jöttek.
 Mikor később apám jellemén elgondolkoztam, arra a következtetésre jutottam, hogy nem érdekeltem sem én, sem a családi élet; valami mást szeretett, s ez a más megadta neki az élet örömét teljesen.
-„Vedd el magad, amit tudsz, de másnak meg ne hódolj; csak önmagadé légy - ebben van az élet egész tudománya” - mondta egyszer nekem.
-Máskor, mint fiatal demokrata, elkezdtem jelenlétében a szabadságról beszélni (azon a napon, ahogy nevezni szoktam, „jó” volt; olyankor bármiről lehetett vele beszélni.)
+"Vedd el magad, amit tudsz, de másnak meg ne hódolj; csak önmagadé légy - ebben van az élet egész tudománya" - mondta egyszer nekem.
+Máskor, mint fiatal demokrata, elkezdtem jelenlétében a szabadságról beszélni (azon a napon, ahogy nevezni szoktam, "jó" volt; olyankor bármiről lehetett vele beszélni.)
 - Szabadság - ismételte a szót -, tudod-e, mi tud az embernek szabadságot adni?
 - Mi?
 - Az akarat, a saját akarata, s ez olyan hatalmat ad, mely különb a szabadságnál.
 Tudj akarni, és szabad leszel, s uralkodni fogsz.
-Apám elsősorban s mindennél inkább élni akart; talán előre érezte, hogy nem lesz sok ideje az élet „tudomány”-át használni: meghalt negyvenkét éves korában.
+Apám elsősorban s mindennél inkább élni akart; talán előre érezte, hogy nem lesz sok ideje az élet "tudomány"-át használni: meghalt negyvenkét éves korában.
 Részletesen elmondtam apámnak látogatásom történetét.
 Félig figyelmesen, félig szóra­kozottan hallgatott, míg ott ült a padon, s lovaglóostorának végével rajzolgatott a homokba.
 Néha nevetett, s derűsen és mulatságosan nézett reám - s kötekedő rövid kérdéseket és ellenvetéseket tett.
@@ -514,7 +509,7 @@ A szomszéd szoba ajtaja kissé kinyílt - s nyílásában megjelent Zinaida arc
 - szólt utána az öregasszony, Zinaida nem válaszolt.
 Magammal vittem az öregasszony kérvényét, s mellette ültem egész este.
 9
-„Szenvedélyem” ezen a napon kezdődött.
+"Szenvedélyem" ezen a napon kezdődött.
 Emlékszem, olyasfélét éreztem, amit a szolgálatba lépő ember érezhet: többé nem voltam fiatal gyerek, szerelmes voltam.
 Mondtam már, ezen a napon kezdődött szenvedélyem; hozzátehetem, hogy szenvedéseim is ezen a napon kezdődtek.
 Ölt a bú, ha nem voltam Zinaida mellett: nem fogott az eszem, minden kiesett a kezemből, egész napokon át megfeszülten csak róla gondolkoztam... Ölt a bú... de a közelében sem éreztem könnyedebbnek magam.
@@ -527,13 +522,13 @@ Ebben az életerős, szép teremtésben volt valami rendkívül elbájoló kever
 Az arca is állandóan változott, annak is játéka volt: szinte ugyanabban a pillanatban csúfondáros kedv, tűnődés és szenvedélyesség fejeződött ki benne.
 A legkülönfélébb érzésárnyalatok olyan gyorsan és könnyen futottak át a szemén és arcán, mint a fellegek árnyéka napos, szeles időben.
 Mindegyik hódolójára szüksége volt.
-Belovzorov, akit néha „fenevadam”-nak nevezett, szí­vesen tűzbe rohant volna érte, s bár szellemi képességeiben és más előnyös tulajdonságokban nem reménykedhetett, mindig házassági ajánlatot tett neki, s mindig arra célzott, hogy a többiek csak fecsegnek.
+Belovzorov, akit néha "fenevadam"-nak nevezett, szí­vesen tűzbe rohant volna érte, s bár szellemi képességeiben és más előnyös tulajdonságokban nem reménykedhetett, mindig házassági ajánlatot tett neki, s mindig arra célzott, hogy a többiek csak fecsegnek.
 Majdanov Zinaida lelkének költői húrjához illett; meglehetősen hideg ember volt, mint az íróféle emberek általában, de kitartóan erősítgette Zinaidának, s talán önmagának is, hogy imádja, végtelen terjedelmű verseket írt hozzá, s felolvasta neki, helyenként mesterkélt, helyenként természetes elragadtatással.
 Zinaida rokonszenvezett is vele, s nem is nagyon ugratta: nemigen hitt neki, s ha végighallgatta verses áradozásait, Puskin­ból olvastatott vele, hogy, amint mondani szokta, megtisztuljon a levegő.
 Lusin, a csúfolkodó és cinikus szavú doktor, mindegyiküknél jobban ismerte - s mindegyiküknél jobban szerette, bár szidta háta mögött is, szembe is.
 Zinaida tisztelte őt, de nem engedte közel - s olykor különös kárörömmel éreztette vele, hogy őt is pórázon tartja.
-„Én kacér és szív­telen vagyok, színésznő természet - mondta neki egyszer az én jelenlétemben -, á, nagyszerű!
-adja csak ide a kezét, beleszúrok egy gombostűt, s akkor ez előtt a fiatalember előtt szégyelli majd magát, fájni fog, de azért maga mégis nevetni fog, maga igazság bajnoka.” Lusin elpirult, elfordult, ajkába harapott, de a végén odanyújtotta a kezét.
+"Én kacér és szív­telen vagyok, színésznő természet - mondta neki egyszer az én jelenlétemben -, á, nagyszerű!
+adja csak ide a kezét, beleszúrok egy gombostűt, s akkor ez előtt a fiatalember előtt szégyelli majd magát, fájni fog, de azért maga mégis nevetni fog, maga igazság bajnoka." Lusin elpirult, elfordult, ajkába harapott, de a végén odanyújtotta a kezét.
 Zinaida megszúrta, s Lusin csakugyan nevetni kezdett... Zinaida is nevetett, meglehetősen mélyre nyomta a tűt, s a szemébe nézett, melyet a doktor hiába próbált jobbra-balra kapni... Legkevésbé azt a kapcsolatot értettem, mely Zinaida és Malevszkij között volt.
 Szép férfi volt, ügyes és okos, de még én, a tizenhat éves fiú is éreztem benne valami bizonytalant, valami hamisat, s csodálkoztam, hogy ezt Zinaida nem veszi észre.
 De az is lehet, hogy észrevette ezt a hamis vonást, s nem idegenkedett tőle.
@@ -595,10 +590,10 @@ Fenn barátságosan kéklett az ég - s én oly szomorú voltam...
 - Olvasson verset nekem - szólalt meg Zinaida halkan, s könyökére támaszkodott.
 - Szeretem, ha verset olvas.
 Éneklő a hangja, de nem baj, fiatalos így.
-Olvassa ezt: „Grúzia halmain”.
+Olvassa ezt: "Grúzia halmain".
 - De előbb üljön le.
 Leültem és felolvastam a verset.
-- „Hogy nem tud szívem nem szeretni” - ismételte meg a sort Zinaida.
+- "Hogy nem tud szívem nem szeretni" - ismételte meg a sort Zinaida.
 - Ezért szép a költészet: arról beszél nekünk, ami nincs, s ami nemcsak hogy különb annál, ami van, de az igazsághoz is hasonlatosabb... Hogy nem tud szívem nem szeretni - nem tud, bárhogy akarja!
 - Megint elhallgatott, s hirtelen megborzongott, és felállt.
 - Menjünk.
@@ -606,15 +601,15 @@ Anyusnál ott ül Majdanov; verset hozott nekem, de otthagytam őt.
 Most ő is el van keseredve... de mit tegyek?
 Maga majd megtudja egyszer... de ne haragudjék reám!
 Zinaida sietve megszorította a kezem, s előreszaladt.
-Visszatértünk a házba, Majdanov elkezdte nyomtatásban épp most megjelent „A gyilkos” című versét felolvasni, de én nem figyeltem rá.
+Visszatértünk a házba, Majdanov elkezdte nyomtatásban épp most megjelent "A gyilkos" című versét felolvasni, de én nem figyeltem rá.
 Éneklő hangon deklamálta négylábú jambusait, váltakozó rímei üresen kopogtak, mint a csörgők, s én csak néztem Zinaidát, s igyekeztem megérteni utolsó szavainak jelen­tését.
 - Vagy tán egy nem sejtett vetélytárs meghódított váratlanul?
 - kiáltott fel hirtelen Majdanov orrhangon -, s a szemem Zinaida szemével találkozott.
 Ő lesütötte a szemét, s gyengén elpirult.
 Láttam, hogy elpirult, s megdermedtem az ijedtségtől.
 Eddig is féltékeny voltam, de csak ebben a pillanatban villant át fejemen a gondolat, hogy szerelmes lett valakibe.
-„Úristen!
-Szerelmes!”
+"Úristen!
+Szerelmes!"
 10
 Igazi szenvedéseim ezzel a pillanattal kezdődtek.
 Törtem a fejem, töprengtem, tűnődtem - s a lehetőség szerint titkon, de állandóan figyeltem Zinaidát.
@@ -623,7 +618,7 @@ Egyedül ment el sétálni, és sokáig elmaradt.
 Néha meg sem jelent, ha vendégek voltak; órákig a szobájában ült.
 Ezt eddig sohasem tette.
 Egyszerre rendkívül éleslátású lettem - vagy csak úgy tetszett nekem?
-- „Ő volna-e vagy nem ő?” - kérdeztem magamban, nyug­talanul futtatva gondolatom egyik hódolójáról a másikra.
+- "Ő volna-e vagy nem ő?" - kérdeztem magamban, nyug­talanul futtatva gondolatom egyik hódolójáról a másikra.
 Malevszkij gróf (bár szégyelltem Zinaida miatt bevallani) titokban a többinél veszélyesebbnek tűnt fel nekem.
 Megfigyelőképességem nem látott tovább az orromnál, zárkózottságom valószínűleg senkit sem tévesztett meg; doktor Lusin mindenesetre hamar átlátott rajtam.
 Különben ő is meg­változott az utóbbi időben, lesoványodott; most is gyakran nevetett, de mélyebb, gonoszabb és rövidebb volt a nevetése.
@@ -729,7 +724,7 @@ szerelmes!
 - kérdezte Malevszkij.
 - Természetesen romantikus modorban, Byron stílusában.
 - Véleményem szerint Hugo különb Byronnál - jegyezte meg hanyagul a fiatal gróf -, érdekesebb.
-- Hugo elsőrangú író - felelte Majdanov -, de Tonkosejev barátom spanyol regényében, az „El Trovador”-ban...
+- Hugo elsőrangú író - felelte Majdanov -, de Tonkosejev barátom spanyol regényében, az "El Trovador"-ban...
 - Á, ez az a könyv, melyben meg vannak fordítva a kérdőjelek?
 - vetette közbe Zinaida.
 - Az.
@@ -747,7 +742,7 @@ Az imént szállt le a nap; az égen hosszú, vörös felhők lebegtek magasan.
 - Mihez hasonlítanak ezek a felhők?
 - kérdezte Zinaida, s meg sem várva feleletünket, ezt mondta: - Szerintem olyanok, mint azok a bíborszínű vitorlák, melyek Kleopátra hajóján feszültek, mikor Antonius felé utazott.
 Emlékszik, Majdanov, maga nemrég beszélt nekem erről.
-Mint Polonius a „Hamlet”-ben, valamennyien kimondtuk, hogy a felhők éppen azokhoz a vitorlákhoz hasonlítanak, s hogy különb hasonlatot senki sem talál közülünk.
+Mint Polonius a "Hamlet"-ben, valamennyien kimondtuk, hogy a felhők éppen azokhoz a vitorlákhoz hasonlítanak, s hogy különb hasonlatot senki sem talál közülünk.
 - És hány éves volt akkor Antonius?
 - kérdezte Zinaida.
 - Bizonyosan fiatal volt még - jegyezte meg Malevszkij.
@@ -755,8 +750,8 @@ Mint Polonius a „Hamlet”-ben, valamennyien kimondtuk, hogy a felhők éppen 
 - Bocsánatot kérek - kiáltott fel Lusin -, túl volt a negyvenen.
 - Túl a negyvenen - ismételte meg Zinaida, gyors pillantást vetve reá.
 Nemsokára hazamentem.
-- „Szerelmes” - suttogtam önkéntelenül.
-- „De kibe?”
+- "Szerelmes" - suttogtam önkéntelenül.
+- "De kibe?"
 12
 Teltek a napok.
 Zinaida egyre különösebb, egyre érthetetlenebb lett.
@@ -801,7 +796,7 @@ Lábbal értem a földet, de a rázkódás olyan erős volt, hogy nem tudtam meg
 Mikor magamhoz tértem, még csukott szemmel, magam mellett éreztem Zinaidát.
 - Kedves gyermekem - mondta fölém hajolva, s nyugtalanság és gyengédség volt a hangjában -, hogy tehetted ezt, hogy engedelmeskedhettél... Hiszen szeretlek... kelj fel.
 A melle az enyém mellett lélegzett, keze megsimogatta fejemet, s hirtelen - mi történt akkor velem!
-- puha, üde szája elkezdte csókkal borítani az arcomat... Megérintette az ajkam... De Zinaida akkor már arcom kifejezéséről bizonyosan megsejtette, hogy magamhoz tértem, bár nem nyitottam ki a szemem - s gyorsan felemelkedve, megszólalt: - „De hát keljen már fel, maga csintalan, esztelen; miért fekszik itt a porban?” - Felemelkedtem.
+- puha, üde szája elkezdte csókkal borítani az arcomat... Megérintette az ajkam... De Zinaida akkor már arcom kifejezéséről bizonyosan megsejtette, hogy magamhoz tértem, bár nem nyitottam ki a szemem - s gyorsan felemelkedve, megszólalt: - "De hát keljen már fel, maga csintalan, esztelen; miért fekszik itt a porban?" - Felemelkedtem.
 - Adja ide a nap­ernyőmet - mondta Zinaida -, látja, hova dobtam; de ne nézzen úgy rám... Micsoda butaság ez?
 Nem sértette meg magát?
 Bizonyosan összecsípte a csalán.
@@ -813,12 +808,12 @@ A csalán összecsípte a kezemet, a hátam sajgott, a fejem szédült, de a bol
 Gyermek voltam még valóban.
 13
 Olyan jókedvű és büszke voltam egész nap, olyan elevenen megőriztem Zinaida csókjait az arcomon, olyan mámoros remegéssel emlékeztem vissza minden szavára, annyira dédelgettem váratlanul jött boldogságomat, hogy már féltem is, látni sem kívántam őt, új érzéseim okozóját.
-Úgy éreztem, nem is kívánhatok többet a sorstól, most „egy nagyot és utolsót kellene sóhajtanom, s utána meghalnom”.
+Úgy éreztem, nem is kívánhatok többet a sorstól, most "egy nagyot és utolsót kellene sóhajtanom, s utána meghalnom".
 Viszont másnap, mikor a szárnyépületbe mentem, nagy zavart éreztem magamban, s hiába próbáltam szerény fesztelenség álarca mögé rejteni, mely illik az olyan emberhez, aki azt akarja értésül adni, hogy nem tud titkot tartani.
 Zinaida nagyon egyszerűen, teljesen nyugodtan fogadott, csak az ujjával fenyegetett meg, s azt kérdezte, nincsenek-e kék foltjaim.
 Szerény fesztelenségem és titokzatosságom, s velük együtt zavarom is egy szempillantás alatt eltűnt.
 Természetesen nem vártam semmi különöst, de Zinaida nyugodtsága hideg zuhanyként hatott reám: megértettem, hogy gyermek vagyok - s nagyon megnehezült a szívem!
-Zinaida fel és alá járt a szobában, s valahányszor rám nézett, mindig gyors mosoly suhant át az arcán; de tisztán láttam, hogy gondolatai messze járnak... „Beszélni kellene vele a tegnapi dologról - gondoltam magamban -, megkérdezni tőle, hogy hova sietett hogy megtudjam végérvényesen...”, de csak legyintettem, s leültem a sarokban.
+Zinaida fel és alá járt a szobában, s valahányszor rám nézett, mindig gyors mosoly suhant át az arcán; de tisztán láttam, hogy gondolatai messze járnak... "Beszélni kellene vele a tegnapi dologról - gondoltam magamban -, megkérdezni tőle, hogy hova sietett hogy megtudjam végérvényesen...", de csak legyintettem, s leültem a sarokban.
 Bejött Belovzorov; örültem neki.
 - Nem találtam magának jó erkölcsű lovat - mondta szigorú hangon.
 - Freitag kezeskednék egyért, de én nem bízom ebben.
@@ -876,12 +871,12 @@ Másnap reggel korán keltem, botot vágtam magamnak, s kimentem a sorompón tú
 Gyönyörű nap volt, napsugaras, de nem túlságosan meleg.
 Vidám, üde szellő járt a föld felett, ritmikusan suhogott és játszadozott, mindent megmozgatott, de semmit sem nyugtalanított.
 Sokáig kószáltam a hegyeken, az erdőkben; nem éreztem boldognak magam, azzal a szándékkal mentem el hazulról, hogy künn átengedem magam a szomorúságnak; de a fiatalság, a csodaszép idő, a friss levegő, a gyors járás öröme, a magányos heverés a sűrű fűben - győzött; felejthetetlen szavainak és csókjainak friss emlékei megint a lelkemben zsongtak.
-Jólesett elgondolnom: mégsem lehet, hogy Zinaida ne szolgáltasson igazságot elszántságomnak, hősiességemnek... „Mások különbek neki - gondoltam -, sebaj!
-De mások csak mondják, hogy tesznek valamit, én pedig tettem... És még mit nem volnék képes tenni érte!...” Fantáziám működni kezdett.
+Jólesett elgondolnom: mégsem lehet, hogy Zinaida ne szolgáltasson igazságot elszántságomnak, hősiességemnek... "Mások különbek neki - gondoltam -, sebaj!
+De mások csak mondják, hogy tesznek valamit, én pedig tettem... És még mit nem volnék képes tenni érte!..." Fantáziám működni kezdett.
 Elképzeltem, hogy mentem ki ellenség kezéből, hogy szabadítom ki, vérem ontásával, a börtönből, hogy halok meg lábainál.
 Eszembe jutott egy kép, mely fogadószobánk falán függött: Malek-Adel elragadja Mathildát... de akkor egy nagy tarka harkály megjelenése kötötte le figyelmemet, mely szorgoskodva kúszott felfelé egy vékony nyírfatörzsön, s nyugtalanul nézegetett ki mögüle, hol jobbra, hol balra, mint egy muzsikus a nagybőgő mögül.
-Aztán dalolni kezdtem: „Nem a fehér hó”... majd rákezdtem az akkoriban jól ismert románcra: „Várlak, mikor csélcsap zefir fuvalma”; aztán hangosan elkezdtem szavalni Homjakov tragédiájából Jermak szózatát a csillagokhoz, megpróbáltam verset költeni szentimentális stílusban, ki is találtam a vers zárósorát: „Ó, Zinaida!
-Zinaida!”, de nem lett a versből semmi, s közben eljött az ebéd ideje.
+Aztán dalolni kezdtem: "Nem a fehér hó"... majd rákezdtem az akkoriban jól ismert románcra: "Várlak, mikor csélcsap zefir fuvalma"; aztán hangosan elkezdtem szavalni Homjakov tragédiájából Jermak szózatát a csillagokhoz, megpróbáltam verset költeni szentimentális stílusban, ki is találtam a vers zárósorát: "Ó, Zinaida!
+Zinaida!", de nem lett a versből semmi, s közben eljött az ebéd ideje.
 Leszálltam a völgybe; keskeny homokos ösvény kígyózott benne a város felé.
 Megindultam az ösvényen... Lópaták tompa dobbanása hallatszott mögöttem.
 Hátranéztem, önkéntelenül megálltam, s levettem a sapkámat: apám volt Zinaidával.
@@ -890,8 +885,8 @@ Apám mondott neki valamit, egész felsőtestével hozzáhajolt, s a ló nyakár
 Előbb csak kettejüket láttam, csak néhány pillanat múlva bukkant fel a völgy kanyarulatából Belovzorov, huszárruhában, mentében, tajtékos fekete paripán.
 A jó paripa rázta a fejét, fújt és táncolt; lovasa hol fékezte, hol sarkantyúzta.
 Félreálltam.
-Apám rövidebbre fogta a gyeplőt, elhajolt Zinaidától; a lány lassan ráemelte szemét - s mind a ketten vágtatni kezdtek... Belovzorov utánuk eredt lovával, kardja csörömpölt... „Vörös, mint a rák - gondoltam magamban -, de Zinaida... miért olyan sápadt?
-egész reggel lovagolt... és sápadt?”
+Apám rövidebbre fogta a gyeplőt, elhajolt Zinaidától; a lány lassan ráemelte szemét - s mind a ketten vágtatni kezdtek... Belovzorov utánuk eredt lovával, kardja csörömpölt... "Vörös, mint a rák - gondoltam magamban -, de Zinaida... miért olyan sápadt?
+egész reggel lovagolt... és sápadt?"
 Meggyorsítottam a lépteimet, s hazaértem, pontosan ebéd előtt.
 Apám már ott ült anyám karosszéke mellett, átöltözve, megmosdva, frissen, s egyenletes, csengő hangján a Journal des Débats tárcáját olvasta fel neki; de anyám különösebb figyelem nélkül hallgatta, s mikor engem meglátott, azt kérdezte, hol voltam egész nap, s hozzátette, hogy nem szereti, ha isten tudja, hol és isten tudja, kivel csatangolok.
 De hiszen egyedül sétálgattam, akartam felelni, de apámra néztem s hallgattam, magam sem tudom, miért.
@@ -899,8 +894,8 @@ De hiszen egyedül sétálgattam, akartam felelni, de apámra néztem s hallgatt
 A következő öt-hat napon alig láttam Zinaidát: azt a hírt terjesztette magáról, hogy beteg, ez azonban nem akadályozta meg látogatóit abban, hogy a szárnyépületben megjelenjenek - ahogy ők mondták: inspekcióra; csak Majdanov nem jött el, mert ő mindjárt elvesztette a kedvét s unatkozott, mihelyt nem volt alkalma elragadtatásba esni.
 Belovzorov komoran ült a sarokban, egészen begombolkozva, kivörösödve; Malevszkij gróf finom arcán állandóan gonosz mosoly bujkált; valóban elvesztette Zinaida kegyét, s különös igyekezettel járt az öreg hercegné kedvében, bérelt kocsiban elvitte a tábornok-kormányzóhoz; ez a kirándulás egyéb­ként rosszul sikerült, s Malevszkijnek kellemetlensége is lett belőle, emlékeztették bizonyos tisztekkel történt esetre - s ő kénytelen volt kijelenteni, hogy akkor még tapasztalatlan volt.
 Lusin kétszer is eljött naponta, de nem sokáig maradt; kissé féltem tőle legutóbbi beszél­getésünk óta, de egyúttal őszinte vonzódást is éreztem iránta.
-Egyszer eljött velem sétálni a Nyeszkucsnij-kertbe, nagyon kedélyes és kedves volt, megismertetett különböző füvek és virágok nevével és tulajdonságaival, s egyszerre - egészen váratlanul - a homlokára ütött s felkiáltott: „Én én, bolond, azt hittem, hogy kacér!
-Úgy látszik, édes feláldozni magunkat másokért.”
+Egyszer eljött velem sétálni a Nyeszkucsnij-kertbe, nagyon kedélyes és kedves volt, megismertetett különböző füvek és virágok nevével és tulajdonságaival, s egyszerre - egészen váratlanul - a homlokára ütött s felkiáltott: "Én én, bolond, azt hittem, hogy kacér!
+Úgy látszik, édes feláldozni magunkat másokért."
 - Mit akar ezzel mondani?
 - kérdeztem.
 - Magának semmit se akarok mondani - felelte Lusin szaggatottan.
@@ -947,9 +942,9 @@ Itt van új tisztségének a jelvénye - tette hozzá, s zekém gomblyukába tű
 - mondta erre Zinaida, s oldalról nézett reám.
 - Milyen jó memóriája van!
 Hiszen én most is kész vagyok... - S hozzám hajolva, tiszta és nyugodt csókot nyomott a homlokomra.
-Csak néztem őt, ő pedig elfordult, és ezt mondta: „apródom, kövessen”, s megindult a szárny­épület felé.
+Csak néztem őt, ő pedig elfordult, és ezt mondta: "apródom, kövessen", s megindult a szárny­épület felé.
 Követtem őt - de még mindig nem értettem a dolgot.
-„Ez a szelíd, meggondolt lány... ugyanaz a Zinaida volna, akit ismertem?” A járását is nyugodtabbnak láttam - s mintha egész alakja fenségesebb és karcsúbb lett volna...
+"Ez a szelíd, meggondolt lány... ugyanaz a Zinaida volna, akit ismertem?" A járását is nyugodtabbnak láttam - s mintha egész alakja fenségesebb és karcsúbb lett volna...
 S Úristen!
 Milyen új erővel lobbant fel bennem a szerelem!
 16
@@ -963,7 +958,7 @@ Többek közt azt javasolta, hogy az, aki záloggal adós, mesélje el egy álm�
 De az ötlet nem vált be.
 Az álmok vagy nem voltak érdekesek (Belovzorov azt álmodta, hogy kárászokkal etette meg a lovát, s hogy a lónak fafeje volt), vagy kitaláltak, nem természetesek voltak... Majdanov egy egész elbeszéléssel traktált meg: voltak benne sírboltok, lantos angyalok, beszélő virágok, messziről szálló hangok.
 Zinaida nem hagyta, hogy befejezze.
-- „Ha már a kitalálásnál tartunk - mondta -, meséljen el mindenki valami teljesen költött esetet.” - Megint Belovzorovnak jutott az elsőség.
+- "Ha már a kitalálásnál tartunk - mondta -, meséljen el mindenki valami teljesen költött esetet." - Megint Belovzorovnak jutott az elsőség.
 A fiatal huszár zavarba esett.
 - Én nem tudok kitalálni semmit!
 - kiáltott fel.
@@ -1006,7 +1001,7 @@ Sok-sok vendég, mind fiatalok, szépek, vitézek, s valamennyien őrülten szer
 - Gyönyörűek.
 De a férfiak valamennyien a királynőbe szerelmesek.
 Magas és karcsú... kis arany diadém van fekete hajában.
-Zinaidára néztem - ebben a pillanatban mindnyájunknál magasabbnak láttam, olyan ragyogó értelem s olyan hatalom áradt fehér homlokáról és mozdulatlan szemöldökéről, hogy ezt gondoltam: „Te magad vagy ez a királynő!”
+Zinaidára néztem - ebben a pillanatban mindnyájunknál magasabbnak láttam, olyan ragyogó értelem s olyan hatalom áradt fehér homlokáról és mozdulatlan szemöldökéről, hogy ezt gondoltam: "Te magad vagy ez a királynő!"
 - Valamennyien körülötte tolonganak - folytatta Zinaida -, s a leghízelgőbb szavakkal áradoznak.
 - És ő szereti a hízelgést?
 - kérdezte Lusin.
@@ -1030,7 +1025,7 @@ Zinaida elhallgatott.
 Zinaida rá sem nézett.
 - És mit tennénk, uraim - szólalt meg hirtelen Lusin -, ha mi is a vendégek közt volnánk, s tudnók, hogy ki az a boldog ember ott a szökőkútnál?
 - Várjon csak, várjon - szakította félbe Zinaida -, magam mondom meg, hogy ki-ki mit tenne maguk közül.
-Maga, Belovzorov párbajra hívná; maga, Majdanov, epigrammát írna róla, különben nem: maga nem tud epigrammát írni; maga hosszú jambikus verset írna Barbier modorában, s megjelentetné alkotásait a „Tyelegraf”-ban.
+Maga, Belovzorov párbajra hívná; maga, Majdanov, epigrammát írna róla, különben nem: maga nem tud epigrammát írni; maga hosszú jambikus verset írna Barbier modorában, s megjelentetné alkotásait a "Tyelegraf"-ban.
 Maga, Nyirmackij, kölcsönkérne tőle... de nem: kölcsönt adna neki kamatra, maga, doktor... - Itt megállt... - No, lám: magáról nem tudom, hogy mit csinálna.
 - Mint udvari orvos - felelte Lusin -, azt tanácsoltam volna a királynőnek, hogy ne adjon bálokat, ha a vendégekkel nem törődik.
 - Lehet, hogy igaza lett volna.
@@ -1064,13 +1059,13 @@ Sokáig nem bírtam elaludni, Zinaida elbeszélése szíven ütött.
 - S kire és mire célozhatott?
 És ha valóban van mire céloznia - hogy szánhatta rá magát?...
 Nem, nem, nem lehet - suttogtam egyik égő orcámról a másikra fordulva... De eszembe jutott, milyen volt Zinaida arckifejezése, míg mesélt... eszembe jutott Lusin felkiáltása a Nyeszkucsnij-kertben, Zinaida hirtelen megváltozása velem szemben - s találgatásokba merültem.
-„Ki lehet?” Ez a homályba írt két szó valósággal ott állt a szemem előtt - mint alacsony, vészjósló felhő függött fölöttem - éreztem a nyomását - s vártam, hogy nemsokára kirobban belőle a vihar.
+"Ki lehet?" Ez a homályba írt két szó valósággal ott állt a szemem előtt - mint alacsony, vészjósló felhő függött fölöttem - éreztem a nyomását - s vártam, hogy nemsokára kirobban belőle a vihar.
 Sok mindenhez hozzászoktam az utóbbi időben, sok mindent láttam Zaszekinéknál; rendetlenségük, a faggyúgyertya-végek, eltört kések és villák, a komor Vonyifatyij, a rongyos szobalányok, a hercegné modora - ez az egész különös élet többé már nem lepett meg.
 De ahhoz, amit most Zinaidában homályosan megsejtettem - nem tudtam hozzászokni... Kalandornő - mondta róla egyszer anyám.
 Kalandornő volna - ő, bálványom, istenségem!
 Ez a név égette a lelkem, próbáltam a párnába menekülni előle, felháborodtam, s ugyanakkor mibe bele nem egyeztem volna, mit nem adtam volna érte, ha én lehettem volna az a boldog ember a szökőkútnál!...
 A vérem forrt és lüktetett.
-- „Kert... szökőkút... - gondoltam... - Gyerünk le a kertbe.” Gyorsan felöltöztem, s kiosontam a házból.
+- "Kert... szökőkút... - gondoltam... - Gyerünk le a kertbe." Gyorsan felöltöztem, s kiosontam a házból.
 Sötét volt az éjjel; a fák alig susogtak; az égbolt felől csendes hűvösség áradt, a konyhakertből kaporszag terjedezett.
 Végigjártam minden fasort; lépteim könnyű nesze hol zavarba ejtett, hol bátorított; megálltam, vártam és hallgattam, hogy dobog a szívem - erősen és gyorsan dobogott.
 Végre a kerítéshez közeledtem, s egy vékony rúdhoz támaszkodtam.
@@ -1116,39 +1111,39 @@ Hálás lesz érte nekem.
 Malevszkij elnevette magát, s hátat fordított.
 Úgy látszik, nem tulajdonított különösebb jelentőséget annak, amit nekem mondott; elsőrangú misztifikátor híre volt, s azt a tehetségét is ismerték, mellyel álarcosbálokon tréfálta meg az embereket, erre pedig az az öntudatlan hamisság képesítette, mellyel át volt itatva az egész egyénisége... Csak ingerelni akart engem; de minden szava méregként áradt szét ereimben.
 A vér az agyamra tódult...
-„Á!
+"Á!
 hát így van!
 - mondtam magamban - jó!
 Tehát nemhiába húzott valami a kertbe!
-Ennek nem szabad megtörténni!” - kiáltottam fel, s öklömmel a mellemre ütöttem, bár tulajdonkép­pen nem tudtam, minek nem szabad megtörténnie.
-- „Talán Malevszkij maga jön a kertbe - gondoltam (talán kifecsegte titkát: elég szemtelen, hogy ezt tegye) -, vagy valaki más (kertünk palánkja nagyon alacsony volt, s könnyűszerrel át lehetett mászni rajta), de jaj lesz annak, aki a kezembe kerül.
+Ennek nem szabad megtörténni!" - kiáltottam fel, s öklömmel a mellemre ütöttem, bár tulajdonkép­pen nem tudtam, minek nem szabad megtörténnie.
+- "Talán Malevszkij maga jön a kertbe - gondoltam (talán kifecsegte titkát: elég szemtelen, hogy ezt tegye) -, vagy valaki más (kertünk palánkja nagyon alacsony volt, s könnyűszerrel át lehetett mászni rajta), de jaj lesz annak, aki a kezembe kerül.
 Senkinek sem ajánlom, hogy ott találkozzék velem!...
-Megmutatom az egész világnak; s neki - az áruló Zinaidának (árulónak neveztem őt), hogy bosszút tudok állni!”
+Megmutatom az egész világnak; s neki - az áruló Zinaidának (árulónak neveztem őt), hogy bosszút tudok állni!"
 Visszatértem a szobámba, elővettem az íróasztalból a nemrég vásárolt angol bicskámat, megtapogattam a penge hegyét, összevontam a szemöldökömet, s olyan hideg és kemény elhatározottsággal dugtam a zsebembe, mintha az ilyesmi nem is volna szokatlan nekem, s mintha nem első ízben tenném.
 Szívem megduzzadt és megkeményedett: késő éjjelig nem simult ki a szemöldököm, s nem nyitottam szét az ajkamat, állandóan fel és alá jártam, zsebemben a megmelegedett kést szorongatva, s valami rettenetesre készültem.
 Ezek az új és szokatlan érzések annyira foglalkoztattak, sőt felvidítottak, hogy tulajdonképpen alig gondoltam Zinaidára.
-Állandóan Aleko, a fiatal cigány járt az eszemben; „... hova, hova szép fiatalember?
-- Feküdj csak...” aztán: „mindent telefröcsköltél vérrel!...
+Állandóan Aleko, a fiatal cigány járt az eszemben; "... hova, hova szép fiatalember?
+- Feküdj csak..." aztán: "mindent telefröcsköltél vérrel!...
 Jaj, mit tettél?...
-Semmit!” Milyen kegyetlen mosollyal ismételtem ezt a szót: semmit!
+Semmit!" Milyen kegyetlen mosollyal ismételtem ezt a szót: semmit!
 Apám nem volt otthon; de anyám, aki egy idő óta majdnem állandó, fojtott ingerültség állapotában volt, figyelni kezdett baljóslatú képemre, s így szólt hozzám vacsora után: - Miért nézel olyan morcosan, mint az egér a kására?
-- Én csak elnézően elmosolyodtam, s feleletül ezt gondoltam magamban: „Ha tudná!” Tizenegyet ütött az óra; szobámba vonultam, de nem feküdtem le; megvártam az éjfélt; végre elütötte a tizenkettőt.
-„Itt az idő!” - suttogtam fogaim közt s állig begombolkozva, sőt kabátujjamat feltűrve, lementem a kertbe.
+- Én csak elnézően elmosolyodtam, s feleletül ezt gondoltam magamban: "Ha tudná!" Tizenegyet ütött az óra; szobámba vonultam, de nem feküdtem le; megvártam az éjfélt; végre elütötte a tizenkettőt.
+"Itt az idő!" - suttogtam fogaim közt s állig begombolkozva, sőt kabátujjamat feltűrve, lementem a kertbe.
 Előre kinéztem volt a helyet, ahol leselkedem: a kert végén, ott, ahol a mi telkünket a Zaszekinéktól elválasztó kerítés egy közös falhoz támaszkodott, magányos fenyőfa volt; lehajló, sűrű ágai alá állva mindent jól láthattam körül, már amennyire az éjjeli homály meg­engedte.
 Ösvény kanyargott arra, melyet mindig titokzatosnak éreztem: kígyószerűen kúszott el a kerítés mellett, átmászás nyomai voltak a kerítésnek ezen a helyén, s onnan kerek, sűrű akáclugashoz vitt az ösvény.
 Elértem a fenyőt, törzsének támaszkodtam, s leskelődni kezdtem.
 Az éjszaka olyan csendes volt, mint a tegnapi; de az égen kevesebb volt a felhő - s a bokrok, sőt a magasabb virágok körvonalai is tisztán látszottak.
 A várakozás első pillanatai gyötrők voltak, szinte rémesek.
 Mindenre elszántam magam, csak azt fontolgattam: hogy járjak el?
-Ezt mennydörögjem: „Hová mész?
+Ezt mennydörögjem: "Hová mész?
 Állj!
-Valld be... vagy meghalsz!” - vagy egyszerűen döfjek... Minden hangot, minden neszt, susogást jelentősnek és szokatlannak éreztem... Készülődtem... Előrehajoltam... De eltelt egy fél óra, el egy óra is: a vérem megcsendesedett, lehűlt; a tudat, hogy hiába teszem ezt, s hogy kissé nevetséges is vagyok, s hogy Malevszkij csak tréfát űzött belőlem - kezdett belopózni a lelkembe.
+Valld be... vagy meghalsz!" - vagy egyszerűen döfjek... Minden hangot, minden neszt, susogást jelentősnek és szokatlannak éreztem... Készülődtem... Előrehajoltam... De eltelt egy fél óra, el egy óra is: a vérem megcsendesedett, lehűlt; a tudat, hogy hiába teszem ezt, s hogy kissé nevetséges is vagyok, s hogy Malevszkij csak tréfát űzött belőlem - kezdett belopózni a lelkembe.
 Elhagytam leshelyemet, s körüljártam az egész kertet.
 Különös volt: sehol a legkisebb neszt sem lehetett hallani; minden elpihent; még a kutyánk is aludt gomolyagba csavarodva a kiskapunál.
 Felmásztam a melegház romjára, magam előtt láttam a távolba futó mezőt, eszembe jutott találkozásom Zinaidával, és elgondolkoztam...
 Megrezzentem... Úgy rémlett, mintha egy kinyílt ajtó csikordulását hallanám, majd egy ketté­törő ág reccsenését... Két ugrással lent termettem a romról - s egészen megdermedtem.
 Könnyű, gyors, de óvatos léptek nesze hallatszott tisztán a kertben... Felém közeledtek.
-„Most itt van... végre itt van!” - dobbant a szívembe.
+"Most itt van... végre itt van!" - dobbant a szívembe.
 Görcsös mozdulattal kihúztam a bicskát a zsebemből, görcsös mozdulattal kinyitottam - vörös szikrák örvénylettek a szememben - az ijedtségtől és dühtől remegett a haj a fejemen... A lépések egészen felém közeledtek - lehajoltam s arra felé húzódtam... Megjelent egy férfi... Úristen!
 az apám volt!
 Azonnal ráismertem., bár teljesen beburkolózott sötét köpenyébe, s a köpenyt az arcára húzta.
@@ -1156,7 +1151,7 @@ Lábujjhegyen haladt el mellettem.
 Nem vett észre, bár semmi sem takart engem, de úgy össze­húztam magam, s úgy összezsugorodtam, hogy úgy látszik, a föld színével voltam egyenlő.
 A féltékeny, gyilkolni kész Othello egyszerre iskolásfiúvá változott.
 Annyira megrémültem apám váratlan megjelenésétől, hogy az első pillanatokban azt sem vettem észre, honnan jött, és merre tűnt el.
-Csak azután egyenesedtem fel, s gondoltam el: „Miért jár az én apám éjjel a kertben” - mikor újra elcsendesült minden körülöttem.
+Csak azután egyenesedtem fel, s gondoltam el: "Miért jár az én apám éjjel a kertben" - mikor újra elcsendesült minden körülöttem.
 Ijedtemben leejtettem a kést a fűbe, de nem is kezdtem keresni; nagyon szégyelltem magam.
 Egy csapásra kijózanodtam.
 Visszatérés közben mégis odamentem a bodzabokor alatt álló kis padhoz, s Zinaida hálószobájának ablaka felé néztem.
@@ -1173,8 +1168,8 @@ Döbbent értetlenség s eddig nem ismert szomorúság váltotta fel - mintha va
 - kérdezte Lusin, mikor találkoztunk.
 Reggelizés közben lopva hol apámra, hol anyámra néztem: apám, szokása szerint, nyugodt volt; anyám, szokása szerint, titkoltan ingerült.
 Vártam, nem szól-e hozzám apám, ahogy néha szokta, barátságosan... De még a mindennapi, hideg nyájasságát sem éreztette velem.
-„Elmondjak mindent Zinaidának?
-- tűnődtem... - De hiszen úgyis mindegy - közöttünk mindennek vége.” Elmentem hozzá, de nemcsak hogy nem szóltam neki arról, de még beszélgetnem sem sikerült vele úgy, ahogy szerettem volna.
+"Elmondjak mindent Zinaidának?
+- tűnődtem... - De hiszen úgyis mindegy - közöttünk mindennek vége." Elmentem hozzá, de nemcsak hogy nem szóltam neki arról, de még beszélgetnem sem sikerült vele úgy, ahogy szerettem volna.
 Szünidőre eljött a herceg­néhez Pétervárról a fia, egy tizenkét éves hadapród; Zinaida tüstént rám bízta az öccsét.
 - Kedves Vologyám (most először nevezett így), itt a kis barátja.
 Őt is Vologyának hívják.
@@ -1200,7 +1195,7 @@ Mozdulatlanul ült vastag posztóból készült, széles aranysújtású, új eg
 - Maradhat, megszoktuk mi ezt, kérem - felelte s köhögött.
 Hasonlított a nénjéhez; különösen a szeme emlékeztetett rá.
 Jólesett, hogy szívességet tehetek a fiúnak, de ugyanakkor az a sajgó szomorúság is emésztette a lelkemet.
-„Most igazán gyerek vagyok - gondoltam -, de tegnap...” Eszembe jutott, hogy tegnap este hol ejtettem el a zsebkésemet, s megkerestem.
+"Most igazán gyerek vagyok - gondoltam -, de tegnap..." Eszembe jutott, hogy tegnap este hol ejtettem el a zsebkésemet, s megkerestem.
 A hadapród elkérte tőlem, letépte egy medvegyökér vastag szárát, sípot vágott belőle, s elkezdett sípolni.
 Othello is belefújt.
 De este ugyanez az Othello, Zinaida kezére borulva sírt, mikor a lány a kert egyik szögletében megtalálta, s megkérdezte tőle: miért olyan szomorú?
@@ -1224,7 +1219,7 @@ Nem akartam tudni, szeretnek-e, s nem akartam bevallani magamnak, hogy nem szere
 Átengedtem magam minden benyomásomnak, s ravasz játékot űztem önmagammal, elfordul­tam emlékeimtől, s behunytam a szemem az előtt, amit előre éreztem... Ez a gyötrelem úgy­sem tarthatott volna sokáig... egy mennykőcsapás egyszerre mindennek véget vetett, s engem új kerékvágásba zökkentett.
 Mikor egyszer hosszabb sétából jöttem meg ebédre, csodálkozással értesültem róla, hogy egyedül ebédelek, apám elutazott, anyám gyengélkedik, nem kívánja az ételt, s bezárkózott a hálószobájába.
 Az inasok arckifejezéséből kitalálhattam, hogy valami egészen rendkívüli történt... Kérdezgetni nem mertem őket, de volt egy barátom, Filipp, a fiatal büféinas, szenvedélyes verskedvelő és gitárjátékos - hozzá fordultam.
-Megtudtam tőle, hogy apám és anyám között borzasztó jelenet játszódott le (a cselédszobában is mindent lehetett hallani az utolsó szóig; sok volt, amit franciául mondtak, de Mása szobalány öt évig egy Párizsból jött varrónőnél szolgált, és mindent megértett); anyám apámnak szemére lobbantotta hűtlenségét, ismeretségét a szomszéd hercegkisasszonnyal, apám eleinte mentegetőzött, aztán fellobbant, s ő is valami kemény szót mondott anyámnak (talán az „évei számáról”), mire anyám sírva fakadt; anyám meg egy váltóról tett említést, melyet állítólag apám az öreg hercegnének adott, s nagyon rossz véleményt mondott róla, de a kisasszonylányáról is, s akkor apám megfenye­gette.
+Megtudtam tőle, hogy apám és anyám között borzasztó jelenet játszódott le (a cselédszobában is mindent lehetett hallani az utolsó szóig; sok volt, amit franciául mondtak, de Mása szobalány öt évig egy Párizsból jött varrónőnél szolgált, és mindent megértett); anyám apámnak szemére lobbantotta hűtlenségét, ismeretségét a szomszéd hercegkisasszonnyal, apám eleinte mentegetőzött, aztán fellobbant, s ő is valami kemény szót mondott anyámnak (talán az "évei számáról"), mire anyám sírva fakadt; anyám meg egy váltóról tett említést, melyet állítólag apám az öreg hercegnének adott, s nagyon rossz véleményt mondott róla, de a kisasszonylányáról is, s akkor apám megfenye­gette.
 - S az egész baj - folytatta Filipp - egy névtelen levéltől eredt, de hogy ezt ki írta - nem lehet tudni; mert különben nem lett volna ok arra, hogy ezek a dolgok kipattanjanak.
 - Hát volt valami?
 - kérdeztem szorongva, s a kezem és lábam közben kihűlt, s legbensőmben valami remegést éreztem.
@@ -1238,8 +1233,8 @@ Minden virágomat egyszerre tépték ki, ott feküdtek körü­löttem szétszó
 Anyám másnap kijelentette, hogy beköltözik a városba.
 Reggel apám bement hozzá a hálószobába, s négyszemközt sokáig együtt maradt vele.
 Senki sem hallotta, mit mondott neki, de anyám már nem sírt; megnyugodott és enni kért, de nem mutatkozott, és nem változtatott az elhatározásán.
-Emlékszem, egész nap kószáltam, de nem mentem a kertbe, s egyszer sem néztem a szárnyépület felé, este azonban csodálatos jelenetnek voltam tanúja: apám Malevszkij grófot karon fogva kivezette a termen át az előszobába, s egy inas jelenlétében hidegen így szólt hozzá: „Pár nappal ezelőtt nagyméltóságodnak ajtót mutattak egy házban, én azonban most nem bocsátkozom itt semmiféle magyarázkodásba, de van szerencsém kijelen­teni, hogy ha még egyszer ide jön hozzám, kihajítom az ablakon.
-Nekem a maga keze írása nem tetszik.” A gróf meghajolt, összeszorította a fogait, összehúzta magát, és elpárolgott.
+Emlékszem, egész nap kószáltam, de nem mentem a kertbe, s egyszer sem néztem a szárnyépület felé, este azonban csodálatos jelenetnek voltam tanúja: apám Malevszkij grófot karon fogva kivezette a termen át az előszobába, s egy inas jelenlétében hidegen így szólt hozzá: "Pár nappal ezelőtt nagyméltóságodnak ajtót mutattak egy házban, én azonban most nem bocsátkozom itt semmiféle magyarázkodásba, de van szerencsém kijelen­teni, hogy ha még egyszer ide jön hozzám, kihajítom az ablakon.
+Nekem a maga keze írása nem tetszik." A gróf meghajolt, összeszorította a fogait, összehúzta magát, és elpárolgott.
 Elkezdődtek az előkészületek a városba, az Arbatra költözésre, ahol házunk volt.
 Való­színűleg apámnak sem volt már kedve vidéken maradni, de úgy látszik, sikerült rávennie anyámat, hogy ne csináljon az esetből nagyobb dolgot; minden csendben ment, sietség nélkül, sőt, anyám üdvözletét küldte a hercegnének és sajnálkozását fejezte ki, hogy gyengélkedése miatt elutazása előtt már nem találkozhat vele.
 Kóboroltam, mint a bolond, s csak egyet kívántam: hogy az egésznek mielőbb vége szakadjon.
@@ -1247,7 +1242,7 @@ Egy gondolat sehogy sem akart kimenni a fejemből: Hogy szánhatta magát ilyen 
 Miben reménykedett?
 Nem félt attól, hogy egész jövőjét elronthatja?
 Igen, gondoltam, ez a szerelem, ez a szenvedély, ez az odaadás... s eszembe jutottak Lusin szavai: édes feláldozni magunkat másokért.
-Egyszer egy halvány foltot láttam a szárnyépület egyik ablakában... „Hátha Zinaida arca?” - gondoltam... s csakugyan az ő arca volt.
+Egyszer egy halvány foltot láttam a szárnyépület egyik ablakában... "Hátha Zinaida arca?" - gondoltam... s csakugyan az ő arca volt.
 Nem bírtam tovább.
 Nem válhattam el tőle úgy, hogy istenhozzádot se mondjak neki.
 Kilestem egy alkalmas pillanatot, s átmentem a szárnyépületbe.
@@ -1255,7 +1250,7 @@ A fogadószobában a hercegné jött elém megszokott, kellemetlenül hanyag kö
 - Mi az, bátyuskám, hát maguknál ilyen korán megbolydultak?
 - kérdezte s közben tubákot tömött mind a két orrlikába.
 Ránéztem s megkönnyebbültem.
-A „váltó” szó, melyet Filipptől hallottam, nagyon megkínzott.
+A "váltó" szó, melyet Filipptől hallottam, nagyon megkínzott.
 A hercegné semmit sem gyanított, legalábbis úgy tetszett nekem akkor.
 Zinaida kijött a szomszéd szobából, fekete ruhában, sápadtan, kibontott hajjal; szótlanul kézen fogott s magával vitt.
 - Hallottam a hangját - szólt -, s azonnal bementem.
@@ -1314,7 +1309,7 @@ Az ilyen história abból lesz, hogy az ember nem tudja idejében rászánni mag
 De maga, úgy látom, szerencsésen kiugrott.
 Vigyázzon, ne kerüljön bele újra.
 Isten vele.
-„Nem kerülök - gondoltam magamban... -, nem látom őt soha többé”; de úgy hozta a sors, hogy még egyszer láttam Zinaidát.
+"Nem kerülök - gondoltam magamban... -, nem látom őt soha többé"; de úgy hozta a sors, hogy még egyszer láttam Zinaidát.
 21
 Apám mindennap kilovagolt; volt egy remek vörössel pettyezett almásszürke, hosszú, vékony nyakú, hosszú lábú angol paripája, fáradhatatlan, gonosz indulatú állat.
 Elektrik volt a neve.
@@ -1346,14 +1341,14 @@ Az utcán, tőlem negyven lépésnyire egy kis faház nyitott ablaka előtt, há
 Megdermedtem.
 Erre, bevallom, semmiképpen sem számítottam.
 Először el akartam futni onnan.
-„Apám hátranéz - gondoltam magamban -, s én elvesztem”, de egy különös érzés, mely erősebb volt a kíváncsiságnál, sőt a féltékenységnél is, erősebb a félelemnél - vissza­tartott.
+"Apám hátranéz - gondoltam magamban -, s én elvesztem", de egy különös érzés, mely erősebb volt a kíváncsiságnál, sőt a féltékenységnél is, erősebb a félelemnél - vissza­tartott.
 Nézni kezdtem, s feszülten figyelve hallgatóztam.
 Mintha apám nagyon erősködött volna.
 Zinaida hangjában vonakodás volt.
 Még most is látom az arcát - bánatos, komoly szép arc volt, odaadás, bú, szerelem és kétségbeesés tükröződött rajta - más szót nem találok a kifejezésére.
 Egy-egy kurta szóval felelgetett, nem emelte fel a szemét, csak el-elmosolyodott - alázatosan, de makacsul.
 Egyik ilyen mosolyáról megismertem az én régi Zinaidámat.
-Apám vállat vont, s megigazította fején a kalapot - ami mindig a türelmetlenség jele volt nála... Aztán ilyen szavakat hallottam: „vous devez vous séparer de cette...”10 Zinaida kiegyene­sedett és kinyújtotta a karját.
+Apám vállat vont, s megigazította fején a kalapot - ami mindig a türelmetlenség jele volt nála... Aztán ilyen szavakat hallottam: "vous devez vous séparer de cette..."10 Zinaida kiegyene­sedett és kinyújtotta a karját.
 Egyszerre számomra hihetetlen dolog történt a szemem láttára: apám hirtelen felemelte a korbácsot, mellyel kabátja szárnyáról a port veregette le - s éles csapást hallottam, mely a könyökig mezítelen kart érte.
 Kishíján felkiáltottam.
 Zinaida meg­remegett, szótlanul nézett apámra, lassan ajkához emelte karját, s megcsókolta a rajta piro­sodni kezdő sebcsíkot.
@@ -1384,16 +1379,16 @@ Apám gyors pillantást vetett rám.
 - Nem vesztettem el - felelte -, eldobtam.
 Elgondolkozott és lehajtotta a fejét... s akkor először s alighanem utoljára láttam, mennyi gyengédséget és sajnálkozást tudtak kifejezni szigorú vonásai.
 Megint vágtatni kezdett, s már nem tudtam utolérni; negyedórával később érkeztem haza.
-„Lám, ez a szerelem - tűnődtem újra magamban, mikor éjjel ott ültem az íróasztalomnál, melyen már kezdtek gyülekezni a füzetek és könyvek -, ez a szenvedély!
+"Lám, ez a szerelem - tűnődtem újra magamban, mikor éjjel ott ültem az íróasztalomnál, melyen már kezdtek gyülekezni a füzetek és könyvek -, ez a szenvedély!
 Hogy lehet fel nem háborodni, ha bárkitől ered is az ütés, ha még oly kedves kéztől is!
-Úgy látszik, ez is lehetséges, ha valaki szeret... Én pedig... én pedig azt képzeltem...”
+Úgy látszik, ez is lehetséges, ha valaki szeret... Én pedig... én pedig azt képzeltem..."
 Az utóbbi hónapban sokat öregedtem - s szerelmem, minden izgalmával és szenvedésével kicsinyesnek, gyerekesnek és szánalmasnak tetszett nekem magamnak is ahhoz a más, nem ismert valamihez mérten, melyről sejtelem is alig élt bennem, s mégis ijesztett, mint egy ismeretlen, szép és fenyegető arc, melyet hiába törekszünk felismerni a félhomályban...
 Különös és borzalmas álmot láttam ezen az éjjel.
 Ezt álmodtam: belépek egy sötét, alacsony szobába... Apám ott áll, korbács a kezében, dobbant; Zinaida a sarokba húzódott, s nem a kar­ján, hanem a homlokán van a piros csík... mögöttük vérbe borulva felemelkedik Belovzo­rov, szétnyitja sápadt ajkait, s haragosan megfenyegeti apámat.
 Két hónappal később beiratkoztam az egyetemre, fél év múlva meghalt apám (szélütésben) Pétervárt, ahova rövid idővel azelőtt költözött át anyámmal és velem.
 Néhány nappal halála előtt levelet kapott Moszkvából, amely rendkívül felizgatta.
 Odament anyámhoz, és kérte valamire, s azt mondják, sírt is, az én apám!
-Annak a napnak a reggelén, amelyen a szélütés érte, levelet kezdett írni nekem: „Fiam - írta -, félj a női szerelemtől, félj ettől a boldogságtól, ettől a méregtől...” Halála után anyám meglehetősen nagy összeg pénzt küldött Moszkvába.
+Annak a napnak a reggelén, amelyen a szélütés érte, levelet kezdett írni nekem: "Fiam - írta -, félj a női szerelemtől, félj ettől a boldogságtól, ettől a méregtől..." Halála után anyám meglehetősen nagy összeg pénzt küldött Moszkvába.
 22
 Négy esztendő telt el.
 Nemrég végeztem el az egyetemet, s nem tudtam még határozottan, mit kezdjek magammal, melyik ajtón kopogtassak; egyelőre csak lézengtem dologtalanul.
@@ -1417,15 +1412,15 @@ Menjen el hozzá: nagyon fog örülni magának.
 Még szebb lett azóta.
 Majdanov ideadta Zinaida címét.
 A Demut-szállóban lakott.
-A régi emlékek feltolultak bennem, s megfogadtam, hogy másnap meglátogatom egykori „bálványomat”.
+A régi emlékek feltolultak bennem, s megfogadtam, hogy másnap meglátogatom egykori "bálványomat".
 De bizonyos dolgok közbejöttek; eltelt egy hét, el kettő, s mikor végre elmentem a Demut-szállóba, s ott érdeklődtem Dolszkaja asszony iránt, megtudtam, hogy négy nappal azelőtt, egészen hirtelen, szülésben meghalt.
 Mintha szíven ütött volna valami.
 Az a gondolat, hogy láthattam volna, és nem láttam s már többé sohasem is látom - ez a keserű gondolat a legyőzhetetlen önvád egész erejével belefúrta magát a lelkembe.
-„Meghalt!”, ismételtem a szót, bárgyún nézve a portásra, tétován kimentem az utcára, s elindultam, de nem tudtam, hova.
+"Meghalt!", ismételtem a szót, bárgyún nézve a portásra, tétován kimentem az utcára, s elindultam, de nem tudtam, hova.
 Az egész múlt egyszerre felmerült, s ott élt előttem.
 Hát ide torkollott, ilyen vég felé törekedett, sietve és nyugtalanul, ez a fiatal, forró és ragyogó élet!
 Ezt gondoltam s elképzeltem azokat a drága vonásokat, azokat a szemeket, fürtöket - egy szűk koporsóban, a nyirkos föld alatti homályban, ott, nem is messze tőlem - aki még egyelőre élek - s lehet, hogy csak néhány lépésnyire apámtól... Ezt gondoltam, megfeszí­tettem képzelőerőmet, s aközben ez a két sor csengett vissza a lelkemben:
-Közömbös szájból hallottam halálhírt, 
+Közömbös szájból hallottam halálhírt,
 s közömbösen fogadtam én...
 Ó, ifjúság!
 ifjúság!
@@ -1440,4 +1435,3 @@ Emlékszem, néhány nappal azután, hogy Zinaida haláláról értesültem, ell
 Rongyokkal takarva, durva deszkákon, feje alatt zsákkal, nehezen és küzdel­mesen múlt ki.
 Egész élete keserű harc volt a mindennapos nyomorúsággal, örömet nem látott, a boldogság mézét nem ízlelte meg - nem kellett volna-e hát örülnie a halálnak, a halál adta szabadságnak és nyugalomnak?
 S mégis, amíg a vén test még makacskodott, amíg a mell még kínosan emelkedett a ránehezedő, jegesre dermedő kéz alatt, míg az utolsó ereje el nem hagyta - az öregasszony állandóan vetette a keresztet, s szüntelenül ezt suttogta: Uram, bocsásd meg a vétkeimet - s csak öntudatának utolsó szikrájával tűnt el szeméből a vég szorongása és rémülete... S emlékszem, ott, ennek a szegény öregasszonynak a halálos ágya mellett szorongó aggódás töltött el Zinaidáért, s szerettem volna imádkozni érte, apámért és önmagamért.
-.oOo.

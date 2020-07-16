@@ -1,32 +1,6 @@
-﻿
-JAMES JOYCE
-Dublini emberek 
-(novellák)
-
-Fordította: Papp Zoltán
-A verseket fordította: Gergely Ágnes
-
-
-
-TARTALOM
+﻿JAMES JOYCE
+Dublini emberek
 NŐVÉREK
-TALÁLKOZÁS
-ARÁBIA
-EVELINE
-VERSENY UTÁN
-KÉT ÚRFIAK
-KOSZT ÉS KVÁRTÉLY
-FUTÓ ÁRNYÉK
-ELLENFELEK
-AGYAG
-SAJNÁLATOS ESET
-BOROSTYÁN-NAP AZ ÜLÉSTEREMBEN
-ANYA
-KEGYELEM
-A HOLTAK
-FÜGGELÉK
-<SPAN class="ford">
-NŐVÉREK 
 Semmi sem menthette már meg: a harmadik szélütés érte.
 Éjszakáról éjszakára a ház előtt kódo­rog­tam (szünidő volt), és az ablak világos négyszögét lestem, és éjszakáról éjszakára ugyanolyan volt a világítás: egyenletes és erőtlen.
 Ha már meghalt volna, gondoltam, látnám a sötét redőnyön átszűrődő gyertyafényeket, mert annyit már tudtam, hogy a holttest fejéhez két gyertyát szoktak állítani.
@@ -37,15 +11,15 @@ Különös hangzású szó, akár a gnómon Euklidészben vagy a simónia a kate
 Most pedig éppenséggel valami gonosz és bűnös lény nevét jelentette.
 Félelemmel töltött el, mégis vágytam rá, hogy a közelébe férkőzzem, és szemügyre vegyem halálos munkáját.
 Cotter apó a tűz mellett ült, és fújta a füstöt, mikor lejöttem a vacsorához.
-És míg nagynéném a zabkását merte a tányéromba, ő, mintha előbbi gondolatait fűzné tovább, így beszélt: 
-- Nem, hát azért nem mondanám, hogy éppenséggel... de mégis: volt valami furcsa benne... valami hátborzongatóan furcsa... Véleményem szerint... 
+És míg nagynéném a zabkását merte a tányéromba, ő, mintha előbbi gondolatait fűzné tovább, így beszélt:
+- Nem, hát azért nem mondanám, hogy éppenséggel... de mégis: volt valami furcsa benne... valami hátborzongatóan furcsa... Véleményem szerint...
 Hatalmas füstfelhőt fújt ki pipájából, kétségkívül azért, hogy közben megfogalmazza véle­mé­nyét.
 Fárasztó vén bolond!
 Mikor megismerkedtünk vele, még nagyon szórakoztatónak tartottam, hogy szeszgőzökről meg hűtőcsövekről beszél; de aztán hamar meguntam szeszfőzdékről szóló végtelen történeteit.
 - Én, kérem alássan, másképp látom - folytatta.
-- Azt hiszem, egyike volt a... különleges eseteknek... De hát nehéz erről beszélni... 
+- Azt hiszem, egyike volt a... különleges eseteknek... De hát nehéz erről beszélni...
 Újabb füstfelhők jöttek a pipából, anélkül, hogy részletesebben kifejtette volna, hogy látja.
-Nagybátyám, látva bámész mozdulatlanságomat, így szólt hozzám: 
+Nagybátyám, látva bámész mozdulatlanságomat, így szólt hozzám:
 - Nos, öreg barátod itt hagyott.
 Szomorú, mi?
 - Kicsoda?
@@ -78,7 +52,7 @@ Nagynéném levette a tálat az ételszekrényről, és az asztalra tette.
 - De miért gondolja, hogy nem tesz jót a gyereknek, Mr. Cotter?
 - kérdezte.
 - Nem tesz jót - hangzott a válasz -, mert a gyermekagy nagyon fogékony.
-Ha a gyermekek olyasmit látnak... tudja... feltétlenül hatással van... 
+Ha a gyermekek olyasmit látnak... tudja... feltétlenül hatással van...
 Teletömtem a számat zabkásával, mert attól féltem, kitör belőlem a düh.
 Unalmas, vén, vörös orrú hülye!
 Nagyon későn aludtam el.
@@ -97,7 +71,7 @@ Most fatáblák fedték az ablakot, a feliratot is eltakarták.
 Az ajtókoppantóra valaki művirágcsokrot erősített, fekete gyászszalaggal átkötve.
 Két szegényesen öltözött asszony és egy kis sürgönypostás ácsorgott előtte, és betűzték a szalagra gombostűzött kártya szövegét.
 Én is odamentem.
-Ez állt rajta: 
+Ez állt rajta:
 1895. július 1.
 James Flynn Tisztelendő Úr
 (korábban a Meath utcai Szent Katalin-templom plébánosa),
@@ -154,7 +128,7 @@ Erőnek erejével belém akart tömni néhány puszedlit is, de szabadkoztam, me
 Visszautasításom láthatólag kiábrándította, csöndesen a díványhoz surrant, és leült a nővére háta mögött.
 Senki sem beszélt: mindnyájan az üres kandallót bámultuk.
 Nagynéném megvárta, amíg Eliza felsóhajt.
-Akkor így szólt: 
+Akkor így szólt:
 - Hát igen, elment tőlünk egy jobb világba.
 - Eliza megint sóhajtott, és megadóan hajtotta le fejét.
 Nagynéném kissé megpöckölte borospohara talpát, mielőtt kortyintott.
@@ -171,7 +145,7 @@ Gyönyörű halála volt, Istennek hála.
 Egészen olyan, mondta, mintha aludna, olyan nyugodt és békés.
 Senki sem hitte volna, hogy ilyen szép halott lesz belőle.
 - Valóban - helyeselt nagynéném.
-Még egy kicsit kortyintott poharából, aztán így szólt: 
+Még egy kicsit kortyintott poharából, aztán így szólt:
 - Nos, Flynn kisasszony, mindenesetre önnek tiszta lehet a lelkiismerete, ön mindent megtett érte, ami egyáltalán lehetséges.
 Önök mindketten nagyon gyengédek voltak hozzá, meg kell mondanom.
 Eliza lesimította a térdén ruháját.
@@ -197,7 +171,7 @@ Az ember tudja, hogy eltávozott... ennyi az egész.
 - Tudom - felelte Eliza.
 Nem fogom többé behozni neki az erőlevest, és ön, asszonyom, nem fog neki tubákot küldeni.
 Ó, szegény James!
-Megállt, mintha a múlttal vitázna, aztán felcsattant a hangja: 
+Megállt, mintha a múlttal vitázna, aztán felcsattant a hangja:
 - Tudja, megfigyeltem az utóbbi időben rajta valami különöset.
 Valahányszor a levesét behoztam, hátraesve találtam őt a székén, nyitott szájjal, breviáriuma a padlón.
 Ujját végighúzta az orrán, szemöldökét összemorcolta, aztán tovább beszélt.
@@ -216,14 +190,14 @@ Ez lerítt róla.
 Csönd borult a kis szobára.
 Leple alatt az asztalhoz léptem, megízleltem sherrymet, és halkan visszamentem székemhez, a sarokba.
 Eliza mélységes álmodozásba hullott.
-Tiszteletteljesen vártuk, hogy megtörje a csendet: hosszú hallgatás után lassan indultak meg szavai: 
+Tiszteletteljesen vártuk, hogy megtörje a csendet: hosszú hallgatás után lassan indultak meg szavai:
 - Amikor összetörte a kelyhet... Ezzel kezdődött minden.
 Persze, azt mondják, nem számít, úgy értem, nem volt benne semmi.
 De mégis... Azt mondják, a fiú volt a hibás.
 De szegény James olyan ideges volt, Isten legyen irgalmas hozzá!
 - Hát az volt?
 - kérdezte nagynéném.
-- Hallottam valamit... 
+- Hallottam valamit...
 Eliza bólintott.
 - Ez aztán ráment az agyára.
 Csak búslakodott magában, senkihez nem szólt egy árva szót sem, és magában bolyongott.
@@ -235,8 +209,8 @@ Hirtelen elhallgatott, mintha fülelne.
 Én is füleltem; de egyetlen hang sem hallatszott a házban: és én tudtam, hogy az öreg pap nyugodtan fekszik a koporsójában, ahogy láttuk, ünnepélyesen és halálba-durvultan, mellén az ásító kehellyel.
 - És halkan nevetgélt, magában.
 - folytatta Eliza révetegen.
-- Így aztán persze, mikor ezt meglátták, mind arra gondoltak, hogy valami nincs nála rendben... 
-TALÁLKOZÁS 
+- Így aztán persze, mikor ezt meglátták, mind arra gondoltak, hogy valami nincs nála rendben...
+TALÁLKOZÁS
 Joe Dillon hozta közénk a Vadnyugatot.
 Volt egy kis könyvtára a Brit Oroszlán, a Bátorság és a Félpennys Csoda régi számaiból.
 Iskola után, esténként házuk mögött találkoztunk, a kertben, és minden este indiáncsatát rendeztünk.
@@ -245,7 +219,7 @@ De bár­milyen ügyesen harcoltunk is, sem ostromot, sem ütközetet soha meg n
 Szülei minden reggel eljártak a nyolcórai misére, a Gardiner utcai templomba.
 Házukban szelíd illat lengett, amely Dillonné lényéből áradt.
 Joe azonban tomboló vadsággal vetette magát a játékba, ellenünk, akik fiatalabbak és szelídebbek voltunk.
-Volt benne valami igazi indián, ahogy ócska teababa-fejdíszével körülszáguldozott a kertben és rikoltozott, öklével döngetve egy lyukas fazekat: 
+Volt benne valami igazi indián, ahogy ócska teababa-fejdíszével körülszáguldozott a kertben és rikoltozott, öklével döngetve egy lyukas fazekat:
 - Ya!
 Yaka, yaka, yaka!
 Amikor elterjedt a híre, hogy hivatást érez a papi pálya iránt, senki sem hitte el.
@@ -260,9 +234,9 @@ Egyik nap, amikor Butler atya éppen a római történelem szokásos négy passz
 Hányadik oldalon?
 Itt?
 Na, Dillon, gyere ki!
-„Alighogy felvirradt...” - Folytasd!
+"Alighogy felvirradt..." - Folytasd!
 Mi virradt fel?
-„Alighogy felvirradt a regg...” - Készültél?
+"Alighogy felvirradt a regg..." - Készültél?
 Mi az ott a zsebedben?
 Szívünk beleremegett, amikor Leo Dillon felmutatta a könyvet, és mindnyájan ártatlan képet vágtunk.
 Butler atya vészjósló tekintettel lapozott bele.
@@ -275,7 +249,7 @@ Meg ne lássak még egyszer ilyen szemetet itt a kollégiumban!
 Írója biztosan valami felelőtlen elem, aki azért írja ezeket, hogy legyen miből leinnia magát.
 Meg vagyok döbbenve, hogy ti, jól nevelt gyerekek, ilyesmit olvastok.
 Meg tudnám érteni, ha mondjuk... állami iskolába járnátok.
-Hanem, Dillon, erősen a figyelmedbe ajánlom, láss munkához, mert... 
+Hanem, Dillon, erősen a figyelmedbe ajánlom, láss munkához, mert...
 Ez a rendreutasítás, az iskola józan légkörében, alaposan megsápasztotta a Vadnyugat glóriáját, és Leo Dillon zavart, pufók arca lelkiismeretemet ébresztgette.
 De amikor az iskola erkölcsi befolyásától bizonyos távolságra kerültem, ismét feltámadt bennem a szomjúság a vad szenvedélyek, az elvágyódás izgalma után, amelyet, úgy látszik, a zűrzavar e krónikái tudtak csak kielégíteni.
 Az esti jelképes csaták végül éppoly terhesek lettek számomra, mint délelőtt a megszokott iskolai unalom, mert valódi kalandokra éheztem, amelyeknek én vagyok a hőse.
@@ -289,7 +263,7 @@ A Wharf Roadon akartunk lemenni a kikötőig, utána át a kompon, ki a Galambh�
 Leo Dillon aggályoskodott, hogy esetleg találkozhatunk Butler atyával vagy a kollégiumból valakivel; mire Mahony nagyon okosan, megkérdezte, mit keresne Butler atya kinn a Galambháznál.
 Megnyugodtunk, és az összeesküvés első szakaszát lezártam azzal, hogy beszedtem tőlük a hatpennyket, ugyanakkor felmutattam a magamét.
 Azon az estén, amikor a végső előkészületeket megtettük, bizonytalan izgalomban váltunk el.
-Kezet ráztunk, nevettünk, és Mahony azt mondta: 
+Kezet ráztunk, nevettünk, és Mahony azt mondta:
 - Viszlát, cimborák!
 Akkor éjjel rosszul aludtam.
 Reggel, minthogy legközelebb laktam, elsőnek értem a hídhoz.
@@ -305,7 +279,7 @@ Csúzliját, mely kiágaskodott belső zsebéből, előhúzta, és elmagyarázot
 Érdeklő­dé­semre, hogy miért hozta magával, azt válaszolta, hogy a madarak között akar egy kis zrít csapni.
 Mahony természetes könnyedséggel használt csibész szavakat, és Butler atyát megejtő közvet­lenséggel Bütyöknek hívta.
 Várakoztunk még egy negyedóráig, de Leo Dillonnak nyoma sem volt.
-Végül Mahony leugrott és kijelentette: 
+Végül Mahony leugrott és kijelentette:
 - Tudtam, hogy a Dagi bemajrézik!
 Gyerünk!
 - És a hat pennyje...?
@@ -333,7 +307,7 @@ Amikor partra értünk, megnéztük, hogyan rakják ki azt a kecses háromárboc
 Egy őgyelgő megjegyezte, hogy norvég hajó.
 Hátramentem a farához, és megpróbáltam kibetűzni a feliratot, de nem sikerült; visszamentem tehát, és szemügyre vettem az idegen matrózokat, azt vizsgálgatva, melyiknek van zöld szeme, mert valamit zavarosan elképzeltem.
 A matróz­szemek kékek, szürkék, sőt feketék voltak.
-Egy hosszú matróz, az egyetlen, akire rá lehetett volna fogni, hogy zöld szeme van, azzal szórakoztatta a rakparton ácsorgókat, hogy valahányszor lezuhantak a deszkák, vidáman felkiáltott: 
+Egy hosszú matróz, az egyetlen, akire rá lehetett volna fogni, hogy zöld szeme van, azzal szórakoztatta a rakparton ácsorgókat, hogy valahányszor lezuhantak a deszkák, vidáman felkiáltott:
 - Csak apróra!
 Mikor ezt is meguntuk, lassan Ringsend felé bandukoltunk.
 Fülledtté vált a levegő, és a szatócsboltok kirakataiban fakón hevertek a penészes kétszersültek.
@@ -362,7 +336,7 @@ Az ember legboldogabb évei kétségtelenül az iskolaévek, mondta, és mindent
 Kissé untatott bennünket, hallgattunk.
 Aztán iskoláról és könyvekről kezdett beszélni.
 Érdeklődött, hogy olvastuk-e Thomas Moore verseit és Lord Lytton és Sir Walter Scott műveit.
-Úgy tettem, mintha minden könyvet, amelyet említett, olvastam volna, úgyhogy a végén azt mondta: 
+Úgy tettem, mintha minden könyvet, amelyet említett, olvastam volna, úgyhogy a végén azt mondta:
 - Látom, te is olyan könyvmoly vagy, akárcsak én.
 De - tette hozzá Mahonyra mutatva, ki kerekre nyílt szemmel hallgatott bennünket - ő másféle; az ő eleme a játék.
 Mahony megjegyezte, hogy neki megvannak otthon Sir Walter Scott és Lord Lytton összes művei, és hogy soha meg sem próbálta elolvasni őket.
@@ -391,10 +365,10 @@ Makacsul lefelé bámul­tam a lejtőn és hallgattam.
 Nagysokára monológja megszakadt.
 Lassan felállt, pár percre magunkra hagy, mondta, pár percre csak, és láttam, anélkül, hogy pillantásom elvettem volna előbbi tárgyáról, hogy lassan a rét közeli széle felé megy.
 Csendben maradtunk, amikor elment.
-Pár percnyi csend után Mahony felkiáltott: 
+Pár percnyi csend után Mahony felkiáltott:
 - Odanézz!
 Nézd, mit csinál!
-Nem válaszoltam, szemem se rebbent, és Mahony újra fölkiáltott: 
+Nem válaszoltam, szemem se rebbent, és Mahony újra fölkiáltott:
 - Odanézz... A mocskos vén hülye!
 - Ha a nevünket kérdezi - mondtam -, légy te Murphy, én meg Smith.
 Semmi mást nem mondtunk egymásnak.
@@ -420,18 +394,18 @@ Ha valaha meglát egy fiút lánnyal beszélgetni, vagy megtudja, hogy szerelme 
 És ha van szerelme, és mindenfélét összehazudozik róla, akkor olyan verést kap tőle, amilyent még nem kapott gyerek a földön.
 Nincs a világon semmi, amit ennyire szeretne.
 Mintha egy bonyolult rejtélyt tárna fel előttem, úgy részletezte, hogy hogyan vesszőzne meg egy ilyen fiút.
-Nagyon szeretné, mondta, jobban, mint akármit ezen a földön; és hangja, ahogy monoton zenéjével beavatott a rejtélybe, csaknem szenvedélyessé forrósodott, mintha arra akart volna rávenni, hogy én is úgy érezzek, mint ő. 
+Nagyon szeretné, mondta, jobban, mint akármit ezen a földön; és hangja, ahogy monoton zenéjével beavatott a rejtélybe, csaknem szenvedélyessé forrósodott, mintha arra akart volna rávenni, hogy én is úgy érezzek, mint ő.
 Vártam, amíg monológja ismét megszakad, akkor váratlanul talpra ugrottam.
 Nehogy izgatottságomat eláruljam, pár pillanatig késlekedtem, úgy tettem, mintha a cipőmön lenne valami igazítani való, aztán - mennem kell - mondtam és elköszöntem.
 Nyugodtan elindultam felfelé a lejtőn, de szívem gyorsan vert a félelemtől, hogy hátha bokáimnál fogva megragad.
-Mikor felértem a part szélére, rá sem pillantottam, csak hangosan átkiáltottam a réten: 
+Mikor felértem a part szélére, rá sem pillantottam, csak hangosan átkiáltottam a réten:
 - Murphy!
 Hangomban erőszakolt bátorság reszketett, és szégyelltem átlátszó hadicselemet.
 Mahony csak második kiáltásomra figyelt fel, és akkor kurjantott vissza.
 Hogy vert a szívem, amint rohanva jött felém, át a réten!
 Úgy rohant, mintha segítséget hozna.
 Én pedig bűnbánatot éreztem, mert szívem mélyén mindig megvetettem egy kicsit.
-ARÁBIA 
+ARÁBIA
 Azoknak az óráknak a kivételével, amikor a szomszédos Ír Keresztény Testvérek iskolájából kiszabadultak a gyerekek, a North Richmond zsákutcában csend szunyókált.
 Négyszögletes térség közepén, szomszédaitól külön rekesztve egy lakatlan, kétemeletes ház zárta le az utca végét.
 Az utca többi háza rendületlen, barna arccal nézett egymásra, abban a tudatban, hogy falaik közt tisztességes élet folyik.
@@ -464,7 +438,7 @@ Nap mint nap így ismétlődött.
 Sohasem beszélgettem vele, csak egy-két tétova szót, mégis, bolondul, nevét csobogta minden cseppnyi vérem.
 Képe kísértett a legköznapibb helyeken is.
 Szombat délutánokon, amikor nagynéném vásárolni ment, a csomagokat nekem kellett hazavinnem.
-Jártuk a tarka utcákat; részeg emberek, alkudozó asszonyok lökdöstek bennünket káromkodó munkások és kifutófiúk fülhasogató kántálása közt, akik malacfejekkel teli hordó mellett őrködtek, utcai énekesek orrhangú danája közt, akik O’Donovan Rossáról énekeltek egy „gyertek-ide-mindahányan”-t, vagy éppen balladát hazánk szomorú napjaiból.
+Jártuk a tarka utcákat; részeg emberek, alkudozó asszonyok lökdöstek bennünket káromkodó munkások és kifutófiúk fülhasogató kántálása közt, akik malacfejekkel teli hordó mellett őrködtek, utcai énekesek orrhangú danája közt, akik O’Donovan Rossáról énekeltek egy "gyertek-ide-mindahányan"-t, vagy éppen balladát hazánk szomorú napjaiból.
 Ezek a zajok egyetlen életérzéssé futottak össze bennem: úgy éreztem, emelt fővel vágok át az ellenség falán.
 Furcsa imák és litániák, amelyeket magam sem értettem, minduntalan nevét sodorták ajkamra.
 Szememet gyakran fátyolozta könny (nem tudtam okát adni, miért), szívem annyira tele volt, hogy sokszor úgy éreztem, mellembe zubog a tartalma.
@@ -476,8 +450,8 @@ A törött ablakon át hallottam a vízcseppek kopogását, és amint az eső v�
 Egy távoli lámpa, talán kivilágított ablak, villant csak fel.
 Hálát adtam, hogy ilyen keveset látok.
 Minden érzékem fátyolba burkolózni vágyott, mintha érezték volna, hogy menekülni akarok tőlük.
-Összeszorítottam tenyeremet, olyan erővel, hogy bele­remegtem, és „Szerelem!
-Ó, szerelem!” suttogtam nagyon sokszor.
+Összeszorítottam tenyeremet, olyan erővel, hogy bele­remegtem, és "Szerelem!
+Ó, szerelem!" suttogtam nagyon sokszor.
 Végre mégis szólt hozzám.
 Amikor először megszólított, annyira zavarban voltam, hogy nem tudtam mit válaszolni.
 Azt kérdezte, nem megyek-e Arábiába.
@@ -506,7 +480,7 @@ Kószáló gondolataimat nem tudtam összeszedni.
 Alig volt türelmem megbirkózni az élet komoly munkájával.
 Most, hogy közém és vágyaim közé állt, számomra nem volt más, mint gyerekjáték, csúf, egyhangú gyerekjáték.
 Szombat délelőtt emlékeztettem nagybátyámat, hogy estére a bazárba szeretnék menni.
-A ruhafogasnál motozott, a ruhakefét kereste, és röviden csak ennyit mondott: 
+A ruhafogasnál motozott, a ruhakefét kereste, és röviden csak ennyit mondott:
 - Igen, fiam, tudom.
 Minthogy ott volt az előszobában, nem juthattam be az utcai szobába, hogy az ablakhoz feküdjek.
 Éreztem, hogy otthon rossz a hangulat, és lassan elballagtam az iskolába.
@@ -525,7 +499,7 @@ Egy zálogháztulajdonos özvegye, öreg, bőbeszédű asszony, és bélyeget gy
 A teánál el kellett viselnem a pletykálást.
 Az étkezés jó egy óráig nyúlt, nagybátyám még mindig nem jött.
 Mercerné felállt, hogy ő megy, sajnos nem várakozhat tovább, nyolc óra elmúlt, és ő nem maradhat későig, mert az éjszakai levegő nem tesz jót neki.
-Amikor elment, fel-alá kezdtem sétálni a szobában, ökölbe szorított kézzel: 
+Amikor elment, fel-alá kezdtem sétálni a szobában, ökölbe szorított kézzel:
 - Attól tartok, le kell tenned a bazárlátogatásról Urunknak ezen a szent estéjén - jegyezte meg nagynéném.
 Kilenc órakor meghallottam, hogy nagybátyám kulcsaival csörömpöl az előszobában.
 Behallat­szott, ahogy morog magában, és reccsen a ruhafogas télikabátjának súlya alatt.
@@ -534,11 +508,11 @@ Mikor vacsorája közepén tartott, megkértem, adja ide a pénzt, hogy elmehess
 Már elfelejtette.
 - Mások ilyenkor ágyban vannak, és már a másik oldalukra is fordultak - válaszolta.
 Komoran hallgattam.
-Nagynéném erélyesen rászólt: 
+Nagynéném erélyesen rászólt:
 - Talán odaadnád neki a pénzt, nem?
 Már így is jól megvárakoztattad, amint látod.
 Nagybátyám nagyon sajnálta, de megfeledkezett róla.
-Azt mondta, ő hisz a régi mondásban: „Semmi játék, csupa bifla, így lesz szegény Jackből mafla.” Megkérdezte: hová akarok menni, és mikor másodszor is közöltem vele utam célját, az iránt érdeklődött, ismerem-e azt a verset: „Az arab istenhozzádot mond lovának”.
+Azt mondta, ő hisz a régi mondásban: "Semmi játék, csupa bifla, így lesz szegény Jackből mafla." Megkérdezte: hová akarok menni, és mikor másodszor is közöltem vele utam célját, az iránt érdeklődött, ismerem-e azt a verset: "Az arab istenhozzádot mond lovának".
 Amikor kiléptem a konyhából, éppen szavalni kezdte a vers kezdő sorait.
 Egy ezüst kétshillingest szorongattam a markomban, és a Buckingham Streeten az állomás felé törtettem.
 A bevásárlók nyüzsgő tömege és a gázlámpák fénye eszembe idézte utam célját.
@@ -581,7 +555,7 @@ Az erkélyről valaki lekiabált, hogy eloltja a lámpákat.
 A csarnok felső része teljesen sötétségbe borult.
 Felbámultam a sötétbe, és láttam szegény kis magam, akit a hiúság ide űzött, aztán kinevetett.
 Szememben szégyen égett és bánat.
-EVELINE 
+EVELINE
 Ült az ablaknál, és figyelte, mint árasztja el az este az utcát.
 Fejét a függönyre hajtotta, orrában érezte a poros kreton illatát.
 Fáradt volt.
@@ -605,7 +579,7 @@ Szemügyre vette az ismerős tárgyakat, amelyeket hosszú évek óta hetente le
 Talán sosem fogja még egyszer viszontlátni ezeket az ismerős tárgyakat, pedig még csak nem is álmodta, hogy valaha is megválik tőlük.
 És a hosszú évek során sem tudta meg annak a papnak a nevét, akinek sárguló fényképe ott függ a törött harmónium fölött a falon, a színes nyomású fogadalmak mellett, amelyeket Alacoque Boldog Mária-Margitnak tettek valamikor.
 A pap apjának volt valaha iskolatársa.
-Ha látogatónak mutatta a fényképet, csak futólag megjegyezte: 
+Ha látogatónak mutatta a fényképet, csak futólag megjegyezte:
 - Jelenleg Melbourne-ben van.
 Belenyugodott, hogy elmegy, elhagyja otthonát.
 Jól teszi vajon?
@@ -644,7 +618,7 @@ Frank egy főutcai házban bérelt lakást, ő is gyakran ellátogatott oda, min
 Frank a kapuban állt, csúcsos sapkája tarkójára lökve, haja bronz-arcába hullott.
 Aztán összeismerkedtek.
 Az áruház előtt szokta várni minden este, és hazakísérte.
-Megnézték együtt a „Cigánylány”-t, és ő mámorosan ült Frank mellett a színház egy eddig ismeretlen részén.
+Megnézték együtt a "Cigánylány"-t, és ő mámorosan ült Frank mellett a színház egy eddig ismeretlen részén.
 Frank borzasztóan szerette a zenét, és valami kicsit énekelni is tudott.
 Mindenki tudta már, hogy Frank udvarol neki, és amikor azt a nótát énekelte, amelyben a lány egy tengerészt szeret, Eveline mindig jóleső zavart érzett.
 Frank tréfából Babukának hívta.
@@ -670,11 +644,11 @@ Messze, lenn az utcán, verkli szólt.
 Különös, hogy eljön az éjszaka is, amikor emlékeznie kell majd anyjának tett ígéretére, hogy rendben fogja tartani a házat, amíg csak erejéből futja.
 Anyja utolsó éjszakája jutott eszébe; ismét a szűk, sötét szobában volt, és aztán a szomorú olasz dallam szűrődött be.
 A verklist elküldték, és adtak neki hat pennyt.
-Emlékezett apjára, hogy merev léptekkel visszajött a betegszobába, és így szólt: 
+Emlékezett apjára, hogy merev léptekkel visszajött a betegszobába, és így szólt:
 - Átkozott olaszok!
 Hova el nem jönnek!
 Elmerengett anyja életének szánalmas képein, és rátelepedett a végső tébolyban záruló elnyűtt önfeláldozások bűvölete.
-Megremegett, és újra hallotta halott anyja hangját, amint tébolyult kitartással mondogatja szüntelen: 
+Megremegett, és újra hallotta halott anyja hangját, amint tébolyult kitartással mondogatja szüntelen:
 - Derevaun Szeraun!
 Derevaun Szeraun!
 Hirtelen rátört a rémület.
@@ -719,7 +693,7 @@ Frank a korlát mögé sodródott és szólongatta.
 Rákiáltottak, hogy menjen tovább, de ő csak hívta, egyre hívta.
 Eveline feléje fordította fehér arcát, megadón, mint egy tehetetlen állat.
 Szemében jele se villant szerelemnek, búcsúnak, felismerésnek.
-VERSENY UTÁN 
+VERSENY UTÁN
 Az autók viharosan közeledtek Dublin felé, nyílegyenesen gördülve, mint apró golyóbisok a Naas út vájatában.
 Inchicore-nál, a dombtaréjon a nézők csoportokba verődve figyelték a hazafelé száguldó autókat.
 A szegénységnek és tétlenségnek ezen a csatornáján át robog a kontinens ipara és gazdagsága.
@@ -737,7 +711,7 @@ A társaság negyedik tagjának örömét azonban elnyomta az izgalom.
 Huszonhatodik évében járt, puha, világosbarna bajusza és ártatlan tekintetű szürke szeme volt.
 Apja annak idején haladó nacionalistaként kezdte, de aztán hamarosan megváltoztatta nézeteit.
 Kingstowni mészárszékéből egy kis pénzt szedett össze, s mikor üzletei Dublinban és a peremvárosokban megnyíltak, ez a kis pénz tetemes vagyonná növekedett.
-Vevőkörébe a rendőrséget is sikerrel beszervezte, s végtére olyan gazdag lett, hogy a dublini lapok reklámjai csak mint „a kolbászkirály”-t emlegették.
+Vevőkörébe a rendőrséget is sikerrel beszervezte, s végtére olyan gazdag lett, hogy a dublini lapok reklámjai csak mint "a kolbászkirály"-t emlegették.
 Fiát Angliába küldte tanulni, egy híres katolikus kollégiumba, ezután pedig Dublinba, hogy az egyetemen jogot hallgasson.
 Jimmy a tanulást nem­igen vette szívére, és egy darabig csakugyan eljárt az egyetem mellé.
 Pénzes volt és népszerű; idejét sajátos módon a zene- és autókedvelők között osztotta meg.
@@ -813,12 +787,12 @@ Villona és Rivičre voltak a legnagyobb zajjal, de mindenki kézzel-lábbal bes
 Kocsit hívtak, és nagy nevetések közt préselődtek össze benne.
 Tömeg mellett hajtottak el, amely most puha színekké, derűs harangszóvá lényegült.
 Westland Row-nál vonatra ültek, és néhány másodperc múlva, legalábbis Jimmynek úgy tűnt, már le is szálltak a kingstowni állomáson.
-Az öreg kalauz üdvözölte Jimmyt: 
+Az öreg kalauz üdvözölte Jimmyt:
 - Szép jó estét, uram!
 Tiszta nyári éjszaka volt; a kikötő mint sötét tükör hevert a lábuk előtt.
-Kart karba öltve sétáltak feléje, és kórusban énekelték a Cadet Rousselt, lábukkal mindig dobbantva, mikor az jött, hogy „Ho!
+Kart karba öltve sétáltak feléje, és kórusban énekelték a Cadet Rousselt, lábukkal mindig dobbantva, mikor az jött, hogy "Ho!
 Ho!
-Hohé, vraiment!” 
+Hohé, vraiment!"
 A mólónál csónakba ültek.
 Siklottak az amerikai jachtja felé.
 Vacsora várt rájuk, zene, kártya.
@@ -828,13 +802,13 @@ Villona keringőt játszott Farleynak, és Rivičre-nek, Farley lovag volt, Rivi
 Ezután rögtönzött össztánc következett, s mind egy-egy eredeti figurát alakítottak.
 Micsoda mulatság!
 Jimmy teljes szívvel kivette belőle a részét; itt aztán lehet egy kis életet látni!
-Farley nem bírta tovább szusszal és felkiáltott: 
+Farley nem bírta tovább szusszal és felkiáltott:
 - Elég!
 - Egy legény könnyű vacsorát hozott be, a fiatalemberek neki is ültek, a forma kedvéért.
 Inkább ittak azonban: igazi kanmuri!
 Ittak Írországra, Angliára, Franciaországra, Magyarország­ra, az Amerikai Egyesült Államokra.
-Jimmy beszédet tartott, hosszú beszédet, melynek szünetei­ben Villona „Halljuk!
-Halljuk!”-ot kiáltott.
+Jimmy beszédet tartott, hosszú beszédet, melynek szünetei­ben Villona "Halljuk!
+Halljuk!"-ot kiáltott.
 A tenyerek hatalmasan összecsattantak, mikor leült.
 Bizonyára nagyon jól beszélt, Farley hátba vágta, és hangosan nevetett.
 Milyen vidám fickók!
@@ -866,9 +840,9 @@ Farley és Jimmy vesztett a legtöbbet.
 Tudta, hogy reggelre megbánja, de most együtt örült a többiekkel az őrültségét jótékonyan elfedő sötét kábulatnak.
 Az asztalra könyökölt, és fejét tenyerébe hajtva számolta, hányat lüktet halántékán az ér.
 A kabinajtó kinyílt.
-Látta a magyart, alakja szürke fényoszlopba ékelődött: 
+Látta a magyart, alakja szürke fényoszlopba ékelődött:
 - Megvirradt, uraim!
-KÉT ÚRFIAK 
+KÉT ÚRFIAK
 A városra rászakadt a szürke augusztusi este.
 A nyár még meglengette messziről esti fátylait - langyos szellő suhant az utcákon.
 Zárt redőnyök partjai közt, derűsen színes népével a vasárnap békéjében úszott minden.
@@ -884,9 +858,9 @@ Meg-megigazította esőkabát­ját, amely torreádori könnyedséggel lengedeze
 Golfnadrágja, fehér gumicipője és az esőkabát ifjúságról tanúskodott.
 De alakja a dereka táján már gömbölyded formákba roggyant, haja fakó volt és gyér, és amikor az arcjáték hullámtorlataiból vonásai kiemelkedtek, egy kifosztott arc meredt a világra.
 Mikor egészen biztosan meggyőződött róla, hogy a történet véget ért, teljes félpercnyi hangtalan nevetéssel adózott.
-Aztán megszólalt: 
+Aztán megszólalt:
 - Igen... Hát ez nagy fogás volt!
-Hangja duzzadt az életerőtől, és hogy szavait még súlyosabbá tegye, kedélyesen hozzátette: 
+Hangja duzzadt az életerőtől, és hogy szavait még súlyosabbá tegye, kedélyesen hozzátette:
 - Igen, ez páratlan, és ha szabad magam így kifejezni, recherché fogás volt!
 Mikor ezt ellelkendezte, komoly hallgatásba hervadt.
 Nyelve fáradt volt, egész délután beszélt egy Dorset utcai kocsmában.
@@ -914,7 +888,7 @@ Azt is mondtam, hogy azelőtt Pimnél dolgoztam.
 A nevem persze nem tudja.
 Vagyok annyira dörzsölt gyerek, hogy ne áruljam el.
 De azt hiszi, vagyok valaki, érted.
-Lenehan megint hangtalanul nevetett: 
+Lenehan megint hangtalanul nevetett:
 - Mindazon nyalánkságok közül, amiket eddig hallottam, ez a legédesebb.
 Corley méltóságteljes léptei jelezték, hogy tudomásul vette a bókot.
 Duzzadt testének imboly­gására barátja kecses szökdécseléssel válaszolt, le a járdáról, fel a járdára.
@@ -932,7 +906,7 @@ Amikor ezeket a drámai dialógusokat előadta, firenzei kiejtéssel mondta nev�
 Lenehan cigarettával kínálta barátját.
 Miközben utat vágtak maguknak a tömegben, Corley időnként csípőből elfordulva utána mosolygott egy-egy tovatűnő lányalaknak, Lenehan pedig állhatatosan a kettős glóriájú, sápadt holdra szegezte pillantását.
 Tűnődve szemlélte a félhomály szürke fátyolát, amint elvonul a roppant arc előtt.
-Végül megszólalt: 
+Végül megszólalt:
 - Igen... mondd csak, Corley, biztos vagy abban, hogy tető alá tudod hozni ezt a dolgot?
 Felelet helyett Corley sokat jelentőn behunyta egyik szemét.
 - Az a kérdés, beszáll-e - kétségeskedett Lenehan.
@@ -962,13 +936,13 @@ Az emlékezés felgyújtotta szemét.
 Felbámult ő is a hold sápadt korongjára, amely már csaknem egészen beburkolózott fátylaiba, és úgy tett, mintha elmélkednék.
 - Az a lány... micsoda falat volt - sajnálkozott.
 Megint hallgatott egy sort.
-Aztán hozzátette: 
+Aztán hozzátette:
 - Most nagyon fut.
 Valamelyik este láttam az Earl utcában, két pofával kocsikázott.
 - Ez a te műved - gyanúsította Lenehan.
 - Volt már neki előttem is valakije - legyintett Corley lemondón.
 Lenehan ezúttal kétkedésre hajlott.
-Jobbra-balra ingatta fejét és mosolygott: 
+Jobbra-balra ingatta fejét és mosolygott:
 - Tudod, hogy engem nem lehet hintába tenni, Corley.
 - Bizonyisten - erősködött Corley -, ő maga mondta nekem.
 - Aljas áruló - mondta Lenehan tragikus mozdulattal.
@@ -985,7 +959,7 @@ Tudod, hogy ilyesmiben piszok kemények tudnak lenni.
 Mi?...
 Na?
 Csillogó gombszemei mohón kutatták kísérője arcát a bizonyosságért.
-Corley idegesen meglóbálta fejét, mintha egy tolakodó legyet akarna elzavarni, és összemorcolta szemöldökét: 
+Corley idegesen meglóbálta fejét, mintha egy tolakodó legyet akarna elzavarni, és összemorcolta szemöldökét:
 - Persze, majd megfaggyúzzuk.
 Bízd csak rám, jó?
 Lenehan nem is firtatta tovább.
@@ -1008,7 +982,7 @@ Itt a villamosok lármája, a fények és a nyüzsgés feloldotta hallgatásukat
 A Hume utca sarkán egy fiatal nő ácsorgott.
 Kék ruha és fehér tengerészsapka volt rajta.
 A járdaszélen állt, és napernyőt lóbált az egyik kezében.
-Lenehan felélénkült: 
+Lenehan felélénkült:
 - Hadd nézzem csak, Corley.
 Corley oldalvást barátjára sandított, és kellemetlen grimasz jelent meg arcán.
 - Bele akarsz köpni a levesembe?
@@ -1023,7 +997,7 @@ Nem eszem meg, ne félj.
 - Na... Mondok valamit.
 Átmegyek hozzá, és beszélgetek ott vele, te meg elmész mellettünk.
 - Rendben.
-Corley már átvetette egyik lábát a láncon, amikor Lenehan utánaszólt: 
+Corley már átvetette egyik lábát a láncon, amikor Lenehan utánaszólt:
 - És utána?
 Hol találkozunk?
 - Fél tizenegykor - válaszolt Corley, átemelve a másik lábát is.
@@ -1167,14 +1141,14 @@ Még mindig némán.
 Corley balra fordult, be egy mellék­utcába.
 Rideg nyugalom dermedt vonásain.
 Lenehan mellette ügetett, izgatottan lihegve.
-Ideges volt, hangjából fenyegető figyelmeztetés sivított: 
+Ideges volt, hangjából fenyegető figyelmeztetés sivított:
 - Nem volnál szíves nyilatkozni mégis?
 Sikerült?
 Corley az első lámpánál megállt, és zordan maga elé bámult.
 Aztán a fény felé nyújtotta öklét.
 Lassan nyitotta ki, hogy módja legyen learatni tanítványa bámulatát.
 Tenyerében egy kis aranypénz csillogott.
-KOSZT ÉS KVÁRTÉLY 
+KOSZT ÉS KVÁRTÉLY
 Hentes lánya volt.
 Amit egyszer elhatározott, azt tűzön-vízen át keresztül is vitte: Mrs. Mooney eltökélt nő hírében állt.
 Hozzáment apja első segédjéhez, és hentesüzletet nyitottak a Spring Gardens közelében.
@@ -1202,7 +1176,7 @@ Ha barátaival találkozott, mindig akadt számukra egy-egy remek történetkéj
 Murikon ő volt a legjobb pofa: pajzán dalokat énekelt.
 Vasárnap esténként gyakran összejött a kompánia Mrs. Mooney nappalijában.
 A bárművészek ilyenkor örömzenét adtak; Sheridan valcert játszott és polkát, és kíséretet rögtönzött.
-Polly Mooney, a Nagysága lánya gyakran énekelt: 
+Polly Mooney, a Nagysága lánya gyakran énekelt:
 Én... huncut lány vagyok,
 Rég nem titok:
 Te is tudod.
@@ -1265,7 +1239,7 @@ Mi mást tehet most már, mint hogy jóváteszi, vagy elmenekül?
 Nem állhat odébb arcátlanul.
 Az ügyről feltétlenül beszélni fognak, és egészen bizonyos, hogy a főnökének is a fülébe jut.
 Dublin olyan kicsi: mindenki mindent tud mindenkiről.
-Szíve forrón a torkában lüktetett, ahogy fölizgatott képzeletében hallani vélte az öreg Leonard urat, amint kiszól reszelős hangján: „Küldjék be Mr. Dorant, kérem.” 
+Szíve forrón a torkában lüktetett, ahogy fölizgatott képzeletében hallani vélte az öreg Leonard urat, amint kiszól reszelős hangján: "Küldjék be Mr. Dorant, kérem."
 Semmivé lesznek a hosszú szolgálati évek!
 Szorgalma és törekvése hiábavaló volt!
 Fiatal korában, persze, hozott vadhajtást is eleget: vendéglői társaságban sokszor dicsekedett azzal, hogy szabadgondolkodó, és tagadja Isten létét.
@@ -1277,7 +1251,7 @@ Mindenekelőtt itt van a hírhedt apa, és a mama panziójának is van már ném
 Homályosan úgy érezte, hogy befonták.
 Elképzelte barátait, hogy beszélnek az esetről, és hogy nevetnek rajta.
 A lány is közönséges egy kicsit.
-Sokszor beszél így: „Aggyá” meg „becsuk­hassa azt az ajtót”.
+Sokszor beszél így: "Aggyá" meg "becsuk­hassa azt az ajtót".
 De mit számít a nyelvtan, ha őszintén szereti?
 Képtelen volt dönteni, megvesse-e vagy szeresse azért, amit tett.
 Persze ő, Doran is részes benne.
@@ -1304,12 +1278,12 @@ Ha késő éjjel jött haza, vacsoráját a lány melegítette föl.
 Alig érezte, mit eszik, a lány közelsége megzavarta, egyedül éjjel, az alvó házban.
 És gondoskodásai!
 Ha kicsit is hideg, nedves vagy szeles volt az éjszaka, egészen biztos, hogy egy kis pohár puncs várta.
-Talán boldogok is lennének... 
+Talán boldogok is lennének...
 Együtt szoktak felmenni a lépcsőn, gyertyával a kezükben, és a harmadik emeleten váltak el, kelletlenül.
 Meg szokták csókolni egymást.
-Világosan emlékezett szemeire, kezének érintésére, és a lázra... 
+Világosan emlékezett szemeire, kezének érintésére, és a lázra...
 De a láz elmúlik.
-A lány kérdését visszhangozta, magára alkalmazva: „Mit tegyek?” A nőtlenség ösztöne figyelmeztette, hogy ne hagyja magát.
+A lány kérdését visszhangozta, magára alkalmazva: "Mit tegyek?" A nőtlenség ösztöne figyelmeztette, hogy ne hagyja magát.
 De itt a bűn; becsületérzése azt követelte, hogy az ilyen bűnt jóvá kell tenni.
 Az ágy szélén ültek, mikor Mary beszólt az ajtón, hogy a Nagysága kéreti az urat a társalgóba.
 Felállt, mellényét és kabátját gyámoltalanul magára cibálta.
@@ -1344,7 +1318,7 @@ Polly!
 - Tessék, mama!
 - Gyere le, drágám, Mr. Doran kíván egy-két szót szólani veled.
 Most jutott eszébe, hogy erre várt.
-FUTÓ ÁRNYÉK 
+FUTÓ ÁRNYÉK
 Nyolc évvel ezelőtt kísérte ki barátját a North Wall hajóállomásra, hogy búcsút intsen neki.
 Gallaher azóta befutott.
 Nagyvilági modora, jól szabott tweed öltönye, magabiztos hangja tanúskodott erről már első pillantásra is.
@@ -1422,8 +1396,8 @@ Népszerű sohasem lenne, ezzel tisztában volt.
 Költészete nem mozgatná meg a tömeget, de igenis szólhatna rokon lelkek szűk köréhez.
 Az angol kritika talán felismerné a kelta iskolát költészetének méla zengésében; mellesleg erre talán célozni is kellene.
 Mondatokat, jelzőket kezdett kitalálni, amelyekkel könyvét üdvözölné a kritika.
-„A könnyed, hajlékony verselés adománya jellemző Chandler költészetére.
-Sóvárgó szomorúság ömlik el poézisén”... „A kelta bárd...” Sajnálatos, hogy neve nem írebb.
+"A könnyed, hajlékony verselés adománya jellemző Chandler költészetére.
+Sóvárgó szomorúság ömlik el poézisén"... "A kelta bárd..." Sajnálatos, hogy neve nem írebb.
 Bizonyosan hatásosabb lenne, ha vezeték- és keresztneve közé anyja vezetéknevét is közbeiktatná: Thomas Malone Chandler, vagy még jobb: T. Malone Chandler.
 Feltétlenül beszél erről Gallaherrel.
 Oly buzgalommal űzte álomképeit, hogy túlment a célján, és vissza kellett gyalogolnia.
@@ -1501,7 +1475,7 @@ Belekóstolt italába, míg Ignatius Gallaher rettenthetetlenül végzett a mag�
 - időzött el Ignatius Gallaher a szón és az ital zamatán.
 - Tudod, nem olyan gyönyörűséges.
 Persze, szép, szép... Az élet Párizsban, az élet; az igen.
-Nincs a világon még egy város, amely hasonló lenne Párizshoz... vidámság, mozgalmasság, izgalom... 
+Nincs a világon még egy város, amely hasonló lenne Párizshoz... vidámság, mozgalmasság, izgalom...
 A kis Chandler végzett whiskyjével, és egypár sikertelen próbálkozás után végre elkapta a pincér pillantását.
 Rendelt, még egyszer ugyanazt.
 - Voltam a Moulin Rouge-ban - folytatta Ignatius Gallaher, miután a pincér elszedte a poharaikat - és a többi bohém helyen.
@@ -1539,7 +1513,7 @@ Ignatius Gallaher kiitta whiskyjét, és a fejét rázta.
 Képzeld csak meg Hogant, gyermekem.
 Egy kicsit megmutogattam neki Londont, mikor fenn volt.
 Ő majd kinyitná a szemecskédet... Hanem, Tommy, ne pancsolj azzal a whiskyvel: idd meg.
-- Nem, hidd el... 
+- Nem, hidd el...
 - Na gyerünk csak, még egy nem fog ártani.
 Mi legyen?
 Még egyszer ugyanaz, nem?
@@ -1550,7 +1524,7 @@ A két barát rágyújtott, és némán fújták a füstöt egymás orra alá, m
 - Ha a véleményemre vagy kíváncsi - mondta Ignatius Gallaher, miután előbukkant a füstfelhőből, amely mögé kis időre visszavonult - bizarr egy világot élünk.
 Erkölcstelenségről beszélni!
 Hallottam eseteket - mit mondok?
-Ismerem egy-két példáját az... erkölcs­telen­ségnek... 
+Ismerem egy-két példáját az... erkölcs­telen­ségnek...
 Ignatius Gallaher gondterhelten pöfékelt, aztán egy történelemtudor szenvtelen modorában belevágott, hogy felvázolja a külföldön hovatovább általánossá váló erkölcsi romlás képét.
 Számos főváros bűnét összegezve, úgy látszott, afelé hajlik, hogy Berlinnek nyújtsa a pálmát.
 Néhány adatért nem állhat jót (barátaitól hallotta), másokat viszont személyesen tapasztalt.
@@ -1573,24 +1547,24 @@ A kis Chandler megragadta a kinyújtott jobbot.
 Egy hű barát kívánsága ez, egy régi baráté... Jusson eszedbe.
 - Igen - válaszolta a kis Chandler.
 - Gyerekek?
-A kis Chandler ismét elpirult: 
+A kis Chandler ismét elpirult:
 - Van egy.
 - Fiú, lány?
 - Kisfiú.
-Ignatius Gallaher megdöngette barátja hátát: 
+Ignatius Gallaher megdöngette barátja hátát:
 - Bravó, Tommy, nem csalódtam benned.
 A kis Chandler mosolygott, feldúltan nézett poharába, és alsóajkát harapdálta három gyermekien fehér metszőfogával.
 - Remélem, velünk töltesz egy estét - mondta -, mielőtt visszautaznál.
 Feleségem végtelenül örülne, ha megismerhetne.
-Hallgatnánk egy kis zenét, aztán... 
+Hallgatnánk egy kis zenét, aztán...
 - Borzasztóan köszönöm, öreg fiú.
 Sajnálom, hogy nem korábban találkoztunk.
 Holnap éjjel már utazom.
 - Ma este talán?...
 - Borzasztóan sajnálom, öregem.
 Tudod, együtt jöttem valakivel, okos, fiatal fickó az is, és már meg­beszéltük, hogy egy kis kártyapartira megyünk valahová.
-Csupán ezért... 
-- Ez esetben persze... 
+Csupán ezért...
+- Ez esetben persze...
 - Ám ki tudja?
 - kérdezte Ignatius Gallaher fontolón.
 - Jövőre talán átugrom ide, most, hogy megtörtem a jeget.
@@ -1625,7 +1599,7 @@ A kis Chandler barátja felé tolta az egyik poharat, és bátran felkapta a má
 - mondta, amikor fölemelték poharaikat.
 - Ha jövőre eljössz, talán részem lehet abban az örömben, hogy hosszú életet és boldogságot kívánhatok Ignatius Gallaher úrnak és nejének.
 Ignatius Gallaher az ivás aktusa alatt kifejezően lehunyta egyik szemét a pohár karimája felett.
-Mikor kiitta, eltökélten beharapta ajkait, letette poharát és így szólt: 
+Mikor kiitta, eltökélten beharapta ajkait, letette poharát és így szólt:
 - Ilyen félelmek ne gyötörjenek, gyermekem.
 Először még megjátszom a nagy tétet, szétnézek egy kicsit a világban, és csak azután dugom nyakam a járomba, ha egyáltalán dugom valaha.
 - Egyszer biztosan - vélte a kis Chandler beletörődőn.
@@ -1648,7 +1622,7 @@ Ne hidd, hogy nem játszom meg a partit kifogástalanul.
 Ha én valamire rávetem magam, ott üzlet van.
 Csak várd ki a végét.
 Szájához lökte a poharat, megitta az italt, és hangosan fölnevetett.
-Aztán elgondolkodva maga elé bámult, és nyugodtabb hangon folytatta: 
+Aztán elgondolkodva maga elé bámult, és nyugodtabb hangon folytatta:
 - De egyáltalán nem sürgős.
 Ők várhatnak.
 Eszem ágában sincs, hogy egy asszonyhoz lekössem magam.
@@ -1661,7 +1635,7 @@ Háromnegyed kilenc volt.
 A kis Chandler lekéste a teát, és ami súlyosabb, elfelejtette Annie-nak elhozni Bewleytól a rendelést.
 Az asszony persze rosszkedvű volt, kurtán felelgetett.
 Bejelentette, hogy ő tea nélkül is meglesz, mégis, mikor elközelgett az idő, hogy a sarki fűszeres bezárjon, elhatározta, hogy lemegy egy negyed font teáért és két font cukorért.
-Dacosan férje kezébe adta a gyereket: 
+Dacosan férje kezébe adta a gyereket:
 - Tessék.
 Fel ne ébreszd.
 Fehér ernyős kis kínai lámpa állt az asztalon.
@@ -1676,7 +1650,7 @@ Mikor megmutatta, otthon Annie megcsókolta, és örült, hogy milyen csinos, mi
 Aztán mikor az árát meghallotta, az asztalra vágta a blúzt, és azt mondta, direkt rablás tíz shilling és tizenegy pennyt kérni érte.
 Először vissza akarta vitetni, de mikor felpróbálta, megnyugodott.
 Különösen az ujjak mintái tetszettek, és megcsókolta őt, és nagyon boldog volt, hogy gondolt rá.
-Hm... 
+Hm...
 Hidegen nézett a fénykép szemébe, és az hidegen válaszolt.
 Szép szem, szép arc.
 Most mégis valami nemtelent fedezett fel rajta.
@@ -1697,7 +1671,7 @@ El tudna jutni Londonba?
 Csak a bútort kellene még kifizetni.
 Egyetlen könyvet, ha írna és kiadatna, talán megnyílna előtte az út.
 Az asztalon egy Byron kötet feküdt előtte.
-Óvatosan, a bal kezével nyitotta föl, nehogy a gyerek felébredjen, és az első versbe belekezdett: 
+Óvatosan, a bal kezével nyitotta föl, nehogy a gyerek felébredjen, és az első versbe belekezdett:
 Csitúlt a szél, elűlt a tompa fény,
 A berken át zefír se kóborog,
 Margit sírjához visszatérek én,
@@ -1707,19 +1681,19 @@ A szobában érezte, maga körül érezte a vers ütemét.
 Miféle mélabú ez, itt a versben!
 Tudna ilyet írni, meg tudná így zengetni a maga mélabúját?
 Oly sok mindent akarna elmondani: például a pár órával előbbi érzéseit a Grattan hídon.
-Ha még egyszer visszaringna abba az érzésbe... 
+Ha még egyszer visszaringna abba az érzésbe...
 A gyerek felébredt és sírni kezdett.
 Lapozott egyet a könyvben, és megpróbálta elcsitítani, de nem akart elcsitulni.
 Ringatni kezdte, de a sírás még élesebb lett.
 Gyorsabban ringatta, és szeme a második strófára szalad.
 E szűk zárkának dőlt a porhüvely,
-A test, mely egykor... 
+A test, mely egykor...
 Hasztalan.
 Nem olvashat így.
 Semmit nem csinálhat így.
 A gyerek nyüszítése dobhártyáját dúlta.
 Nem lehet, nem lehet!
-Karja a dühtől remegett, és hirtelen a gyerek arca fölé hajolt és beleordította: 
+Karja a dühtől remegett, és hirtelen a gyerek arca fölé hajolt és beleordította:
 - Csend!
 A gyerek elnémult egy pillanatra, de aztán a félelem görcse feloldódott és visítani kezdett.
 Felugrott, és fel-alá rohangált, karjában a gyerekkel.
@@ -1734,7 +1708,7 @@ Az ajtón berobban a lihegő fiatalasszony.
 Mi az?
 - sikoltozta.
 A gyerek a zokogás paroxizmusában tört ki, amint meghallotta az anyja hangját.
-- Semmi, Annie... Semmi... Csak elkezdett sírni... 
+- Semmi, Annie... Semmi... Csak elkezdett sírni...
 A padlóra dobta a csomagokat, s elragadta tőle a gyereket.
 - Mit csináltál vele?
 - sikoltotta arcába szikrázó szemmel.
@@ -1742,17 +1716,17 @@ A kis Chandler egyetlen pillanatig érezte magán izzó pillantását, és szív
 - Semmi... Csak... Csak elkezdett sírni.
 Nem tudtam... nem csináltam semmit.
 Az asszony ügyet sem vetett rá, fel-alá kezdett sétálni a szobában.
-Szorosan magához ölelte a gyereket, és suttogott neki: 
+Szorosan magához ölelte a gyereket, és suttogott neki:
 - Kicsi fiam!
 Kicsi fiam!
 Megijesztettek, szerelmem?...
 Istenem, Istenem... Istenem, Istenem, csillagom... Babuka!
 Mamuka pici báránykája!...
-Csicsisss... 
+Csicsisss...
 A kis Chandler arca izzott a szégyentől, és kilépett a lámpafényből.
 Hallgatta, hogyan csillapul a gyerek, és szemébe a bűnbánat könnyei gyűltek.
-ELLENFELEK 
-A csengő dühösen felsivított, és amikor Miss Parker a házitelefonhoz lépett, északír akcentusssal dühös hang csattant a fülébe: 
+ELLENFELEK
+A csengő dühösen felsivított, és amikor Miss Parker a házitelefonhoz lépett, északír akcentusssal dühös hang csattant a fülébe:
 - Küldje ide Farringtont!
 Parker kisasszony visszatért gépjéhez, és odaszólt egy férfinak, aki íróasztalánál írt valamit.
 - Alleyne úr hívatja.
@@ -1763,18 +1737,18 @@ Vörhenyes, óbor színű lóarcán szőke szemöldök és szőke bajusz; kissé
 Föltápászkodott az íróasztal mellől, és az ügyfelek mellett elhaladva nehéz léptekkel elhagyta az irodát.
 Kedvetlenül kapaszkodott felfelé a lépcsőn a második emeletig, ahol az egyik ajtón réztáblás felirat hirdette: Mr. Alleyne.
 Megállt előtte, a testi megerőltetéstől és az aggodalomtól szuszogott néhányat, majd kopogott.
-Az éles hang kirikoltott: 
+Az éles hang kirikoltott:
 - Lehet!
 A férfi belépett Mr. Alleyne szobájába.
 Abban a pillanatban Alleyne úr, aranykeretes pápaszemet viselő, simára borotvált arcú, apró emberke, felütötte fejét egy aktahegy csúcsára.
 A fej maga rózsaszín és szőrtelen volt, s úgy látszott, mintha egy roppant tojás imbolyogna az iratokon.
-Mr. Alleyne nem vesztegette idejét: 
+Mr. Alleyne nem vesztegette idejét:
 - Farrington?
 Mi ez már megint?
 Csak szidásra tud valamit elintézni?
 Ha szabad érdeklődnöm, miért nem másolta le ezt a Bodley-Kirwan szerződést?
 Megmondtam, hogy négy órára csinálja meg.
-- Mr. Shelley azt mondta, kérem... 
+- Mr. Shelley azt mondta, kérem...
 - Mr. Shelley azt mondta, kérem... Szíveskedjék arra figyelni, amit én mondok, és nem arra, amit Mr. Shelley mond, kérem.
 Mindig talál valami kifogást, ha ki akar bújni a munka alól.
 Vegye tudomásul, ha a szerződés nem lesz kész ma estig, az ügyet Mr. Crosbie elé fogom terjeszteni... Megértette?
@@ -1793,11 +1767,11 @@ Az érzés belémart, és felrémlett előtte egy szesztől csepegő éjszaka k�
 A hónap közepe már elmúlt, és ha időben tudna végezni a másolással, Mr. Alleyne talán adna egy bont a pénztárhoz.
 Mozdulatlanul állt, és bámulta a fejet a papírtorony mögött.
 Alleyne úr hirtelen elkezdett az iratok között turkálni, keresett valamit.
-Aztán, mintha mind ez ideig nem tudott volna a férfi jelenlétéről, felkapta megint a fejét: 
+Aztán, mintha mind ez ideig nem tudott volna a férfi jelenlétéről, felkapta megint a fejét:
 - Na?
 Egész nap itt akar álldogálni?
 Szavamra, Farrington, nem veszi maga kissé nagyon is könnyedén a dolgokat!
-- Azt gondoltam, hátha... 
+- Azt gondoltam, hátha...
 - Maga ne gondoljon semmit.
 Menjen a dolgára.
 A férfi kelletlenül az ajtó felé indult, és amikor kint volt a szobából, Mr. Alleyne még utána kiabált, hogyha a szerződést nem csinálja meg estélig, Mr. Crosbie feltétlenül hallani fog az ügyről.
@@ -1811,7 +1785,7 @@ Az irodafőnök kutatóan nézett rá.
 Az irodafőnök a ruhafogasra pillantott, és minthogy látta, hogy egy kalap sem hiányzik, nem tett megjegyzést.
 Alighogy elérte a lépcsőkanyart, a férfi előhúzott egy kockás sapkát a zsebéből, és lesietett az angolkóros lépcsőkön.
 A kaputól kezdve a fal mellett lopózott végig az utcán a sarok felé, s egyszer csak elmerült egy kapualjban.
-Most már biztonságban volt O’Neil boltjának homályos zugában, s betöltve a söntésbe néző kis ablakot lángoló bor- vagy nyershús-színű arcával, beszólt: 
+Most már biztonságban volt O’Neil boltjának homályos zugában, s betöltve a söntésbe néző kis ablakot lángoló bor- vagy nyershús-színű arcával, beszólt:
 - Egy tisztességes eresztést, Pat.
 A csapos egy korsó világos sört tett eléje.
 A férfi egy hajtásra lenyelte, aztán ánizst kért.
@@ -1865,7 +1839,7 @@ Persze, hogy nem tud semmit - csikorogta Mr. Alleyne.
 - Mondja - tette hozzá elismerést várón a hölgyre pillantva -, bolondnak tart maga engem?
 Azt hiszi, kötözni való bolond vagyok én?
 Az ember pillantása a hölgy arca és a tojás között ugrált.
-Aztán, mielőtt tudatára ébredt volna, nyelve rátalált az egyetlen szerencsés fordulatra: 
+Aztán, mielőtt tudatára ébredt volna, nyelve rátalált az egyetlen szerencsés fordulatra:
 - Nem hiszem, uram, hogy hivatott lennék ezt a kérdést megválaszolni.
 A tisztviselőknek elakadt a lélegzetük.
 Mindenki elámult (a szellemesség szerzője nem kevésbé, mint a többiek), és Miss Delacour egész szeretetre méltó tömegével mosolyra gömbölyült.
@@ -1889,7 +1863,7 @@ Tisztára bolondot csinált magából ezúttal.
 Miért nem tudta megfékezni nyelvét?
 Ő meg Mr. Alleyne attól kezdve utálták egymást, amióta Mr. Alleyne kihallgatta, hogy utánozza beszédét, Higgins és Miss Parker gyönyörűségére; minden ott kezdődött.
 Próbálkozhatna Higginsnél, de szinte bizonyos, hogy neki nincs pénze.
-Neki soha sincs pénze, Higginsnek, két felől is hordják tőle, persze, hogy nem tudna... 
+Neki soha sincs pénze, Higginsnek, két felől is hordják tőle, persze, hogy nem tudna...
 Ismét végigsajdult egész valóján a kocsmák utáni vágy.
 A köd borzongatta, és azon tűnődött, el tudná-e kapni Patet O’Neillnél.
 Egy shillingnél többet úgysem tudna legombolni róla - és egy shillinggel nem tud mit kezdeni.
@@ -1906,7 +1880,7 @@ Villamoscsengők lármája zsongott a fejében, trolibuszok sziszegése, orrába
 Útközben kigondolta, hogyan fogja elmesélni az esetet a fiúknak.
 - Csak ránéztem, tudjátok, így, hűvösen, aztán a nőre.
 Aztán megint csak őrá, halál nyugodtan persze.
-„Nem szeretném, ha utólag elfogultsággal vádolna” - mondtam neki.
+"Nem szeretném, ha utólag elfogultsággal vádolna" - mondtam neki.
 Davy Byrne-nál a megszokott sarokban ült Nosey Flynn, és amikor végighallgatta a történetet, azonnal hozatott egy féldecit Farringtonnak, mert ez volt a legelmésebb dolog, amit valaha is hallott.
 Mikor megitták, Farrington természetesen viszonozta.
 Hamarosan megjött O’Halloran és Paddy Leonard is, és a történet újra előkerült.
@@ -1916,7 +1890,7 @@ Lelkesedésében Farrington felkérte a fiúkat, öblögessenek, és hozatott eg
 Természe­tesen azonnal csatlakoznia kellett.
 Felkérték, hogy mesélje el, szerinte hogy történt az eset, és ő élénk mohósággal - amelyet nem kis mértékben szított az öt fél forró whisky látványa - eleget is tett a felhívásnak.
 Minden torok nevetésre dördült, amikor bemutatta, hogyan rázta öklét Mr. Alleyne Farrington arcába.
-Aztán Farringtont utánozta, és azzal fejezte be, hogy „És ott állt ez a füles, vérfagyasztó nyugalommal”, mialatt Farrington súlyos, zavaros pillantással mosolygott a társaságra, és időnként útját tévesztett szeszcsöppeket szívott le bajusza bozontjából alsó ajkának segítségével.
+Aztán Farringtont utánozta, és azzal fejezte be, hogy "És ott állt ez a füles, vérfagyasztó nyugalommal", mialatt Farrington súlyos, zavaros pillantással mosolygott a társaságra, és időnként útját tévesztett szeszcsöppeket szívott le bajusza bozontjából alsó ajkának segítségével.
 Mikor ez a kör is elfogyott, szünet következett.
 O’Hallorannak volt pénze, de a másik kettőnek láthatólag nem, ezért a társaság némileg kielégítetlenül felkerekedett.
 A Duke utca sarkánál Higgins és Nosey Flynn levágtak balra, míg a másik három nekivágott a városnak.
@@ -1946,7 +1920,7 @@ Volt valami kihívó a megjelenésében.
 Hatalmas pávakék muszlinsál a kalapja körül, álla alatt ökölnyire csomózva, és könyökig érő, villogó sárga kesztyűt viselt.
 Farrington hódoló pillantással csüggött a húsos karon, amelyet a hölgy igen gyakran és figyelemre méltó bájjal mozgatott; és amikor, nem is olyan sok idő múltán, viszonozta a férfi pillantását, Farrington bele­szédült nagy sötétbarna szemébe.
 A fátyolos, sejtelmes pillantás megigézte.
-A nő még egyszer-kétszer feléje pillantott, és amikor társaságával kifelé tartott, a székébe ütközött, egy „Oppardon” kíséretében.
+A nő még egyszer-kétszer feléje pillantott, és amikor társaságával kifelé tartott, a székébe ütközött, egy "Oppardon" kíséretében.
 Tekintete végigkísérte a termen, hátha visszanéz, de csalódnia kellett.
 Átkozta pénztelenségét; elátkozta magát minden egyes körért, amit eddig kihozatott, és átkozta magát különösképp a whisyk és Apollinarisok miatt, amelyeket Weathersnek fizetett.
 Ha van a világon valami, amit szívből utál, ház ez a potyás.
@@ -1990,11 +1964,11 @@ Mindent átkozott.
 Elintézte magát a hivatalban, elzálogosította óráját, elköltötte minden pénzét, és még be sem rúgott.
 Szomjúság mardosta, és visszavágyott a párázó kocsmába.
 Becsületét, mint erős ember elvesztette azzal, hogy egy tacskó elbánt vele.
-Szívében súlyosan csomósodott a méreg, és amikor a nagy kalapú nőre gondolt, aki egy pillanatra „az oppardon”-nal székéhez simult, dühében fuldokolni kezdett.
+Szívében súlyosan csomósodott a méreg, és amikor a nagy kalapú nőre gondolt, aki egy pillanatra "az oppardon"-nal székéhez simult, dühében fuldokolni kezdett.
 A Shelbourne Roadnál leszállt, ormótlan testét nagynehezen elkormányozta a bérkaszárnyák árnyékában.
 Undorodott hazamenni.
 Amikor az oldalajtón belépett az üresen ásító konyhába, a tűzhely már alig parázslott.
-Fölordított a lépcsőház sötétjébe: 
+Fölordított a lépcsőház sötétjébe:
 - Ada!
 Ada!
 Felesége, kicsi, éles arcú asszony, ha józan volt, zsarnokoskodott fölötte, de ha részegen vetődött haza, eltűrte az ő zsarnokságát.
@@ -2009,17 +1983,17 @@ Egy kisfiú rohant le a lépcsőn.
 - Templomba ment.
 - Hát ez jó... Arra nem gondolt, hogy nekem vacsora kell!
 - De igen, apuka.
-Én... 
+Én...
 - Gyújts lámpát.
 Miféle szokás ez megint, sötétben tartani a házat.
 A többiek fekszenek?
 Az ember nehézkesen egy székbe vágódott, a gyerek a lámpával bajlódott.
 Elkezdte utánozni a gyerek szürke hangját.
-„Templomba ment.
-A templomba, na tessék!” Mikor a lámpa kigyulladt, öklével az asztalra sújtott: 
+"Templomba ment.
+A templomba, na tessék!" Mikor a lámpa kigyulladt, öklével az asztalra sújtott:
 - Mi van a vacsorámmal?
 - Mindjárt... megmelegítem, apuka.
-Az ember dühöngve ugrott talpra, és a tűzhelyre mutatott: 
+Az ember dühöngve ugrott talpra, és a tűzhelyre mutatott:
 - Ezen a tűzön?
 Hagytátok kialudni a tüzet!
 De Istenemre, most megtanítlak, mit csinálj máskor!
@@ -2036,8 +2010,8 @@ A fájdalom sikolya bugyborékolt a kisfiú száján, amikor a pálca a combján
 Összekulcsolt kezeit előrenyújtotta, irtózattal reszketett a hangja.
 - Apuka, apuka - sírta.
 - Ne bánts, apuka!
-Mondok érted egy üdvözlégy Máriát... Egy üdvözlégy Máriát mondok érted, csak ne bánts, apuka... Mondok érted egy üdvözlégy Máriát... 
-AGYAG 
+Mondok érted egy üdvözlégy Máriát... Egy üdvözlégy Máriát mondok érted, csak ne bánts, apuka... Mondok érted egy üdvözlégy Máriát...
+AGYAG
 Mária kimenőre készülődött.
 Engedélyt kapott a felügyelőnőtől, hogy ha az asszonyok megteáznak, kimehet a városba.
 A konyha csillogott, ragyogott: mondta is a szakács, hogy az ember akár tükörnek is használhatná a nagy rézüstöket.
@@ -2045,9 +2019,9 @@ A tűz pompásan lobogott, és az egyik tálalóasztalon négy hatalmas püspök
 Látszólag felvágatlanok, csak ha az ember közelebb került, vette észre, hogy hosszú, vastag, egyenlő szeletekre vannak darabolva, készen, hogy a teánál kiosztásra kerüljenek.
 Mária saját kezűleg szeletelte.
 Ici-pici kis nőszemély volt Mária, de az álla és az orra bizony nagyon-nagyon hosszúra nőtt.
-Egy cseppet az orrán át beszélt, mindig csillapítón: „Igen, drágám”, és „Nem, drágám”.
+Egy cseppet az orrán át beszélt, mindig csillapítón: "Igen, drágám", és "Nem, drágám".
 Érte küldtek, valahányszor csak az asszonyok összekaptak a dézsák felett, és sikerült is mindig békét teremtenie.
-A minap is azt mondta neki a felügyelőnő: 
+A minap is azt mondta neki a felügyelőnő:
 - Mária, maga valóságos békeszerző.
 S a bókot hallotta a helyettes felügyelőnő, meg a két hölgy a Bizottságból.
 Ginger Money is mindig mondta, ha Mária nem lenne, nem is tudja, mit csinált volna már a néma lánnyal, aki a vasalókért volt felelős.
@@ -2064,9 +2038,9 @@ Micsoda pompás estéjük lesz, a gyerekek mind-mind énekelnek.
 Olyan nagyon más, ha egy kicsit is iszik.
 Joe gyakran beszélt arról, hogy költözzön hozzájuk, legyenek együtt; de úgy érezte, útjukban lenne (bár Joe felesége mindig olyan nagyon kedves hozzá), meg aztán a mosodai életet is megszokta már.
 Pedig igen jó fiú.
-Ő dajkálta Joe-t, meg Alphyt is; mondja is Joe sokszor: 
-„A mama az mama; de csak Mária az igazi anyám.” 
-Amikor szétszéledtek otthonról, a fiúk szerezték neki ezt a helyet a „Dublini Lámpavilág” mosodában, és meg is szerette.
+Ő dajkálta Joe-t, meg Alphyt is; mondja is Joe sokszor:
+"A mama az mama; de csak Mária az igazi anyám."
+Amikor szétszéledtek otthonról, a fiúk szerezték neki ezt a helyet a "Dublini Lámpavilág" mosodában, és meg is szerette.
 Meglehetősen rossz véleménye volt akkoriban a protestán­sokról, de itt azt tapasztalta, hogy nagyon helyes emberek, kissé csendesek, komolyak, de azért nagyon helyes emberek.
 Aztán meg üvegházi növényei is vannak, és nagy kedvteléssel gondozza őket.
 Szép páfrányokat meg palántákat is nevel, és aki csak látogatóba jön hozzá, mindig kap tőle egy-két oltványt az üvegházból.
@@ -2114,7 +2088,7 @@ Az úriember nagyon kedves volt hozzá, és amikor Mária leszállt a csatorna h
 - kiáltott fel mindenki, amikor Joe-ékhoz megérkezett.
 Joe is otthon volt, és a gyerekek, mindnyájan ünneplőben.
 Ott volt a két nagylány is a szomszédból, és folyt a játék.
-Mária odaadta a süteményes csomagot Alphynak, a legidősebb fiúnak, ossza szét, és Mrs. Donnelly azt mondta, milyen nagyon kedves tőle, hogy hozta ezt a csomagot, és szépen megköszöntette a gyerekekkel: 
+Mária odaadta a süteményes csomagot Alphynak, a legidősebb fiúnak, ossza szét, és Mrs. Donnelly azt mondta, milyen nagyon kedves tőle, hogy hozta ezt a csomagot, és szépen megköszöntette a gyerekekkel:
 - Köszönjük szépen, Mária.
 De Mária azt mondta, hogy hozott ő a papának meg a mamának valami különlegeset is, amit biztosan szeretnek, és keresni kezdte a szilvássüteményt.
 Megnézte a Downes-féle csomag­ban, aztán az esőkabát zsebeiben, aztán az előszoba-fogason, de sehol sem találta.
@@ -2151,27 +2125,27 @@ Pár másodpercnyi csönd támadt; aztán nagy sugdolódzás és csoszogás.
 Valaki mondott valamit a kertről, aztán Mrs. Donnelly hangját hallotta, amint az egyik szomszédlánynak nagyon mérgesen mond valamit, és hogy azonnal dobja ki: ez már nem játék.
 Mária megértette, hogy most az egyszer nem jól sikerült a játék.
 Még egyszer megpróbálta: ezúttal az imakönyvet találta meg.
-Azután Mrs. Donnelly eljátszotta a gyerekeknek „McCloud kisasszony táncá”-t, és Joe rávette Máriát, hogy megigyon egy pohár bort.
+Azután Mrs. Donnelly eljátszotta a gyerekeknek "McCloud kisasszony táncá"-t, és Joe rávette Máriát, hogy megigyon egy pohár bort.
 Hamarosan újra derűs lett mindenki, és Mrs. Donnelly úgy vélte, minthogy Mária az imakönyvet találta meg, bizonyára még az idén kolostorba vonul.
 Mária még sohasem látta Joe-t ilyen kedvesnek, mint ezen az estén.
 Ömlött belőle a sok kedves emlék.
 Mária azt mondta, hogy mindnyájan nagyon jók hozzá.
 Végül a gyerekek elfáradtak, elálmosodtak, és Joe megkérte Máriát, énekeljen nekik valamit, mielőtt elmenne, valami régi dalt.
-És Mrs. Donnelly is azt mondta: „Igen, Mária, kérlek!”, és így hát Mária felkelt és a zongora mellé állt.
+És Mrs. Donnelly is azt mondta: "Igen, Mária, kérlek!", és így hát Mária felkelt és a zongora mellé állt.
 Mrs. Donnelly rászólt a gyerekekre, hogy maradjanak nyugton és figyeljenek Mária dalára.
-Aztán játszani kezdte az előjátékot, és azt mondta: „Most, Mária!” És Mária mélyen elpirulva vékony, remegő hangon énekelni kezdte az „Álmomban márvány várban éltem” kezdetű dalt.
-De mikor a második versszakhoz ért, újra rákezdte: 
+Aztán játszani kezdte az előjátékot, és azt mondta: "Most, Mária!" És Mária mélyen elpirulva vékony, remegő hangon énekelni kezdte az "Álmomban márvány várban éltem" kezdetű dalt.
+De mikor a második versszakhoz ért, újra rákezdte:
 Álmomban márvány várban éltem,
 Rabszolgák jöttek elém,
 S a hű alattvalók szemében
 Én voltam az üdv s a remény.
 Volt kincsem számtalan, ős nevemen
 Nagy elődök fénye ragyog,
-De az volt az álomban legszebb nekem, 
+De az volt az álomban legszebb nekem,
 Hogy szeretsz és veled vagyok.
 De senki sem szólt egy szót sem arról, hogy hol tévesztett, és amikor végére ért a dalnak, Joe nagyon meghatódott.
 Azt mondta, hogy azok voltak az igazi jó idők, a régiek, és az volt az igazi jó zene, amelyet a szegény öreg Balfe komponált, bármit mondjanak is az emberek; és szemét annyira ellepték a könnyek, hogy nem találta, amit keresett, és végül feleségétől kellett megkérdeznie, hol van a dugóhúzó.
-SAJNÁLATOS ESET 
+SAJNÁLATOS ESET
 Mr. James Duffy Chapelizodban lakott, mert a lehető legmesszebb óhajtott élni attól a város­tól, amelynek pedig szülötte volt, és mert Dublin többi külvárosát romlottnak, modernnek és harsánynak találta.
 Egy odvas házban lakott, ablakából az elhagyott pálinkafőzdébe látott, vagy ha nagyobb távlatokra szomjazott, a sekély folyóra, amelynek mentében Dublin épült.
 Nem tűrt meg képet szobájának festetlen, zord falain.
@@ -2207,7 +2181,7 @@ Néha játszott azzal a gondolattal, hogy ha a körülmények úgy hoznák, saj�
 Élete pergett változatlanul - történettelen mese.
 Egy estén két hölgy mellé került a Rotundában.
 Gyér közönségével csüggesztő bukást jósolt a néma nézőtér.
-A hölgyek közül az, aki közvetlen mellette ült, egyszer-kétszer végigtekintett a sivatagszerű nézőtéren és megjegyezte: 
+A hölgyek közül az, aki közvetlen mellette ült, egyszer-kétszer végigtekintett a sivatagszerű nézőtéren és megjegyezte:
 - Milyen kár, hogy ma este ilyen néptelen a színház.
 Rettenetes lehet üres széksoroknak énekelni.
 A megjegyzés beszédre bátorította Mr. Duffyt.
@@ -2287,9 +2261,9 @@ Mikor arra az elhagyott útra ért, amely a Park Gate-től Chapelizodba vezet, l
 Botja sem kopogott már olyan határozottan, kapkodó, sóhajba fúló lélegzete fehér párazászlóként lobogott a téli ködben.
 Hazaérve tüstént hálószobájába ment, elővette zsebéből az újságot, és az ablak gyarló világánál újra átolvasta a cikket.
 Hangtalanul olvasott, de mozgott a szája, mint a papnak, ha a Secretót imádkozza.
-Így szólt a cikk: 
+Így szólt a cikk:
 HALÁLOS SZERENCSÉTLENSÉG A SYDNEY PARADE-NÉL
-SAJNÁLATOS ESET 
+SAJNÁLATOS ESET
 A Dublini Városi Kórházban ma vizsgálatot tartott a törvényszéki kiküldött halottkém (Mr. Leverett távollétében) a negyvenhárom éves Mrs. Sinico holtteteme felett, aki tegnap este a Sydney Parade állomáson szörnyethalt.
 A tanúvallomások alapján kiderült, hogy az áldozatot, miközben megkísérelt áthaladni a síneken, a tíz óra negyvenes kingstowni személyvonat elütötte.
 Fején és testének jobb oldalán elszenvedett sérülések halálát okozták.
@@ -2392,7 +2366,7 @@ Várt, figyelt.
 Semmi: tökéletes a csend az éjszakában.
 Figyelt: csend.
 Egyedül volt.
-BOROSTYÁN-NAP AZ ÜLÉSTEREMBEN 
+BOROSTYÁN-NAP AZ ÜLÉSTEREMBEN
 Az öreg Jack összekotorta a parazsat egy keménypapír lemezzel, és egyenletesen elterítette a szén hamvasodó kupoláján.
 Amikor a vékony parázsréteg elborította a kupolát, arca a sötétségbe veszett, amint azonban nekidőlt, hogy újraélessze a tüzet, görbedt árnyéka lassan a szemközti falra rajzolódott, és arca is megjelent a fényben.
 Ez az arc öreg volt, nagyon csontos és nagyon szőrös.
@@ -2408,7 +2382,7 @@ Mr. O’Connor szájába dugta a cigarettát, és zsebeiben kezdett kotorászni.
 Egy csomag vékony kartonlapot húzott elő.
 - Hozok én tüzet - ajánlotta az öreg.
 - Ne fáradjon, ez is megteszi - hárította el Mr. O’Connor.
-Kiválasztott egy kartonlapot, és elolvasta a rányomtatott szöveget: 
+Kiválasztott egy kartonlapot, és elolvasta a rányomtatott szöveget:
 HELYHATÓSÁGI VÁLASZTÁS
 ROYAL EXCHANGE KÖRZET
 Mr. Richard J. Tierney, Sz.
@@ -2426,7 +2400,7 @@ Mindent megpróbáltam, hogy tisztességes ember legyen belőle.
 Csüggedten a helyére tette a keménypapír lemezt.
 - Csak ne lennék ilyen öreg, más nótát fújnék.
 Megpörgetném a pálcát a hátán, és verném, ahogy csak bírom - mint régen.
-Az anyja, tudja, ő még kényezteti, ezzel, azzal... 
+Az anyja, tudja, ő még kényezteti, ezzel, azzal...
 - Pontosan ez rontja el a gyereket - mondta Mr. O’Connor.
 - Az biztos - helyeselt az öreg.
 - Köszönetet nem nagyon kap tőlük az ember, csak pimaszságot.
@@ -2437,10 +2411,10 @@ Hova jut a világ, ha a gyerekek így bánnak a szülőapjukkal?
 - Tizenkilenc.
 - Miért nem adja oda valahová?
 - Hát nem azt csinálom a kótyagos disznóval, amióta csak kimaradt az iskolából?
-„Én el nem tartalak” - mondtam neki.
-„Keress magadnak valami állást.” De az már biztos, valahányszor munkához jut, még rosszabb; mindenét elissza.
+"Én el nem tartalak" - mondtam neki.
+"Keress magadnak valami állást." De az már biztos, valahányszor munkához jut, még rosszabb; mindenét elissza.
 Mr. O’Connor együttérzőn rázta a fejét, az öreg hallgatásba dermedt, és a tűzbe bámult.
-Valaki kinyitotta az ajtót és bekiáltott: 
+Valaki kinyitotta az ajtót és bekiáltott:
 - Halló!
 Mi van itt, szabadkőműves-gyűlés?
 - Ki az?
@@ -2461,11 +2435,11 @@ Egyiket a másik után a lángokba lökte, aztán felállította az asztalra.
 Sivár, mezítelen szobára hullt a gyertyák lángja, és elszürkültek a tűz derűs színei is.
 Tarlott falak körös-körül, csak egy választási felhívás kiáltozott az egyiken.
 A szoba közepén kis asztal, rajta papírhalom.
-Mr. Hynes a kandallópárkányra támaszkodva mondta: 
+Mr. Hynes a kandallópárkányra támaszkodva mondta:
 - Kifizetett már?
 - Még nem - válaszolta Mr. O’Connor.
 - Isten irgalmában bízok, hogy nem hagy bennünket cserben ma este.
-Mr. Hynes nevetett: 
+Mr. Hynes nevetett:
 - Sose félj!
 Ki fog fizetni.
 - Én is azt hiszem, ha nem akar magának rossz reklámot csinálni - mondta Mr. O’Connor.
@@ -2526,18 +2500,18 @@ Kurtán bólintott Mr. Hyness felé, aztán letelepedett a székre, amelyről az
 - Na és?
 Hogy állsz vele?
 - Nem ígért semmit.
-Azt mondta: „Eszem ágában sincs megmondani, kire szavazok.” De úgy gondolom, vele nem lesz baj.
+Azt mondta: "Eszem ágában sincs megmondani, kire szavazok." De úgy gondolom, vele nem lesz baj.
 - És miért gondolod úgy?
 - Megkérdezett, kik a jelöltek; és én felsoroltam.
 Említettem Burke atya nevét.
 Helyén lesz, ha üt az óra.
 Mr. Henchy orrcimpái zajos működésbe jöttek, és a tűz fölött irtózatos gyorsasággal dörzsölni kezdte kezeit.
-Aztán megszólalt: 
+Aztán megszólalt:
 - Az Isten szerelmére, Jack, hozz egy kis szenet.
 Biztosan van még ott valamennyi.
 Az öreg kiment.
 - Ez így nem megy - rázta a fejét Mr. Henchy.
-- Szóltam a kis cipőpucolónak, de azt felelte: „Ó igen, Mr. Henchy, amikor úgy látom majd, hogy hibátlanul megy a munka, biztos lehet, nem feledkezem meg magáról”.
+- Szóltam a kis cipőpucolónak, de azt felelte: "Ó igen, Mr. Henchy, amikor úgy látom majd, hogy hibátlanul megy a munka, biztos lehet, nem feledkezem meg magáról".
 A piszkos kis cigány!
 De miért is lenne más?
 - Na, mit mondtam, Mat?
@@ -2546,7 +2520,7 @@ De miért is lenne más?
 - Épp olyan ravasz, mint a híre - mondta Mr. Henchy.
 - Nem semmiért vannak neki azok a kis disznó szemei.
 A fene enné meg!
-Ahelyett, hogy fizetne mint egy úr, egyre csak kotkodácsol: „Igen, igen, Mr. Henchy, de meg kell beszélnem Mr. Fanninggel... Máris nagyon sokat költöttem erre.” Nyomorult kis krampusz!
+Ahelyett, hogy fizetne mint egy úr, egyre csak kotkodácsol: "Igen, igen, Mr. Henchy, de meg kell beszélnem Mr. Fanninggel... Máris nagyon sokat költöttem erre." Nyomorult kis krampusz!
 Azt hiszem, elfelejti azt az időt, amikor vén, töpörödött papája adok-veszek ócskás volt a Mary’s Lane-en.
 - Igaz ez?
 - kérdezte Mr. O’Connor.
@@ -2570,7 +2544,7 @@ Vállának egy lökésével ellódította magát a kandallópárkányról és t�
 A mielőbbi viszontlátásra.
 Pá-pá.
 Lassan kiment a szobából.
-Sem Mr. Henchy, sem az öreg nem szólt, de épp amikor az ajtó becsukódott, Mr. O’Connor, aki kedveszegetten bámult a tűzbe, hirtelen utánakiáltott: 
+Sem Mr. Henchy, sem az öreg nem szólt, de épp amikor az ajtó becsukódott, Mr. O’Connor, aki kedveszegetten bámult a tűzbe, hirtelen utánakiáltott:
 - Viszlát, Joe.
 Mr. Henchy várt néhány pillanatig, aztán fejével az ajtó irányába intett.
 - Mond csak - szólt át a tűz fölött -, mi hozta ide barátunkat?
@@ -2624,7 +2598,7 @@ Fáradjon be.
 - Nem, nem, nem!
 - mondta Keon atya gyengéd, megbocsájtó, bársonyos hangon.
 - A világért se zavartassák magukat miattam.
-Mr. Fanningot keresem csupán... 
+Mr. Fanningot keresem csupán...
 - Mr. Fanning a Fekete Sas környékén található - adta meg a felvilágosítást Mr. Henchy.
 - De nem jönne be egy pillanatra?
 - Nem, nem, köszönöm szépen.
@@ -2633,7 +2607,7 @@ Igazán nagyon köszönöm.
 Visszahúzódott az ajtónyílásból, és Mr. Henchy felragadva az egyik gyertyát az ajtóba rohant, hogy megvilágítsa neki a lépcsőt.
 - Ó, ne fáradjon, könyörgöm.
 - Szó sincs róla, de a lépcső rettenetesen sötét.
-- Dehogy, dehogy... egészen jól látok... Nagyon, nagyon köszönöm... 
+- Dehogy, dehogy... egészen jól látok... Nagyon, nagyon köszönöm...
 - Meg tetszett találni az utat?
 - Megvan, igen.
 Köszönöm... igen köszönöm.
@@ -2649,13 +2623,13 @@ Sűrűn látni őket együtt Kavanagh-nál.
 Pap ez egyáltalán?
 - Mmmigen, azt hiszem... Gondolom, afféle fekete bárány.
 Hála az Úrnak!
-Nem sok van belőlük, de van egypár... Valami szerencsétlen fickó lehet... 
+Nem sok van belőlük, de van egypár... Valami szerencsétlen fickó lehet...
 - Kíváncsi lennék, hogyan dobja ez össze a mindennapit - tűnődött Mr. O’Connor.
 - Ez a másik rejtély.
-- Nem tartozik semmiféle kápolnához, parókiához vagy intézményhez vagy... 
+- Nem tartozik semmiféle kápolnához, parókiához vagy intézményhez vagy...
 - Nem.
 Azt hiszem, szabad úszó.
-Isten bocsássa meg nekem - tette hozzá -, azt gondoltam, ő lesz a tucat üveg sör... 
+Isten bocsássa meg nekem - tette hozzá -, azt gondoltam, ő lesz a tucat üveg sör...
 - Ami az ivást illeti, semmiféle lehetőség nincs?
 - Magam is kiszáradtam - mondta az öreg.
 - Háromszor is kértem azt a kis cipőpucolót - panaszolta Mr. Henchy - küldene egy tucat üveg sört.
@@ -2663,10 +2637,10 @@ Most megint kértem, de ott a pulton könyökölve ingujjasan, Cowley képvisel�
 - Miért nem szóltál neki megint?
 - kérdezte Mr. O’Connor.
 - Nem fújhattam a nótám ott, mint egy papagáj, míg ő Cowley képviselő úrral beszél.
-Végül elkaptam a pillantását, akkor rákezdtem: „Amiatt a kis ügy miatt szeretnék magával beszélni...” „Minden rendben, Mr. H.” - mondta.
+Végül elkaptam a pillantását, akkor rákezdtem: "Amiatt a kis ügy miatt szeretnék magával beszélni..." "Minden rendben, Mr. H." - mondta.
 Lefogadom, hogy az a nyavalyás kis hüvelykmatyi elfelejtette az egészet.
 - Valamire nagyon készülődnek arrafelé - mondta Mr. O’Connor gondterhelten.
-- Tegnap láttam a Suffolk utca sarkán hármójukat, nagyon el voltak merülve valamiben... 
+- Tegnap láttam a Suffolk utca sarkán hármójukat, nagyon el voltak merülve valamiben...
 - Azt hiszem, tudom, mire megy a játék.
 Ha manapság polgármester akarsz lenni, némi pénzajándékokkal kell meglepned a városatyákat.
 Akkor aztán biztos lehetsz a polgármester­ségedben.
@@ -2674,7 +2648,7 @@ Akkor aztán biztos lehetsz a polgármester­ségedben.
 Magam is komolyan arra kezdek gondolni, hogy lehetnék városatya.
 Mit gondolsz, megfelelnék?
 Mr. O’Connor nevetett.
-- Ami a pénzajándékokat illeti... 
+- Ami a pénzajándékokat illeti...
 - Kikocsizni a Mansion House kapuján talpig hermelinben, ezzel az öreg Jackkel a hátam mögött, rizsporos parókában - na?
 - Tégy meg engem magántitkárodnak, John.
 - Jól van.
@@ -2682,23 +2656,23 @@ Keon atyát meg kinevezem magánkáplánommá.
 Ki is van a parti.
 - Hitemre, Mr. Henchy - mondta az öreg -, finomabban tudná csinálni, mint sokan ezek közül.
 Valamelyik nap beszélgettem a vén Keegannel, a portással.
-„Na és hogy vagy megelégedve az új gazdáddal, Pat?” - kérdeztem tőle.
-„Mostanában nincs nagy vendégeskedés nálatok!” „Vendéges­kedés?” - felelte.
-„A mosogatórongy szagán él ez!” És tudjátok, mit mondott még?
+"Na és hogy vagy megelégedve az új gazdáddal, Pat?" - kérdeztem tőle.
+"Mostanában nincs nagy vendégeskedés nálatok!" "Vendéges­kedés?" - felelte.
+"A mosogatórongy szagán él ez!" És tudjátok, mit mondott még?
 Istenemre mondom, máig sem hiszem el neki.
 - Mit?
 - kérdezte Mr. Henchy és Mr. O’Connor egyszerre.
-- Azt mondta: „Mit szólnál, ha Dublin polgármestere fél kiló karajért szalajt az ebédjéhez?
-Ez a nagy élet?” „Ajaj!
-Ajaj” - mondom én.
-„Fél kiló karaj, a Mansion House-ban”, mondta.
-- „Ajaj” - mondom én -, „hogy miféle emberek vannak mostanában!” 
+- Azt mondta: "Mit szólnál, ha Dublin polgármestere fél kiló karajért szalajt az ebédjéhez?
+Ez a nagy élet?" "Ajaj!
+Ajaj" - mondom én.
+"Fél kiló karaj, a Mansion House-ban", mondta.
+- "Ajaj" - mondom én -, "hogy miféle emberek vannak mostanában!"
 Az elmélkedést e ponton kopogás szakította félbe, és egy fiú dugta be a fejét az ajtón.
 - Mi az?
 - kérdezte az öreg.
 - A Fekete Sasból - válaszolta a fiú oldalvást bepréselődve, és egy kosarat helyezett a padlóra, összeütődő üvegek sokat ígérő lármájával.
 Az öreg segített a fiúnak kirakni az asztalra a kosár tartalmát, és számba vette a küldeményt.
-A fiú a karjára fűzte az üres kosarat és megkérdezte: 
+A fiú a karjára fűzte az üres kosarat és megkérdezte:
 - Üvegek?
 - Miféle üvegek?
 - tudakolta az öreg.
@@ -2711,7 +2685,7 @@ A fiú a karjára fűzte az üres kosarat és megkérdezte:
 - Át ugornál ide O’Farrellhez, és kölcsönkérnél egy dugóhúzót Mr. Henchynek?
 Mondd meg, hogy egy pillanatra csak.
 A kosarat itt hagyhatod.
-A fiú kifordult a szobából, és Mr. Henchy vidoran dörzsölgette a kezét: 
+A fiú kifordult a szobából, és Mr. Henchy vidoran dörzsölgette a kezét:
 - Na, mégsem olyan átkozottul gonosz, mint gondoltuk.
 Állta a szavát.
 - Nincs poharunk - állapította meg az öreg.
@@ -2720,14 +2694,14 @@ A fiú kifordult a szobából, és Mr. Henchy vidoran dörzsölgette a kezét:
 - Nem lenne ő rossz fiú - bizonygatta Mr. Henchy -, csak Fanning van rá olyan borzasztó hatással.
 Tulajdonképpen jót akar, az ő szánalmas módján.
 A fiú visszajött a dugóhúzóval.
-Az öreg kinyitott három palackot, és éppen a dugóhúzót adta vissza a fiúnak, amikor Mr. Henchy megszólalt: 
+Az öreg kinyitott három palackot, és éppen a dugóhúzót adta vissza a fiúnak, amikor Mr. Henchy megszólalt:
 - Nem innál egyet, fiú?
-- Ha lenne olyan kedves... 
+- Ha lenne olyan kedves...
 Az öreg morogva nyitott ki még egy palackot, és a fiúnak nyújtotta.
 - Hány éves vagy?
 - kérdezte.
 - Tizenhét - felelte a fiú.
-Minthogy az öreg nem szólt többet, a fiú fölvette az üveget: 
+Minthogy az öreg nem szólt többet, a fiú fölvette az üveget:
 - A legmélyebb tisztelettel Mr. Henchy egészségére!
 - Azzal kiitta.
 Visszatette az üveget, és megtörölte száját az inge ujjával.
@@ -2748,7 +2722,7 @@ Egyikük irtózatosan kövér volt, és szövetruhája állandóan abban a vesz�
 Roppant arca feltűnően hasonlított egy tinó pofájához, azzal a kék barom-szemével és deresedő bajuszával.
 A másik sokkal fiatalabb és karcsúbb volt, arca keskeny, simára borotvált.
 Hihetetlen magas duplagallért és széles peremű keménykalapot viselt.
-- Halló, Crofton - üdvözölte Mr. Henchy a kövért - farkast emlegetnek... 
+- Halló, Crofton - üdvözölte Mr. Henchy a kövért - farkast emlegetnek...
 - Honnan jött a tütü?
 - kérdezte a fiatal.
 - Megtojta a tyúk az aranytojásokat?
@@ -2770,17 +2744,17 @@ Mr. Crofton ráfolyt egy ládára, és meredt szemekkel bűvölte a másik palac
 Hallgatott, két okból is.
 Hallgatott először azért - és ez már önmagában elégséges lett volna -, mert nem volt semmi mondanivalója; hallgatott másodszor azért, mert lenézte a társaságot.
 Eredetileg a konzervatív Wilkinsnek lett volna a kortese, de mikor a Konzervatív Párt visszahívta jelöltjét, és két gonosz közül a kisebbnek látszót választva a Nemzeti Párt jelöltjeit támogatta szavazataival, Mr. Crofton Mr. Tierney szolgálatába állt.
-Pár percen belül egy bocsánatkérő „pukk” kíséretében Mr. Lyons palackjából kirepült a dugó, Mr. Lyons talpra ugrott, lekapta palackját a rácsról, és visszatért támaszpontjára.
+Pár percen belül egy bocsánatkérő "pukk" kíséretében Mr. Lyons palackjából kirepült a dugó, Mr. Lyons talpra ugrott, lekapta palackját a rácsról, és visszatért támaszpontjára.
 - Éppen most mesélem, Crofton - folytatta Mr. Henchy -, hogy ma azért megdolgoztunk egy-két szavazót.
 - Kiket?
 - kérdezte Mr. Lyons.
 - Egynek megszereztem Parkest, megszereztem egy másiknak Atkinsont, és megszereztem a Dawsson utcában Wardot.
 Csuda öreg fickó - igazi régi úr, vén konzervatív!
-„De nem Nemzeti Párt-i az ön jelöltje?” - kérdezte.
-„Az én jelöltem tekintélyes férfi”, feleltem.
-„Mindent szívügyének tekint, ami csak hazánk jobblétére szolgál.
+"De nem Nemzeti Párt-i az ön jelöltje?" - kérdezte.
+"Az én jelöltem tekintélyes férfi", feleltem.
+"Mindent szívügyének tekint, ami csak hazánk jobblétére szolgál.
 Azonkívül magas adók fizetője, a belvárosban óriási házak tulajdonosa, többek között három üzletházé, és így nemde elsőrendű érdeke, hogy az adót ne emeljék?
-Tekintélyes és városszerte tisztelt polgártársunk, mondtam tovább, a Szegény Törvény őre, és semmiféle párthoz nem tartozik, legyen az jó vagy rossz, vagy közömbös.” Látjátok, így kell velük beszélni.
+Tekintélyes és városszerte tisztelt polgártársunk, mondtam tovább, a Szegény Törvény őre, és semmiféle párthoz nem tartozik, legyen az jó vagy rossz, vagy közömbös." Látjátok, így kell velük beszélni.
 - Na és mi van az üdvözlő szózattal - érdeklődött Mr. Lyons, miután ivott, és lenyalta a száját.
 - Figyelj ide.
 Mire van égetően szüksége ennek az országnak?
@@ -2794,18 +2768,18 @@ Nézzétek meg, mi pénz áll itt az országban, ha csak a hagyományos iparunka
 Tőke, az kell nekünk.
 - De idefigyelj, John - vitatkozott Mr. O’Connor.
 - Miért kell nekünk Edwardot, Anglia királyát üdvözlő szózattal fogadni?
-Nem Parnell maga... 
+Nem Parnell maga...
 - Parnell meghalt - állapította meg Mr. Henchy.
 - Most elmondom, hogyan látom én a dolgokat.
 Adva van ez a fickó, aki - miután vén mamája addig tartotta távol az uralkodástól, míg beleőszült - végre trónra került.
 Világfi, és jóindulattal van irányunkban.
 Ha engem kérdeznél, szerintem rém rendes fickó, és nem csinál semmi marhaságot.
-Na már most azt mondja magában: „A mamának eszébe sem jutott, hogy meglátogassa ezeket a veszett íreket.
-Krisztus nevére mondom, magam megyek el, majd én megnézem, kik ezek.” És sértsünk meg egy embert, aki baráti látogatásra jön el hozzánk?
+Na már most azt mondja magában: "A mamának eszébe sem jutott, hogy meglátogassa ezeket a veszett íreket.
+Krisztus nevére mondom, magam megyek el, majd én megnézem, kik ezek." És sértsünk meg egy embert, aki baráti látogatásra jön el hozzánk?
 Mi?
 Nem igaz, Crofton?
 Mr. Crofton bólintott.
-- De azért mégiscsak - érvelt Mr. Lyons - Edward király életében vannak... 
+- De azért mégiscsak - érvelt Mr. Lyons - Edward király életében vannak...
 - Borítsunk fátylat a múltra - mondta Mr. Henchy.
 - Én az embert csodálom benne.
 Éppen olyan közönséges tökfilkó, mint te vagy én, ő is szereti a mindennapi pohár whiskyket, valószínűleg a női bájak iránt sem érzéketlen, és kitűnő sportember is.
@@ -2823,13 +2797,13 @@ Most, hogy halott, és eltávozott közülünk, mindnyájan mély tisztelettel �
 Még a konzervatívok is - tette hozzá Mr. Crofton felé fordulva.
 Pukk!
 Mr. Crofton üvegéből kiröppent a mindeddig vonakodó dugó.
-Mr. Crofton felkelt, és a tűzhöz lépett; amint zsákmányával visszatért, mély hangon nyilatkozott: 
+Mr. Crofton felkelt, és a tűzhöz lépett; amint zsákmányával visszatért, mély hangon nyilatkozott:
 - A képviselőház konzervatív szárnya tiszteli, mert úriember volt.
 - Nagyon igazad van, Crofton!
 - mondta Mr. Henchy vadul.
 - Ő volt az egyetlen, aki ezt a marakodó bandát kordában tudta tartani.
-„Kuss, kuvasz!
-Nem ülsz le, átkozott!” Így kezelte őket.
+"Kuss, kuvasz!
+Nem ülsz le, átkozott!" Így kezelte őket.
 Gyere be, Joe!
 Gyere!
 - kiáltott ki, megpillantva Mr. Hynest az ajtóban.
@@ -2856,7 +2830,7 @@ Ezt hallgasd meg.
 Valami tüneményes.
 - Gyerünk - sürgette Mr. O’Connor.
 - Ki vele, Joe.
-Mr. Hynes úgy látszik, nem értette mindjárt, mire célozgatnak a többiek, de egy kis gondolkodás után megszólalt: 
+Mr. Hynes úgy látszik, nem értette mindjárt, mire célozgatnak a többiek, de egy kis gondolkodás után megszólalt:
 - Igen, az az... igaz, most már idejét múlta.
 - Ki vele, ember!
 - heveskedett Mr. O’Connor.
@@ -2866,10 +2840,10 @@ Csitt - csillapította Mr. Henchy.
 Mr. Hynes habozott.
 Aztán a csendben levette kalapját, az asztalra tette és felállt.
 Úgy tűnt, elpróbálja gondolatban.
-Meglehetősen hosszú szünet után elkezdte: 
+Meglehetősen hosszú szünet után elkezdte:
 Parnell halála
 1891. október 6-án.
-Egy-két torokköszörülés után szavalni kezdett: 
+Egy-két torokköszörülés után szavalni kezdett:
 Halott a Koronázatlan Király.
 Írország, gyászolj és zokogj,
 Ő, ki a modern hypokriták
@@ -2928,7 +2902,7 @@ Mr. Hynes üvegéből röppent ki a dugó, de Mr. Hynes pirultan, födetlen főv
 - Na, mit szólsz ehhez, Crofton - kiabált Mr. Henchy - nem nagyszerű?
 Mi?
 Mr. Crofton elismerte, hogy igen kitűnő írásmű.
-ANYA 
+ANYA
 Mr. Holohan, az Eire Abu Szövetség segédtitkárja hetek óta nyargalászott Dublin utcáin, mocskos irományokkal degeszre tömött zsebekkel, a hangversenysorozat érdekében.
 Fárad­hatatlanul rótta útjait, holott egyik lába béna volt; nem is hívták másképpen baráti körökben, csak Hoppsza Holohannak.
 Nyargalt és érvelt, órák hosszáig utcasarkokon írta jegyzeteit egyre mocskosabb papírokra, és végül Mrs. Kearney elintézett mindent.
@@ -2947,7 +2921,7 @@ Lehettek akárhol látogatóban, ha nejének szemöldei hajszálnyit is rándult
 Másrészről mint atya, Mr. Kearney minden atyák példaképe lehetett volna.
 Fáradhatatlan szívóssággal hordott be hetente kis pénzeket egy spóregyletbe, azzal a nagyon apai törekvéssel, hogy mindkét lánya 100-100 font hozománnyal állhasson a világ elé, ha elérik huszonnegyedik évüket.
 Idősebbik lányát, Kathleent előkelő zárdába küldte, ahol franciát tanult és zenét, és később az Akadémián is fizette a tandíjat.
-Mrs. Kearney minden év július havában alkalmat talált, hogy valamelyik barátnőjének odavetve megjegyezze: 
+Mrs. Kearney minden év július havában alkalmat talált, hogy valamelyik barátnőjének odavetve megjegyezze:
 - Drága férjem megint elvisz minket néhány hétre Skerriesbe.
 Néha Howth, néha Greystones került Skerries helyére.
 Mikor az Ír Mozgalom szalonképessé lett, Mrs. Kearney döntő lépésre szánta el magát lánya nevéből, és ír nevelőt hozott a házhoz.
@@ -2966,9 +2940,9 @@ Azt is tudta, hogy az első tenor rossz néven venné, ha Mr. Meade humoros szá
 Hogy a közönség érdeklődése az állandó felcsigázottság állapotában maradjon, a kétséges műsorszámokat belopta a régi kedvencek számai közé.
 Mr. Holohan naponta járult elé, hogy tanácsait némely pontokat illetően meg­hallgassa.
 Tanácsa, türelme, kimeríthetetlen volt - és a szíves vendéglátás sem szegényedett.
-A borosüveg mindig előkerült, bátorító szózatokkal: 
+A borosüveg mindig előkerült, bátorító szózatokkal:
 - Tessék, Mr. Holohan, lásson hozzá!
-És míg Mr. Holohan hozzálátott, másféle biztatások is elhangzottak: 
+És míg Mr. Holohan hozzálátott, másféle biztatások is elhangzottak:
 - Ne féljen, Mr. Holohan!
 Jut is, marad is, Mr. Holohan!
 Minden olajozottan gördült.
@@ -2991,10 +2965,10 @@ Kezében műsort tartott, és míg beszélgettek, az egyik sarkát szórakozotta
 Mr. Holohan percenként felbukkant, hozta a friss híreket a pénztár állásáról, aztán eltűnt.
 A művészek idegesen beszélgettek, a tükrökbe pillantgattak, kottáikat ki-be hajtogatták.
 Amikor már fél kilenc felé járt az idő, a nézőtéren lézengő néhány ember kezdte kinyilvánítani vágyát, hogy szórakoz­tatásuk kezdődjék meg.
-Mr. Fitzpatrick betolta üres mosolyát az öltözőbe: 
+Mr. Fitzpatrick betolta üres mosolyát az öltözőbe:
 - Hölgyeim és uraim!
 úgy vélem, itt az idő, nyissuk meg a murit.
-Az utolsó szót Mrs. Kearney gyors, megvető szemmeresztéssel jutalmazta, majd lányához fordult: 
+Az utolsó szót Mrs. Kearney gyors, megvető szemmeresztéssel jutalmazta, majd lányához fordult:
 - Készen vagy, drágám?
 Mihelyt alkalom adódott, félrevonta Mr. Holohant, és megkérdezte tőle, mit jelentsen ez.
 Mr. Holohan sem tudta, mit jelentsen ez.
@@ -3020,7 +2994,7 @@ Mr. Holohan nagyon sietett; azt a tanácsot adta, talán Mr. Fitzpatrickkal kell
 Mrs. Kearney anyai szíve most már riadót dobolt.
 Kiszólította Mr. Fitzpatrickot a függöny mögötti vackából, és előadta, hogy lánya négy hangversenyre szerződött, természetes tehát, hogy a szerződés pontjai szerint azt az összeget kapja, amiben eredetileg megállapodtak, függetlenül attól, hogy a Szövetség négy koncertet ad-e, vagy sem.
 Mr. Fitzpatrick mérsékelt érdeklődéssel hallgatott, és képtelennek látszott a bonyolult feladvány megoldására, majd kijelentette, hogy az ügyet a Bizottság elé kell vinni.
-Mrs. Kearney arcán kigyúlt a harag két piros szemaforja, és alig tudta visszagyűrni a kérdést: 
+Mrs. Kearney arcán kigyúlt a harag két piros szemaforja, és alig tudta visszagyűrni a kérdést:
 - És ki az a Bizottság, könyörgöm?
 De úrihölgy volt, hallgatott.
 Péntek reggel gyerek-osztagok lepték el Dublin jelentősebb utcáit, hónuk alatt röplapok tömegével.
@@ -3038,7 +3012,7 @@ Lánya ruháit férje gondjaira bízva, Mrs. Kearney nekivágott az épületnek,
 Egyiküket sem találta.
 Sorra járta a rendezőket, látták-e valamelyik titkárt a teremben, és hosszas kínlódás után, az egyik rendező előhurcolt egy nyúlszerű kis nőt, Miss Beirne-t, akinek Mrs. Kearney elmagyarázta, hogy a titkárokkal szeretne beszélni.
 Minden percben várja őket, és talán addig is tehetne valamit - így Miss Beirne.
-Mrs. Kearney belebámult öreges arcába, amelyen kétségbeesett remény és lelkesedés vonaglott, és legyintett: 
+Mrs. Kearney belebámult öreges arcába, amelyen kétségbeesett remény és lelkesedés vonaglott, és legyintett:
 - Nem, köszönöm, nem!
 A nyúlszerű nő remélte, hogy telt ház lesz.
 Addig nézte a könyörtelen esőt, amíg az ázott utca mélabúja letörölte gyötrődő arcáról a reményt és a lelkesedést, és röpke sóhajra fakadt.
@@ -3062,7 +3036,7 @@ Kedvenc játékai közé tartozott mindenkinek tudomására hozni, hogy milyen i
 Most is, amint megpillantotta Mr. Duggant, átment hozzá.
 - Maga is?
 - Én is - felelte Duggan.
-Mr. Bell ránevetett sorstársára és kezet nyújtott: 
+Mr. Bell ránevetett sorstársára és kezet nyújtott:
 - Csapjon bele!
 Mrs. Kearney ment el mellettük, a függönysarok felé igyekezett, szemlét tartani a nézőtér fölött.
 A széksorok egymás után teltek meg, és kellemes zsibongás kerengett a teremben.
@@ -3133,17 +3107,17 @@ Mr. Holohan egy pillanat alatt megértette, miről van szó.
 Mrs. Kearneyhez lépett és rendkívül komoly hangon beszélni kezdett vele.
 A nézőtéren egyre erősödött a lárma.
 Mr. Holohan nagyon vörös lett és nagyon izgatott.
-Epikus áradását Mrs. Kearney pattogó szavai szakították félbe: 
+Epikus áradását Mrs. Kearney pattogó szavai szakították félbe:
 - Szó sem lehet róla.
 Addig nincs kezdés, míg a nyolc fontját meg nem kapja.
 Mr. Holohan kétségbeesetten mutatott a nézőtérre, ahonnan taps és lábdobogás hangzott.
 Mr. Kearneyhez és Miss Kathleenhez föllebbezett.
 De Mr. Kearney továbbra is szakálla simogatá­sának szentelte minden figyelmét, Miss Kathleen pedig vadonatúj cipőjének orrával arabeszkeket rajzolt a padlóra: ő igazán nem tehet róla.
-Mrs. Kearney megismételte: 
+Mrs. Kearney megismételte:
 - Pénz nélkül nincs kezdés.
 Rövid, de heves vita után Mr. Holohan rohanva elbicegett.
 Az öltözőre fagyos némaság borult.
-Amikor a feszült csend már-már kínossá fajult, Miss Healy a baritonhoz fordult: 
+Amikor a feszült csend már-már kínossá fajult, Miss Healy a baritonhoz fordult:
 - Látta Mrs. Pat Campbellt a héten?
 A bariton nem látta, de úgy értesült, hogy a szóban forgó hölgy kitűnő egészségnek örvend.
 A társalgás ezzel le is zárult.
@@ -3153,9 +3127,9 @@ A nézőtéri lárma már ordítássá növekedett, amikor Mr. Fitzpatrick robba
 A taps és lábdobaj hosszú füttyökbe fúlt a nézőtéren.
 Mr. Fitzpatrick kezében bankjegyek lobogtak, mint harci zászlók.
 Négyet Mrs. Kearney tenyerébe számolt azzal, hogy a többit majd szünet után.
-Mrs. Kearney rászólt: 
+Mrs. Kearney rászólt:
 - Négy shillinggel kevesebb.
-De Miss Kathleen már felfogta ruhája alját: 
+De Miss Kathleen már felfogta ruhája alját:
 - Tessék, Mr. Bell.
 Az első szám remegett, mint a rezgőnyárfa.
 Az énekes és kísérője megjelent a dobogón.
@@ -3204,7 +3178,7 @@ Arcát elöntötték a harag színei, és pár pillanatig úgy látszott, tettle
 - Némi méltányosságot igazán elvárhatnánk öntől - érvelt Mr. Holohan.
 - Méltányosságot, igazán?
 És mikor megkérdeztem mikor szíveskednek kifizetni lányom járan­dó­ságát, kaptam én maguktól tisztességes választ?
-Fejét fölvetette, és eltúlzott pökhendiséget imitált: 
+Fejét fölvetette, és eltúlzott pökhendiséget imitált:
 - Beszéljen a titkárral.
 Ez nem az én dolgom.
 Tudja, én felette állok az ilyen csip-csup ügyeknek.
@@ -3214,11 +3188,11 @@ Mrs. Kearney csak állt az ajtónál, elfulladt dühében, lányával és férj�
 Várt addig, míg a második rész meg nem kezdődik, hátha meggondol­ják magukat a titkárok.
 De Miss Healy készségesen belement, hogy egy-két számot még kísér.
 Mrs. Kearneynek félre kellett állnia, hogy a zongorista és kísérője kiléphessenek a színpadra.
-Egy pillanatig dermedten állt, mint egy haragos kőbálvány, és amikor a kezdő dallamok megütötték a fülét, fölkapta lánya kabátját, és rászólt a férjére: 
+Egy pillanatig dermedten állt, mint egy haragos kőbálvány, és amikor a kezdő dallamok megütötték a fülét, fölkapta lánya kabátját, és rászólt a férjére:
 - Hozass kocsit.
 Mr. Kearney tüstént kimenekült.
 Mrs. Kearney beburkolta lányát a kabátba, és utána eredt.
-Félig kinn volt már, amikor megállt, s Mr. Holohan arcába meredt: 
+Félig kinn volt már, amikor megállt, s Mr. Holohan arcába meredt:
 - Még nem végeztem magával.
 - De én végeztem magával - felelte Mr. Holohan.
 Kathleen szelíden követte anyját.
@@ -3663,11 +3637,11 @@ Jól emlékszem, mikor kijöttünk, Crofton azt mondta...
 Crofton nem református?
 - kérdezte Mr. Power.
 - Persze hogy az - folytatta Mr. Kernan -, és hozzátehetem, bitang egy becsületes református.
-Utána beugrottunk Butlerhez egy pohárkára - hitemre, ha tudni akarjátok a szent igazat, őszintén meg voltam hatódva -, hát akkor csak, emlékszem minden szavára, megszólal a Crofton: „Kernan - mondta -, ha más-más oltárnál imádkozunk is - így mondta Crofton -, a mi hitünk bizony csak ugyanegy.” Szíven ütött, hogy milyen találóan szólt.
+Utána beugrottunk Butlerhez egy pohárkára - hitemre, ha tudni akarjátok a szent igazat, őszintén meg voltam hatódva -, hát akkor csak, emlékszem minden szavára, megszólal a Crofton: "Kernan - mondta -, ha más-más oltárnál imádkozunk is - így mondta Crofton -, a mi hitünk bizony csak ugyanegy." Szíven ütött, hogy milyen találóan szólt.
 - Van benne jó adag igazság - helyeselt Mr. Power.
 - Egész tömegével gyűltek a templomba a reformátusok, ahol Tom atya prédikált.
 - Nincs közöttünk nagy különbség - vélte Mr. M’Coy.
-- Mindkét részről hisszük a... 
+- Mindkét részről hisszük a...
 Egy pillanatig habozott.
 - ...a Megváltót.
 Csak ők nem hiszik a pápát és az Isten Anyját.
@@ -3954,7 +3928,7 @@ Középen elválasztott, sima fekete haját hosszú ívben kefélte hátra a fü
 Mikor tükörfényesre csapkodta cúgoscipőjét, felegyenesedett, és feszesre rántotta mellényét vaskos törzsén.
 Aztán gyorsan elővett egy pénzdarabot.
 - Kedves Lily - mondta és a lány kezébe nyomta.
-- Majdnem elfeledtem, hogy karácsony van... Izé... tessék egy kis... 
+- Majdnem elfeledtem, hogy karácsony van... Izé... tessék egy kis...
 A feljárat felé menekült.
 - Jaj, ne tessék, uram!
 - kiáltott fel a lány, és utána eredt.
@@ -4075,7 +4049,7 @@ A hölgyek a derekukat riszálták, idegbajosan rángatták vállukat.
 A legbátrabb meg is szólalt:
 - Nana, Mr. Browne, annyi biztos, hogy orvos ilyesmit nem rendel a betegeknek.
 Mr. Browne egy újabb korty whisky után megjátszott kancsalsággal válaszolt:
-- Én, hölgyeim, én tisztelettel adózom ama híres Mrs. Cassidynek, aki állítólag azt mondta: „Bizony, Mary Grimes, ha nem akarom bevenni, vetesd csak be velem, mert érzem, hogy szükségem van rá.”
+- Én, hölgyeim, én tisztelettel adózom ama híres Mrs. Cassidynek, aki állítólag azt mondta: "Bizony, Mary Grimes, ha nem akarom bevenni, vetesd csak be velem, mert érzem, hogy szükségem van rá."
 Mindezt megjátszott, durva dublini akcentussal mondta, és egy kicsit túl bizalmasan hajolt feléjük kigyúlt arcával, úgyhogy a két nő ösztönösen elhallgatott.
 A csendet Miss Furlong, Mary Jane tanítványa törte meg azzal, hogy megkérdezte Miss Dalytől, mi annak az édes keringőnek a címe, amit az imént játszott.
 Mr. Browne látva, hogy nemigen törődnek vele, a két ifjú felé fordult, akiktől több figyelmet remélhetett.
@@ -4272,7 +4246,7 @@ Milyen szép lenne egyedül sétálni, először a hideg leheletű folyó partj�
 Hótól fehér a tar faág most, fehér sapka borítja a Wellington-emlékművet is.
 Mennyivel jobb lenne ott kinn, mint az ünnepi asztalnál!
 Átfutotta beszéde vázlatát: ír vendégszeretet, szomorú emlékek, a három grácia, Párizs, a Browning-idézet.
-Felidézte kritikájának egy mondatát: „Az ember mintha döbbenetes, agytépő zenét hallana.” Miss Ivors dicsérte a méltatást.
+Felidézte kritikájának egy mondatát: "Az ember mintha döbbenetes, agytépő zenét hallana." Miss Ivors dicsérte a méltatást.
 Komolyan gondolta vajon?
 Valódi élet lappang-e a propagandista felszín alatt?
 Mindeddig soha meg nem bántották egymást.
@@ -4280,7 +4254,7 @@ Elcsüggesztette az a gondolat, hogy az ünnepi asztalnál ott ül majd a lány 
 Talán még azt sem bánná, ha belesülne a beszédbe.
 Egy ötlete támadt, és ez felbátorította.
 Kate és Júlia nénire célozva, ezt mondja majd:
-„Hölgyeim és uraim, annak a nemzedéknek, amely már hanyatlóban van itt, lehetnek hibái; én magam mégis úgy hiszem, olyan kiváló tulajdonságok hordozói voltak, mint a vendégszeretet, víg kedély, emberiesség - amelyek a felnövő, nagyon szigorú és túl okos nemzedék tagjaiból láthatóan hiányzanak.” Nagyon jó: ez megadja Miss Ivorsnak.
+"Hölgyeim és uraim, annak a nemzedéknek, amely már hanyatlóban van itt, lehetnek hibái; én magam mégis úgy hiszem, olyan kiváló tulajdonságok hordozói voltak, mint a vendégszeretet, víg kedély, emberiesség - amelyek a felnövő, nagyon szigorú és túl okos nemzedék tagjaiból láthatóan hiányzanak." Nagyon jó: ez megadja Miss Ivorsnak.
 Mit törődött Gabriel azzal, hogy nagynénjei csak tudatlan öregasszonyok?
 Zsivaj kelt a szobában, és elragadta figyelmét.
 Mr. Browne tűnt fel az ajtóban, lovagiasan gardírozva Júlia nénit, aki lehajtott fővel dőlt a karjára és mosolygott.
@@ -4587,11 +4561,11 @@ Kate néni közbeszólt.
 - Kihajtott hát elődei hajlékából - folytatta Gabriel - ama Johnnyval.
 Gyönyörűen ment is volna minden, ha Johnny meg nem látja Vili őfelsége szobrát: már most vagy beleszeretett abba a lóba, amin Vili őfelsége ült, vagy azt hitte, hogy a malomban van megint, mert várat­lanul ügetni kezdett a szobor körül, körbe-körbe.
 Gabriel körbejárt a hallban kalucsnijával, a többiek nevetése közepette.
-- Csak ügetett a ló körbe-körbe - mesélte Gabriel -, az öregúr meg, ragyogó, öntelt öregúr, nagyon méltatlankodott: „Na, mi lesz, kérem?
+- Csak ügetett a ló körbe-körbe - mesélte Gabriel -, az öregúr meg, ragyogó, öntelt öregúr, nagyon méltatlankodott: "Na, mi lesz, kérem?
 Gyerünk, gyerünk, kérem, Johnny!
 Johnny!
 Micsoda méltatlan viselkedés ez?
-Nem értem ezt a lovat!”
+Nem értem ezt a lovat!"
 Gabriel meséjét és mozdulatait fel-felzúduló nevetés kísérte, ahogy eljátszotta az esetet.
 Egyszerre kopogás visszhangzott a hallban.
 Mary Jane az ajtóhoz szaladt és kinyitotta.
@@ -4723,12 +4697,12 @@ Ezeket a perceket szerette volna most visszaidézni az asszonynak, hogy feledje 
 Mert az évek, úgy érezte most, nem ölték még meg lelkeiket.
 A gyerekek, az ő irodalmi ambíciói, az asszony háztartási gondjai nem fojtották még teljesen el a gyengéd tüzet a szívükben.
 Hogy is mondta az egyik levélben, amelyet akkortájt írt az asszonynak?
-„Miért van az, hogy ezeket a szavakat szárazaknak és hűvöseknek találom?
-Azért talán, mert nincs szó, mely méltó nevednek.”
+"Miért van az, hogy ezeket a szavakat szárazaknak és hűvöseknek találom?
+Azért talán, mert nincs szó, mely méltó nevednek."
 Mint távoli zene dallamárja, úgy törtek elő a múltból a régi szavak.
 Egyedül szeretett volna már lenni az asszonnyal.
 Ha elmennek a többiek, ha magukban lesznek majd a szobában, fent a szállodában, lágyan suttogja majd a nevét:
-„Gretta!”
+"Gretta!"
 Lehet, hogy meg se hallja rögtön: épp akkor vetkőzik.
 Akkor valamit, valami lázasat zenget meg a hangja az asszonyban.
 Feléje fordul majd...
@@ -4966,82 +4940,3 @@ Hull a hó a sötétbe burkolt központi síkságon, hull a hó mindenütt, a ta
 Hull a hó, a magányos temetőre hull a hó, ahol Michael Furey holtan fekszik a földben.
 Vastag fúvásokban megtelepszik a dőlt kereszteken, a besüppedt sírhalmokon, a kis temetőkapu rácsán, a meztelen töviseken.
 Lelke lankadt ájulatba ringott, hullott, ahogy hullott a hó, át a világűrön, kábán, hullott, mint a halott hull a sírba, és mint a sírra a hó, amely hullik, hullik, és betemet elevenet, holtat.
-FÜGGELÉK
-KÜLÖNÖS TÖRTÉNET
-Az alábbi levelet, amely egy novelláskötet történetét beszéli el, két éve küldtem el az Egyesült Királyság sajtójának.
-Tudomásom szerint két újság közölte: a Sinn Fein (Dublin) és a Northern Whig (Belfast).
-„Tisztelt uram, kérem, szíveskedjék helyt adni lapjában ennek a levélnek, amely világot vet az irodalmi alkotás némely körülményére a mai Angliában és Írországban.
-Csaknem hat évvel ezelőtt Mr. Grant Richards londoni kiadó szerződést kötött velem Dublini emberek című novellagyűjteményem kiadásáról.
-Mintegy tíz hónappal később levélben felszólí­tott, hogy hagyjak ki egy novellát, és bekezdéseket töröljek néhány másikból, amelyeket állítása szerint a nyomdász nem volt hajlandó kinyomtatni.
-Mindkét kérést meg­tagadtam, s ezzel több mint háromhónapos levelezés kezdődött Mr. Grant Richards és énköztem.
-Felkerestem egy nemzet­közi jogászt Rómában (akkoriban ott éltem), aki azt tanácsolta, egyezzek bele a húzások­ba.
-Ismét megtagadtam, a kéziratot a kiadó visszaküldte, megszegve saját, szerződésben foglalt ígéretét, aminek írott bizonyítéka ma is birtokomban van.
-Hat hónappal később Mr. Honé írt nekem Marseille-ből, elkérve a kéziratot a Maunsel és Tsa dublini kiadóvállalat számára.
-A kérést teljesítettem, és körülbelül egy év múlva, 1909 júliusában a Maunsel és Tsa szerződést kötött velem arról, hogy a könyvet legkésőbb 1910. szeptember 1‑éig megjelenteti.
-1909 decemberében a Maunsel és Tsa igazgatója arra kért, változtassak meg egy részletet a Borostyán-nap az ülésteremben című novellában, amelyben VII.
-Edwardról is szó esik.
-Noha egyáltalán nem értettem egyet, egy-két kifejezést megváltoztattam.
-A Maunsel és Tsa egyre tovább halasztotta a megjelenés időpontját, és a végén azt kérték, vagy hagyjam el az egész passzust, vagy változtassam meg radikálisan.
-Mindkettőt megtagadtam, rámutatva, hogy a londoni Mr. Grant Richards nem emelt kifogást e passzus ellen VII.
-Edward életében, nem értem tehát, miért emel kifogást egy ír kiadó, amikor VII.
-Edward már a történelmi múltba távozott.
-Azt javasoltam, megváltoztatom vagy törlöm a kérdéses passzust, amennyiben bevezető, magyarázó jegyzetet csatolhatok a szöveghez, de a Maunsel és Tsa ezt nem fogadta el.
-Mr. Hone (aki a kezdet kezdetén maga kereste velem a kapcsolatot) elhárított minden felelősséget az ügyben, mondván, semmiféle kapcsolatban nem áll a céggel.
-Kikértem egy dublini ügyvéd tanácsát, aki azt javasolta, végezzem el a kért törlést, mivel - minthogy nem élek az Egyesült Királyságban - csak 100 font illeték befizetésével perelhetném be a Maunsel és Tsát szerződés­szegésért, és még ha be is fizetném a 100 fontot, semmiképp sem számíthatnék kedvező ítéletre egy dublini bíróság részéről, amennyiben a szóban forgó szövegrész bármily kis mértékben is sértő lehet a néhai királyra nézve.
-Ekkor levelet írtam a jelenlegi királynak, V. Györgynek, mellékelve a kérdéses novella kefelevonatát, megjelölve az illető passzust, s arra kértem, kegyeskedjék közölni velem, hogy véleménye szerint el kell-e távolítani ezen a passzust (amelyben a beszélő saját társadalmi osztályának nyelvén tesz néhány utalást), mint atyja emlékének megsértését.
-Őfelsége személyi titkára az alábbi választ küldte:
-Buckingham Palace
-A személyi titkár azt az utasítást kapta, hogy jelezze Mr. James Joyce levelének vételét, továbbá, hogy informálja őt, miszerint Őfelsége rangjával nem összeegyeztethető, hogy ilyen kérdésekben véleményt nyilvánítson.
-A mellékleteket ezennel visszaszármaztatjuk.
-1911. augusztus 11.
-Íme a kérdéses szövegrész:
-
-- De idefigyelj, John - vitatkozott Mr. O’Connor.
-- Miért kell nekünk Edwardot, Anglia királyát üdvözlő szózattal fogadni?
-Nem Parnell maga...
-- Parnell meghalt - állapította meg Mr. Henchy.
-- Most elmondom, hogyan látom én a dolgokat.
-Adva van ez a fickó, aki - miután vén mamája addig tartotta távol az uralkodástól, míg beleőszült - végre trónra került.
-Világfi, és jóindulattal van irányunkban.
-Ha engem kérdeznél, szerintem rém rendes fickó, és nem csinál semmi marhaságot.
-Na már most azt mondja magában: „A mamának eszébe sem jutott, hogy meglátogassa ezeket a veszett íreket.
-Krisztus nevére mondom, magam megyek el, majd én megnézem, kik ezek.” És sértsünk meg egy embert, aki baráti látogatásra jön el hozzánk?
-Mi?
-Nem igaz, Crofton?
-Mr. Crofton bólintott.
-- De azért mégiscsak - érvelt Mr. Lyons - Edward király életében vannak...
-- Borítsunk fátylat a múltra - mondta Mr. Henchy.
-- Én az embert csodálom benne.
-Éppen olyan közönséges tökfilkó, mint te vagy én, ő is szereti a mindennapi pohár whiskyket, valószínűleg a női bájak iránt sem érzéketlen, és kitűnő sportember is.
-A fene egye meg, miért éppen mi írek ne bánhatnánk vele tisztességesen?
-- Mindez nagyon szép - így Mr. Lyons.
-- De nézzük csak meg ezt a Parnell-ügyet.
-- Az Isten szent nevére, hát hogy kerül ez a kettő egymás mellé?
-- Arra gondolok, hogy nekünk is megvannak a magunk eszményei.
-Miért üdvözöljünk szózattal mi egy ilyen embert?
-Gondolod, hogy azután, amit tett, Parnell alkalmas volt rá, hogy a vezetőnk legyen?
-Akkor miért viselnénk el egy VII.
-Edwardtól?
-Ezt a könyvet hét évvel ezelőtt írtam, és belátva, hogy jogaim védelmét senkitől sem remélhetem, ezennel nyilvánosan engedélyt adok a Maunsel és Tsának, hogy ezt a novellát megjelentessék, olyan változtatásokkal és törlésekkel, amit csak jónak látnak; egyben kifejezve reményemet, hogy ami megjelenik, emlékeztet arra az írásra, amelybe nem kevés időt és munkát fektettem, ír kiadó­vállalatként viselkedésüket majd az ír nagyközönség fogja megítélni.
-Íróként csak tiltakozni tudok a jogi, társadalmi és szokásrend ellen, amely erre a lépésre kényszerített.
-Odaadó híve
-James Joyce”
-***
-Kilenc hónapot vártam e levél közreadása után.
-Ekkor Írországba utaztam, és tárgyalásokat kezdtem a Maunsel és Tsával.
-Azt kérték, hagyjam ki a Találkozás című novellát, néhány passzust a Két úrfiakból, a Koszt és kvártélyból és a Sajnálatos esetből, és végig az egész könyvben változtassam meg az éttermek, a cukrászdák, a vasútállomások, a kocsmák, a mosodák, a bárok és egyéb nyilvános helyek neveit.
-Hat héten keresztül nap nap után érveltem álláspontjuk ellen, és két ügyvéd tanácsát is kikértem, akik, miután biztosítottak róla, hogy a kiadó­vállalat részéről valóban szerződésszegés történt, mindketten visszautasították, hogy képvisel­jenek az ügyben, vagy hogy nevük az üggyel bármilyen összefüggésben kapcsolatba kerüljön.
-Ezek után kétségbeesésemben beleegyeztem valamennyi változtatásba, azzal a feltétellel, hogy a könyv késedelem nélkül megjelenik, és a későbbi kiadásokban (ha ilyenre sor kerül) helyreállítható lesz az eredeti szöveg.
-Ekkor a Maunsel és Tsa azt kérte, hogy fizessek be a bankjukba 1000 font letéti biztosítékot, vagy szerezzek két kezeslevelet egyenként 500 fontról.
-Mindkettőt megtagadtam, mire levélben közölték, hogy a könyvet sem változatlan, sem meg­változtatott formában nem adják ki, és amennyiben nem teszek ajánlatot a könyv kinyomtatása miatt felmerült költségeik fedezésére, be fognak perelni, hogy ezen költségeket visszaszerezzék.
-Én felajánlottam, hogy kifizetem az első kiadás - ezer példány - nyomdai költségeinek hatvan százalékát, amennyiben a kiadást a rendelkezésemre bocsátják.
-Ezt az ajánlatot elfogadták, és megszerveztem, hogy Dublinban fivérem végezze a kiadás és terjesztés munkáját.
-Az szerződés aláírására és az összeg kifizetésére kitűzött napon a kiadó részéről közölték velem, hogy az egyezség kútba esett, mert a nyomdász nem hajlandó átadni a példányokat.
-Ekkor elmentem a nyomdászhoz.
-A művezető azt mondta, hogy a nyomdász úgy határozott, lemond minden követeléséről a neki járó pénzt illetően.
-Megkérdeztem, hajlandó lenne-e a nyomdász átadni a teljes kiadást egy londoni vagy európai cég, illetve a bátyám vagy magam számára, amennyiben minden költségét kifizetem.
-Azt felelte, a példányok nem hagyhatják el a nyomdát, a nyomólemezeket már szétverték, és másnap a teljes kiadást, mind az ezer példányt el fogják égetni.
-Másnap elhagytam Írországot, magammal hozva a könyv egyetlen példányát, amit a kiadótól szereztem.
-James Joyce
-
--oOo-

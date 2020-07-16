@@ -1,58 +1,6 @@
 ﻿
 Jules Verne - André Laurie
-
-A „Cynthia” hajótöröttje
-
-
-Gaál Mózes fordításában
-
-
-TARTALOM
-ELSŐ FEJEZET.
-Malárius barátja.
-MÁSODIK FEJEZET.
-Egy noroëi halásznál.
-HARMADIK FEJEZET.
-Hersebom gazda valamit gondol.
-NEGYEDIK FEJEZET.
-Stockholmban.
-ÖTÖDIK FEJEZET.
-A karácsonyi vakáczió.
-HATODIK FEJEZET.
-Erik dönt a sorsa felett.
-HETEDIK FEJEZET.
-Vanda véleménye.
-NYOLCZADIK FEJEZET.
-O’Donoghan Patrick.
-KILENCZEDIK FEJEZET.
-Ötszáz font sterling jutalom.
-TIZEDIK FEJEZET.
-Tudor Brown.
-TIZENEGYEDIK FEJEZET.
-A «Végá»-ról írják nekünk...
-TIZENKETTEDIK FEJEZET.
-Váratlan utasok.
-TIZENHARMADIK FEJEZET.
-Menjünk délnyugatnak.
-TIZENNEGYEDIK FEJEZET.
-A meghamisított térkép.
-TIZENÖTÖDIK FEJEZET.
-A legrövidebb út.
-TIZENHATODIK FEJEZET.
-O’Donoghan Patrick eltünt.
-TIZENHETEDIK FEJEZET.
-Valahára!
-TIZENNYOLCZADIK FEJEZET.
-Ágyudörgések.
-TIZENKILENCZEDIK FEJEZET.
-Puskalövések.
-HUSZADIK FEJEZET.
-A sark-körüli út vége.
-HUSZONEGYEDIK FEJEZET.
-A Párisból jött levél.
-HUSZONKETTEDIK FEJEZET.
-Val-Féray-ban.
-– Befejezés.
+A "Cynthia" hajótöröttje
 ELSŐ FEJEZET.
 Malárius barátja.
 Aligha van általánosabban ismert tudós Európában, sőt az egész világon, mint Schwaryencro­na, a stockholmi egyetem orvos-tanára.
@@ -162,7 +110,7 @@ A jég-sivatag mindenkinek elállta az útját, a ki megpróbálta, vagy visszat
 - Tíz évvel utóbb a Hudson-társaság, majd 1653-ban a dánok jártak szerencsétlenül, - 1676-ban Wood John veszett el nyomtalanul...
 - S azóta nem kísérlették meg az átjárót fölfedezni?
 - Főleg az oroszok buzgólkodtak, mert nekik, valamint a többi, északon lakó népeknek nagyon fontos érdekeik függenek ettől az útvonaltól.
-Mindezek a rettentő fáradságos expedicziók hiábavalók voltak, sőt a tudósok utóbb úgy vélekedtek, hogy ezen a «jégsivatagon» hajóval át nem lehet jutni.
+Mindezek a rettentő fáradságos expedicziók hiábavalók voltak, sőt a tudósok utóbb úgy vélekedtek, hogy ezen a "jégsivatagon" hajóval át nem lehet jutni.
 - Így hát szó sem lehet arról, hogy az északnyugoti tengeri átjárót valaha felfedezzék?
 - Az eddig tett számos kisérlet feljogosít minket arra a véleményre, hogy a Jeges-tengeren hajóval nem juthatni át.
 Egyébiránt azt mondják, hogy Nordenskiold, a mi nagy utazónk újabban expedicziót szándékozik szervezni, s ha ő forgatja az elméjében, akkor bizonyára hiszi is, hogy lesz eredménye, az ő véleménye mindenesetre számot tesz.
@@ -268,7 +216,7 @@ Vanda, siess, hozz még egy tányért... Doktor úr, nagyon megörvendeztetne, h
 - Jól van, azt szivesen veszem és megköszönöm, de csak azzal a feltétellel, ha önök most rögtön folytatják a vacsorájukat.
 A család tovább evett, a doktor pedig a nagy karosszékbe ült a kandalló mellé, s nemsokára egészen otthonosan érezte magát.
 Elmondta, hogy mióta szülő falujában nem járt, mennyi minden megváltozott itt, beszélt a régi időkről.
-Ezalatt a háziasszony elkészítette a híres norvég «snorgas»-t, ezt a thea-itató és étvágy­gerjesztő nemzeti ételt, mely után hét-nyolcz csésze theát is meg kell innia az embernek, akkora szomjúsága támad.
+Ezalatt a háziasszony elkészítette a híres norvég "snorgas"-t, ezt a thea-itató és étvágy­gerjesztő nemzeti ételt, mely után hét-nyolcz csésze theát is meg kell innia az embernek, akkora szomjúsága támad.
 Hersebom gazda pedig egy hatalmas pipát nyomott úri vendégének a markába, megtöltötte jóféle dohánynyal, úgy füstölt, mint egy kémény.
 Így aztán csakhamar felmelegedtek a szivek, s a doktor világért sem érezte magát a szegény hajlékban kényelmetlenül.
 Mintha ő is a családhoz tartozott volna, csevegtek, nevettek, fo­gyasztották a theát pipaszónál, míglen a fali óra tizet ütött.
@@ -431,7 +379,7 @@ Ha nekünk jó, miért ne lenne jó neki is?
 Avagy azt hiszi, Hersebom gazda, hogy én már elfelejtettem: honnan származtam?...
 Az én apám és nagyapám is halászok voltak, mint maga... Neveltettek, taníttattak engem és boldoggá tettek, nos hát éppen így szeretném én is boldoggá tenni ezt a derék fiút... Csak az ő jó volta lebeg szemem előtt...
 - Elhiszem!...
-De ha Erikből «urat» nevel, s aztán a szüleit nem sikerül a doktor úrnak meg­találni... s vissza kerül hozzánk: bezzeg elég gondot okoz majd nekünk... No meg a halászok élete világért sem olyan megvetendő, többet ér az sok egyéb foglalkozásnál... Azt hiszi az úr, hogy Erik nem lesz boldog és megelégedett, ha belőle halászt nevelek... Bocsásson meg, de én másképpen gondolkozom.
+De ha Erikből "urat" nevel, s aztán a szüleit nem sikerül a doktor úrnak meg­találni... s vissza kerül hozzánk: bezzeg elég gondot okoz majd nekünk... No meg a halászok élete világért sem olyan megvetendő, többet ér az sok egyéb foglalkozásnál... Azt hiszi az úr, hogy Erik nem lesz boldog és megelégedett, ha belőle halászt nevelek... Bocsásson meg, de én másképpen gondolkozom.
 Igaz, hogy módfelett szereti a könyveket, de én jobban ismerem őt; a tengert Erik mindennél jobban szereti, s ha ettől elszakítják őt, a világ minden múzeuma sem tudja őt kárpótolni.
 - Hiszen Stockholmban is megtalálja a tengert, jó ember!
 - Elvégre is mi a szándéka vele a doktor úrnak?
@@ -593,7 +541,7 @@ Lám, lám... Gibbont olvassa angolul!
 Az ám, angolul, s egészen belemerült... Fiam, érdekel téged az a könyv?
 - kérdé Eriktől.
 - Nagyon érdekel, uram, már régóta vágytam, hogy elolvashassam.
-Ez az első kötete a «Római birodalom hanyatlásának» - felelé gyermeki örömmel Erik.
+Ez az első kötete a "Római birodalom hanyatlásának" - felelé gyermeki örömmel Erik.
 - Lánczosadta... Úgy látszik a bergeni bundások szeretik a komoly olvasmányokat - kiáltott fel csodálkozva az ügyvéd.
 - Igazán Bergenből való vagy?
 - Noroëi vagyok, Bergentől nem messze...
@@ -629,7 +577,7 @@ A tények, melyekből kiindulhatunk, a következők:
 1.
 A gyermeken észlelhető faji-jelleg.
 2.
-A bojén talált «Cynthia» név.
+A bojén talált "Cynthia" név.
 Az elsőre vonatkozólag megvan a felelet: kelta származású.
 Ezt kétségbevonni nem lehet.
 A második tény: a Cynthia név; valószinűleg a hajó neve, melyhez a bojé tartozott.
@@ -642,7 +590,7 @@ A tudós tanár nem szerette véleményét könnyedén koczkáztatni, azért ün
 A doktor többet nem is faggatta barátait.
 Meg volt teljesen győződve arról, hogy jó nyomon van.
 Nagy-Britanniában kell a gyermek szüleit keresnie.
-Ha a «Times»-ben egy-két hirdetést tesz közzé, az nyomra vezeti.
+Ha a "Times"-ben egy-két hirdetést tesz közzé, az nyomra vezeti.
 Az ügyvéd mindez ideig egy árva szót sem szólt, csak nézett bizonyos gúnynyal az ő buzgó doktor barátjára.
 - Bredejord, ha neked más a véleményed, csak ki vele, tudod, hogy nem ijedek meg a vitatkozástól - mondá a házi gazda.
 - Nem szóltam egy szót sem - szólalt meg nevetve az ügyvéd, - Hochstedt a tanuságom, hogy egy szót sem szóltam.
@@ -664,10 +612,10 @@ A jó barátok elbúcsúztak a doktortól és haza mentek.
 A karácsonyi vakáczió.
 Másnap a doktor tetőtől talpig felöltöztette Eriket, vadonat új ruhát vett neki, beiratta a város egyik legjobb hirű középiskolájába.
 A klasszikai és modern nyelveket tanítják a svéd közép­iskolákban is, s ezeknek befejezése után főiskolák látogatására nyer képesítést az ifjú.
-A tandij ezekben a «Hogre elementar larovek»-ekben - így nevezik a svédek a gimnáziumot - igen csekély, jóformán semmi.
+A tandij ezekben a "Hogre elementar larovek"-ekben - így nevezik a svédek a gimnáziumot - igen csekély, jóformán semmi.
 Erik csakhamar első lett az osztályában, gyorsan felfogott mindent, otthon alig kellett valamit tanulnia, mindent megtanult az iskolában.
 Ezért a doktor beiratta őt a stockholmi nagy ipariskolába is, a hol esténkint volt az előadás.
-Ennek az iskolának a neve «Sjoldskolan».
+Ennek az iskolának a neve "Sjoldskolan".
 A kézügyesség fejlesztése itt a főczél, fizikai és vegytani kisérletekben gyakorolják magukat a növendékek; a mit a középiskolában elméletileg tanulnak, itt gyakorlatilag sajátítják el.
 Erik mindenütt becsületére vált pártfogójának; mindenütt kivált, úgy a tanulásban, valamint a kézügyességben, a mechanikában, sőt a testgyakorlatokban is jóval túlszárnyalta társait, a nélkül, hogy megerőltetésébe került volna.
 Ha vakácziója volt, elsétált a tenger partjára, s órákig elnézte a tengert, szóba állott a matró­zokkal és a halászokkal, kezet szorított velök.
@@ -679,7 +627,7 @@ Csak Kajsa nem tudott vele megbarátkozni.
 Ez a kényes kis tündér irigy szemmel nézett reá, féltékeny volt, mert látta, hogy a halászfiú kiturja őt nagybátyjának a kegyéből, s mindenkinek meghódítja a szivét.
 Egyébként Erik nem igen állott Kajsa kisasszonynak az útjában, kis szobájába zárkózva egész nap tanult vagy olvasott.
 Igy telt az idő, röpültek a napok, s közeledett a második karácsony, mióta Erik a doktor házához került.
-Norvégiában a karácsonyi vakáczió tizenhárom napig tart: «tretten Yule dage» így hívják a svédek (a karácsonyi tizenhárom nap).
+Norvégiában a karácsonyi vakáczió tizenhárom napig tart: "tretten Yule dage" így hívják a svédek (a karácsonyi tizenhárom nap).
 Egész országszerte családi nagy ünnep ez, az emberszeretetnek megható ünnepe, megnyílnak a szivek, a vendégszerető svédek ajtaja nyitva áll mindenki előtt, minden jóval megkinálják azt, a ki küszöbüket átlépi.
 Szegény és gazdag egyaránt pazarló lesz a karácsonyi ünnepek alatt.
 A fiúk és leányok csapatokba verődve felkötik korcsolyáikat (schneschuhe) s elmennek a közellevő falvakba, meg-megállanak egyik-másik háznál és üde, friss hangon elénekelik régi melódiájú szent énekeiket... mint nálunk a bethlehemjárók... A ház ajtaja nyomban kinyilik, s a házigazda szives vendéglátással behívja őket, megkinálja azzal, a mije éppen van, néha tánczra is perdülnek a fiúk és leányok, vidáman mulatnak.
@@ -769,7 +717,7 @@ A két öreg egyedül maradt otthon.
 Kata asszony szorongó szívvel kérdezte a gazdától:
 - A doktor úr megtudott valamit?
 Hersebom elővette a zsebéből a levelet, szépen kiteregette, s hangosan kezdé olvasni... egyik-másik czifra szónál természetesen megakadt... csak úgy sillabizálta...
-- «Kedves Hersebom, - így szólott a levél - az alatt a két év alatt, hogy Erik házamnál volt, napról-napra meglepett a tanulásban s minden egyébben való bámulatos előhaladásával.
+- "Kedves Hersebom, - így szólott a levél - az alatt a két év alatt, hogy Erik házamnál volt, napról-napra meglepett a tanulásban s minden egyébben való bámulatos előhaladásával.
 Éles esze, nagy szorgalma, derék és nemes szíve van a fiúnak.
 A szülők, kik benne fiokat vesztették el, méltán sirathatják nagy veszte­ségöket.
 Hogy kik voltak ezek a szülők, aligha nyomukra jöhetünk.
@@ -789,7 +737,7 @@ Elég nagy és elég okos fiú, határozhat a sorsa felett: vagy ott marad Noro�
 Vegyék ezt a dolgot komolyan fontolóra, beszélje meg érdemes és okos felesé­gével, kérjenek tanácsot Malárius mestertől is.
 Őszinte jó kivánataimat adja át kedves feleségének és gyermekeinek.
 Mielőbbi válaszát várja
-Schwaryencrona R. W.»
+Schwaryencrona R. W."
 Kata asszony könyezve hallgatta végig, s aztán szívszorongva kérdezé a gazdától, hogy mit szándékozik tenni.
 - A dolog nagyon egyszerű: beszélek a fiúval.
 Erre aztán mind a ketten újra elhallgattak.
@@ -866,18 +814,18 @@ Oda adta a doktornak.
 A doktor fenhangon olvasá:
 Bredejord ügyvéd úrnak Stockholm.
 New-York, október 27.
-«Uram, folyó hó 5-dikén kelt becses levelére válaszolva, van szerencsém a következőkről tudósítani:
+"Uram, folyó hó 5-dikén kelt becses levelére válaszolva, van szerencsém a következőkről tudósítani:
 1.
-Egy Cynthia nevű hajó, melynek kapitánya Borton volt, s a «Kanadai Általános Szállító-Társaság» tulajdonát képezte, mintegy tizennégy évvel ezelőtt tünt el nyomtalanul a Feroë szigetek tájékán.
+Egy Cynthia nevű hajó, melynek kapitánya Borton volt, s a "Kanadai Általános Szállító-Társaság" tulajdonát képezte, mintegy tizennégy évvel ezelőtt tünt el nyomtalanul a Feroë szigetek tájékán.
 2.
-Ez a hajó a new-yorki «General Steam navigation insurance Company»-nál három millió hétszázezer dollárra volt biztosítva.
+Ez a hajó a new-yorki "General Steam navigation insurance Company"-nál három millió hétszázezer dollárra volt biztosítva.
 3.
 A Cynthia eltünését kinyomozni nem lehetett, s e miatt fent nevezett biztosító társaság és az eltünt hajó tulajdonosa között perre került a dolog: a per az előbbi javára dült el.
 4.
-A per elvesztése a «Kanadai Szállító-Társaság»-ot csődbe juttatta.
+A per elvesztése a "Kanadai Szállító-Társaság"-ot csődbe juttatta.
 Ujabb megbízásait várva, kiváló tisztelettel vagyunk
 Smith Jeromos, Walker és Társa
-tengerészeti ügynökök.»     
+tengerészeti ügynökök."
 - Nos, mit szólasz ehhez, doktor?
 - kérdé Bredejord diadalmasan.
 - Ennek az érvnek van úgy-e súlya?
@@ -1015,7 +963,7 @@ Harmadnapra megjött a válasz.
 Sietett vele Hersebomékhoz, s felolvasta nekik.
 A levél így hangzott;
 Stockholm, márczius 17.
-«Kedves Malárius!
+"Kedves Malárius!
 Nagyon szépen köszönöm, hogy tudattál engem arról a szerencsétlenségről, mely Hersebom gazdát sujtotta a folyó hó 3-dikán dühöngő orkán alkalmával.
 Boldoggá és büszkévé tesz annak a tudata, hogy Erik ezúttal is, mint mindig, derekasan viselte magát.
 E levélhez mellékelve küldök ötszáz koronát, kérlek, add át Erik­nek.
@@ -1024,7 +972,7 @@ A bárka neve Cynthia legyen, hadd emlékeztesse őt mindig fiúi kötelességé
 Házam minden időben nyitva áll Erik előtt, ha kedve van tanulmányait folytatni.
 Biztos adataim vannak, s erős hitem arra, hogy szüleit fel fogom találni.
 A te öreg, hű barátod
-Schwaryencrona.»
+Schwaryencrona."
 El lehet képzelni, hogy minő öröm szállotta meg az elszomorodott családot.
 A doktor igen jól ismerte Hersebom gazdát, tudta, ha egyenesen neki küldi a pénzt, aligha elfogadja... Egészen másként nézi, ha Eriktől kapja, mintegy emlékeztetőjéül annak, hogy a Cynthia hajótöröttje az ő fia...
 Sokáig hallgattak... Kiki magába mélyedt... Erik lelke újra álmokat szőtt... Ha újra tanul­hatna... de nem mert szólani, hogy apját valahogy meg ne szomorítsa.
@@ -1077,7 +1025,7 @@ Erik nem csüggedett el, tovább kérdezősködött.
 Végre megtudott annyit, hogy valami O’Donoghan Patrick nevű matróz a hajótörött Cynthiá-ról szerencsésen megmenekült.
 Járt is azóta gyakrabban New-Yorkban.
 Hajós-inas volt akkortájban a Cynthián, s az I-ső osztályú utasokat szolgálta ki.
-Ennek tehát okvetetlenül kell tudnia a «bojé»-ra kitett úri gyermekről...
+Ennek tehát okvetetlenül kell tudnia a "bojé"-ra kitett úri gyermekről...
 Másnap Erik újra járt-kelt a kikötőben, az utczákon, a korcsmákban, s kereste azt a bizonyos O’Donoghan Patrickot.
 Úgy irták le neki, hogy irlandi, Innishannonban született (Cork grófságban); 33-35 éves körül lehet, alacsony termetű, haja rőt, szemei feketék, az orra belapult.
 - Húsz ezer ember közül is megismerném őt az első pillantásra - mondá a matróz, - a kivel Erik aznap szóba állott, - pedig ide s tova hét esztendeje mult, hogy utoljára láttam őt.
@@ -1086,7 +1034,7 @@ Másnap Erik újra járt-kelt a kikötőben, az utczákon, a korcsmákban, s ker
 - New-Yorkban is, másutt is!
 Legutoljára itt New-Yorkban.
 - Nem tudná azt megmondani, hogy ho1 tudakozódhatnám bővebben utána?
-- Bizony aligha,... de várjon csak, menjen el a «Red Anchorn» korcsmába... Ott ült egész nap O’Donoghan Patrick, ha New-Yorkban volt... Bowles, a vén tengeri medve mesélhet róla eleget.
+- Bizony aligha,... de várjon csak, menjen el a "Red Anchorn" korcsmába... Ott ült egész nap O’Donoghan Patrick, ha New-Yorkban volt... Bowles, a vén tengeri medve mesélhet róla eleget.
 Erik egy perczet sem késett, sietett a nevezett korcsmába.
 A korcsma ajtajában egy öreg asszony burgonyát hámozott nagy buzgóan.
 - Bowles úr itthon van; tisztelt asszonyom?
@@ -1151,11 +1099,11 @@ Abban az időben, mikor a biztosító társulatok ellen a pert megindították, 
 Nyilván azért távozott el, hogy elő ne állíthassák őt tanu gyanánt, mint a Cynthia elsülyedésének egyedül élő bizony­ságát.
 Bowlesnek soha sem jutott eszébe, hogy mindennek az okát kutassa; neki csak az tűnt fel, hogy O’Donoghan Patricknak, ha New-Yorkba visszakerűlt, mindig bőven volt pénze.
 Ha valamicskével többet ivott a kelleténél - ez pedig gyakortább történt meg - eldicsekedett, hogy van neki egy titka, mely valóságos fejős tehén... Ilyenkor mindig e szavakkal végezte beszédét:
-- Hja, az a «bójés gyermek», Bowles!
+- Hja, az a "bójés gyermek", Bowles!
 - s reá csapott az öklével a korcsma asztalára.
-- A «bójés gyermek» aranyat ér ám!...
+- A "bójés gyermek" aranyat ér ám!...
 Aztán röhögött, s meg volt magával szörnyen elégedve.
-Soha senkinek sem sikerült, hogy kivegye belőle a «bójés gyermek» titkát, pedig eleget faggatták.
+Soha senkinek sem sikerült, hogy kivegye belőle a "bójés gyermek" titkát, pedig eleget faggatták.
 E miatt sikoltott fel örömében Bowlesné, mikor Erik elmondta neki, hogy ő volt a bójéhoz kötött bölcsőben az a kis gyermek.
 O’Donoghan Patrick négy év óta nincs már New-Yorkban.
 Akkor történt, hogy váratlanul benyitott hozzá egy ismeretlen úr.
@@ -1238,12 +1186,12 @@ Mindazonáltal megmaradt a doktor előbbi szándékánál, hogy jutalmat tűz ki
 A legközelebbi városnál kiszállottak, a doktor elsietett a helyi lap szerkesztőségébe, s hét nyelvre lefordított hirdetését feladta.
 Hadd repűljenek másnap a világ minden részébe.
 A hirdetés szövege így hangzott:
-«O’Donoghan Patrick matróz négy évvel ezelőtt eltűnt New-Yorkból.
+"O’Donoghan Patrick matróz négy évvel ezelőtt eltűnt New-Yorkból.
 Száz font sterling jutalomban részesűl az, a ki hírt ad róla.
 Ötszáz font sterlinget kap O’Donoghan Patrick maga, ha e hirdetés közzétevőjével érintkezésbe lép.
 Nincs oka félni semmitől.
 Dr. Schwaryencrona.
-Stockholm.»
+Stockholm."
 A doktor és barátjai október 20-dikán érkeztek haza.
 Néhány nap múlva a világ minden nagyobb újságában megjelent a hirdetés.
 Mikor Erik elolvasta, a szíve olyan nehéz lőn szegénynek.
@@ -1256,9 +1204,9 @@ Tudor Brown.
 Májusban történt.
 Egyik reggel a doktor dolgozószobájában ült, midőn inasa névjegyet hoz be.
 A névjegy sajátságos kicsiny formája első látásra elárúlta, hogy Angolországban készült.
-Ez a név állott rajta: M. Tudor Brown,	
-     alatta pedig on board the Albatros.
-Magyarul: Tudor Brown, az «Albatros» fedélzetén.
+Ez a név állott rajta: M. Tudor Brown,
+alatta pedig on board the Albatros.
+Magyarul: Tudor Brown, az "Albatros" fedélzetén.
 - Tudor Brown?...
 tünődék a doktor, vajjon hallotta-e már életében valaha ezt a nevet.
 - Ez az úr szeretne a doktor úrral beszélni - mondá az inas.
@@ -1362,7 +1310,7 @@ Ez csak érthető dolog...
 A doktor csengetett; az inas behozta a bundáját, a kalapját.
 Tudor Brownnal együtt ment el hazúlról.
 Öt percz múlva az Albatros fedélzetén voltak.
-Ekkor az «Albatros» tulajdonosa megszólított egy matrózot:
+Ekkor az "Albatros" tulajdonosa megszólított egy matrózot:
 - Hé, Ward, ez az úr szeretne önnel O’Donoghan Patrick-ról beszélni!
 - O’Donoghan Patrickról?
 - felelé a matróz, nyugodjék békével!
@@ -1395,14 +1343,14 @@ Volt még valami egyéb oka is ennek az ő utazási vágyának.
 Nem szólott róla senkinek, de annál inkább bántotta a lelkét.
 Kajsa kisasszony bántó viselkedése volt ez vele szemben.
 Erik a világ minden kincseért sem panaszolta volna el szíve keserűségét a derék doktornak.
-Erik most is, hét évi egy fedél alatt való tartózkodás után olyan szemmel nézett a «kis tündér»-re; mint az első nap, mikor a doktor házába került.
+Erik most is, hét évi egy fedél alatt való tartózkodás után olyan szemmel nézett a "kis tündér"-re; mint az első nap, mikor a doktor házába került.
 Őt tartotta a báj és eleganczia megteste­sülésének.
 Végtelenűl bámulta, s mindent elkövetett, hogy vonzalmát megnyerje.
-Barátja szeretett volna lenni, de Kajsa mindig csak «jött-ment»-nek tekintette Eriket.
+Barátja szeretett volna lenni, de Kajsa mindig csak "jött-ment"-nek tekintette Eriket.
 Irígy szemmel nézte, hogy nemcsak a doktornak, hanem a ház két érdemes barátjának is csakhamar szemefénye lett, s őt csakhamar kiszorította a szivükből.
-Féltékeny volt a «kis tündér» módfelett.
+Féltékeny volt a "kis tündér" módfelett.
 Legkivált pedig azt nem tudta Eriknek soha megbocsátani, hogy elvégre mégis csak közönséges halász-fiú, vagyis paraszt.
-Olybá tekintette őt, mint az előkelő Schwaryencrona-ház szégyenfoltját, ki miatt Kajsának a «társaság»-ban pirulnia kell.
+Olybá tekintette őt, mint az előkelő Schwaryencrona-ház szégyenfoltját, ki miatt Kajsának a "társaság"-ban pirulnia kell.
 Hát aztán mikor azt is megtudta, hogy Erik tulajdonképpen - talált gyermek.
 Ez egyszerűen borzasztó dolog volt Kajsa kisasszonyra nézve: ennél becstelenebb dolgot nem is tudott képzelni.
 A talált gyermek Kajsa kisasszony szerint az emberi társadalom legalábbvaló söpredéke - a kutya és macska után következik.
@@ -1425,49 +1373,49 @@ El, el kell abból a házból minél előbb mennie, hol minden nap új, meg új 
 Hanem a doktornak minderről tudomása sem volt.
 Mikor az upsalai egyetemre beiratkozott, akkor már készen volt a terve: a legelőször kínál­kozó alkalmat megragadja és tengerész lesz.
 TIZENEGYEDIK FEJEZET.
-A «Végá»-ról írják nekünk...
+A "Végá"-ról írják nekünk...
 1878-ik év deczember havában történt.
 Erik húsz éves lett, s épen az első szigorlat előtt állott.
 Svédország, sőt mondhatni az egész tudós világ figyelme ekkor Nordenskiold észak-sarki expedicziójára irányult.
 A nagyhírű tudós utazónak hosszas tanulmány és előkészület után az volt a czélja, hogy az Atlanti és a Csendes-tenger között az észak-nyugati tengeri utat fedezi fel, melyet három századon át hiába kerestek.
 A svéd kormány a híres-nevezetes Nordenskioldot bizta meg ezzel a nagy feladattal.
 Jó belátása szerint szervezze az expedicziót; álljon minden rendelkezésére, a mire szüksége van.
-Nordenskiold 1878 július 21-ikén indult el a «Végá»-n a tromsoëi kikötőből, hogy Észak-Oroszország és Szibéria partvidékét érintve a Behring-szorosba jusson.
+Nordenskiold 1878 július 21-ikén indult el a "Végá"-n a tromsoëi kikötőből, hogy Észak-Oroszország és Szibéria partvidékét érintve a Behring-szorosba jusson.
 A hajó kapitánya Palonders svéd tengerésztiszt volt, számos természettudós, geológus, orvos és csillagász csatlakozott Nordenskioldhoz.
 A hajó, melyen elindultak, kitünő gyártmány volt, bőségesen felszerelték mindennel, a mi az észak-sarki utazásoknál szükséges.
 Nordenskiold bizton remélte, hogy augusztusban már a Behring-szorosnál lesz.
 Norvégiának legészakibb kikötőjéből indultak el; július 29-ikén Novoja-Szemljába érkeztek; augusztus elsején a Kara-tengerre, 6-ikán Jenize öblébe, 9-ikén a Tselynskin-fokig.
-Egy kábeltávirat, mely október 16-ikáról keltezve érkezett a «Végá»-ról, jelentette a világnak, hogy Nordenskiold expedicziójának első fele eredményes volt.
+Egy kábeltávirat, mely október 16-ikáról keltezve érkezett a "Végá"-ról, jelentette a világnak, hogy Nordenskiold expedicziójának első fele eredményes volt.
 Elképzelhetjük, hogy Nordenskiold svédországi barátai és tisztelői minő izgatottsággal vártak minden tudósítást.
 Az első ilyen tudósítás csak deczemberben érkezett meg.
 Hja, a szibériai posta nem oly gyors, mint a villamos drót.
 Nordenskiold Irkutskban tette postára a levelet, s teljes tiz hét kellett arra, hogy Stockholmba érkezzék.
 A svéd lapok legelőkelőbbje a deczember 5-iki számában közölte Nordenskiold első tudó­sítását.
 Ennek a napnak a reggelén Bredejord nagy hévvel olvasgatta a négy nagy hasábra terjedő közleményt, midőn hirtelen felugrott, még egyszer figyelmesen elolvasta azt a részt... Aztán magára rántotta a bundáját s mint a forgószél rohant Schwaryencronához.
-- Olvastad a «Véga» tudósítását?
+- Olvastad a "Véga" tudósítását?
 - kiáltá nagy tűzzel az ebédlő ajtaját hatalmasan becsapva.
 A doktor és Kajsa épen reggeliztek.
 - Csak megkezdettem, majd reggeli után elolvasom.
 - Micsoda, te még nem tudod, hogy mit ir Nordenskiold, ... hogy mit ir... - kiáltá a jeles ügyvéd nagy léhhel-péhhel.
 - Nem - felelé nyugodtan Schwaryencrona doktor.
 - No hát hallgass ide, most mindjárt... elolvasom neked:
-«Július 30 és 31-ike.
+"Július 30 és 31-ike.
 Bementünk a Jogoröbölbe, s partra szállottunk Chaborovo nevű szamo­jéd faluban.
 Egy szamojéd halásztól két gyönyörű lazaczot vettünk.
 Mikor a halász a hajóból kiszállott, véletlenűl beleesett a vízbe.
 Nagy ügygyel-bajjal kihúztuk; hatalmasan dörzsölni kezdettük hóval... Nagy bámulatunkra láttuk, hogy tulajdonképpen nem is szamojéd, hanem európai.
-Haja rőt, orra belapult, a mellén, éppen a szíve táján ez a név van tettoválva: O’Donoghan Patrick, Cynthia...»
+Haja rőt, orra belapult, a mellén, éppen a szíve táján ez a név van tettoválva: O’Donoghan Patrick, Cynthia..."
 Schwaryencrona doktor felkiáltott:
 - Hallgasd csak tovább!
 - folytatá Bredejord.
-«Nagysokára eszméletre térítettük őt.
-Itt tartjuk őt a«Végá»-n. Láza van és félre beszél.
+"Nagysokára eszméletre térítettük őt.
+Itt tartjuk őt a"Végá"-n. Láza van és félre beszél.
 Augusztus 3.
 A chaborovoi halász egészen jól érezi magát.
-Nagyon csodálkozott, mikor meg­tudta, hogy a «Véga» fedélzetén van; az a szándékunk vele, hogy magunknál tartjuk és tolmácsnak használjuk.
+Nagyon csodálkozott, mikor meg­tudta, hogy a "Véga" fedélzetén van; az a szándékunk vele, hogy magunknál tartjuk és tolmácsnak használjuk.
 Angolul olyanformán beszél, mint a yankee-ek, azt vallja magáról, hogy skót, s hogy őt nem O’Donoghan Patricknak, hanem Johnny Bowlesnek hívják.
 Novoja-Semlaji orosz halászokkal jött a szamojédek földjére, s már tizenkét éve, hogy köztük meg­telepedett.
-Az az O’Donoghan Patrick, kinek a neve a mellén tettoválva van, állítása szerint, egyik barátjának a neve, a ki már nagyon régen meghalt»...
+Az az O’Donoghan Patrick, kinek a neve a mellén tettoválva van, állítása szerint, egyik barátjának a neve, a ki már nagyon régen meghalt"...
 - Megvan, ez bizonyára a mi emberünk!
 - kiáltott fel izgatottan a doktor.
 - No úgy-e, hogy jól sejtettem, mikor a te titkos látogatód meséjét hazugságnak mondottam, mondá Bredejord.
@@ -1481,10 +1429,10 @@ Hátha mindvégig a hajón marad s Nordenskiolddal visszatér, s itt Stockholmba
 Vagy egyebütt találkozhatunk majd vele.
 Novaja-Semljában gyakran járnak svéd hajók, no meg a svéd kormánynak is szándéka Nordenskiold expedicziójának a támogatására hajót küldeni a Jenize öblébe.
 Ennek a kérdésnek tüzes vitatásába kezdett a két jó barát, midőn hirtelen és egészen váratlanúl Erik megérkezett Upsalából.
-Ő is olvasta a «Végá»-ról küldött tudósítást, s rögtön hazasietett.
+Ő is olvasta a "Végá"-ról küldött tudósítást, s rögtön hazasietett.
 Nagyon izgatott és nyugtalan volt.
 - Tudják önök, hogy mitől félek én?
-- mondá a doktornak és Bredejordnak... - attól félek, hátha valami szerencsétlenség történt a «Végá»-val... Gondolják csak meg, ma deczember 5-ike van.
+- mondá a doktornak és Bredejordnak... - attól félek, hátha valami szerencsétlenség történt a "Végá"-val... Gondolják csak meg, ma deczember 5-ike van.
 Nemde Nordenskiold azt mondta volt, hogy október elején már a Behring-szorosban lesz... Ha ez a reménye beteljesült volna, ő már rég Japán vagy a Péter-Pál-szigetek körül lehetne, vagy a Csendes-oczeán valamelyik szigetéről kaptuk volna tudósítását.
 Irkutskból küldött távirata és levele szeptember 7-ikéről vannak keltezve... s azóta három hónap telt el, a nélkül, hogy az expediczió sorsáról valami hír érkezett volna.
 Kérdés, vajjon elérkezett-e a Behring-szorosba... Avagy valami baj történt?
@@ -1495,7 +1443,7 @@ A következtetés elég szomorú, de nem való­színűtlen.
 Nekem okvetetlenül látnom kell O’Donoghan Patrickot... Mindenáron látnom kell!
 - De ha nem lehet!
 Bele kell nyugodnunk a megváltozhatatlanba.
-- Talán még sem... Hátha elindulnék, hogy O’Donoghan Patrickot felkeressem... Szibériában partra szállanék, mindenütt tudakozódnám felőle, avagy a «Végá»-ról... Hogy hol jár, nem szenvedett-e hajótörést?...
+- Talán még sem... Hátha elindulnék, hogy O’Donoghan Patrickot felkeressem... Szibériában partra szállanék, mindenütt tudakozódnám felőle, avagy a "Végá"-ról... Hogy hol jár, nem szenvedett-e hajótörést?...
 Hátha reá bukkannék Nordenskioldra és - O’Donoghan Patrickra?
 - Most, tél derekán?
 - Hát aztán?
@@ -1511,7 +1459,7 @@ Országszerte erről beszéltek.
 Minden ujság szóvá tette.
 A tudós világ, a keres­kedők, a hajógyárosok - s íme, csakhamar közkivánattá vált, hogy Nordenskiold felkeresésére ujabb expedicziót kell útnak indítani.
 Egy gazdag hajógyáros ajánlkozott, hogy a saját költségén felszerel egy hajót, mélynek Nordenskiold legyen a neve.
-A lelkesedés napról-napra növekedett, mindennap vártak tudósítást a «Végá»-ról, s hogy az nem érkezett, az expediczió lázasan szervezkedett.
+A lelkesedés napról-napra növekedett, mindennap vártak tudósítást a "Végá"-ról, s hogy az nem érkezett, az expediczió lázasan szervezkedett.
 A költségek fedezésére gyüjtést indítottak meg.
 Az első aláírók Schwaryencrona doktor és Bredejord ügyvéd volt.
 Egyik is; másik is tiz ezer koronát irt alá.
@@ -1520,17 +1468,17 @@ Egyébiránt a vállalat mozgató szelleme Erik volt.
 Az ő lángoló buzgalma, szakértelme, előzékeny, kedves modora mindenkit megnyert, s hova-tovább súlya lett minden szavának.
 Elejétől kezdve elárulta abbeli vágyát, hogy az expediczióban ő maga is részt akar venni... mindegy neki, ha egyszerű matrózként csatlakozik is az expediczióhoz, csak ott legyen.
 Éjjel-nappal dolgozott az előkészületi munkálatokon; az expediczió szervezésének valósággal ő volt a középpontja.
-Elhatározták, hogy a Nordenskiold mellé még egy gőzös csatlakozzék, olyan fajta, mint a «Véga», mert az északi expedíczióknál fontos dolog, hogy ne csak a szelek jóakaró támo­gatására szoruljon a hajó, hanem esetleg szél ellenében mozoghasson; továbbá azért is szükség volt erre a gőzhajóra, hogy több irányban kutathassák a nyilt tengeren a «Végá»-t.
+Elhatározták, hogy a Nordenskiold mellé még egy gőzös csatlakozzék, olyan fajta, mint a "Véga", mert az északi expedíczióknál fontos dolog, hogy ne csak a szelek jóakaró támo­gatására szoruljon a hajó, hanem esetleg szél ellenében mozoghasson; továbbá azért is szükség volt erre a gőzhajóra, hogy több irányban kutathassák a nyilt tengeren a "Végá"-t.
 A bizottságnak számos gőzöst ajánlottak fel megvételre.
 A választás egy nemrégiben elkészült ötszáznegyven tonnás gőzösre esett, mely a követelményeknek minden tekintetben megfelelt.
 Tizennyolcz ember elég volt a hajó vezetésére.
 Nyolczvan lóerejű gőzgép hajtotta, teljes árbocz­felszerelése volt, s így vitorla meg gőz egyaránt szolgálatára állottak.
 A hajó feneke nagyon tágas volt, hogy nagy mennyiségű kőszenet rakhassanak fel; továbbá törzsét aczél-lemezek borították, hogy a jégtáblák egykönnyen ne árthassanak neki.
-Ezt a gőzöst megvette a bizottság s elkeresztelte Alaskának, mintegy nevével jelezvén a czélt, hova majdan meg kell érkeznie, hogy Nordenskiold «Végá»-ját megtalálja: t. i. Alaska szigetére, mely a Behring-szoros közelében van.
-Erik sokáig töprengett azon, hogy a két hajó közül, melyikre szálljon: a «Nordenskiold» vagy az Alaská-ra, végül is ez utóbbit választotta.
+Ezt a gőzöst megvette a bizottság s elkeresztelte Alaskának, mintegy nevével jelezvén a czélt, hova majdan meg kell érkeznie, hogy Nordenskiold "Végá"-ját megtalálja: t. i. Alaska szigetére, mely a Behring-szoros közelében van.
+Erik sokáig töprengett azon, hogy a két hajó közül, melyikre szálljon: a "Nordenskiold" vagy az Alaská-ra, végül is ez utóbbit választotta.
 Így okoskodott:
-- A «Nordenskiold» azt az utat követi, melyen a «Véga» ment.
-Kérdés, vajjon olyan szerencsés lesz-e, mint a «Véga» volt útjának első felében.
+- A "Nordenskiold" azt az utat követi, melyen a "Véga" ment.
+Kérdés, vajjon olyan szerencsés lesz-e, mint a "Véga" volt útjának első felében.
 No meg nincs is úgy felszerelve, hogy a sarkvidék veszélyeit leküzdhetné, ha esetleg jéghegyek közé szorúl, s ott hónapokig kell vesztegelnie.
 Erik nemcsak Nordenskioldot kereste, hanem O’Donoghan Patrickot is, már pedig ennek hamar kell megtörténnie, nem szabad visszariadni semmi akadálytól.
 Az Alaska legénységét úgy választották meg, hogy a jégsivatagon akár szán-utaktól se riadjanak vissza, a legdermesztőbb fagyot is kiállják.
@@ -1550,7 +1498,7 @@ A doktor és Bredejord segítségével csakugyan felvették őket s a kutyának 
 1879 február 1-én útrakészen állott az Alaska.
 Öt hónap mulva - úgy számították - tehát junius vége felé a Behring-szoroshoz érkezhetnek.
 Az út iránya, melyet megállapítottak, a következő lesz: Középtenger-Szuezi-csatorna-Indiai óczeán-Chinai tenger.
-Alkalmas kikötőkben meg­állapodnak, az elhasznált szenet új rakománnyal pótolják; s ha valamit megtudnak a «Véga» sorsáról, megsürgönyzik Stockholmba.
+Alkalmas kikötőkben meg­állapodnak, az elhasznált szenet új rakománnyal pótolják; s ha valamit megtudnak a "Véga" sorsáról, megsürgönyzik Stockholmba.
 Az ám, csakhogy a költségek már mind felemésztették az összegyült pénzt.
 A bizottság tehát újabb felhívást intézett a közönséghez.
 Február 2-án két pénzes levél érkezett.
@@ -1558,9 +1506,8 @@ Az egyiket Malárius, a noroë községi iskola tanítója s a botanikai társul
 Száz korona volt benne.
 Egyuttal kéri a bizottságot, hogy vegyék fel őt is az Alaska fedélzetére, mint botanikust.
 A másik levélben huszonötezer koronáról szóló bankutalvány volt s ez a néhány sor:
-«Az Alaska czéljaira.
-Küldi Tudor Brown, azzal a föltétellel, hogy utasképen ő is felvétessék az Alaska fedélzetére.»
-
+"Az Alaska czéljaira.
+Küldi Tudor Brown, azzal a föltétellel, hogy utasképen ő is felvétessék az Alaska fedélzetére."
 TIZENKETTEDIK FEJEZET.
 Váratlan utasok.
 Másnap Malárius is megérkezett Stockholmba.
@@ -1593,7 +1540,7 @@ Olyan volt, mint egy bájos virág, mely észrevétlenül nyílt a fjordok szél
 A doktor házánál utóljára gyült össze a társaság.
 Búcsúeste volt.
 Schwaryencrona, Bredejord és Hochstedt kártyáztak, Malárius, a ki szintén ért a nemes Whist-játékhoz, melléjük ült és nézte.
-Kajsa kisasszonyt a «vegyes társaság» szörnyűképen lehangolta.
+Kajsa kisasszonyt a "vegyes társaság" szörnyűképen lehangolta.
 A doktor felszólítására a zongora mellé ült ugyan, de nem nagy kedvvel játszott.
 Vanda gyönyörű éneke mindenkinek a szívét meghatotta, egy ó-skandináv népdalt énekelt el.
 Végül puncsot hordottak körül.
@@ -1848,7 +1795,7 @@ Megfordult és kabinjába sietett.
 A veszély, mely az Alaskát fenyegette, csak a zavar első pillanatában tünt fel olyan borzasz­tó­nak.
 Ha a hajó esetleg némi zúzódást szenvedett, közel lévén a szárazföldhöz, majd kijavíttat­ják.
 Hanem erre esetleg hosszú idő kell.
-Hátha sem a«Végá»-t, sem O’Donoghan Patrickot nem találhatják meg.
+Hátha sem a"Végá"-t, sem O’Donoghan Patrickot nem találhatják meg.
 Ettől félt Erik.
 Azért sietett a kapitányhoz, hogy tanácskozzék a helyzetről, s aztán nyomban munkához fogjanak, hogy a hajót kellemetlen helyzetéből kiszabadítsák.
 A mint a kabin felé közeledett, tompa durranás hangzott onnan ki.
@@ -2051,7 +1998,7 @@ Tényleg megvan, s évente nyolcz-tíz hétig nyitva áll minden hajó előtt.
 A kitűnő tengeri térképeken pontosan meg van jelölve, s a czethalászok járják is javában.
 Igaz ugyan, hogy az Atlanti óczeánról nem mennek ezen az úton a hajók a Csendes-óczeánba, de minthogy jól tudjuk, hogy egyéb úton nem juthatunk a Behring-szorosba, s minthogy épen abban az időben érkezünk oda, mikor a vizi út akadálytalan: nos, hát tegyük meg!
 Köteles­ségünk is, hogy ezt az utat válasszuk, mert megbizóink a Behring-szorosba küldöttek, nekünk tehát oda bármi úton-módon el kell jutnunk.
-Ha az Alaska csak meleg égövi útra volna felszerelve, akkor joggal riadhatnánk vissza ettől az úttól, senki azt tőlünk zokon nem ve­hetné, de a sarkvidéki útra szánt Alaská-nak habozni egy pillanatig sem szabad... A mi engem illet, ime kijelentem, hogy talán visszatérnék Stockholmba a nélkül, hogy Nordenskioldot láttam volna, de soha vissza nem térnék, ha mindent el nem követtem volna, hogy a «Végá»-t feltaláljam!
+Ha az Alaska csak meleg égövi útra volna felszerelve, akkor joggal riadhatnánk vissza ettől az úttól, senki azt tőlünk zokon nem ve­hetné, de a sarkvidéki útra szánt Alaská-nak habozni egy pillanatig sem szabad... A mi engem illet, ime kijelentem, hogy talán visszatérnék Stockholmba a nélkül, hogy Nordenskioldot láttam volna, de soha vissza nem térnék, ha mindent el nem követtem volna, hogy a "Végá"-t feltaláljam!
 Ezek az érvek olyan meggyőzőek voltak, hogy megczáfolni senki sem tudta.
 Mit is mond­hat­tak volna a doktor, Bredejord és Malárius?
 Belátták, hogy az új terv megvalósítása szerfölött nehéz, de talán mégis megvalósítható, ellenben a másik úton biztos pusztulás vár reájok.
@@ -2097,7 +2044,7 @@ A hajó legénysége készséggel követte fiatal kapitányát a másik úton is
 Az Alaska április 2-dikán Lisszabonba érkezett.
 Váratlanul jött, a portugal újságoknak idejök sem volt, hogy megérkezését közhirré tegyék.
 Bredejord Madridba sietett, s a két előkelő montreali meg san-franciscoi czégnél megrendelte a két rakomány szenet.
-A jelszó, melylyel a szenet majd átveszik, a«Cynthia» hajótöröttjének a jelszava lészen: Semper idem.
+A jelszó, melylyel a szenet majd átveszik, a"Cynthia" hajótöröttjének a jelszava lészen: Semper idem.
 Bredejord mindent ügyesen elintézett, s április 9-dikén újra az Alaska fedélzetén volt.
 A hajó nyomban elhagyta a kikötőt.
 Ápr.
@@ -2146,7 +2093,7 @@ Az ön táviratának kézhezvétele után egy hónappal indultunk el San-Francis
 - San-Franciscóban nem tudnak róla semmi bizonyosat.
 Mióta itt veszteglünk, beszéltem néhány czethalászszal.
 Azok azt mondták, hogy egy európai hajó körülbelül kilencz-tíz hónapja ott rekedt a fok nyugati oldalán a jég közé.
-Azt hiszik, hogy a «Véga»... 
+Azt hiszik, hogy a "Véga"...
 - Igazán?
 - kiáltott fel Erik kimondhatatlan örömmel.
 - S ön nem látta, hogy a szoroson át­haladt azóta?
@@ -2169,18 +2116,18 @@ Minő úton juthatott oda?...
 Csaknem hihetetlen, s ime mégis tény.
 Erik e kellemetlen hir hallatára szörnyen megdöbbent, de azért nem szólott róla senkinek.
 Mindent elkövetett, hogy a szenet minél előbb átrakassa az Alaskára, s aztán folytassa az utat a szibériai hegyfok felé.
-Másnap szerencsésen elért oda, s megpillantotta a jég közé fagyott «Végá»-t. Hevenyében rakott padlót vezetett a szakadozott jégmezőn keresztül a «Véga» fedélzetére.
+Másnap szerencsésen elért oda, s megpillantotta a jég közé fagyott "Végá"-t. Hevenyében rakott padlót vezetett a szakadozott jégmezőn keresztül a "Véga" fedélzetére.
 Az Alaska kapitánya és barátai ezen áthaladva siettek honfitársaikhoz, s égtek a vágytól, hogy minél előbb szemtől-szembe láthassák Nordenskioldot.
 A hajón egy ifjú tudós fogadta őket kitörő örömmel; Nordenskiold és a többiek épen kirán­dúltak Új-Szibériába, egy-két hét mulva, ha visszatérnek.
-Aztán elmesélte részletesen, hogy Svédországból elindulva nagyon szerencsés volt az útjok; a szibériai partvidékhez elérkezve rövid ideig pihenni akartak, hogy aztán nekivágjanak a Behring-szorosnak, midőn egy éjszaka köröskörül befagyott a tenger, s azóta aztán ki sem mozdulhatott a «Véga».
+Aztán elmesélte részletesen, hogy Svédországból elindulva nagyon szerencsés volt az útjok; a szibériai partvidékhez elérkezve rövid ideig pihenni akartak, hogy aztán nekivágjanak a Behring-szorosnak, midőn egy éjszaka köröskörül befagyott a tenger, s azóta aztán ki sem mozdulhatott a "Véga".
 Immár tizedik hónapja vannak ebben a kényszerhelyzetben.
 Elvégre nem is olyan nagyon borzasztó, mint a minőnek első tekintetre látszik.
 Érintkezhettek sűrűn a partvidéken lakó bennszülöttekkel, kitanulmányozták a nyelvöket; a vidék egyéb sajátosságait: a földrajzi, ethnográfiai, fizikai és asztronómiai jelenségeket mind alaposan megfigyelték.
 Ebből a tudománynak mind jelentékeny haszna lesz, s így világért sem kell sajnálkoznunk a miatt, hogy a jégkalitkában oly hosszas ideig kellett raboskodnunk.
-A «Véga» legénysége és a hajón levő tisztek nagyon örültek, hogy honfitársaikat láthatják.
+A "Véga" legénysége és a hajón levő tisztek nagyon örültek, hogy honfitársaikat láthatják.
 Az érdemes Schwaryencrona doktort mindenik ismerte.
-A «Végá»-n levők elmesélték, hogy ezelőtt három nappal egy amerikai yacht tulajdonosa, Tudor Brown látogatta meg őket.
-Egyet-mást elmondott arról, hogy mi történt Európában azóta, hogy a «Véga» elindult tengeri útjára; elmondta, hogy a svédek nagyon aggódtak a «Véga» sorsa miatt, s útnak indították az Alaskát.
+A "Végá"-n levők elmesélték, hogy ezelőtt három nappal egy amerikai yacht tulajdonosa, Tudor Brown látogatta meg őket.
+Egyet-mást elmondott arról, hogy mi történt Európában azóta, hogy a "Véga" elindult tengeri útjára; elmondta, hogy a svédek nagyon aggódtak a "Véga" sorsa miatt, s útnak indították az Alaskát.
 Ez a Tudor Brown Vancouverből jött, a Csendes-óczeán felől.
 Azt mondta, hogy három hónapja vesztegelt ott a yachtjával.
 - Egyébként önöknek ismerniök kell őt - szólott közbe az ifjú orvos, - tőle hallottuk, hogy önökkel együtt indult el az Alaskán, hanem Brestben odahagyta önöket, mert kételkedett abban, hogy útjoknak jó vége lesz...
@@ -2190,7 +2137,7 @@ Részint hajón; részint vasuton tette meg az utat Liverpoolból New-Yorkba, s 
 Így magyarázta meg, hogy miként érhetett előbb ide, mint az Alaska.
 - Nem mondta meg, hogy mit keres ezen a vidéken?
 - kérdé Bredejord.
-- Felajánlotta a segítségét s úgy mellesleg tudakozódott valaki felől, a kiről a «Véga tudó­sításá»-ban megemlékeztem volt.
+- Felajánlotta a segítségét s úgy mellesleg tudakozódott valaki felől, a kiről a "Véga tudó­sításá"-ban megemlékeztem volt.
 Úgy látszik, különösen ez feküdt a szivén.
 Erik és barátai jelentős pillantásokat váltottak.
 - O’Donoghan Patrick, nemde?...
@@ -2212,10 +2159,10 @@ No meg az a bizonyos Bowles János, vagyis O’Donoghan Patrick lusta, veszeked�
 - kérdé Erik.
 - El hát!
 elég messziről jött, hogy őt felkeresse - felelé a fiatal orvos, korántsem sejtve, hogy minő nagy érdeke forog koczkán az Alaska ifjú kapitányának, midőn ezeket a kérdéseket intézi hozzá.
-Azután általános dolgokról beszélték: a «Véga» útjáról, az eddig tett megfigyelésekről, a tájék sajátszerűségéről; dicsérték Nordenskioldot... Az Alaska utazói együtt ebédeltek a «Véga» utazóival, aztán meghivták vacsorára vendéglátóikat az Alaska fedélzetére, már t. i. azokat, a kik nem voltak szolgálatban.
+Azután általános dolgokról beszélték: a "Véga" útjáról, az eddig tett megfigyelésekről, a tájék sajátszerűségéről; dicsérték Nordenskioldot... Az Alaska utazói együtt ebédeltek a "Véga" utazóival, aztán meghivták vacsorára vendéglátóikat az Alaska fedélzetére, már t. i. azokat, a kik nem voltak szolgálatban.
 Hosszas ideig elbeszélgettek hazájukról s e rövid együttlét mindnyájuknak a szivét eltöltötte melegséggel.
 Az Alaska másnap korán reggel elindult, s egyenesen Ljakow szigete felé vette az útját.
-Egyik czélját elérte: a «Végá»-t felkereste; a másik czél elérésére törekedett most Erik: O’Donoghan Patrickot kell a föld alól is előteremteni, hogy a titok kiderüljön valahára!
+Egyik czélját elérte: a "Végá"-t felkereste; a másik czél elérésére törekedett most Erik: O’Donoghan Patrickot kell a föld alól is előteremteni, hogy a titok kiderüljön valahára!
 Csak Tudor Brown ne jutna előbb nyomába, mert ha ő ebben is megelőzi az Alaskát, akkor méltán tarthatnak attól, hogy a titok mindörökre titok marad.
 Vajjon előbb érkeznek ők Ljakow szigetére, mint Tudor Brown?
 Aligha.
@@ -2244,7 +2191,7 @@ Valahára!
 A kunyhó ajtaja nyitva volt.
 Bementek, s első pillantásra megitélhették, hogy ebben valaki lakott, még pedig nem is régen, talán még tegnap is itt volt.
 A tűzhely hamuja, a szögletbe leterített alom, mely még mutatta, hogy valaki hevert rajta, rajta volt csaknem a testnek a formája is.
-A pokróczon a «Véga» bélyegjelzését pillantotta meg Erik.
+A pokróczon a "Véga" bélyegjelzését pillantotta meg Erik.
 Minden tárgy, melyet az asztalon találtak, elárulta, hogy valamely svéd-hajóról idekerülő ember hagyhatta itt.
 Nyilvánvaló, hogy O’Donoghan Patricknak ez volt a tanyája, azt sem lehet kétségbe vonni, hogy legfeljebb egy-két napja mehetett el innen.
 Vajjon elhagyta a szigetet?
@@ -2254,15 +2201,15 @@ Meg kell erről győződniök.
 Be kell járniok a szigetet.
 A kunyhó körül egész rakás mamuth- és elefántcsontvázat találtak felhalmozva, meglehetős rendetlenül.
 Úgy látszott, hogy O’Donoghan Patrick nem valami különös buzgósággal űzte új mesterségét.
-A mint a «Véga» orvosa, meg a «Red-Anchor» korcsmárosa jellemezte az irlandit: valami nagyon szorgalmas ember nem volt, sőt tunya és iszákos... Nyilván erre a mun­kás remeteségre is hamar ráunt, s leste-várta az alkalmat, hogy Ljakow szigetéről elme­nek­ülhessen.
+A mint a "Véga" orvosa, meg a "Red-Anchor" korcsmárosa jellemezte az irlandit: valami nagyon szorgalmas ember nem volt, sőt tunya és iszákos... Nyilván erre a mun­kás remeteségre is hamar ráunt, s leste-várta az alkalmat, hogy Ljakow szigetéről elme­nek­ülhessen.
 Keresztül-kasul járták tehát a szigetet.
 A középen egy kis tavacskát találtak, melynek a partján hamurakás volt; itt is járt valaki... Távolabb egy üres fémdoboz, karminvörös szinű... Ezekben a dobozokban árulják a húskonzerveket, melyek a hajósok előtt átalánosan ismertek.
 Erik felvette a földről, s összerezzent, midőn az üres doboz felső fedelén ezt a felirást látta:
-«Domingo Márton, Valparaiso.»
+"Domingo Márton, Valparaiso."
 - Tudor Brown járt itt!
 - kiáltá fel rögtön.
-- Azt mondták nekünk a «Végá»-n, hogy yachtja Valparaisóban várakozott reá, oda táviratozott, hogy menjenek Vancouverbe, s várják meg őt!...
-Ez a doboz nem kerülhetett a «Végá»-ról ide!...
+- Azt mondták nekünk a "Végá"-n, hogy yachtja Valparaisóban várakozott reá, oda táviratozott, hogy menjenek Vancouverbe, s várják meg őt!...
+Ez a doboz nem kerülhetett a "Végá"-ról ide!...
 Egészen új, legfeljebb két-három nappal ezelőtt nyitották ki...
 A doktor és Bredejord túlságosan merésznek tartották ezt a feltevést.
 Erik azonban gondosan vizsgálta kívül-belül, hátha még valamit talál rajta, a mi nyomra vezeti... Hát a doboz aljára czeruzával ezt a nevet irta valaki: Albatros.
@@ -2282,7 +2229,7 @@ Ha ilyen vakmerő fortélylyal igyekezett az Alaska előhaladását meggátolni 
 A világ nagy, s a tenger mérhetetlen síkján el lehet bárhova jutni... Ki tudja, a világ melyik részébe vitte el O’Donoghan Patrickot, hogy a titok mindörökre titok maradhasson?...
 Ezek a gondolatok gyötörték az Alaska ifjú kapitányát, a mint a hajó hidján fel s alá járva kiadta a rendeletet, hogy nyugat felé vegye a hajó az útját.
 Kinos gondolatok voltak; azonkívül vádolta a lelkiismeret is, hogy derék barátait e kétséges, fáradságos út megpróbáltatásainak könnyelműen kiteszi.
-Kárba veszett minden fáradozásuk, mert először is nem az Alaska, hanem az Albatros találta meg a «Végá»-t; Ljakow szigetén is Tudor Brown járt előbb... Minő lelkiismerettel térnek vissza Stockholmba, ha ugyan visszatérhetnek... Keserves egy dolog volt mindez Erikre nézve.
+Kárba veszett minden fáradozásuk, mert először is nem az Alaska, hanem az Albatros találta meg a "Végá"-t; Ljakow szigetén is Tudor Brown járt előbb... Minő lelkiismerettel térnek vissza Stockholmba, ha ugyan visszatérhetnek... Keserves egy dolog volt mindez Erikre nézve.
 Most már nem tehetnek egyebet, minthogy a Tselnskin-fok felé törekednek, s onnan keletről nyugatra veszik az utat... Mindenáron ezt az utat kellett választa­niok, hogy Svédországba hazatérjenek.
 Az idő aránylag elég kedvező volt, a szibériai partok eltüntek a távol ködében.
 Augusztus 14-dikén sűrű köd ereszkedett le, a földrajzi helyzetet megállapítani nem lehetett.
@@ -2297,15 +2244,15 @@ Másnap és harmad­nap: 15. és 16-dikán még mindig tartott a köd.
 Erik Bredejorddal és Maláriussal partra szállott, hogy a hegyfokot megnézzék.
 A mint az öböl nyugati partjához érkeztek, valami emlékjel-félét pillantottak meg egy halom tetején.
 Oda siettek, hogy közelebbről lássák.
-Kőből rakott «cairn» volt, tetején egy faoszlop, az oszlopon ez a két felirás:
+Kőből rakott "cairn" volt, tetején egy faoszlop, az oszlopon ez a két felirás:
 Az egyik:
-1878 augusztus 19-dikén e foknál kötött ki a «Véga», mely az Atlanti-óczeánról jött, s útban van a Behring-szoros felé.
+1878 augusztus 19-dikén e foknál kötött ki a "Véga", mely az Atlanti-óczeánról jött, s útban van a Behring-szoros felé.
 A másik:
 1879 augusztus 12-dikén e foknál kötött ki az Albatros, mely a Behring-szorosból jött, s útban van az Atlanti-óczeán felé.
 Ebben is megelőzte az Alaskát Tudor Brown!
 Augusztus 16-ika volt... Tehát négy nappal ezelőtt járt itt!
 Eriknek szívébe markolt a keserűség... Vádolta önmagát: Hiába való minden, de minden fáradságod!
-Nordenskioldé a dicsőség, az Albatros mintegy ellenőrzője a «Véga» merész útjának... Te pedig senki és semmi vagy, nem jártál sehol, nem láttál semmit!
+Nordenskioldé a dicsőség, az Albatros mintegy ellenőrzője a "Véga" merész útjának... Te pedig senki és semmi vagy, nem jártál sehol, nem láttál semmit!
 Tovább akart menni... szó nélkül.
 Ámde Schwaryencrona elővette a zsebkését, s a faoszlop felső részébe a következő sorokat véste:
 1879 augusztus 16-dikán e foknál kötött ki az Alaska, mely Stockholmból indult el az Atlanti-óczeánon, a Baffin-tengeren, az amerikai sarktenger szorosán, a szibériai tengeren jött, s útban van, hogy a jégtengeren keresztültörve jusson vissza hazájába.
@@ -2478,8 +2425,8 @@ Erik pedig erővel is tréfálni szeretett volna.
 - Nemde, szerencsések vagyunk, hogy éléskamránk is van?
 Nem félhetünk attól, hogy éhen veszünk.
 Húsz tonna kétszersült, egy csomó szárított hús, pálinka annyi, a mennyi kell, - ráadásul van két derék puskánk, lőporunk és elegendő töltényünk... Ugyan bizony mitől félhetnénk?
-Legrosszabb esetben néhány hétig kell várakoznunk, míg hajó vetődik utunkba, s az majd felvesz... Ha ugyan úgy nem találunk járni, mint a «Hansa» hajótöröttjei!
-- «Hansa» hajótöröttjei?
+Legrosszabb esetben néhány hétig kell várakoznunk, míg hajó vetődik utunkba, s az majd felvesz... Ha ugyan úgy nem találunk járni, mint a "Hansa" hajótöröttjei!
+- "Hansa" hajótöröttjei?
 - kérdé Hersebom nagy kiváncsian.
 - Azok - felelé Erik.
 - 1869-ben indult el a Hansa a sarktengerre.
@@ -2491,7 +2438,7 @@ Szenük és élelmiszerük bőséggel lévén, mintegy hat és fél hónapig él
 - Helyes, én is jócskán megéheztem már - viszonzá Erik.
 Aztán hozzáláttak, az egyik tonnából kétszersültet, a másikból szárított húst vettek elő; Hersebom gazda bicskájával a pálinkás hordócska fenekét megfúrta: volt enni, meg inni valójuk is.
 Evés közben megszólalt Hersebom gazda:
-- Aztán a «Hansa» hajótöröttjeinek az a jégszigete volt akkora, mint a miénk?
+- Aztán a "Hansa" hajótöröttjeinek az a jégszigete volt akkora, mint a miénk?
 - Szó sincs róla!
 Alig volt harmadfél kilométer hosszú, a miénk legalább is tíz-tizenkét kilo­mé­ter - viszonzá Erik.
 - Aztán hat hónap alatt siralmasan megapadt; a hajótöröttek menedék­helyéig elhatoltak utoljára a hullámok.
@@ -2519,7 +2466,7 @@ A ruhája nem mutatta, hogy az Alaska valamelyik szökevény matróza lehet.
 Erik hozzá sietett, felemelte az eszméletlen ember fejét, rőt haja arczára csapzott, belapult orra olyan volt, mint a szerecse­neké...
 Erik szive hevesen kezdett dobogni... Izgatottan gombolta ki a ruháját, az ingét, nem azért, hogy szive dobogását hallgassa; hanem azt a bizonyos nevet kereste a mellén... azt a nevet...
 Ott volt... a kék pontok betűk alakjában sorakoztak a mellén:
-«O’Donoghan Patrick Cynthia».
+"O’Donoghan Patrick Cynthia".
 És annak az embernek a szíve még dobogott... élt még!...
 A fején vérző seb, a vállán és mellén erős zúzódás nyomai... Ezért vesztette volt el az eszméletét.
 - Vigyük őt oda, hol az élelmiszerek vannak, s eszméletre kell mindenáron térítenünk!
@@ -2566,7 +2513,7 @@ Az irlandi reá meresztette szemét Erik arczára, s észrevehették, hogy valam
 - mondá Erik mosolyt erőltetve ajkára, s a sebesültnek a kezét megfogta.
 - Hiszen tegnap is hallotta tőlem; a miért én erre a hosszú és nehéz tengeri útra keltem, az a titok.
 Ön jól tudja, hogy miről van szó!
-Lássa, O’Donoghan Patrick, ön engem boldoggá tehet; az a titok olyan drága nékem: úgy-e bár, tud valamit arról a «bójé»-ra kitett gyermekről?
+Lássa, O’Donoghan Patrick, ön engem boldoggá tehet; az a titok olyan drága nékem: úgy-e bár, tud valamit arról a "bójé"-ra kitett gyermekről?
 Vezessen engem nyomra, hogy hol találhatnám meg szüleimet?...
 Ne féljen semmitől!
 Nem félhet épen semmitől!
@@ -2586,7 +2533,7 @@ De meg, ha esetleg tenni akarnám is, hiába való volna, mert húsz évvel ezel
 - felelé az irlandi, - nagyon is szüksége van arra.
 Hogy tudta meg ön azt, hogy a titokba én is bele vagyok avatva?
 - kérdé Eriktől.
-- Bowles, a Red Anchor korcsmárosa meg a felesége mesélték, hogy ön gyakran emlegette a «bójéra kitett gyermeket».
+- Bowles, a Red Anchor korcsmárosa meg a felesége mesélték, hogy ön gyakran emlegette a "bójéra kitett gyermeket".
 - Igaz!
 O’Donoghan Patrick hosszasan eltünődött.
 - Önt igazán nem a rendőrség küldötte, igazán nem?
@@ -2776,12 +2723,12 @@ Egyetlen szót kérek feleletül, de rögtön!...
 Míg az a szó meg nem érkezik, addig nem élek, nem akarok élni.
 Esdve kérlek, fiam, siess a válasszal.
 Huszonkét évi szenvedésünk nevében kérlek, tudass azonnal.
-Durrieu E.                        
+Durrieu E.
 volt nagykövet.
 Paris, Varennes-utcza 104.
 E levélhez a következő irat volt csatolva.
 Erik dobogó szívvel olvasta, mohó kiváncsiság szállotta meg.
-«Új-Orleánsban voltam franczia nagykövet, midőn leányom: Katalin feleségül ment egy Durrieu György nevű franczia fiatal emberhez; távoli rokonunk volt, ő is bretagnei.
+"Új-Orleánsban voltam franczia nagykövet, midőn leányom: Katalin feleségül ment egy Durrieu György nevű franczia fiatal emberhez; távoli rokonunk volt, ő is bretagnei.
 Durrieu György bányamérnök volt.
 Azért jött Amerikába, hogy egy ujonnan felfedezett petróleum­forrást kikémleljen; számított arra, hogy évekig ott marad.
 Eljárt a házamhoz, s mint honfitársamat, rokonomat, s különben is művelt ifjút szivesen fogadtam, apja gyermekkori kedves barátom volt.
@@ -2811,7 +2758,7 @@ Vajha a sors megengedné, hogy minél előbb itt ölelhetném szívemre az én d
 Még nem merek neki szólani, addig nem, míg biztosan tudok mindent.
 Feltámadás napja lesz az szegény, megtört szivének!
 Ha most mondanám meg s aztán csalódnia kellene, talán... megölné őt a csalódás...
-Ma hétfő van, szombaton itt lehet a válasz.»
+Ma hétfő van, szombaton itt lehet a válasz."
 Erik az utolsó sorokat már nem látta, patakzott szeméből a köny.
 A szive megtelt boldog­sággal, s mégis, mintha félt volna, hogy hátha korán örül.
 És mégis, az adatok mind egy szálig megegyeznek, ó mily édes remény!
@@ -2910,7 +2857,7 @@ Szabályszerűen szerződést kötöttek.
 Boldogult vőm az efféle üzleti dolgokban meglehetős járatlan volt; ő lelkiismeretesen elvégezte mindazokat a munkákat, a mikhez mint mérnök értett, az üzleti adminisztrácziót társa vezette.
 Az a bizo­nyos szerződés itt van nálam.
 Ime a lényegesebb pontjai:
-« ...3.
+" ...3.
 §.
 A Vandalia forrás Durrieu György, a feltaláló és Noah Jones üzemvezető osztatlan tulajdona.
 4.
@@ -2922,7 +2869,7 @@ A műszaki munkálatok vezetése a Durrieu kötelessége.
 Ha az üzlettársak egyike vagy másika el akarná örökáron adni a maga részét, először a résztulajdonosnak kell megvételre felajánlania, a ki három hónap letelte alatt nyilatkozni tartozik, hogy megveszi-e vagy nem: ha megveszi, ő lesz a forrás egyedüli tulajdonosa.
 6.
 §.
-Az üzlettársaknak csak gyermekei tarthatnak igényt, a tulajdonosok esetleges halála esetén apjuk jogára; ha egyik társ meghal, s törvényes gyermekei nincsenek; a forrás az életben maradt üzlettársra száll, mint egyedüli tulajdonosra.»
+Az üzlettársaknak csak gyermekei tarthatnak igényt, a tulajdonosok esetleges halála esetén apjuk jogára; ha egyik társ meghal, s törvényes gyermekei nincsenek; a forrás az életben maradt üzlettársra száll, mint egyedüli tulajdonosra."
 Ezek voltak a szerződés leglényegesebb pontjai; ezt írta alá megboldogult vőm akkor, a mikor még nem is gondolt házasságra, s esze ágában sem lehetett, hogy a Vandalia forrás igazi aranybánya lesz.
 Noah Jones aligha nem jól tudta, hogy így fog történni.
 Elég az hozzá, hogy a szerződés megvolt, s mikor a kezdet minden nehézségét legyőzték, s György már elvette fele­sé­gül a leányomat, sőt fiacskájuk is született: egyszerre csak megindult a Vandalia-forrás üzlete.
@@ -2954,7 +2901,7 @@ Annyit tudunk, hogy O’Donoghan Patrick abban az időben hajó-inas volt a Cynt
 Az első osztályú utasokat szolgálta ki; így valószinűleg tudta leányom nevét, s azt, hogy hova megy: nyomra vezethette volna tehát azt, a ki ez iránt kérdezősködik nála.
 Hanem örökké titok marad, hogy nem vett-e tényleges részt a Cynthia balesetében, nem ő volt-e azzal megbízva, hogy a bojét a tengerre kitaszítsa?
 szóval nem volt-e ő is részes a gaztettben?
-Annyi bizonyos, hogy a «bojéra kitett gyermeket» gyakran emlegette s ezért pénzt kapott titkon valakitől, s az a valaki Noah Jones volt, vagy a mint magát nevezte: Tudor Brown.
+Annyi bizonyos, hogy a "bojéra kitett gyermeket" gyakran emlegette s ezért pénzt kapott titkon valakitől, s az a valaki Noah Jones volt, vagy a mint magát nevezte: Tudor Brown.
 O’Donoghan Patrick vallomása nagyon is terhelő lett volna Noah Jonesre, azért igyekezett őt New-Yorkból is oly hirtelen eltüntetni, mert alighanem ő volt az a titkos látogató, a ki figyelmeztette őt, hogy baj van, s jó lesz, ha egy időre nyomtalanul eltünik, míg a Cynthia dolgáról megint nem beszél a világ.
 - Mindez nagyon valószinű - veté közbe Bredejord - minden adat megerősíti.
 Mikor Schwaryen­crona barátom először tette közhirré a lapokban, akkor tünt el O’Donoghan Patrick.
@@ -2981,7 +2928,7 @@ A kisasszony fülig pirult e szavak hallatára.
 A derék doktornak bizonyára sejtelme sem volt arról, hogy milyen kegyetlen szavakat mondott unokahugának.
 Mert bizony Kajsa kisasszony már szörnyen megbánta eddig is, hogy Erikkel olyan dölyfösen, sértőleg bánt évek hosszú során át.
 Csakhogy most már Erik nem törődött vele, most hogy megvetése többé nem fájhatott neki.
-Mióta tudta, hogy nem «talált gyermek», mintha a szemei is jobban felnyiltak volna, s jobban látta Kajsa szivének ürességét.
+Mióta tudta, hogy nem "talált gyermek", mintha a szemei is jobban felnyiltak volna, s jobban látta Kajsa szivének ürességét.
 Hideg udvariasságnál többet nem mutatott Kajsa kisasszony iránt, csupán annyit, a mennyivel Schwaryencrona unokahuga iránt tartozott.
 Minő egészen más volt az érzelem, mely szivében mind bensőbbé és igazabbá vált Vanda irányában!
 Minő elragadóan bájos volt ez az egyszerű, de művelt lelkű leány; nehány nap múlva a falusias elfogultságot is egészen levetkőzte a finom és előkelő Durrieuné mellett.
@@ -2990,7 +2937,7 @@ Erik rá akarta beszélni Hersebom gazdát, hogy háznépestül együtt maradjon
 A jámbor halászgazda nem volt hajlandó, hogy hazát cséréljen; száz emlék fűzte őket Noroëhoz, no meg öreg is már, nekik jobb lesz, ha otthon maradnak.
 Azt azonban kikötötték, hogy Erik minden esztendőben látogasson el hozzájuk, úgy aztán Vanda is itt maradhat Durrieuné asszony mellett.
 Erik legalább Ottót szerette volna még ott fogni, csakhogy Ottó a világ kincséért sem akart meg­válni a halász-élettől, főleg pedig a len hajú, kék szemű Requildtől, a szomszédék leányától, mert hát közeledik karácsony s akkor, - ha Isten is úgy akarja - oltár elé vezeti.
-Malárius mesternek sem volt nagyralátó terve a hires utazás után; megmaradt továbbra is falusi tanítónak, buzgón készítette sajtó alá nagy botanikai munkáját: a «Sarkvidék flórájá»-t, mely a Linné-Társaság költségén fog megjelenni.
+Malárius mesternek sem volt nagyralátó terve a hires utazás után; megmaradt továbbra is falusi tanítónak, buzgón készítette sajtó alá nagy botanikai munkáját: a "Sarkvidék flórájá"-t, mely a Linné-Társaság költségén fog megjelenni.
 Bredejord ügyvéd utolsó pere az volt, melyet Erik öröksége tárgyában indított.
 A Vandalia petroleum-forrásnak valósággal Erik lett a tulajdonosa, mert a jeles ügyvéd megnyerte a pert.
 Erik dúsgazdag emberré lett, megvette az Alaskát s ez volt az ő kéj-yachtja.
@@ -3009,4 +2956,3 @@ Nyomban reá felkiált:
 Abban sem volna semmi csodálni való, ha ugyanezt mondanók a Durrieu-családról is!
 - Világos!
 - felelé Bredejord, - sőt annyira valószínü, mint az, hogy nemsokára elküldöm neked a Quintilianusomat!
--&-

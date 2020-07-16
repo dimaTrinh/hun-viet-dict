@@ -1,39 +1,6 @@
-LU ĐÀI
-
-
+LÂU ĐÀI
 Tác giả: Franz Kafka
-
-Dịch giả: Trương Đăng Dung
-
-Nguyên tác: Das Schloss
-
-Nhà xuất bản: Văn Học
-
-Năm xuất bản: 2012
-
-Khổ: 13x20,5 cm
-
-Số trang: 520
-
-Giá tiền: 106.000 VND
-
-Thực hiện ebook: Văn học cổ điển (facebook.com/vanhoccodien)
-
-Ngày hoàn thành: 03/03/2013
-
-Nơi hoàn thành: Hà Nội
-
-Tạo lại lần 2: tna (03/06/16)
-
-Ebook miễn phí tại : www.Sachvui.Com
-
-
-
-
-
 Chương I
-
-
 Khi K. đến nơi thì đêm đã khuya.
 Ngôi làng yên nghỉ dưới lớp tuyết dày.
 Sương mù và bóng tối bao phủ, không thể nhìn thấy ngọn đồi có thành lũy và tòa Lâu đài lớn, dù chỉ là một ít ánh sáng mờ nhạt nhất.
@@ -50,12 +17,10 @@ Một gã trẻ tuổi mặc quần áo như người thành phố, có khuôn m
 Những người nông dân vẫn chưa về, một số quay ghế lại để nhìn và nghe cho rõ hơn.
 Gã trẻ tuổi xin lỗi K. một cách lịch sự vì đã đánh thức chàng dậy rồi tự giới thiệu mình là con trai quan phòng thành.
 Gã nói:
-
 - Cái làng này là của Lâu đài, ai sống hoặc nghỉ đêm ở đây cũng đều như là sông hoặc nghỉ đêm trong Lâu đài.
 phải được phép của bá tước.
 Ngài không có giấy tờ gì, chí ít thì ngài đã không cho chúng tôi xem.
 K. chống hai tay ngồi dậy, vuốt lại tóc, nhìn mọi người, hỏi:
-
 - Tôi lạc vào làng nào thế này?
 Chẳng lẽ ở đây có Lâu đài à?
 - Có chớ!
@@ -77,7 +42,6 @@ Chẳng lẽ ở đây có Lâu đài à?
 - K. hỏi tưng tửng.
 - Vậy tại sao anh đánh thức tôi dậy?
 Gã trẻ tuổi đột nhiên nổi cáu:
-
 - Quân lêu lổng!
 - gã thét lên.
 - Tôi yêu cầu anh phải tôn trọng người của bá tước!
@@ -95,9 +59,7 @@ Nói xong K. quay mặt về phía lò sưởi.
 - Người đạc điền à?
 — chàng nghe sau lưng có tiếng hỏi ngập ngừng, rồi tất cả im lặng.
 Gã trẻ tuổi nhanh chóng trấn tĩnh lại, và như thể quan tâm tới giấc ngủ của K., gã nói với chủ quán một cách nhỏ nhẹ nhưng rõ ràng từng tiếng:
-
 - Tôi hỏi qua điện thoại vậy
-
 Vậy ra trong quán trọ của làng này cũng có điện thoại ư?
 Họ được trang bị ghê thật.
 Tuy K. có hơi ngạc nhiên nhưng nói chung chàng cũng không quan tâm lắm.
@@ -121,14 +83,12 @@ K. vẫn nằm bất động như cũ, mắt nhìn ra trước mặt, không l�
 Qua câu chuyện của Schwarzer, thái độ ác cm và thận trọng của gã, chàng có thể nhận thấy trong Lâu đài thậm chí cả những người cấp thấp như Schwarzer cũng ít nhiều được huấn luyện về phép ngoại giao.
 Người ta không lười biếng, ở văn phòng trung tâm vẫn có người trực lúc nửa đêm, và rõ ràng họ làm việc khẩn trương, bởi vì Fritz đã lên tiếng.
 Câu trả lời chắc là rất ngắn gọn, ngay lập tức Schwarzer bực bội dập ống nói xuống:
-
 - Tôi đã bảo mà.
 - gã hét lên - Anh ta không phải là nhà đạc điền nào cả, mà chỉ là kẻ bịp bợm, một gã lang thang nếu không phải là xấu hơn thế.
 Ngay lúc đó K. sợ Schwarzer, những người nông dân cùng chủ quán và vợ lao vào chàng, vì thế để ít ra cũng tránh được đòn tấn công đầu tiên, chàng vội chui hẳn vào chăn.
 Lại có tiếng chuông điện thoại, tiếng chuông réo to một cách đặc biệt đối với K. Chàng lại thận trọng thò đầu ra.
 Mặc dù không ai biết chắc chắn cú điện thoại này liên quan đến K. mọi người đều đứng sững lại, còn Schwarzer thì đi đến chỗ để máy.
 Gã nghe một lúc lâu rồi khẽ lên tiếng:
-
 - Nghĩa là nhầm ạ?
 Thật là khó xử cho tôi.
 Ngài chánh văn phòng ấy à?
@@ -160,7 +120,6 @@ Anh ta sợ chàng hỏi về ngài bá tước chăng?
 Hay là anh ta sợ K. là một "ông lớn" không đáng tin cậy?
 K. nghĩ tốt nhất là nói tránh sang việc khác.
 Chàng nhìn đồng hồ rồi nói:
-
 - Không lâu nữa những người phụ việc của tôi sẽ đến, anh có thể sắp xếp nghỉ cho họ được không?
 - Tất nhiên, thưa ông!
 - anh ta trả lời.
@@ -194,7 +153,6 @@ K. cảm thấy vào giây phút ấy, chủ quán hệt như một đứa trẻ
 - Ồ, một kẻ láo lếu!
 - chàng cười, nói.
 Nhưng chủ quán không cười theo chàng mà nói:
-
 - Tuy vậy, bố anh ta cũng là người có quyền thế lắm.
 - Thôi đi!
 - K nói.
@@ -257,13 +215,11 @@ Vì sao anh nghĩ là tôi không thích nhỉ?
 - Chắc là anh quen ngài bá tước?
 - chàng hỏi.
 - Không,- thầy giáo trả lời và định bước đi, nhưng K. không chịu thôi, chàng hỏi lại:
-
 - Sao, anh không quen bá tước à?
 - Làm sao tôi có thể quen ông ta được?
 - thầy giáo nói nhỏ, rồi anh ta nói thêm bằng tiếng Pháp, giọng to hơn .
 - Anh hãy thận trọng hơn trước mặt những đứa trẻ vô tội này.
 Nghe thế K. cảm thấy mình có thể đặt câu hỏi:
-
 - Tôi có thể đến thăm anh được không, thầy giáo?
 Tôi sẽ ở lại đây lâu, vậy mà bây giờ đã cảm thấy mình bị bỏ rơi, tôi không thuộc về những người nông dân, cũng không thuộc về Lâu đài.
 - Giữa nông dân và Lâu đài không có sự khác biệt lớn, - thầy giáo nói.
@@ -271,7 +227,6 @@ Tôi sẽ ở lại đây lâu, vậy mà bây giờ đã cảm thấy mình b�
 Tôi có thể đến thăm anh chứ?
 - Tôi ở phố Thiên Nga, cạnh nhà bán thịt.
 Như vậy là anh ta đã không mời chàng, chỉ thông báo địa chỉ, thế nhưng K. vẫn nói:
-
 - Được rồi, tôi sẽ tìm anh.
 Thầy giáo khẽ gật đầu và đi cùng với đội quân tí hon đang ầm ĩ trở lại.
 Họ nhanh chóng biến mất ở con đường dốc.
@@ -309,7 +264,6 @@ K. như đứng trong đám mây.
 - K. nói như muốn thanh minh trước người hỏi chưa rõ mặt.
 - Ồ, người đạc điền!
 - một giọng phụ nữ cất lên, sau đó là sự im lặng bao tr
-
 - Mọi người biết tôi chứ?
 - K. hỏi.
 - Sao lại không , - vẫn là giọng nói cộc lốc đó.
@@ -346,7 +300,6 @@ Chàng cử động thoải mái hơn, chống gậy đi lại trong phòng, th�
 Nhưng dù sao thỉnh thoảng cũng cần đến một người đạc điền như tôi đây.
 - Điều đó tôi không biết, - người đàn ông nói chậm rãi - Nếu người ta mời ngài đến thì hẳn là cần, chắc chắn đây là trường hợp ngoại lệ.
 Nhưng chúng tôi là những kẻ thấp cổ bé họng, phải giữ đúng nguyên tắc, ngài không nên khó chịu với chúng tôi
-
 - Không, không, - K. nói, - Tôi mang ơnà tất cả mọi người ở đây thì đúng hơn.
 Và thật hoàn toàn bất ngờ đối với họ, K. nhảy một cái, và chàng đã đến trước mặt người đàn bà trong ghế bành.
 Nàng đưa mắt mệt mỏi nhìn , K., chiếc khăn quàng bằng lụa mỏng trùm đến giữa trán, trên ngực nàng là đứa trẻ sơ sinh đang ngủ.
@@ -359,7 +312,6 @@ Người đàn bà đang giặt cũng cười bên cạnh những đứa trẻ b
 K. đã ở ngoài đường, hai người đàn ông theo dõi chàng từ bậu cửa.
 Tuyết lại rơi, dường như trời sáng hơn chút ít.
 Gã có râu quai nón kêu lên, vẻ sốt ruột:
-
 - Ngài định đi đâu?
 Đường vào Lâu đài đi lối này kia mà, còn lối kia dẫn vào làng.
 K. không trả lời gã, mà lại hỏi người đàn ông bên cạnh người này có vẻ thân thiện hơn, mặc dù ít nói.
@@ -367,10 +319,8 @@ K. không trả lời gã, mà lại hỏi người đàn ông bên cạnh ngư�
 Tôi phải cảm ơn ai về việc tôi đã được nghỉ ở đây?
 - Tôi là Laseman, thợ thuộc da, - gã trả lời, - ngài không cần phải cảm ơn ai về việc gì cả.
 - Được rồi, - K. nói, — chắc là chúng ta còn gặp
-
 - Tôi không tin, - người đàn ông nói.
 Ngay lúc đó, gã rậm râu giơ tay lên và bắt đầu gào to:
-
 - Chào Artúr!
 Chào Jeremiás.
 K. quay lại: vậy là ở trong làng này vẫn có người đi lại ngoài đường!
@@ -401,7 +351,6 @@ Rồi người đàn ông bước lại gần cửa sổ, hỏi chàng một cá
 - Tôi đợi xe trượt tuyết đưa đi, - K. đáp.
 - Xe trượt tuyết không đi qua đây, - người đàn ông nói, - đường này không có xe đi.
 - Vậy mà con đường này dẫn tới Lâu đài, - K. nhận
-
 xét.
 - Vô ích thôi, - người đàn ông nói vẻ quả quyết.
 - Dù sao đường này cũng không có xe.
@@ -409,10 +358,8 @@ Cả hai cùng im lặng.
 Nhưng người đàn ông có vẻ như đang toan tính điều gì trong đầu, vì ông ta vẫn để mở ô cửa sổ có hơi nước đang tỏa ra.
 - Con đường xấu quá, - K. nói để tiếp tục câu chuyện.
 Nhưng người đó chỉ nói:
-
 - Phải.
 Thế rồi sau một lúc im lặng, ông ta nói thêm:
-
 - Nếu ông muốn, tôi đưa ông đi bằng xe ngựa của tôi.
 - Việc đó thật là tốt, - K. phấn khởi nói.
 Ông lấy bao nhiêu tiền?
@@ -421,7 +368,6 @@ K. ngạc nhiên.
 - Ông là người đạc điền của Lâu đài mà, - người đàn ông giải thích.
 - Ông muốn đi đâu?
 - Tôi muốn đến Lâu đài, - K. đáp
-
 - Thế thì tôi không đi, - người đàn ông nói ngay.
 - Nhưng tôi thuộc về Lâu đài, - K. nhắc lại lời của ông ta.
 Như thế tôi cũng không đi, - người đó nói giọng phản đối.
@@ -451,7 +397,6 @@ Và trong chốc lát nó làm cho trái tim chàng run rẩy như thể đượ
 Tiếng chuông như đe dọa vì nó cũng vang lên đau đớn.
 Nhưng rồi hồi chuông lớn đã nhanh chóng im lặng, thay vào đó là những tiếng chuông yếu ớt vang lên lay lắt, có lẽ ở cả trên đồi lẫn dưới làng.
 Tiếng chuông đều đều này thích hợp hơn với cuộc hành trình chậm chạp và với người đánh xe rầu rĩ nhưng khó tính
-
 - Này ông!
 - K. đột ngột kêu lên khi họ đang đến gần nhà thờ, đường đến quán trọ cũng không xa nữa, K. đã có thể đánh bạo hỏi vài điều.
 - Tôi lây làm lạ là ông dám chịu trách nhiệm chở tôi đi!
@@ -463,8 +408,6 @@ Người đánh xẹ ngựa đứng lại và quay mặt về phía sau, nhưng 
 - Ông muốn gì?
 - Gerstăcker hỏi một cách khó hiểu, và không đợi giải thích gì thêm, ông ta quát ngựa, họ tiếp tục đi.
 Chương II
-
-
 Khi gần đến quán trọ, - K. nhận ra điều này nhờ chỗ rẽ của con đường - rất bất ngờ đối với K. là trời đã tối hoàn toàn.
 Chàng đã đi khỏi đây lâu như thế ư?
 Không, theo tính toán của K. thì cùng lắm chỉ mới độ một - hai giờ, chàng xuất phát buổi sáng, đến giờ chưa hề thấy đói, với lại vừa mới đây vẫn còn ánh sáng ban ngày, vậy mà giờ đây bóng tối đột ngột tràn xuống.
@@ -494,7 +437,6 @@ Tuy nhiên, - chàng lại nói thêm sau một lúc im lặng.
 - Đường xa, — K. nhắc lại.
 — Nhưng tôi đã thấy các anh đến từ Lâu đài.
 - Vâng, — họ trả lời mà không giải thích dài dò
-
 - Thế dụng cụ đo đạc đâu cả rồi?
 - K. hỏi.
 - Chúng tôi không có dụng cụ đo đạc, - họ nói.
@@ -528,13 +470,10 @@ Nếu tôi bảo đi đâu thì cả hai người cùng đi; nếu tôi giao vi�
 Đối với tôi, làm như thế rất bất lợi, vì không thể dùng các anh vào từng việc riêng biệt, nhưng lại có lợi thế là các anh phải cùng chịu trách nhiệm đối với tất cả những việc tôi giao phó.
 Còn các anh phân chia công việc như thế nào, chuyện ấy không dính dáng gì đến tôi, nhưng các anh không thể đổ lỗi gì cho nhau vì trong mắt tôi các anh chỉ là một người duy nhất.
 Những người giúp việc nghĩ ngợi rồi nói:
-
 - Điều đó rất khó chịu đối với chúng tôi,
-
 - Tất nhiên, - K. nói, - tất nhiên là khó chịu đối với các anh, nhưng sẽ phải làm như thế.
 K. nhìn thấy một người nông dân cứ quanh quẩn hồi lâu bên chiếc bàn của họ, và cuối cùng ông ta mạnh dạn bước đến một trọng hai người phụ tá để thì thầm điều gì đó.
 - Xin lỗi, - K nói, rồi đập tay xuống bàn chàng đứng dậy, - đây là những người giúp việc của tôi, bây giờ chúng tôi đang trao đổi, không ai có quyền quấy rầy chúng tôi
-
 - Ô, xin ông cứ việc ạ!
 - người nông dân nói vẻ sợ hãi rồi lùi về với những người cùng hội.
 - Các anh cần phải đặc biệt ghi nhớ điều này, - K. nói và lại ngồi xuống.
@@ -547,27 +486,22 @@ Họ chìa tay về phía K. rất sẵn sàng.
 Bây giờ tôi đi ngủ và tôi khuyên các anh cũng làm như vậy.
 Chúng ta đã không hoàn thành công việc ngày hôm nay, hôm mai cần phải bắt tay vào công việc sớm.
 Các anh cần phải kiếm xe trượt tuyết để tôi có thể đi đến Lâu đài, sáu giờ sáng các anh hãy có mặt ở trước nhà với xe trượt tuyết
-
 - Được thôi, - một trong hai người giúp việc nói.
 Nhưng người kia nói chen vào:
-
 - Mày nói được thôi, trong khi mày biết là không thể được.
 - Im đi!
 - K. nói.
 - Các anh đã bắt đầu khác nhau đấy hả?
 Bây giờ thì người giúp việc thứ nhất cũng nói:
-
 - Nó nói đúng đấy, người lạ không thể vào Lâu đài nếu không được phép.
 - Cần phải xin phép ở đâu?
 - Tôi không biết, có lẽ xin ở Quan phòng
-
 - Thế thì chúng ta gọi điện thoại cho ông ta.
 Các anh hãy gọi điện cho Quan phòng thành ngay bây giờ, cả hai người!
 Cả hai người giúp việc đều cùng chạy đến chỗ để máy điện thoại, xô đẩy nhau tỏ ra vâng lời một cách lố bịch, và đã nhận được đường dây liên lạc.
 Họ hỏi rằng sáng mai K. có thể đi cùng với họ vào Lâu đài được không?
 K. ở bên bàn cũng nghe trả lời "không"!
 Nhưng câu trả lời không chỉ có thể:
-
 - Ngày mai cũng không mà lúc khác cũng không!
 - Để tôi gọi cho, - K. nói và đứng dậy.
 Không kể đến ông nông dân lúc nãy, cho đến lúc này trong quán rượu người ta không quan tâm nhiều đến K. và những người giúp việc của chàng.
@@ -578,19 +512,15 @@ K. không nói, chàng chỉ lắng nghe, tay trái chống lên hộp máy.
 Chính K. cũng không biết mình đã đứng như thế được bao lâu, cho tới khi người chủ quán kéo áo bành tô của chàng vì có liên lạc viên nào đó tìm chàng.
 - Đi đi!át giọng tức tối, có lẽ chàng quát thẳng vào ống nghe nên bất ngờ đầu dây đằng kia có người đáp lại.
 Cuộc nói chuyện đã diễn ra như sau:
-
 - Oszvald đây, ai ở đó?
 - một giọng nghiêm khắc, kiêu ngạo vang lên.
 K. nhận thấy giọng nói của người này có một khuyết tật nào đó nên ông ta che giấu nó bằng vẻ nghiêm khắc cố ý.
-
 Chàng ngập ngừng, không muốn xưng danh.
 Đối diện với máy điện thoại chàng cảm thấy bất lực: người kia có thể nổi cơn thịnh nộ hoặc vứt ống nghe đi và như vậy thì ai mà biết đươc con đường quan trọng nào đó đã khép lại trước mặt K.
-
 Người kia sốt ruột trước sự do dự của chàng.
 - Ai đấy?
 - ông ta lại hỏi và nói thêm: - Tôi rất mừng nếu ở đây các vị gọi điện thoại ít hơn cho, các vị vừa mới gọi chưa đầy một phút.
 K. để ra ngoài tai lời nhắc nhở, với quyết định bất ngờ, chàng nói:
-
 - Tôi là phụ tá của ngài đạc điền.
 - Phụ tá nào?
 Ngài đạc điền nào?
@@ -600,13 +530,11 @@ Lúc này, bỗng nhiên K. nhớ tới cuộc nói chuyện qua điện thoại
 Điều này, thật bất ngờ, đã có tác dụng.
 Nhưng chàng còn ngạc nhiên hơn, là sự phục vụ nơi văn phòng ở trên đó mới thống nhất làm sao.
 Người kia trả lời:
-
 - Tôi đã biết.
 Lại cái ngài đạc điền ấy.
 Phải, phải.
 Sao nữa?
 Phụ tá nà
-
 - József, - K. nói.
 Tiếng ồn ào của đám nông dân sau lưng K. đã quấy rầy chàng, rõ ràng họ không thích việc chàng đã nói tên giả.
 Nhưng K. không có thời gian để ý tới họ, cuộc nói chuyện đã thu hút mọi sự chú ý của chàng.
@@ -621,15 +549,12 @@ Họ là những phụ tá cũ.
 - Thế thì tôi là ai?
 - K. hỏi với giọng thản nhiên như từ đầu.
 Sau một lát im lặng, vẫn cái giọng đó, với cách nói không chuẩn nhưng dường như đã khác, trầm hơn, oai vệ hơn, người kia nói:
-
 - Anh là phụ tá cũ.
 Trong khi chú ý đến âm vang của giọng nói ấy, K. suýt nữa buột miệng hỏi:
-
 - Ông muốn gì?
 Chàng muốn để quách ống nói xuống cho rồi.
 Chàng không chờ đợi gì nữa ở cuộc nói chuyện này.
 Tuy vậy, gần như bị thôi thúc, chàng vội hỏi
-
 - Thế bao giờ thì ông chủ của tôi có thể đi đến Lâu đài?
 - Không bao giờ cả, - ống nghe trả lời.
 - Được rồi, - K. nói và treo ống nghe về chỗ.
@@ -659,7 +584,6 @@ Anh ta ngoan ngoãn đưa mắt nhìn quanh, vẫy vẫy một hai người nôn
 Anh ta làm những việc này một cách thoải mái, tự nhiên mà vẫn không hòa lẫn với họ.
 Còn K. sau khi bị từ chối như vậy, mà không bị người ta làm cho xấu hổ, chàng nhớ tới lá thư có trong tay, liền mở ra.
 Thư viết:
-
 "Thưa Ngài rất tôn kính!
 Như Ngài đã biết, chúng tôi đã nhận Ngài vào phục vụ Bá tước.
 Cấp trên trực tiếp của Ngài là ông trưởng thôn, người sẽ thông báo cho Ngài về những gì liên quan tới công việc và tiền lương của Ngài, đồng thời Ngài phải chịu trách nhiệm trước ông ta.
@@ -695,7 +619,7 @@ Nếu K. muốn trở thành người lao động, thì chàng sẽ trở thành
 K. biết rằng người ta không đe dọa chàng bằng sự cưỡng chế thật sự, chàng không sợ điều đó mà lại sợ cái quyền uy của ngoại cảnh làm cho mình chán nản, sợ sự dửng dưng, mệt mỏi của mình trước những thất vọng, sợ sức mạnh của những tác động không thể nhận thấy đang từng giây lát có thể đến với chàng.
 Chàng cần phải chấp nhận cuộc đọ sức với nguy cơ này.
 Lá thư cũng không giấu giếm rằng nếu phải chiến đấu thì chàng đã có đủ sự dũng cảm để bắt đầu.
-Lá thư chỉ mới ám chỉ một cách tinh tế mà điều đó chỉ có lương tâm bất ổn, bất ổn chứ không phải xấu thì mới nhận thây; nó ẩn chứa trong ba chữ liên quan đến việc tiếp nhận chàng: "như ngài biết”.
+Lá thư chỉ mới ám chỉ một cách tinh tế mà điều đó chỉ có lương tâm bất ổn, bất ổn chứ không phải xấu thì mới nhận thây; nó ẩn chứa trong ba chữ liên quan đến việc tiếp nhận chàng: "như ngài biết".
 Từ khi có mặt, K. có thể biết được, như lá thư nói, là người ta đã tiếp nhận chàng.
 Chàng lấy một tấm ảnh từ trên tường xuống và gắn lá thư vào cái đinh ở đó.
 Chàng sẽ ở trong căn phòng này, lá thư cũng phải nằm ở đây.
@@ -708,7 +632,6 @@ K. vừa mới bước vào, đám nông dân đã đứng lên để được �
 K. kêu lên.
 Họ không phật ý, quay lại lê bước về chỗ của mình.
 Một người trong số họ vừa đi vừa buông một câu có ý phân bua, với nụ cười nghi hoặc (nụ cười đó còn xuất hiện trên vài khuôn mặt khác):
-
 - Biết đâu có thể được nghe tin gì mới.
 Rồi y liếm mép, như thể mép là món ăn mới vậy.
 K. không nói một lời nào làm lành với họ, không sao nếu họ biết kính trọng chàng đôi chút.
@@ -746,7 +669,6 @@ Barnabás cao như chàng, thế mà dường như anh ta nhìn xuống chàng m
 Anh ta đúng chỉ là một người đưa thư, thậm chí không biết trong lá thư mà anh ta cần trao tận tay nói gì, nhưng ánh mắt, nụ cười, dáng điệu cử chỉ của anh ta đều như ẩn giấu một thông tin nào đó, mặc dù chính anh ta có lẽ không cảm thấy như vậy.
 K. chìa tay cho anh ta, chàng nhận thấy ngay là anh ta bị bất ngờ, bởi vì anh ta chỉ muốn tạm biệt bằng một cái nghiêng mình chào.
 Anh ta vừa đi khỏi, trước khi mở cửa, anh ta dứng tựa cửa một lúc và nhìn lướt khắp quán trọ nhưng cái nhìn đó không giành cho ai cả, - K. nói với những người giúp việc:
-
 - Để tôi lấy sổ ghi chép ở trên phòng xuống, sau đó chúng ta trao đổi những công việc tiếp theo.
 Những người giúp việc muốn đi với chàng.
 - Các anh ở lại, - K. nói.
@@ -774,7 +696,6 @@ Vừa rồi nếu tôi không đuổi kịp anh.
 - Có thể cả năm tôi không có gì để nhắn tin, nhưng có khi anh vừa đi khỏi mười lăm phút là lại có việc gì không thể trì hoãn được.
 - Vậy tôi phải báo cáo với ngài chánh văn phòng, - Bamabás hỏi - là phải thiết lập một mối quan hệ khác giữa ông và ông ta không thông qua tôi?
 - Không, không, - K. nói, - hoàn toàn không cần làm thế, tôi nhắc đến việc này vì may mắn đuổi kịp
-
 - Chúng ta có cần quay lại quán trọ để ông giao nhiệm vụ mới không?- Bamabás hỏi.
 Và anh ta đã bước một bước về phía ngôi nhà.
 - Không cần gì phải làm như vậy, Barnabás - K. nói, - để tôi tiễn anh một đoạn thì tốt hơn.
@@ -844,12 +765,10 @@ K. không nhìn họ, chàng để cho người ta lột cái áo bành tô ẩm
 Vậy là không phải họ đã tới đích, mà chỉ là Barnabás đi về nhà.
 Nhưng nói chung, họ đến đây làm gì chứ?
 K. kéo Barnabás sang một bên, hỏi:
-
 - Tại sao anh về nhà?
 Hay là các anh đang ở trong khu vực của Lâu đài?
 - Khu vực của Lâụ đài ư?
 - Barnabás nhắc lại như thể anh ta không hiểu ý K.
-
 - Nhưng từ quán trọ anh đã muốn đi đến Lâu đài cơ mà?
 - K. nói.
 - Không, thưa ông, - Bárnabás trả lời.
@@ -892,14 +811,11 @@ Mặc dù thế K. vẫn yêu cầu cô ta cho chàng đi cùng, chàng nghĩ m�
 Dù có phải nhận một chỗ nghỉ tồi tàn như thế nào thì chàng cũng cứ quý hơn cái giường tốt nhất mà người ta dành cho chàng ở đây, trong cái nhà này.
 Olga không trả lời ngay, mà quay nhìn lên phía trên chiếc bàn.
 Em cô đứng dậy gật đầu và nói:
-
 - Nếu ông ấy muốn thì…
-
 Sự đồng ý này suýt nữa đã làm cho K. từ bỏ yêu cầu của mình: chàng sẽ không đạt được gì nhiều với việc người ta đồng ý dễ dàng như thế.
 Nhưng khi họ bắt đầu tranh luận rằng người ta có để K. vào quán rượu không, và mọi người đều tỏ ra nghi ngờ điều đó, thì chàng lại muốn đi với cô gái bằng bất kỳ giá nào.
 Chàng cũng không có nghĩ ra lý do gì hợp lý đối với yêu cầu của mình cả, gia đinh này cứ việc hiểu như họ hiểu, thật sự chàng không cảm thấy có điều gì xấu hổ trước mặt họ.
 Chỉ có một mình Amália trong sự thờ ơ của mình đã làm chàng lúng túng bằng ánh mắt nghiêm nghị, nhìn thẳng, không xúc động, thậm chí hơi đần đ
-
 Trên đoạn đường ngắn đến quán rượu, K. đã khoác chặt tay Olga, vì không thể tự giúp mình bằng cách nào khác, gần như chàng để Olga kéo đi như trước đấy đã làm với em trai cô.
 K. được biết thực ra cái quán này chỉ phục vụ cho các quý ông ở Lâu đài: nếu họ có việc gì trong làng, họ sẽ ăn và ngủ ở đây.
 Olga nói với chẳng một cách nhỏ nhẹ gần như là tin cẩn, đi với cô thật thích, gần giống như đi với em trai cô vậy.
@@ -908,7 +824,6 @@ Quán này, bề ngoài rất giống với quán trọ mà K. đã ở. Ở tro
 Khi bước vào, trên đầu họ có tấm vải gì khẽ đung đưa: đó là lá cờ gắn gia huy bá tước.
 Ở hành lang, họ gặp ngay người chủ quán, chắc là ông ta đang thực hiện vòng tuần tra của mình.
 Ông ta nhìn K. dò xét từ đầu đến chân một cách buồn ngủ bằng đôi mắt ti hí, nói:
-
 - Ngài đạc điền không được đi quá quẩy bán rượu.
 - Tất nhiên, - Olga nói, cô lập tức đứng về phía K, - anh ấy chỉ tiễn tôi.
 K. thì ngược lại, đã bỏ Olga ở đấy một cách bạc bẽo và gọi người chủ quán ra một chỗ.
@@ -928,7 +843,6 @@ Tôi tha thiết muốn lưu ý ông rằng tôi có những mối quan hệ qu�
 Những mối quan hệ này bảo đảm cho ông đối mặt với mọi sự nguy hiểm xảy ra do tôi ngủ ở đây, và cam đoan với ông rằng tôi sẽ có dịp đền ơn hậu hĩ cho ông vì một chút hảo tâm này.
 - Tôi biết, - ông chủ quán nói, và nhắc lại: - Tôi biết điều ấy.
 K. đã định đề đạt rõ hơn yêu cầu của mình, nhưng câu trả lời này đã làm chàng bối rối, nên chỉ hỏi:
-
 - Hôm nay, có nhiều quý ông ở Lâu đài ngủ tại đây không?
 - Về phương diện đó thì hôm nay tình hình thuận lợi, - ông chủ quán nói với vẻ gần như là khích lệ, - chỉ có một quý ông ở lại đây.
 Nhưng K. vẫn cứ do dự, mặc dù hi vọng rằng chàng đã được chấp nhận, chàng chỉ quan tâm đến cái tên của quý ông của Lâu đài.
@@ -947,14 +861,7 @@ Chàng đứng cắn môi, im lặng.
 - Nhưng anh ngủ ở chỗ chúng tôi cơ mà,- Olga ngạc nhiên, nói.
 - Tất nhiên, tất nhiên.
 - K. nói, và Olga có thể hiểu câu đó như thế nào tùy ý.
-
-
-
-
-
 Chương III
-
-
 Nơi uống rượu là một căn phòng lớn, ở giữa hoàn toàn trống, những người nông dân đang ngồi trên các thùng gỗ, hoặc cạnh đó, sát tường.
 Bề ngoài họ khác với đám nông dân K. đã thấy trong quán rượu trước.
 Những người này sạch sẽ hơn và đều giống nhau trong bộ quần áo màu vàng đơn điệu may từ một loại vải thô.
@@ -970,22 +877,17 @@ Khi ánh mắt cô ta chiếu lên chàng, K. cảm thấy ánh mắt đó biế
 K. nhìn nghiêng, quan sát Frida kể cả khi cô nói chuyện với Olga.
 Họ không có vẻ gì là những người bạn, chỉ trao đổi với nhau vài lời lạnh nhạt.
 K. muốn góp chuyện nên chàng đã trực tiếp hỏi Friđa:
-
 - Cô quen ông Klamm chứ?
 Olga bật cười.
 - Cô cười gì thế?
 - K. hỏi một cách bực dọ
-
 - Tôi không cười - Olga nói nhưng vẫn tiếp tục cười
-
 - Cô Olga này đúng là còn trẻ con.
 K. nói và vươn người qua quầy hàng để một lần nữa nhìn vào mắt của Frida.
 Frida cụp mắt xuống và hỏi khẽ:
-
 - Ông muốn nhìn thấy Klamm à?
 K. nói vâng.
 Frida chỉ vào một cái cửa ngay sau lưng cô, về phía bên trái;
-
 - Ở đây có một lỗ nhỏ, ông có thể nhìn qua được.
 - Thế những người này sẽ nói gì?
 - K. hỏi.
@@ -1008,7 +910,6 @@ Olga, như chàng thoáng để ý thấy, đã lấy cớ đến với người
 - Cô gái trả lời.
 Cô ta đứng tựa bên cạnh K. và sửa lại một cách nghịch ngợm - chỉ bây giờ K. mới nhận thấy - chiếc áo bluz mỏng mảnh, hở hang màu kem của mình gần như được treo trên cơ thể ốm yếu.
 Cô ta hỏi:
-
 - Ông còn nhớ Olga đã cười chớ?
 - Một người không được giáo dục.
 - K. nói.
@@ -1026,10 +927,9 @@ Nhưng Frida không nhận thấy ẩn ý của câu hỏi.
 - Chưa, tôi ở quán này chưa đủ hay sao?
 - cô ta nói.
 Tính hiếu danh của có ta rõ ràng quá đáng và xem ra cô ta muốn được thỏa mãn điều đó thông qua K.
-
 - Cô ở đây là thay chủ quán chứ?
 - Đúng vậy, - cô gái trả lời.
-- Thế mà ở quán trọ ”Bên cầu" tôi bắt đầu như một người quét dọn chuồng bò đấy.
+- Thế mà ở quán trọ "Bên cầu" tôi bắt đầu như một người quét dọn chuồng bò đấy.
 - Với bàn tay mềm mại này ư!
 - K. nói nửa như hỏi, và không biết là mình nịnh bợ hay thật ra chàng đã bị bàn tay của Frida quyến rũ.
 Đúng là tay cô ta mảnh dẻ, nhỏ nhắn, nhưng cũng có thể gọi đó là bàn tay yếu ớt, không có gì đáng để ý.
@@ -1041,7 +941,6 @@ Nhưng lời nhận xét này tỏ ra không đúng chỗ: tuồng như chàng �
 Cô ta lấy ra từ cái túi da treo ở ngang hông một mẩu gỗ và đút nó vào lỗ nhòm ở cửa.
 Có thể thấy là cô ta cố gắng để K. khỏi nhận ra sự thay đổi tâm trạng của mình.
 Frida nói:
-
 - Mọi việc liên quan n ông, tôi đều biết, ông là người đạc điền.
 - và cô ta nói thêm: - Nhưng bây giờ tôi có việc.
 -, cô ta quay lại dằng sau quầy bán rượu, đây đó, người ta đều đứng dậy để cô lại rót cho đầy những cái cốc đã cạn của họ.
@@ -1066,7 +965,6 @@ Olga!
 Olga trượt xuống khỏi chiếc thùng gỗ một cách ngoan ngoãn nhưng cô không thể thoát ngay khỏi đám đông bạn bè.
 Frida liếc nhìn K. một cách đe dọa.
 và nói khẽ:
-
 - Bao giờ tôi có thể nói chuyện với ông?
 - Tôi có thể ngủ đêm ở đây không?
 - K. hỏi.
@@ -1116,24 +1014,19 @@ Tất nhiên không phải là hoàn toàn vô sự nếu họ phát hiện ra c
 - ông ta gọi và đi đi lại lại vài lần trong phòng.
 May là Frida chẳng mấy chốc đã quay lại và không nhắc tới K., cô ta chỉ phàn nàn về những người nông dân, và đi về phía sau quầy bán rượu tìm K. K. chạm vào đôi chân bé nhỏ của cô ta, từ lúc đó chàng cảm thấy an toàn.
 Vì Frida không nhắc đến người đạc điền, nên rốt cuộc ông chủ quán phải nói đến:
-
 - Thế người đạc điền đâu rồi?
 Tuy vậy ông ta là một người lịch sự, mối quan hệ thường xuyên và tự do của ông với những người ở trên mình đã luyện cho tác phong của ông.
 Ông chủ quán nói chuyện với Frida với một sự tôn trọng đặc biệt, điều này dễ thấy hơn cả vì suốt cuộc nói chuyện, ông ta đã đứng đối diện với cô như là nhà kinh doanh với nhân viên của mình, tuy đó là một nhân viên tự cao tự đại vậy.
 - Tôi hoàn toàn đã quên mất người đạc điền, - Frida nói và đặt bàn chân bé nhỏ của mình lên ngực K.,- chắc là anh ta đã đi khỏi đây lâu rồi.
 Nhưng mà tôi chưa thấy, tôi đã ở ngoài hành lang suốt cả thời gian đó, - ông
-
 - Anh ta không có ở đây, - Frida nói vẻ thản nhiên.
 - Có lẽ anh ta đã trốn, - ông chủ quán nói, - theo như tôi thấy thì anh ta có thể làm đủ mọi chuyện đấy.
 - Anh ta không liều lĩnh thế đâu, - Frida nói và ấn mạnh hơn bàn chân vào ngực K.
-
 Trong bản chất cô ta có cái gì như là sự vui vẻ, cởi mở mà cho đến lúc này K. đã không nhận ra.
 Và hoàn toàn không thể ngờ được đối với chàng, khi Frida bật cười nói:
-
 - Có lẽ anh ta trốn ở dưới quầy này.
 - Và bất ngờ cô ta cúi xuống hôn vội chàng rồi lại đứng thẳng lên nói một cách tiếc rẻ: - Không, anh ta không có ở đây.
 Chàng cũng ngạc nhiên khi ông chủ quán nói:
-
 - Tôi cũng rất khó chịu vì không biết chắc chắn là có thật anh ta đã đi khỏi đây chưa, không phải vì liên quan đến ngài Klamm, mà là vì quy chế.
 Mà quy chế thì liên quan tới cả chị, thưa chị Frida, cả đối với tôi.
 Chị phải chịu trách nhiệm về quầy rượu, những phần còn lại của ngôi nhà rồi tôi sẽ xem qua.
@@ -1142,7 +1035,6 @@ Chúc chị ngủ ngon.
 - Người yêu của em, anh yêu quý của em, - cô ta thì thầm, nhưng không đụng vào người K.. Như ngây ngất vì tình yêu, Frida nằm ngửa và giang tay ra.
 Đối với cô ta, thời gian là vô tận trước hạnh phúc của tình yêu, cô ta bắt đầu hát một bài hát gì đó, không hẳn là hát, mà là thở dài thì đúng hơn.
 Sau đó, vì K. vẫn im lặng đắm chìm trong suy nghĩ, cô ta bỗng ngồi bật dậy và bắt đầu lắc mạnh chàng
-
 - Lại đây anh, chúng ta có thể chết ngạt ở dưới này.
 Họ ôm choàng lấy nhau, trong cánh tay K. là cơ thể nhỏ bé và nóng bỏng.
 Họ lăn mấy bước trong sự mê mẩn mà K. thỉnh thoảng muốn bứt ra khỏi nhưng vô hiệu.
@@ -1152,16 +1044,13 @@ Giờ này qua giờ khác, họ cùng chung nhịp thở, và nhịp đập c�
 Thế rồi sau đó có cái gì đấy thoạt tiên không làm chàng hoảng hốt, mà như là sự bừng tỉnh đầy an ủi, khi từ phòng Klamm một giọng trầm trầm, xa lạ và uy nghiêm gọi Frida.
 - Frida, - K. nói thầm vào tai cô gái, như chuyển tiếp lời gọi.
 Frida lúc đầu với sự ngoan ngoãn cố hữu định vùng dậy, sau đó cô ta đã nhận ra mình đang ở đâu, liền duỗi tay chân, cười khẽ và nói:
-
 - Em không đi.
 Không bao giờ em đến với ông ta nữa.
 K. muốn phản đối, muốn thuyết phục cô ta đi vào với Klamm, thậm chí chàng đã tìm những tấm áo sơ mi của cô ta, nhưng chàng không nói được nên lời.
 Chàng hạnh phúc vì có thể giữ cô gái trong cánh tay mình, nhưng trong hạnh phúc chàng cũng hoang mang, vì cảm thấy nếu Frida bỏ chàng thì tất cả những gì chàng có đều từ bỏ chàng.
 Còn Frida như thể đã lấy thêm sức mạnh do được gần K., nắm chặt tay đập vào cửa, kêu to:
-
 - Tôi đi với người đạc điền!
 Tôi đi với người đạc điền
-
 Klamm lập tức im lặng.
 K. ngồi dậy, quỳ cạnh Frida và nhìn quanh trong ánh bình minh phơn phớt.
 Cái gì đã xảy ra?
@@ -1189,7 +1078,6 @@ Các anh hãy xéo đi khỏi đây!
 - Thì đã ban ngày rồi đấy thôi, - họ nói và không nhúc nhích.
 Ban ngày cánh cửa nhìn ra sân đã mở, những người nông dân ùa vào phòng với Olga, người mà K. đã hoàn toàn quên mất.
 Olga vẫn tươi tỉnh như tối hôm qua, dù tóc và quần áo cô không gọn gàng, từ bậc cửa cô đã đưa mắt tìm K.
-
 - Tại sao anh không đi về nhà với em?
 - cô hỏi gần như khóc.
 - Vì một người đàn bà như thế này!
@@ -1197,7 +1085,7 @@ Olga vẫn tươi tỉnh như tối hôm qua, dù tóc và quần áo cô không
 Frida đã biến đi mấy phút, bây giờ lại xuất hiện, với cái bọc nhỏ trong tay.
 Olga đứng bên nhìn buồn bã.
 - Chúng ta có thể đi, - Frida nói.
-Chắc chắn cô ta nghĩ đến quán trọ "Bên cầu”, và họ sẽ đi tới đó.
+Chắc chắn cô ta nghĩ đến quán trọ "Bên cầu", và họ sẽ đi tới đó.
 K. đi cùng Frida, sau họ là những người giúp việc.
 Có thể thấy ngay là đám nông dân đã coi khinh Frida, điều đó cũng dễ hiểu, vì cho đến lúc ấy cô ta đã đối xử nghiêm khắc với họ.
 Một người trong đám nông dân lấy chiếc gậy, ông ta làm như thể không để cô ta đi, nếu cô ta nhẫy qua chiếc gậy thì mới được đi.
@@ -1214,8 +1102,6 @@ K. bất chấp sự ra vào liên tục của những người đó, suốt m�
 Nếu chàng cần gì thì đã có Frida lo giúp.
 Đến sáng hôm sau, khi đã hoàn toàn tươi tỉnh, cuối cùng K. đã dậy, lúc đó là ngày thứ tư chàng có mặt trong làng.
 Chương IV
-
-
 Chàng muốn nói chuyện một mình với Frida, nhưng những người giúp việc đã làm cản trở việc đó bằng sự có mặt trơ tráo của họ.
 Đã thế, thỉnh thoảng Frida lại cười nói, đùa cợt với họ.
 Nói chung, những người giúp việc không hề khó tính, họ trải hai chiếc váy đã cũ sờn xuống đất, thu xếp chỗ nằm trong góc phòng.
@@ -1229,17 +1115,13 @@ Chàng vẫn chưa khỏe đến mức phải từ chối cố gắng của họ
 Vả lại cũng không khó chịu đối với chàng khi ngồi bên bàn uống cà phê do Frida mang tới và ngồi sưởi ấm cạnh lò sưởi mà cô ta đốt, hoặc sai những người giúp việc hăng hái một cách vụng về lên lên xuống xuống cầu thang mười lần để lấy nước rửa, xà phòng, lược, gương, và cuối cùng (vì K. có gợi ý ra điều đó) là một cốc rum.
 K. ra lệnh như vậy, và họ đã phục vụ chàng.
 Bỗng chàng nói vì sự vui vẻ hơn là niềm hi vọng thành công:
-
 - Bây giờ các anh hãy đi khỏi đây, tạm thời tôi không cần gì cả, tôi muốn nói chuyện riêng với cô Frida.
 Vì không nhận thấy sự chống đối nào cả trên khuôn mặt của những người giúp việc, nên chàng nói thêm:
-
 - Lát nữa cả ba chúng ta đi đến chỗ ngài trưởng thôn, các anh đợi tôi ở chỗ quầy rượu.
 Họ vâng lời, chỉ nhận xét trước khi đi:
-
 - Đợi thì ở đây chúng tôi cũng đợi được.
 - Tôi biết, nhưng tôi không muốn thế,- K. trả lời.
 Việc đó đã làm chàng bực mình, nhưng trong ý nghĩa nhất định thì nó cũng dễ chịu đối với K., khi Frida sau khi những người giúp việc đi khỏi liền ngồi vào lòng chàng, và nói:
-
 - Anh làm sao với những người giúp việc thế, anh thân yêu?
 Chúng ta đừng bí mật điều gì trước mặt họ.
 Họ trung thành mà.
@@ -1285,9 +1167,7 @@ May mắn và tai họa đã làm cho nó bối rối, - bà vợ ông chủ qu�
 Và như để làm tăng thêm sức mạnh cho những lời đó, Frida nhảy đến chỗ K. và hôn chàng một cách mãnh liệt như thể ở trong phòng không còn ai khác ngoài họ.
 Sau đó, vẫn ôm chặt K. khóc, cô ta khuỵu xuống trước mặt chàng.
 K. vuốt tóc Frida bằng cả hai tay, và hỏi bà vợ ông chủ quán:
-
 - Thế thì bà đồng ý với tôi chứ
-
 - Ông là một người tử tế, - bà chủ quán nói giọng muốn khóc với một vẻ bất lực.
 Bà ta thở khó khăn nhưng dù sao vẫn còn sức để nói: - Bây giờ chỉ cần cân nhắc xem ông lấy gì bảo đảm cho cô Frida, vì cho dù tôi trọng ông như thế nào sau những sự việc này thì rốt cuộc ông cũng chỉ là một người lạ, ông không thể dựa vào ai cả, về những mối quan hệ của ông ở nhà thì ở đây không một ai biết cả.
 Cho nên phải cần đến sự bảo đảm.
@@ -1297,7 +1177,6 @@ Hơn nữa tôi cũng có việc phải giải quyết, không thể trì hoãn 
 Tôi phải nói chuyện với Klamm.
 - Điều đó không thể được, ý nghĩ gì mà kỳ vậy!
 - Frida nói, và hơi rướn lên nép vào người K.
-
 - Thế mà phải làm đấy, - K. nói - Nếu anh không thành công, thì em phải cố gắng thực hiện bằng được.
 - Em không thể làm việc đó, anh K., em không thể.
 Klamm không bao giờ thèm bắt chuyện với anh.
@@ -1309,7 +1188,6 @@ Làm sao anh có thể tưởng tượng ra rằng Klamm nói chuyện với anh
 - ông ta không nói chuyện với anh, với em cũng không.
 Đây là việc hoàn toàn vô lý.
 Cô ta giang tay quay về phía bà chủ quán:
-
 - Đấy mẹnh ấy muốn gì?
 - Ông là người kỳ quặc, ông đạc điền ạ, ông muốn điều không thể được.
 - Bà chủ quán nói, rồi trong tư thế ngồi bà ta doãi chân, ưỡn người: cái đầu gối to đoành lồi ra khỏi chiếc váy mỏng mảnh, trông bà thật khủng khiếp.
@@ -1324,7 +1202,6 @@ Tỷ như ông chỉ có thể nhờ sự cẩu thả của anh ấy, tối hôm
 - K. hỏi, chàng sực tỉnh khỏi sự lơ đễnh của mình vì tò mò hơn là giận dữ.
 - Ông chỉ có thể nhờ sự cẩu thả của chồng tôi.
 - Bà chủ quán kêu to lên, ngón tay trỏ chĩa về phía K.
-
 Frida thử làm cho bà ta bình tĩnh.
 - Cô muốn gì?
 - bà chủ quán hỏi, rồi toàn thân đột ngột quay về phía cô ta.
@@ -1365,7 +1242,6 @@ Và, nếu lời nói của tôi không gây được tác động gì, thậm c
 Còn bà, thưa bà chủ quán, với kinh nghiệm sống phong phú và sự am hiểu con người, cùng Frida, người mà mới hôm qua còn là người tình của Klamm (tôi không thấy có lý do gì để chúng ta tránh diễn đạt như thế), hai người chắc chắn dễ dàng tìm được dịp để tôi nói chuyện với Klamm.
 Nếu không có khả năng nào khác thì chúng ta đến quán "Ông chủ", bởi vì có thể bây giờ Ngài vẫn ở đó.
 - Không thể được, - bà chủ quán nói, - tôi thấy ông không có khả năng để y. Nhưng ông nói đi, ông muốn nói chuyện gì với Klamm
-
 - Tất nhiên là nói về Frida, - K. nói!
 - Nói về Frida?
 - Bà chủ quán ngơ ngác hỏi và quay sang Frida: - Cô nghe thấy không, Frida?
@@ -1375,21 +1251,19 @@ Tôi muốn nói chuyện với Klamm về Frida, việc đó nói chung không 
 Vì rõ ràng, bà đã lầm nếu bà nghĩ rằng từ giây phút tôi xuất hiện, Frida đã không hề có ý nghĩa gì đối với Klamm.
 Nghĩ như thế có nghĩa là không đánh giá đúng Ngài, về phần mình, tôi biết rằng dạy bà những việc như thế thật là liều lĩnh, nhưng tôi cần phải làm.
 Trong mối quan hệ của Klamm đối với Frida không thể vì cá nhân tôi mà xảy ra sự thay đổi nào cả.
-Hoặc là giữa họ nói chung chưa từng có mối quan hệ mật thiết nào, điều này đã được những người tước mất danh hiệu “người tình" của Frida khẳng định, như vậy hiện nay cũng không có quan hệ gì.
+Hoặc là giữa họ nói chung chưa từng có mối quan hệ mật thiết nào, điều này đã được những người tước mất danh hiệu "người tình" của Frida khẳng định, như vậy hiện nay cũng không có quan hệ gì.
 Còn nếu giữa họ có mối quan hệ đó thì làm sao trong mắt Klamm một kẻ vô danh tiểu tốt không là gì cả như tôi - như bà vừa nói rất đúng - lại có thể quấy nhiễu được.
 Việc này chỉ trong những giây phút đầu tiên của sự hoảng hốt thì người ta mới có thể nghĩ ra để sau đó, đắn đo cân nhắc một tí thôi là người ta phải điều chỉnh lại tất cả.
 Tuy thế chúng ta cũng nên nghe ý kiến của Frida về việc này.
 Với ánh mắt mơ màng, xa xăm, Frida gục mặt vào ngực K. nói:
-
 - Rõ ràng đúng như mẹ nói: Klamm không muốn biết gì về em nữa.
 Nhưng tất nhiên không phải vì anh yêu xuất hiện giữa chừng, những việc như thế thường không lay chuyển nổi ông ta.
 Em nghĩ rằng chúng ta đến đưọc với nhau ở dưới quầy bán hàng là nhờ ông ta, thời gian đó không đáng bị nguyền r
-
 - Nếu sự việc như vậy, - K. nói chậm rãi, vì những lời của Frida vừa nói nghe ngọt ngào dễ thương, chàng nhắm mắt lại trong giây lát để cho ý nghĩa cốt lõi của lời nói thấm vào lòng; - nếu sự việc như vậy thì tôi càng ít có lý do để sợ cuộc nói chuyện với Klamm.
 - Cái gì đúng thì là đúng, - bà chủ quán nói và nhìn xuống K. - Đôi khi ông làm tôi nhớ đến chồng mình, ông cũng ngây ngô và ương bướng như chồng tôi vậy.
 Chỉ mới có vài ngày ở đây mà ông đã muốn biết tất cả tốt hơn cả người địa phương, hơn cả tôi, một bà già và hơn cả Frida, người đã được nghe, được thấy nhiều trong quán "Ông chủ".
 Tôi không phủ nhận rằng, người ta có thể một lần bất chấp các quy định và truyền thống mà vẫn có thể đạt được một cái gì.
-Tôi thì cả đời chưa từng trải qua những việc như thế, theo người ta nói thì cũng đã có trường hợp tương tự, có thể lắm, nhưng lúc đó chắc chắn người ta không làm theo con đường và cách thức ông làm là liên tục lặp đi lặp lại "không”, "không", rồi ngang bướng đi theo cái đầu của mình, lời khuyên thông minh nhất cũng không thèm nghe.
+Tôi thì cả đời chưa từng trải qua những việc như thế, theo người ta nói thì cũng đã có trường hợp tương tự, có thể lắm, nhưng lúc đó chắc chắn người ta không làm theo con đường và cách thức ông làm là liên tục lặp đi lặp lại "không", "không", rồi ngang bướng đi theo cái đầu của mình, lời khuyên thông minh nhất cũng không thèm nghe.
 Ông tưởng tôi lo cho ông đấy à?
 Tôi có quan tâm tới ông khi ông còn một thân một mình không?
 Giá mà tôi đã can thiệp vào thì chúng ta đã tránh được chuyện này, chuyện kia!
@@ -1426,13 +1300,11 @@ Chúng mày có nghe thấy không?
 Ở đó dĩ nhiên ông có chỗ nghỉ đêm.
 Ôi, giá mà ông đã ngủ ở đó thì tốt hơn là ở trong quán "Ông chủ"!
 Nhưng các anh, các anh có thể ở đ
-
 - Bà chủ quán ạ, - K. nói, trước khi những người giúp việc có thể trả lời, - đây là những người giúp việc của tôi, bà xử sự như thể họ là những đầy tớ của bà, còn đối với tôi họ là những kẻ canh giữ không bằng.
 Trong tất cả mọi chuyện khác tôi có thể hết sức lịch sự tranh luận với các quan điểm của bà, nhưng cái gì liên quan đến những người giúp việc của tôi thì không, bởi vì sự việc ở đây rõ hơn ban ngày.
 Tôi đề nghị bà đừng nói chuyện với những người giúp việc của tôi, và nếu như yêu cầu này của tôi không được đáp ứng thì tôi cấm những người giúp việc của tôi trả lời bà.
 - Tóm lại tôi không được nói chuyện với các anh?
 - Bà chủ quán hỏi hai người giúp việc, và cả ba người cùng cười, nhưng bà chủ quán cười một cách mai mỉa và hiền hơn là K. chờ đợi, những người giúp việc thì theo thói quen cười nhiều (không có nghĩa gì cả) nhưng vô duyên và vô trách nhiệm;
-
 - Anh đừng giận, - Frida nói, - anh cần phải thật sự hiểu sự nổi nóng của chúng em.
 Nhờ Barnabás mà bây giờ chúng ta thuộc về nhau.
 Khi em thấy anh lần đầu trong quầy uống, anh bước vào, tay khoác tay Olga, lúc đó em đã biết một đôi điều về anh, nhưng cơ bản là em thờ ơ đối với anh.
@@ -1485,8 +1357,6 @@ Hay là đối với một người ngù ngờ như tôi thì mọi cái đều 
 - hay là bà sợ cho Klamm?
 Bà chủ quán im lặng nhìn theo chàng đang vội vã đi xuống cầu thang, cùng với những người giúp việc.
 Chương V
-
-
 Bản thân K. cũng gần như ngạc nhiên là cuộc nói chuyện với trưởng thôn khiến chàng ít lo lắng đến thế.
 Chàng cố gắng lý giải điều này cho mình rằng những kinh nghiệm đến lúc này cho thấy đối với chàng các cuộc tiếp xúc chính thức với các nhà chức trách của bá tước diễn ra hết sức đơn giản.
 Cơ sở của điều này là công việc của chàng có vẻ được giải quyết dứt khoát, rất thuận lợi đối với chàng; mặt khác hình như có một sự nhất trí đến kinh ngạc ở các cấp chính quyền, điều đó đặc biệt thể hiện ở nơi mà thoạt nhìn không cảm thấy nó.
@@ -1510,13 +1380,11 @@ Trưởng thôn là một người đàn ông niềm nở, béo tốt, mày râu
 Trong căn phòng có cửa sổ nhỏ đã buông rèm, tranh tối tranh sáng một người đàn bà thầm lặng như cái bóng mang ghế đến cho K. và để cạnh chiếc giường.
 - Ngồi xuống đi, ông đạc điền, mời ông ngồi xuống, - trưởng thôn nói.
 - và cho tôi biết những yêu cầu của ông
-
 K. đọc lá thư của Klamm và nói thêm một vài ý kiến nhận xét.
 Chàng lại cảm thấy tiếp xúc với các nhà chức trách cực kỳ dễ dàng.
 Nhìn bề ngoài thì mọi gánh nặng đều do họ gánh vác, mọi chuyện có thể đổ lên đầu họ, người ta không bị liên lụy và tự do.
 Dường như trưởng thôn, theo cách của mình, cũng cảm thấy điều đó, ông ta cựa quậy khó khăn ở trên giường.
 Cuối cùng ông ta nói:
-
 - Như ông thấy, ông đạc điền ạ, tôi đã biết hết việc này.
 Vậy mà đến bây giờ tôi vẫn chưa làm gì cả, điều đó có nguyên nhân của nó.
 Một phần do bệnh tật của tôi, phần khác là do ông lâu rồi không trình diện, tôi cứ tưởng ông đã bỏ việc.
@@ -1528,7 +1396,6 @@ Sự thay đổi tài sản ít khi xảy ra ở chúng tôi, còn những tranh
 Thế thì chúng tôi cần người đạc điền để làm gì?
 K. mặc dù không nghĩ trước về sự việc, từ đáy lòng mình chàng vẫn cứ đinh ninh rằng chàng chờ đợi sự thông báo này.
 Chính vì thế mà chàng có ngay câu trả lời:
-
 - Việc này hết sức bất ngờ đối với tôi.
 Nó làm tiêu tan mọi tính toán của tôi.
 Tôi chỉ còn niềm hy vọng duy nhất rằng đây là một sự hiểu nhầm.
@@ -1547,7 +1414,6 @@ Chả là bản thông báo ấy có từ thời kỳ đầu, lúc ấy cái gì
 Người đàn bà mở tủ, K. và trưởng thôn cùng nhìn vào.
 Cái tủ nhét đầy các loại giấy tờ.
 Khi người đàn bà mở tủ, hai tập hồ sơ lớn quấn lại thành hai tập giấy khổng lồ được bó làm một như người ta bó củi khô, truồi ra làm bà ta hoảng hốt nhảy sang một bên
-
 - Ở dưới ấy, ở dưới ấy.
 - Trưởng thôn nói, từ giường ông ta hướng dẫn vợ đang ôm cả bó hồ sơ và ngoan ngoãn lôi tất cả mọi thứ khỏi cái tủ để có thể lấy được những giấy tờ nằm ở phía dưới.
 Số giấy tờ la liệt đó đã phủ kín nửa căn phòng.
@@ -1568,11 +1434,9 @@ Tôi còn có một người giúp ghi chép là ông giáo, thế mà vẫn kh�
 K. hỏi khi bà vợ quay lại với cái nến và tiếp tục quỳ xuống cạnh tủ để tìm tờ thông báo.
 Ông trưởng thộn lắc đầu cười.
 - Như tôi đã nói, tôi không có gì bí mật đối với ông, nhưng chưa đến mức để cho phép ông lục soát các tậ
-
 Trong phòng bây giờ yên tĩnh, chỉ còn tiếng giấy tờ loạt xoạt, ông trưởng thôn có lẽ đã chợp mắt được một tí.
 Có tiếng gõ cửa nhẹ, K. quay lại: tất nhiên họ là những người giúp việc của chàng.
 Dù sao họ đã được chàng dạy cho tí chút, họ không xông vào phòng ngay, mà chỉ nói thầm qua cánh cửa mở chừng gang tay:
-
 - Ở ngoài này chúng tôi lạnh lắm.
 - Ai đấy?
 - trưởng thôn choàng tỉnh hỏi.
@@ -1580,7 +1444,6 @@ Dù sao họ đã được chàng dạy cho tí chút, họ không xông vào ph
 Tôi không biết phải bảo họ đợi ở đâu, ở ngoài đó họ bị lạnh, mà ở trong này thì họ làm phiền chúng ta, - K. trả lời.
 - Họ không quấy rầy tôi, — trưởng thôn nói một cách thân mật, — ông cứ để họ vào đây, tôi quen các cậu ấy mà.
 Họ là những người quen cũ của tôi
-
 - Nhưng họ là gánh nặng đối với tôi, - K. nói thẳng thừng, không chút bóng gió và chàng hết nhìn những người giúp việc lại nhìn trưởng thôn sau đó ánh mắt chàng lại lướt từ trưởng thôn đến những người giúp việc, chàng thấy cùng một nụ cười ở cả ba gương mặt.
 - Các anh đã ở đây thì cứ ở lại và giúp phu nhân trưởng thôn tìm tập hồ sơ có chữ "Người đạc điền" gạch màu xanh ở dưới.
 Trưởng thôn không phản đối.
@@ -1623,7 +1486,6 @@ Nhưng mà, - trưởng thôn bỏ dở câu chuyện, như thể vì quá hăng
 - Không, - K. trả lời.
 - Tôi tiêu khiển thì đúng hơn.
 Nghe thế trưởng thôn nói:
-
 - Không phải tôi kể cho ông để ông tiêu khiển.
 - Ông chỉ làm tôi tiêu khiển ở chỗ ông cho một cái nhìn thoáng qua cái mớ hỗn độn buồn cười đã quyết định cuộc đời của một còn người giữa những hoàn cảnh nhất định, - K. nói.
 - Tạm thời ông chưa có được cái nhìn thoáng qua nào cả, - trưởng thôn nói nghiêm chỉnh, - và tôi có thể tiếp tục câu chuyện.
@@ -1714,7 +1576,6 @@ Chỉ có Brunswick là cáu kỉnh, nhưng chuyện đó chỉ buồn cười.
 Chắc là ông hiểu quyết định sắt đá của tôi, trong phạm vi giải quyết của mình, tôi không cho phép điều đó xảy ra đâu.
 - Vâng, - K. nói, - tôi còn hiểu một điều hơn cả điều đó, rằng ở đây đang diễn ra sự lạm dụng khủng khiếp đối với tôi, thậm chí với cả pháp luật.
 Nhưng mà tôi sẽ biết mình phải chống lại việc đó ra s
-
 - Ông định làm gì?
 - trưởng thôn hỏi.
 - Tôi không thể nói ra, - K. nói.
@@ -1740,7 +1601,6 @@ Chỉ có khuôn mặt nhỏ nhắn của bà hiện ra trong ánh nến với n
 Vừa nhìn vào lá thư bà bèn chắp tay lại.
 - Thư của Klamm, - bà nói.
 Sau đó họ cùng đọc lá thư, và thì thầm với nhau mất một lúc, cuối cùng, khi những người giúp việc reo lên ầm ĩ vì rốt cuộc đã ấn được cánh tủ vào, Mici liếc nhìn về phía họ với vẻ biết ơn thầm lặng, và ngài trưởng thôn nói:
-
 - Mici hoàn toàn chung ý kiến với tôi, cho nên tôi có thể mạnh dạn nói ra suy nghĩ của mình.
 Lá thư này không phải là công văn chính thức mà chỉ là một lá thư riêng.
 Điều này đã thể hiện một cách không thể hiểu nhầm ở ngay cách xưng hô.
@@ -1822,8 +1682,6 @@ Gió mạnh lắm.
 K. quay lại, những người giúp việc với vẻ hăng hái không đúng chỗ, nghe chàng nói lập tức mở toang cả hai cánh cửa.
 Và K, để hơi lạnh đang ùa đến dày đặc không tràn ngập căn phòng người ốm, chỉ kịp gật đầu cúi chào trưởng thôn, rồi kéo theo những người giúp việc, chàng lao ra khỏi phòng và nhanh chóng đóng cửa lại.
 Chương VI
-
-
 Trước quán trọ người chủ quán đang đợi chàng.
 Anh ta không muốn lên tiếng trước, vì thế K. đã hỏi anh ta muốn gì.
 - Ông đã tìm được chỗ ở mới cho mình chưa?
@@ -1835,7 +1693,6 @@ Nhưng bà ấy đang rất hồi hộp và lo lắng vì ông; không làm vi�
 - Tôi phải đi vào với bà ấy à?
 - Tôi xin ông, - chủ quán nói, - tôi đã định gọi ông ở chỗ trưởng thôn, tôi đã đứng ở trước cửa nghe thấy các ông đang say sưa nói chuyện nên không dám quấy rầy, vả lại vì lo lắng cho vợ tôi, nên tôi vội trở về, nhưng bà ấy không cho vào, vậy nên tôi không làm được gì khác hơn là đợi ông ở đây.
 - Thế thì ta đi nhanh lên, - K. nói, - rồi ta sẽ làm cho bà ấy
-
 - Giá được như thế, - chủ quán nói.
 Họ đi qua nhà bếp sáng sủa, ở đó có ba hay bốn hầu gái đang làm việc, cách xa nhau.
 Vừa nhìn thấy K., họ thật sự lặng người đi.
@@ -1865,7 +1722,6 @@ Việc này đã được thực hiện ngay.
 - Ông đạc điền, tôi nhờ ông làm ơn lấy cho tôi chiếc khăn quàng vai trong tủ.
 Ở ngay phía trên ấy, tôi muốn đắp nó, vì không chịu được chăn nhồi lông chim, tôi khó thở quá.
 Và khi K. đưa cho chiếc khăn, bà ta nói:
-
 - Ông thấy chiếc khăn đẹp không?
 K. thấy đấy là chiếc khăn len thông thường, chỉ vì giữ ý mà chàng sờ thêm một lần nữa, nhưng không nói gì cả.
 - Cái khăn đẹp thật, - Gardena nói và quấn khăn lên người.
@@ -1890,7 +1746,6 @@ Thế thế... Và bây giờ ông hãy hứa rằng ông sẽ hoàn toàn thàn
 - Nhưng ai trong chúng ta bắt đầu trước?
 - Tôi, - bà chủ quán nói, không phải để tỏ ra lịch thiệp với K., mà dường như bà rất mong được nói đầu tiên.
 Bà lấy ở dưới gối ra tấm ảnh và đưa cho K.
-
 - Ông xem bức ảnh này, - bà khẩn khoản nói.
 Để nhìn cho rõ hơn, K. bước vào nhà bếp, nhưng ở đó chàng cũng không thể nhận ra cái gì ở trên tấm ảnh.
 Tấm ảnh đã phai màu, nhàu nát, cũ kỹ và lỗ chỗ do để lâu ngày.
@@ -1901,12 +1756,10 @@ Mà tôi có thể giúp ông, ông cứ nói ông thấy gì.
 Tôi rất mừng nếu được nghe về tấm ảnh.
 Nào, ông thấy gì?
 - Một người trẻ tuổ
-
 - Đúng đấy.
 - bà chủ quán nói, - và anh ta đang làm gì nào?
 - Tỏi nghĩ rằng anh ta nằm trên một tấm gỗ người duỗi ra và đang ngáp.
 Bà chủ quán bật cười:
-
 - Làm gì có chuyện đó, - bà nói.
 - Nhưng mà đây là tấm gỗ, và anh ta đang nằm lên đó.
 - K. cố chứng minh.
@@ -1927,7 +1780,6 @@ Tôi đã biết là cuối cùng ông cũng nhận ra.
 - K. hỏi.
 - Là người đưa thư, - bà chủ quán nói.
 - anh ta đã đưa tôi đến gặp Klamm
-
 K. không thể tập trung nghe những điều bà chủ quán trọ nói, vì chàng bị quấy rầy bởi tiếng va chạm vào cửa kính.
 Ngay lập tức chàng phát hiện ra nguyên nhân gây tiếng động.
 Những người giúp việc đứng ở ngoài sân, họ đổi chân mà nhảy trong tuyết.
@@ -1941,7 +1793,6 @@ Bà ta cử động chậm chạp hơn, nhưng không phải do mệt mỏi mà 
 Bà định kể cho K. nghe, vậy mà trong lúc kể lể bà đã quên mất chàng.
 Bà nghịch những dải viền tua của chiếc khăn.
 Chỉ sau đó bà mới ngước nhìn lên, xoa xoa mắt khắp lượt và nói:
-
 - Chiếc khăn này cũng của Klamm cho, cả chiếc khăn chít đầu nữa.
 Tâm ảnh, chiếc khăn này và khăn chít đẩu: đấy là ba kỷ niệm của tôi có được từ ông ấy.
 Tôi không trẻ như Frida, không muốn làm nên việc lớn như cô ấy, và cũng không đa cảm, cô ấy đa cảm lắm.
@@ -1956,7 +1807,6 @@ Những chuyện này đã làm K. khó chịu, dù chúng liên quan trực ti�
 - Các người chung thủy với Klamm lâu như thế cơ đấy, - K. nói.
 - Bà biết không, thưa bà chủ quán, bà đã làm tôi lo lắng thật sự, nếu tôi nghĩ đến cuộc sống vợ chồng sắp tới!
 Bà chủ quán cho việc K. đưa chuyện riêng của mình ra là không đúng chỗ, bà bực tức liếc nhìn K.
-
 - Bà đừng giận tôi, bà chủ quán ạ, - K. nói.
 - Tôi không nói một lời nào chống lại Klamm đâu, do hoàn cảnh mà tôi đã phải có mối quan hệ nhất định với Klamm, điều đó thì người kính trọng Klamm nhất cũng không phủ nhận được.
 Đúng như vậy.
@@ -2010,7 +1860,6 @@ Có khi anh ấy đã khóc cùng với tôi.
 Thế rồi ông chủ quán lúc ấy, một lần đi ngang qua vườn và thấy chúng tôi đang ngồi ở đó - vợ ông ta đã chết, vì thế ông ta muốn bỏ việc, ông ta lúc ấy cũng đã già rồi - ông ta đứng lại và ngay tại đó, đã cho chúng tôi thuê quán, và ông ta cũng không yêu cầu số tiền ứng trước, vì ông rất tin ở chúng tôi, tiền thuê quán ông cũng định ra rất thấp.
 Tôi không muốn làm gánh nặng cho bố tôi, tuy vậy đối với tôi tất cả mọi đều thế cả thôi, nghĩ đến quán trọ và cho rằng công việc mới mẻ có lẽ làm cho mình khuây khỏa, tôi đã lấy Jankó, chuyện xảy ra như vậy đó.
 Yên lặng một lúc, sau đó K. nói:
-
 - Ông chủ quán ấy xử sự đẹp, nhưng thiếu suy nghĩ, hay là ông ta có nguyên nhân gì đó đặc biệt mà đã tin ở hai người?
 - Ông ta hiểu Jankó, - bà chủ quán nói, - là bác họ của anh ấy.
 - Thế thì đó là chuyện khác, - K. nói, - gia đình Jankó rõ ràng đã rất quan tâm với quan hệ của ông bà.
@@ -2057,7 +1906,6 @@ Nhưng tất cả những việc đó, ngay cả nguyên nhân bệnh tình củ
 Vấn đề còn lại bây giờ là cái gì đã quyến rũ họ hàng nhà Jankó trong cuộc hôn nhân này.
 Chính bà đã nói rằng được một lần làm tình nhân của Klamm nghĩa là mãi mãi giữ được danh hiệu quý giá đó, chắc điều này đã quyến rũ họ.
 Ngoài ra, theo tôi họ đã hi vọng rằng ngôi sao hạnh phúc đưa bà đến với Klamm, - nếu đúng ngôi sao đó là hạnh phúc như bà đã khẳng định, và trong thực tế đúng là như vậy, - nó sẽ mãi mãi ở lại với bà và
-
 bỏ bà không lời từ biệt như Klamm đã làm.
 - Ông nghĩ những điều này nghiêm chỉnh chứ?
 - bà chủ quán hỏi.
@@ -2090,7 +1938,6 @@ Tôi ngạc nhiên là bà đã tin vào những điều bịa đặt nông cạ
 - Ở đây còn có một sự khác biệt giữa trường hợp của bà và của Frida là không có chuyện Klamm không gọi Frida nữa mà ngược lại, chắc chắn ông ta gọi nhưng Frida không làm theo.
 Có thể là ông ta vẫn luôn luôn chờ đợi cô ấy.
 Bà chủ quán im lặng, ánh mắt bà ta chăm chú lướt trên người K. Cuối cùng bà nói:
-
 - Tôi muốn bình tĩnh nghe tất cả những điều ông nói.
 Ông đừng thương hại, mà tốt nhất hãy nói thật lòng.
 Tôi yêu cầu ông đừng nói đến tên Klamm, ông hãy gọi là Ông ta, hoặc thế nào cũng được, miễn là đừng gọi tên.
@@ -2142,8 +1989,6 @@ Bà chủ quán nói vài lời xin lỗi với đám đông mặc dù chẳng a
 Bà nhìn quanh tìm chủ quán, nhưng anh ta thấy tình thế khó khăn đã chuồn từ lâu.
 Rồi bà chủ quán từ từ quay lại bếp không hề nhìn K. đang vội vàng lên phòng với Frida.
 Chương VII
-
-
 Thầy giáo đợi chàng ở trên phòng.
 Rất khó có thể nhận ra căn phòng, thật đáng mừng là Frida đã chăm chỉ như thế.
 Cô đã thông gió, nhóm lò sưởi chu đáo, rửa sàn nhà, và dọn lại giường.
@@ -2167,7 +2012,6 @@ Chỉ lúc này, quay lưng lại với thầy giáo, chàng mới hỏi anh ta 
 - Ngài trưởng thôn đã ủy nhiệm cho tôi đến đây, - anh ta trả lời.
 K. muốn nghe việc mà ông trưởng thôn ủy nhiệm, nhưng khó có thể nghe rõ lời thầy giáo trong tiếng vòi nước chảy róc rách, vì vậy thầy giáo phải đến gần hơn, đứng tựa người vào tường cạnh K. K. lấy cớ vội đi thăm ai đó theo kế hoạch để thanh minh cho sự tắm rửa và thái độ cáu kỉnh của mình.
 Thầy giáo bỏ ngoài tai điều đó, anh ta nói:
-
 - Ông đã xử sự bất nhã với ngài trưởng thôn một con người già cả, có công, từng trải và đáng kính như thế.
 - Tôi không biết là mình có bất nhã không, - K. nói trong khi lau người, - nhưng là tôi cũng phải lo chuyện khác hơn là để ý đến tác phong lịch thiệp, bởi vì đó là chuyện kiếm sống của tôi đã bị sự trì hoãn nhục nhã của chính quyền đe dọa.
 Về chi tiết của việc này tôi khỏi phải kể lại cho anh, bởi vì anh cũng là thành viên tích cực của chính quyền này.
@@ -2178,7 +2022,6 @@ Ngài trưởng thôn kêu ca tôi phải không?
 Tôi chỉ ghi biên bản về cuộc trao đổi của các ông, theo lời ông ấy đọc cho.
 Và chính từ những ghi chép này mà tôi đã có thể hiểu được lòng tốt của ngài trưởng thôn cũng như những câu trả lời độc đáo của ông.
 Trong khi tìm cái lược của mình, chắc là Frida đã cất ở đâu đó, K. nói:
-
 - Như thế nào?
 Biên bản ư?
 Ai đó đã ghi biên bản về tôi mà không có mặt tôi sao, hơn nữa người đó lại không có mặt ở cuộc nói chuyện đó.
@@ -2211,7 +2054,6 @@ Sự việc này chứng tỏ theo ý kiến của trưởng thôn, chàng có k
 Thế là người ta phải để tâm đến chuyện của chàng!
 Còn anh chàng thầy giáo đang đợi từ nãy đến giờ, người mà trước đó đã viết biên bản, đúng là đã bị trưởng thôn phái đến đây.
 Thấy sự việc thế là đã lọt tai K. thầy giáo liền tiếp tục:
-
 - Tôi đã phản đối với lý do rằng từ trước đến nay nhà trường không cần đến bất kỳ sự phục vụ nào cả, thỉnh thoảng vợ người phục vụ nhà thờ vẫn đến quét dọn và cô giáo Giza vẫn theo dõi việc đó.
 Tôi cũng đã đủ tai họa với bọn trẻ, tôi không muốn bây giờ lại phải bực mình thêm với một người phục vụ nhà trường nữa.
 Nghe thế ngài trưởng thôn trả lời rằng dù sao ở trong trường học cũng có thể có nhiều rác bẩn.
@@ -2243,9 +2085,7 @@ Em đã đưa thầy giáo trở lại, anh chỉ nói với anh ta là "nhận 
 Nếu như chúng ta vẫn có thể ở lại đây một lúc, có lẽ ngay chiều nay tình hình của anh sẽ thay đổi.
 Hoặc nếu chỉ có em ở lại đây, chúng ta có thể chờ xem cái gì xảy ra, cần trả lời cho anh chàng giáo viên một cách lập lờ.
 Về phần mình, anh luôn luôn tìm được cho bản thân chỗ nghỉ đêm; nếu như công việc không có cách nào trôi chảy thì quả thật Bar...
-
 Frida đặt tay lên miệng K.:
-
 - Không, không, - cô lo ngại nói, - em xin anh đừng nhắc lại điều đó.
 Tuy nhiên em sẽ làm mọi chuyện theo ý thích của anh.
 Nếu anh muốn, thì em ở lại đây một mình, cho dù điều đó làm em buồn như thế nào đi chăng nữa.
@@ -2256,19 +2096,16 @@ Anh sẽ đứng ở đó, không nói một lời nào, mà sau này cũng th�
 Cho nên nếu chấp nhận việc làm đó thì chúng ta cũng không mất gì, mà ngược lại chúng ta mất nhiều nếu từ chối: trước hết, nếu anh không đạt được gì ở trong Lâu đài thì quả thật là anh không thể tìm chỗ nghỉ đêm cho mình ở bất kỳ nơi nào trong làng, một chỗ nghỉ mà người vợ tương lai của anh không phải xấu hổ.
 Và nếu anh không tìm được chỗ nghỉ đêm thì làm sao anh có thể muốn em ngủ ở trong căn phòng ấm áp này, trong khi em biết rằng anh đang lang thang ở ngoài trời trong đêm lạnh giá?
 Suốt thời gian đó K. đứng khoanh tay trên ngực, bàn tay vỗ vỗ lên lưng để người ấm lên tý chút, bây giờ chàng mới nói:
-
 - Thế thì chúng ta không làm được gì khác hơn là chấp nhận thôi.
 Đi em.
 Vào trong phòng, chàng đi thẳng đến lò sưởi, không để ý đến anh chàng giáo viên đang ngồi cạnh chiếc bàn.
 Anh ta lôi đồng hồ ra và nói:
-
 - Thời gian trôi nhanh quá.
 - Còn chúng tôi thì đã thỏa thuận rồi, thầy giáo ạ, - Frida nói.
 - Chúng tôi chấp nhận công việc đó.
 - Được rồi, - anh chàng giáo viên nói, - nhưng ngươi ta đề nghị công việc cho ông đạc điền.
 Bản thân ông ấy phải có ý kiến.
 Frida nói đỡ K.
-
 - Tất nhiên, - cô nói, - anh ấy chấp nhận công việc đó, đúng không K.?
 Như vậy thì K. có thể hạn chế ý kiến của mình thành một lời cộc lốc duy nhất là "đúng", lời đó chàng không nói với anh chàng giáo viên, mà là nói với Frida.
 - Như thế, - anh chàng giáo viên nói, - bây giờ tôi chỉ cần nhắc cho ông ấy biết bổn phận của mình để trong chuyện này chúng ta hiểu nhau dứt điểm.
@@ -2280,17 +2117,14 @@ Cần phải cư xử cho phù hợp với trường học, nhất là đừng �
 Liên quan tới tất cả những việc này, chúng tôi rất mong mối quan hệ của ông với chị Frida mau chóng được hợp pháp hóa.
 Chúng tôi sẽ thảo một tờ hợp đồng phục vụ có liên quan tới những điểm đó và những việc nhỏ nhặt khác, và khi ông chuyển vào trường thì phải ký ngay.
 K. không thấy có gì là quan trọng trong tất cả những điều đó, dường như chàng không liên quan đến hoặc ít ra không bị chúng trói buộc, chỉ có sự quan trọng hóa của anh chàng giáo viên làm K. bực mình, chàng buông một câu dễ dãi:
-
 - Phải rồi, những điều kiện quen thuộc.
 Để giảm bớt sự gay gắt của câu nhận xét trên, Frida quan tâm đến tiền
-
 - Tiền công như thế nào thì sau khi phục vụ thử một tháng sẽ được xem xét, - thầy giáo nói.
 - Việc đó rất ảnh hưởng đến chúng tôi - Frida nói, - chúng tôi phải cưới nhau không có tiền, phải tạo lập cuộc sống gia đình từ con số không: chúng tôi có thể làm đơn gửi lên làng về việc xin một ít tiền công ngay được không, thầy giáo?
 Anh thấy có nên không?
 - Không, - thầy giáo trả lời, luôn hướng lời mình về phía K. - Một lá đơn như vậy chỉ có kết quả nếu được tôi ủng hộ, nhưng mà tôi lại không ủng hộ.
 Người ta đề xuất công việc cho ông là vì lòng tốt, mà lòng tốt thì người ta không phung phí quá đáng nếu có ý thức về trách nhiệm của mình.
 Nghe thế, không kìm được mình, K. đã nói cắt ngang:
-
 - Về lòng tốt, thầy giáo ạ, tôi nghĩ anh nhầm đấy.
 Có lẽ tôi mới là người làm điều tốt.
 - Không phải, - thầy giáo mỉm cười nói vì đã làm được K. lên tiếng, - tôi được biết một cách chính xác về việc này.
@@ -2301,7 +2135,6 @@ Tốt nhất và cũng là phù hợp nhất với sự thật nếu chúng tôi
 - Từ những việc này tôi thấy, - K. nói, - anh buộc phải thuê người.
 Dẫu rằng việc đó làm anh phải suy nghĩ thì anh vẫn phải thuê.
 Mà ai đó phải thuê một người nào đó và người đó để cho mà thuê thì rõ ràng người để cho thuê làm điều tốt ch
-
 - Thật là lạ lùng, - thầy giáo nói.
 - Ai bắt chúng tôi phải thuê người nào?
 Chỉ có tấm lòng tốt, tốt vô cùng của ngài trưởng thôn bắt buộc chúng tôi.
@@ -2322,7 +2155,6 @@ Những người hầu gái không trả lời, họ lúng túng lắc lư cái 
 Những người hậu gái đã nhận thấy thế, những cái miệng cúng của họ liền hé ra, lấp lánh những hàng răng đẹp, khỏe mà dữ tợn, họ cười không ra tiếng.
 - Nào, các người cứ vào mà sắp xếp lại chỗ ở, - K. nói, - đây là phòng của các người.
 Nhưng vì họ cứ do dự - họ thấy căn phòng của mình đã quá thay đổi - K. liền nắm lấy cánh tay của một người trong số họ đẩy vào, người đó liền vùng vẫy nhoài ra, mắt đầy vẻ sửng sốt, họ liếc nhìn nhau rồi cứ chằm chằm không rời mắt khỏi K.
-
 - Bây giờ thì các người đã nhìn đủ rồi, - K. nói để xua đi cái cảm giác khó chịu, rồi lấy quần áo và đôi ủng mà Frida vừa mang vào cùng với những người giúp việc rụt rè đi theo sau lưng, chàng thay quần áo.
 Cho tới lúc đó, và ngay cả bây giờ chàng cũng không hiểu là Frida làm sao có thể kiên nhẫn được với những người giúp việc như thế.
 Cô đã tìm họ hồi lâu mới thấy.
@@ -2334,10 +2166,8 @@ Còn bây giờ là lúc chàng phải đi.
 - Những người giúp việc ở lại đây, họ giúp em chuyển nhà, - K. nói.
 Những người giúp việc không thích việc đó, vì họ muốn vận động vui vẻ tý chút sau khi đã no bụng.
 Họ chỉ nghe lời khi Frida cũng nói:
-
 - Phải rồi, các anh ở lại đây.
 - Em biết anh đi đâu
-
 - Em biết, - Frida trả lời.
 - Nghĩa là em không giữ anh lại nữa chứ?
 - K. hỏi.
@@ -2346,8 +2176,6 @@ Họ chỉ nghe lời khi Frida cũng nói:
 Cô hôn K. từ biệt, vì chàng chưa ăn trưa nên cô ấn một gói nhỏ có lạp xường và bánh mỳ vào tay chàng, đó là những thứ cô mang ở dưới nhà lên.
 Cô lưu ý chàng đừng quay lại đây nữa mà cứ đi thẳng đến trường học, và đặt tay lên vai K., cô tiễn chàng đi.
 Chương VIII
-
-
 Lần đầu tiên K. hạnh phúc vì thoát được khỏi căn phòng ấm áp và sự ồn ã của những người hầu gái và giúp việc.
 Hơi bị đóng băng, tuyết cứng hơn, nên đi lại dễ dàng hơn.
 Chỉ có điều trời đã tối, chàng rảo bước.
@@ -2367,7 +2195,6 @@ Có tiếng kêu đột ngột làm chàng hoảng hốt.
 Ở trong góc cạnh lò sười, giữa cánh cửa và chiếc tủ thấp dùng để bày dụng cụ ăn uống và thức ăn, một cô gái ngồi co quắp, trong ánh lửa của que diêm lóe sáng, cô ta nhìn chàng bằng đôi mắt lim dim, ngái ngủ.
 Chắc cô ta là người thay Frida.
 Cô ta nhanh chóng định thần, rồi bật đèn, nét mặt vẫn còn giận dữ, sau đó mới nhận ra K.
-
 - A, ông đạc điền!
 - cô ta mỉm cười nói và chìa tay giới thiệu.
 - Tôi là Pepi.
@@ -2439,7 +2266,6 @@ Chàng ăn xong đã lâu, ngày càng rét buốt hơn, trời từ màu xám c
 K. không hiểu, nhưng chàng cũng không gặng hỏi, chàng nghĩ làm như vậy thì có thể buộc con người tự cao tự đại này lên tiếng.
 Việc chàng không trả lời thật là có tác dụng kích thích trong bóng tối.
 Và quả nhiên gã xà ích sau một lức im lặng đã hỏi:
-
 - Ông muốn uống cô nhắc không?
 - Có, - K. trả lời không nghĩ ngợi, chàng không cưỡng lại được lời đề nghị, vì chàng đang rét run.
 - Thế thì ông mở xe trượt tuyết ra, - gã xà ích nói, - trong mặt bên của cái cặp còn một vài chai, ông lấy ra một chai mà uống rồi đưa cho tôi.
@@ -2497,10 +2323,8 @@ Phải rồi, lẽ ra ở dây chàng đã có thể nghĩ ra một vài việc,
 - Nhưng như thế thì tôi sẽ không gặp người mình đợi, - K. nói, bực bội.
 Bất chấp chuyện vừa xảy ra K. cảm thấy rằng chàng đã đạt được một cái gì đó, đã dành được một cái gì đó, dẫu rằng nó chỉ mới có vẻ như là của mình thì chàng cũng sẽ không trao khỏi tay ngay từ lời ra lệnh đầu tiên.
 - Cho dù ông ở đây hay ông đi, bằng cách nào ông cũng không gặp người đó, - ông ta nói với một niềm tin cứng nhắc nhưng vẫn lộ rõ sự nhượng bộ đối với diễn biến suy nghĩ của K.
-
 - Thế thì tôi cứ ở đây dù không gặp được, - K. bướng bỉnh nói, chàng không chịu để ngài trẻ tuổi này đuổi khỏi đây bằng lời nói.
 Ngài trẻ tuổi với thái độ trịch thượng trên khuôn mặt thảng thốt, đã nhắm mắt lại một phút, như thể ngài muốn trở lại với đầu óc tỉnh táo của mình trước sự đần độn của K. Rồi ông ta liếm hết môi bằng đầu lưõi và nói với gã xà ích:
-
 - Tháo ngựa ra!
 Gã xà ích vâng lời, nhưng vẫn liếc trộm K. một cách tức tối.
 Bây giờ, trong chiếc áo lông to xù gã vẫn leo xuống ghế ngồi.
@@ -2523,8 +2347,6 @@ Chàng đã giành được tự do này cho mình, người khác khó lòng l�
 Không ai được phép đụng đến chàng hoặc đuổi chàng đi khỏi đây, kể cả nói với chàng cũng không ai được phép.
 Nhưng đồng thời - và niềm tin này của chàng ít ra cũng mãnh liệt - không có cái gì vô nghĩa hơn, không có cái gì tuyệt vọng hơn sự tự do, sự chờ đợi, và sự bất khả xâm phạm này.
 Chương IX
-
-
 Sau đó chàng rời khỏi chỗ và quay trở lại, đi vào nhà.
 Bây giờ chàng không đi men theo tường mà đi ngang qua sân trên tuyết, ở hành lang chàng xô phải người chủ quán, anh ta lặng lẽ chào chàng và chỉ vào cánh cửa quầy uống.
 K. đi theo hướng đó, vì đang lạnh và muốn nhìn thấy mặt người, nhưng chàng đã thật sự thất vọng khi nhìn thấy ngài trẻ tuổi cạnh một chiếc bàn mà người ta đặt riêng ra cho ngài, (còn những người khác vẫn bằng lòng với những chiếc thùng).
@@ -2553,12 +2375,10 @@ K. không phải chỉ tin chắc vào điều mình đã biết mà còn đề 
 - Vậy là Klamm đã đi rồi sao?
 - chàng hỏi.
 Bà chủ quán đi ngang bên cạnh chàng không nói nhưng ngài trẻ tuổi đã trả lời chàng từ chỗ chiếc bàn:
-
 - Vâng, đúng thế, sau khi ông bỏ chỗ đón đợi ông ấy thì Klamm có thể ra đi.
 Nhưng ông ta mới nhậy cảm làm sao, thật đáng kinh ngạc.
 Bà có chú ý thấy ông ta lo lắng nhìn quanh không, bà chủ quán?
 Bà chủ quán có vẻ không nhận thấy điều đó, ngài trẻ tuổi vẫn tiếp tục:
-
 - Bây giờ thì may là không có thể nhìn thấy gì nữa, gã xà ích đã quét luôn cả dấu vết trong tuyết.
 - Bà chủ quán không nhận thấy gì hết, - K. nói, không phải để hy vọng điều gì đó, mà chỉ vì lời nhận xét tỏ ra kiêu kỳ và không thể bài bác được của ngài trẻ tuổi.
 - Có lẽ lúc đó tôi không nhìn qua lỗ khóa, - bà chủ quán nói, thoạt đầu cốt để bảo vệ ngài trẻ tuổi, nhưng sau đó quay sang bênh vực Klamm, và nói thêm: - Tuy vậy, tôi không tin rằng Klamm lại nhậy cảm cực kỳ như thế.
@@ -2569,7 +2389,6 @@ Còn như trong thực tế, sự việc ra làm sao thì chúng tôi không bi�
 Sự thật là Klamm sẽ không bao giờ thèm nói chuyện với người đó, sẽ không bao giờ cho phép người đó trực tiếp gặp mình, chỉ riêng điều đó là đã đủ rồi, tại sao lại phải để cho Klamm thật sự không chịu đựng được việc phải nhìn thấy người đó?
 Ít ra thì cũng không thể chứng minh được việc này vì ông ấy sẽ không bao giờ thử cả.
 Ngài trẻ tuổi gật đầu và sốt sắng:
-
 - Về cơ bản, tất nhiên ý kiến của tôi cũng như thế, - ông ta nói, - nếu tôi nói hơi khác là vì để cho ngài đạc điện hiểu đó thôi.
 Mà đúng là lúc đó, vừa bước ra ngoài, Klamm đã nhìn quanh nửa vòng nhiều lần.
 - Có lẽ ông ấy tìm tôi, - K. nói.
@@ -2584,14 +2403,11 @@ Bản thân ngài trẻ tuổi cũng dường như đã nói nhiềuết, và đ
 - Thư ký làng là gì vậy?
 - K. hỏi sau một lúc im lặng.
 Momus sau khi tự giới thiệu, có vẻ không cho là thích hợp việc mình tự giải thích những chuyện như thế, bà chủ quán đã trả lời thay cho ngài:
-
 - Ngài Momus là thư ký của ngài Klamm, như những người thư ký khác của Klamm, nhưng trụ sở của ngài, và nếu tôi không nhầm thì phạm vi hoạt động của ngài... - trong khi viết, Momus lắc đầu mạnh nên bà chủ quán chữa lại, - nghĩa là chỉ trụ sở của ngài, chứ không phải phạm vi hoạt động của ngài, hạn chế ở trong làng.
 Ngài Momus chuyển giấy tờ của Klamm cho làng, và tất cả mọi giấy tờ từ dưới làng báo lên cho Klamm, đều đến tay ngài trước tiên.
 Do vẫn chưa hiểu lắm những chuyện này, K. nhìn bà chủ quán bằng đôi mắt trống rỗng làm cho bà ta phải nói thêm vẻ hơi lúng túng:
-
 - Trật tự ở đây là như thế, tất cả các ông chủ ở Lâu đài đều có thư ký làng của mình.
 Momus chú ý những lời bà chủ quán một cách chăm chú hơn cả K., ngài nói thêm:
-
 - Phần lớn thư ký làng chỉ làm việc cho một ngài ở Lâu đài, nhưng tôi thì phục vụ hai người, Klamm và Vallabene.
 - Vâng, - bà chủ quán nói, giờ thì bà cũng nhớ ra, bà quay về phía K. - Ngài Momus làm việc cho hai người, Klamm và Vallabene, tức là hai lần thư ký làng.
 - Những hai lần!
@@ -2602,15 +2418,12 @@ Mặc dù K. không được Klamm một lần liếc nhìn qua, trước mặt 
 Và K. đã không tiếp nhận điều đó như đáng ra chàng phải tiếp nhận; K. đang cố hết sức mình để được một cái liếc nhìn duy nhất của Klamm nhưng chàng lại không trọng vọng gì nhiều cái công việc của một kẻ như Momus, người được phép gần gũi Klamm.
 Và K. không ngạc nhiên hay ghen tị, bởi vì cái mà chàng cố gắng đạt được không chỉ là sự gần gũi của Klamm, mà là chính chàng, K., không phải ai khác, phải gặp được Klamm với những công việc của riêng chàng chứ không phải của ai khác, và không phải đến với Klamm để rồi chàng nghỉ ngơi, mà là để chàng đi tiếp, qua ông ta đến với Lâu đài.
 Chàng liếc nhìn đồng hồ của mình và nói:
-
 - Nào, bây giờ tôi phải đi về nhà.
 Tình thế bỗng dưng thay đổi có lợi cho Momus.
 - Tất nhiên, tất nhiên, - ngài trẻ tuổi nói, - những công việc ở nhà trường đang đợi ông.
 Nhưng ông còn phải dành cho tôi một phút nữa, chỉ để hỏi một vài câu ngắn thôi.
 - Tôi không có hứng thú gì để làm việc đó, - K nói và định tiến về phía cánh cửa...
-
 Momus ném một tập hồ sơ lên bàn và đứng dậy:
-
 - Nhân danh Klamm tôi yêu cầu hãy trả lời những câu hỏi của tôi!
 - Nhân danh Klamm ư?
 - K. nhắc lại.
@@ -2628,7 +2441,6 @@ Trong mọi trường hợp thì đây là con đường duy nhất đối với
 Chẳng nhẽ ông muốn từ bỏ con đường duy nhất này không phải vì nguyên nhân nào khác mà chỉ vì ngang bướng sao?
 - Ồ, thưa bà chủ quán, - K. nói, - con đường này cũng không phải là duy nhất và nó cũng không dẫn đến đâu cả, như mọi con đường khác mà thôi.
 Còn ngài, thưa ngài thư ký, có thật ngài quyết định điều tôi nói sẽ đến tai Klamm hay không
-
 - Tất nhiên rồi, - Momus nói, đôi mắt tự hào liếc ngang, liếc ngửa vào nơi không có gì để nhìn cả, - bằng không tôi làm thư ký để làm gì?
 - Bà thấy chứ, thưa bà chủ quán, - K. nói.
 - Hóa ra tôi không cần tìm con đường dẫn đến Klamm, mà trước hết phải đến ngài thư ký.
@@ -2691,7 +2503,6 @@ Thật ra là không thể nói cụ thể hơn về niềm hy vọng này, nh�
 - Ông ấy đọc làm gì?
 Klamm không thể đọc tất cả các biên bản, thậm chí một tờ biên bản ông ấy cũng không đọc.
 Phần lớn ông ấy bảo: "Các anh hãy để tôi yên với các biên bản của các anh
-
 - Ông đạc điền, - bà chủ quán nói vẻ trách cứ, - ông làm tôi đau đầu với những câu hỏi như thế.
 Chẳng lẽ là cần thiết hoặc nói chung có gì hấp dẫn để Klamm phải đọc biên bản này và biết tỉ mỉ những chuyện không đâu của cuộc đời ông?
 Tốt nhất ông hãy nhẫn nhục yêu cầu người ta dấu Klamm tờ biên bản, dù yêu cầu đó cũng vô lý như yêu cầu trước, vì ai có thể dấu được Klamm điều gì?...
@@ -2751,8 +2562,6 @@ Bây giờ tôi phải cho bọn đầy tớ vào quầy uống đây, - anh ta 
 - Không, - K. nói, - trời không đổ trận mưa đá lưu huỳnh đâu.
 Rồi họ cười, chia tay nhau.
 Chương X
-
-
 K. bước ra ngoài gió đang hoang dại thổi, và từ chỗ cầu thang lên chàng nhìn vào bóng tối.
 Thời tiết rất xấu.
 Không hiểu sao chàng lại nhớ tới việc bà chủ quán đã cố gắng thuyết phục chàng làm biên bản ra sao, và chàng đã từ chối như thế nào.
@@ -2832,7 +2641,6 @@ Nhưng Barnabás lại làm K. bực mình khi anh ta bắt đầu đọc lại 
 - Đủ rồi, - K. nói.
 - Tôi không muốn nghe một lời nào nữa.
 - Ông đừng g tôi, thưa ông, - Barnabás nói và dường như định trừng phạt K. một cách vô tình, anh ta không nhìn chàng mà nhìn xuống đất, thật ra anh ta chỉ hoảng lên vì tiếng quát của K.
-
 - Tôi không giận anh, - K. nói và sự bực bội của chàng giờ đây quay ra chống lại chàng.
 - Tôi không giận anh, nhưng thật nguy cho tôi vì tôi chỉ có người liên lạc như thế này trong những công việc quan trọng.
 - Ông xem, - Barnabás nói, và có lẽ vì bảo vệ danh dự của người liên lạc nên anh ta đã nói nhiều hơn mức cho phép.
@@ -2869,7 +2677,6 @@ Bây giờ chúng ta hãy nghe những mong muốn của anh.
 Anh có muốn gì không?
 Nói thật, nếu anh có mong muốn gì thì tôi mới có phần yên tâm về số phận điều tôi nhắn gửi.
 Barnabás đầu tiên im lặng, sau đó nói:
-
 - Chị và em gái tôi có lời chào ông.
 - Chị và em gái anh à?
 - K, nói.
@@ -2888,12 +2695,9 @@ Barnabás tỏ ra rất mừng vì lời hứa của K. khi họ chia tay, anh t
 K. nhận cử chỉ đó như thể tất cả lại đâu vào đấy, giống như khi Barnabás lần đầu tiên bước vào quầy uống, nổi bật lên giữa những người nông dân, chàng mỉm cười như nhận một phần thưởng.
 Tính khí chàng dịu đi, dọc đường về nhà chàng để mặc cho những người giúp việc muốn làm gì thì làm.
 Chương XI
-
-
 K. về đến nhà người hoàn toàn lạnh cóng, trời tối om, các ngọn nến đã cháy hết; với sự dẫn đường của những người giúp việc, họ đã quen ở đây, chàng mò mẫm bước vào một phòng học.
 - Hành động đáng khen ngợi đầu tiên của các anh, - K nói, khi nhớ lại lá thư của Klamm.
 Frida, nửa thức nửa ngủ, quát về phía họ từ một góc phòng:
-
 - Các anh hãy để K. ngủ!
 Đừng quấy rầy anh ấy!
 Mặc dù đã không chờ được chàng vì buồn ngủ, nhưng những ý nghĩ của cô chỉ dành cho K.. Giờ đây họ đã thắp được đèn, nhưng không thể vặn bấc đèn lên cho đủ, họ còn rất ít dầu.
@@ -2932,7 +2736,6 @@ Theo cô biết thì chính K. đã cho gọi chúng, bây giờ chàng đã có
 Tốt nhất là đối với chúng một cách trịch thượng như đối với những kẻ ngớ ngẩn, bởi vì làm như vậy thì ngay cả những người đó cũng vẫn có thể chấp nhận được.
 Câu trả lời không làm K. thỏa mãn; chàng nhận xét nửa đừa nửa thật rằng dường như Frida cùng cánh với chúng, hoặc chí ít thì cũng quá bao dung đối với chúng.
 Tất nhiên chúng là những kẻ điển trai, nhưng chỉ cần có nghị lực thì không có ai là không đuổi đi được, chàng sẽ chứng mình điều đó qua bọn giúp việc
-
 Frida trả lời rằng cô sẽ rất biết ơn nếu chàng làm được việc đó, từ bây giờ trở đi cô sẽ không cười chúng, không nói một lời thừa nào với chúng nữa.
 Mà quả là thật không có cái gì đáng cười ở chúng cả, quả thật không phải là chuyện nhỏ nhặt khi bị hai người đàn ông thường xuyên theo dõi, và bây giờ cô đã học được cách nhìn chúng bằng đôi mắt của K.. Mà đúng là cô cũng hơi rùng mình khi những người giúp việc lại đột ngột ngẩng lên, vừa để ý xem còn cái ăn nữa không, vừa để biết họ thì thầm cái gì lâu vậy.
 K. thừa dịp đó để làm cho Frida chán bọn giúp việc, chàng kéo Frida vào gần và họ ngồi sát bên nhau ăn xong bữa.
@@ -2957,12 +2760,9 @@ Một tên giúp việc đã lợi dụng cơ hội đó để có thể tận h
 Frida không tìm thấy con vật nào cả, có lẽ tất cả chỉ là sự tưởng tượng mà thôi, cô trở lại chỗ K.. Trên đường, dường như quên mất cuộc nói chuyện lúc tối của họ, vẻ an ủi, cô đã vuốt ve tóc tên giúp việc đang ngồi bó gối khóc mếu máo.
 K. không nói gì cả, chàng chỉ ra lệnh cho bọn giúp việc thôi đừng đốt lửa nữa, vì sau khi chúng đốt toàn bộ đống củi, căn phòng đã quá nóng.
 Chương XII
-
-
 Đến sáng họ thức dậy khi những đứa học sinh đầu tiên đến trường, chúng đứng bao quanh chỗ nằm của họ một cách tò mò.
 Đây là điều khó chịu, bởi vì do trong phòng quá nóng, họ đều đã cởi áo sơ mi, và khi họ bắt đầu mặc quần áo thì cô giáo Giza, một cô gái đẹp nhưng hơi cứng, dáng to lớn, tóc màu vàng xuất hiện ở cánh cửa.
 Có thể thấy là cô giáo không bị bất ngờ trước người phục vụ mới của nhà trường, và có thể cô đã được thầy giáo hướng dẫn phải đối xử với chàng như thế nào, bởi vì ngay trên ngưỡng cửa cô đã tuyên bố:
-
 - Tôi không thể chấp nhận được việc này.
 Đẹp nhỉ!
 Ông được phép ngủ ở trong phòng học, còn tôi không có nghĩa vụ phải dạy trong phòng ngủ của ông.
@@ -2984,10 +2784,8 @@ Nhưng trước hết K. muốn kiểm tra tâm trạng của cô giáo vì th�
 Sở dĩ chàng quyết định như vậy, là vì một mặt chàng không muốn vì sự ngu ngốc của bọn giúp việc làm tình thế tiếp tục xấu đi mặt khác chàng thương Frida, cô là người tự ái còn chàng nói chung là không như thế, Frida là người nhạy cảm, chàng không; Frida chỉ thấy những việc nhỏ nhặt ngang tai trái mắt bây giờ, còn chàng thì ngược lại chỉ nghĩ đến Barnabás và tương lai.
 Frida chấp thuận mọi chuyện chàng muốn, và không rời mắt khỏi chàng.
 K. bước ra sau chiếc xà đôi, cô giáo, trong khi bọn trẻ cười ngặt nghẽo không dứt, đã kêu lên:
-
 - Nào, các người ngủ đã rồi chứ?
 Thực ra đó cũng không phải là câu hỏi thật sự, cho nên K. chỉ bỏ ngoài tai và chàng tiến đến chậ rửa, lúc ấy cô giáo hỏi:
-
 - Các người đã làm gì con mèo của tôi thế?
 Một con mèo già to, béo, nằm thõng thượt trên chiếc bàn, cô giáo đang xem xét chân trước của nó vì có một thương tích gì trên đó.
 Vậy là Frida đã không nhầm, đúng là có con mèo nhưng nó không nhảy lên người cô, - vì nó không còn mấy sức để nhảy nữa, - mà chỉ lê lết khắp phòng và giật mình vấp phải người trong căn nhà trống nó đã hốt hoảng trốn chạy, và trong sự vội vàng đối với nó là khác thường này, con mèo đã bị thương nhẹ.
@@ -3000,7 +2798,6 @@ Những chiếc móng đã mòn, không sắc, nhưng lần này không thương
 - Cô giáo nói vẻ sốt ruột, và lại cúi xuống với con mèo.
 Frida đang quan sát sau chiếc xà đôi cùng với bọn giúp việc đã kêu lên khi nhìn thấy máu.
 K. chỉ cho bọn trẻ thấy tay mình và nói:
-
 - Các cháu có thấy con mèo độc ác, nham hiểm đã làm gì chú không?
 Tất nhiên chàng nói không phải vì bọn trẻ, chúng vẫn gào thét và cười ré lên không kìm được, đúng là không cần khuyến khích hay tạo cơ hội để chúng làm ẩm ĩ lên, bởi vì không có lời nói nào có thể tác động đến chúng.
 Nhưng vì cô giáo cũng chỉ đáp lại lời xúc phạm bằng cái liắt thoáng qua, con mèo đã thu hút sự chú ý của cô giáo, có vẻ như cô ta đã trút hết sự giận dữ đầu tiên bằng hình phạt đẫm máu.
@@ -3012,11 +2809,9 @@ K. quay lại.
 Cái điều mà cả buổi sáng chàng vẫn lo sợ đã xảy ra.
 Thầy giáo đứng ở cửa, con người bé nhỏ ấy mỗi tay nắm vào cổ áo một tên giúp việc, anh ta túm được chúng trong khi lấy củi.
 Anh ta hét tướng lên, giọng đứt quãng:
-
 - Ai dám đột nhập vào kho chứa củi?
 Thằng ấy ở đâu để tôi nghiền nát nó ra?
 Frida lúc đó đang rửa sàn nhà trước chân thầy giáo, cô ngồi thẳng lên, liếc nhìn K. như muốn lấy sức, và với tư thế và ánh mắt làm nhớ lại ưu thế xưa kia, cô nói:
-
 - Tôi đã làm việc đó, thưa thầy giáo.
 Tôi đã không tìm thấy giải pháp nào khác.
 Nếu như phải sưởi nóng cho phòng học từ sáng sớm, thì phải mở cửa nhà kho chứ.
@@ -3025,18 +2820,14 @@ Nếu tôi đã hành động không đúng lúc thì xin thầy thứ lỗi, t�
 Anh ấy liền cấm chúng tôi không được đốt lò sưởi sớm, vì anh ấy tưởng việc thầy giáo khóa cửa kho củi là để chúng tôi hiểu rằng, chừng nào thầy chưa đến thì chúng tôi không phải đốt lò sưởi, còn chuyện đột nhập vào kho củi là lỗi của tôi.
 - Ai đã phá cửa?
 - thầy giáo hỏi bọn giúp việc đang cố thoát khỏi tay mình một cách vô hiệu
-
 - Ngài đạc điền.
 - cả hai cùng nói; và để khỏi phải nghi ngờ; chúng chỉ vào K.
-
 Frida bật cười, và nụ cười này là sự xác nhân có hiệu lực mạnh hơn cả những lời cô nói.
 Sau đó cô bắt đầu vắt giẻ lau dùng để lau sàn nhà phía trên chiếc xô, như thể với những điều cô nói thì sự việc đã kết thức, và sự khẳng định của bọn giúp việc không là cái gì khác sự đùa tếu ngu ngốc mà thôi.
 Chỉ khi quỳ xuống tiếp tục công việc, cô mới nhận xét:
-
 - Những người giúp việc của chúng tôi là trẻ con, bất kể tuổi tác, lẽ ra chỗ của họ là ở đây, trên những chiếc ghế này.
 Buổi tối, quả thật chính tôi đã mở cửa kho bằng cái rìu, việc đó diễn ra đơn giản, không cần đến những người giúp việc, họ chỉ làm quẩn chân.
 Thế rồi đến đêm chồng chưa cưới của tôi về, anh ấy đi ra để xem xét, và nếu có thể thì chữa lại chỗ hỏng, những người giúp việc đã chạy theo anh ấy có lẽ vì chúng không dám ở đây một mình, và thấy chồng chưa cưới của tôi đang loay hoay với cánh cửa bị phá nên bây giờ chúng nói thế... Nhưng chúng là trẻ con mà...
-
 Trong khi Frida còn đang nói, bọn giúp việc cứ lắc đầu, tiếp tục chỉ vào K., và bằng trò chơi không lời có làm cho Frida thay đổi ý kiến, nhưng điều đó không thành công, rút cuộc chúng cũng phải đầu hàng, xem những lời nói của Frida là mệnh lệnh, khi thầy giáo hỏi lại thì chúng không trả lời.
 - Như vậy là các anh đã nói dối hả?
 - thầy giáo hỏi.
@@ -3045,7 +2836,6 @@ Trong khi Frida còn đang nói, bọn giúp việc cứ lắc đầu, tiếp t�
 - Thế thì tôi sẽ nói chuyện với các anh!
 - thầy giáo nói và bảo một đứa trẻ sang lớp khác lấy cái roi.
 Nhưng khi thầy vừa nâng roi thì Frida đã kêu l
-
 - Những người giúp việc nói đúng đấy!
 - Rồi cô vứt chiếc giẻ lau vào cái xô, vẻ tuyệt vọng, làm nước bẩn tung tóe lên cao, chạy trốn vào phía sau chiếc xà kép.
 - Quân dối trá!
@@ -3063,7 +2853,6 @@ Nhưng nếu Frida đã hy sinh tôi vì bọn giúp việc, - nói đến đây
 Bây giờ thì cùng với gia đình, ông hãy biến khỏi đây ngay lập tức.
 Chúng tôi rất nhẹ nhõm nếu ông đi khỏi để cuối cùng chúng tôi có thể bắt đầu dạy.
 Một, hai, nà
-
 - Một bước tôi cũng không đi khỏi đây, - K. nói.
 - Ông là cấp trên của tôi, nhưng tôi không nhận công việc ở ông, mà là từ ngài trưởng thôn, và tôi chỉ chấp thuận sự sa thải của ông ta.
 Ông ta không tìm việc này cho tôi để tôi chịu lạnh cóng ở đây với những người của mình, mà là để, như ông cũng đã nói, tôi đừng làm những việc thiếu suy nghĩ vì tuyệt vọng, sự thải hồi tôi ngay lập tức là trái với những ý định của ông ta, chừng nào chưa nghe từ chính miệng ông ta điều ngược lại, tôi không tin gì hết cả.
@@ -3085,20 +2874,15 @@ Cô giáo mang theo cuốn sổ lớp, cùng với con mèo béo hoàn toàn h�
 Thầy giáo muốn bỏ con mèo lại, nhưng cô giáo vin vào sự độc ác của K. đã gạt đi.
 Thì ra vì K. mà thầy giáo còn phải chịu đựng thêả con mèo nữa.
 Việc này sau đó đã ảnh hưởng đến những lời cuối cùng mà thầy giáo nói với K. từ cánh cửa:
-
 - Cô giáo buộc phải rời phòng học cùng với bọn trẻ, bởi vì ông đã ngang bướng không chấp thuận sự sa thải của tôi.
 Không một ai có thể để một cô giáo trẻ dạy học ở nơi bẩn thỉu do công việc gia đình không tốt của ông.
 Vậy nên ông ở lại đây một mình và cứ việc ngả ngớn theo ý thích, sự kinh tởm của những người quan sát tử tế sẽ thông làm phiền ông.
 Nhưng mà không lâu đâu, tôi cam đoan về việc đó.
 Nói rồi anh ta đóng sầm cửa lại.
 Chương XIII
-
-
 Họ vừa đi khỏi, K. bảo bọn giúp việc:
-
 - Chúng mày hãy đi khỏi đây!
 Kinh ngạc trước mệnh lệnh đột ngột, bọn giúp việc đã phục tùng, nhưng khi K. vừa đóng cánh cửa sau lưng, chúng liền muốn quay trở lại, chúng rên rỉ ở ngoài đó và gõ cửa:
-
 - Chúng mày đã bị đuổi việc!
 - K. quát lên.
 - Tao không bao giờ nhận chúng mày trở lại làm việc nữa.
@@ -3134,7 +2918,7 @@ Frida liền đặt máy xay cà phê xuống và đi đến cạnh chiếc gh�
 - Anh giận em à?
 - Không, - K. nói.
 - Anh tin rằng em không thể làm khác được.
-Em đã sống hạnh phúc ở quán "Ông chủ”.
+Em đã sống hạnh phúc ở quán "Ông chủ".
 Lẽ ra anh phải để em ở đó.
 - Vâng, - Frida nói và nhìn ra trước mặt vẻ buồn bã, - lẽ ra anh cần phải để em ở đó.
 Em không xứng đáng sống với anh.
@@ -3147,7 +2931,6 @@ Anh muốn nói chuyện với Klamm không phải vì em.
 Em đã làm bao nhiêu việc vì anh!
 Trước khi quen biết em, anh đã lang thang ở đây một cách mù quáng.
 Không có ai chấp nhận anh, và nếu anh bám lấy ai thì người đó liền hất ra, còn nếu anh tìm được chốn yên thân thì ở đó có những con người làm anh phải vội vàng chạy trốn, họ là những người giống như gia đình
-
 - Anh đã trốn khỏi họ?
 Có thật là anh đã chạy trốn không?
 Anh yêu quý!
@@ -3279,7 +3062,6 @@ Nhưng K. không còn lòng dạ nào mà nhớ lại cậu ta nữa.
 - Vậy mày muốn gì?
 Nói nhanh lên!
 - K. nói và hơi cúi xuống, vì cậu bé nói
-
 - Cháu có thể giúp chú được không?
 - cậu con trai hỏi.
 - Nó muốn giúp đỡ chúng ta.
@@ -3300,7 +3082,6 @@ K. lấy làm mừng vì chuyện đó.
 - chàng hỏi.
 - Vâng, - Jáncsi trả lời.
 - Đó là mẹ cháu
-
 Hai người hỏi về mẹ cậu, nhưng cậu ta cứ chần chừ, phải giục nhiều lần mới chịu bắt đầu kể.
 Bây giờ thì mới thấy rằng cậu vẫn chỉ là một cậu bé, mặc dù đôi lúc, đặc biệt qua những câu hỏi căng thẳng, đầy lo lắng, người nghe có lúc nghĩ đó là một người đàn ông cương nghị, thông thái nhìn xa thấy rộng.
 Thế rồi sau đó, cậu ta lại đột ngột là một cậu học sinh bình thường, một số câu hỏi cậu ta đã không hiểu, hoặc đã hiểu sai.
@@ -3418,18 +3199,15 @@ K. lại làm cho cậu ta vui lên, khi tuyên bố là chàng biết rõ tại
 Là vì chiếc gậy đang nằm trên bàn mà trong khi nói chuyện Jáncsi đã mân mê, nghịch ngợm.
 K. biết cách làm những chiếc gậy như thế này, và nếu kế hoạch của họ thành công, chàng sẽ đẽo cho Jáncsi một chiếc đẹp hơn chiếc này.
 Jáncsi rất mừng trước lời hứa của K., cậu ta vui vẻ từ biệt họ, vừa nắm chặt tay vừa nói:
-
 - Vậy, đến ngày kia nhé!
 Chính lúc Jáncsi vừa đi khỏi, thầy giáo đã đến đập cửa, và khi nhìn thấy K. và Frida đang thản nhiên ngồi bên bàn, y bắt đầu quát lên:
-
 - Xin lỗi đã quấy rầy, nhưng tôi muốn biết bao giờ thì ở đây được sạch sẽ, ngăn nắp!
 Chúng tôi chen chúc nhau ngồi ngay ở bên kia, việc đó đã ảnh hưởng đến giảng dạy, còn các người thì lại ngồi dạng chân dang tay ở đây, trong cái phòng thể dục rộng này.
 Để cho thoái mái hơn, các người đã đuổi bọn phụ tá đi!
 Nhưng bây giờ thì ít ra, các người hãy đứng dậy, hoạt động đi!
-- Rồi y quay về phía K.: - Còn anh bây giờ đi lấy cơm sáng ở quán "Bên cầu” về cho tôi!
+- Rồi y quay về phía K.: - Còn anh bây giờ đi lấy cơm sáng ở quán "Bên cầu" về cho tôi!
 Y hét lên giận dữ, nhưng lời lẽ lại có phần hiền lành, kể cả tiếng anh cục cằn nữa.
 Nhưng K. sẵn sàng làm theo, chàng chỉ muốn dò xét gã giáo viên, nên đã nói:
-
 - Nhưng mà người ta đã sa thải tôi rồi kia mà.
 - Sa thải hay không sa thải, anh cũng phải đi lấy cơm sáng cho tôi, - gã giáo viên nói.
 - Thì chính tôi muốn biết rằng họ có sa thải tôi hay không, - K. trả lời.
@@ -3447,7 +3225,6 @@ Hoặc là y muốn thử xem K. có ngoan ngoãn tuân lệnh không, hay y l�
 K. biết rõ rằng nếu quá vâng lời thì hẳn sẽ không tránh khỏi trở thành nô lệ và làm bung xung cho gã giáo viên, nhưng lúc này thì chàng muốn trong một giới hạn nhất định, kiên nhẫn chịu đựng tính tình bất thường của y, vì nếu y không thể sa thải chàng theo cách đó thì như đã biết, rõ ràng y có thể làm khổ chàng đến mức không chịu đựng được vì việc làm.
 Mà đối với K. giờ đây việc làm nảy lại quan trọng hơn, so với trước đây, cuộc trò chuyện với Jáncsi đã khơi dậy trong chàng những hy vọng mới, hiển nhiên là bấp bênh, và hoàn toàn không có cơ sở nhưng chàng không thể nào quên được nữa, những hy vọng đó hầu như đã làm lu mờ cả Barnabás.
 Nếu lập tức chàng theo những hy vọng đó, và không thể làm gì khác thì phải dồn hết sức lực cho nó, không được quan tâm đến điều gì khác, kể cả ăn uống, nhà ở, cũng như các nhà chức trách của làng, thậm chí cả Frida nữa, mặc dù thật ra cơ sở của mọi chuyện chính là
-
 Frida và chàng chỉ quan tâm đến tất cả những gì liên quan tới Frida.
 Công việc hiện tại đã phần nào làm cho Frida vững tin, vì vậy mà chàng phải có gắng duy trì nó.
 Và chàng không được ân hận vì để thực hiện mục đích mà phải chịu đựng gã giáo viên nhiều hơn mức đã chịu đựng.
@@ -3496,7 +3273,6 @@ Nếu rồi đây anh đã thất vọng về tất cả, về những điều a
 K. mím chặt môi chú ý, vẻ căng thăng, đống củi đã vung vãi ở dưới chàng, chàng hầu như ngồi phệt xuống đất nhưng không nhận thấy.
 Chàng đứng dậy, ngồi lên bục giảng và nắm lấy tay Frida, cô lảng tránh vẻ mệt mỏi.
 Chàng nói với cô:
-
 - Anh không thể nào phân biệt được trong những điều em nói, đâu là ý kiến của bà chủ quán và đâu là ý kiến của em.
 - Đây chỉ là ý kiến của bà chủ quán, - Frida trả lời.
 - Em đã nghe, vì em kính trọng bà ấy, nhưng lần đầu tiên trong đờ đã không đồng ý với bà ấy.
@@ -3596,7 +3372,7 @@ Cuối cùng Frida im lặng đồng ý. Khi chân đã dẫm lên tuyết ở n
 Nhưng chàng chỉ thấy có một tên, tên phụ tá kia ở đâu?
 Ít ra thì chàng cũng đã làm cho một tên phải nhụt chí rồi chăng?
 Nhưng ở đây vẫn còn sự sốt sắng, biểu hiện là khi trông thấy K., tên phụ tá liền tươi tỉnh lên, và hắn bắt đầu huơ mạnh tay vẻ khát khao quy phục giả nhân giả nghĩa.
-“Sự kiên trì của hắn quả là mẫu mực!
+"Sự kiên trì của hắn quả là mẫu mực!
 - K. tự nhủ, và chàng buộc phải nói thêm: sẵn sàng chịu lạnh ở chấn song hàng rào!".
 Nhưng chàng chỉ giơ nắm đấm lên vẻ đe dọa, cử chỉ này đã chận trước mọi sự tiến lại gần, thậm chí tên phụ tá giật lùi lại vì hoảng sợ.
 Chính lúc đó Frida mở cửa sổ, theo thỏa thuận của họ, trước khi đốt lò sưởi cô phải thông gió.
@@ -3608,8 +3384,6 @@ Thấy thế Frida vội vàng đóng lớp cửa sổ ngoài cùng, và cô đ�
 Cô có biết chăng là làm như vậy cô càng quyến rũ tên phụ tá hơn là đuổi hắn quay lại?
 Nhưng K. không ngoái lại nữa, chàng chỉ lo đi nhanh hơn và trở về sớm hơn.
 Chương XIV
-
-
 Xế chiều, khi trời đã tối, cuối cùng K. đã dọn s con đường ngoài vườn, chàng xúc tuyết ra hai bên thành gò cao.
 Chàng đã hoàn thành công việc của ngày.
 Chàng đứng nơi cổng vườn, cô đơn giữa vùng quê.
@@ -3632,7 +3406,6 @@ Hôm nay họ cũng làm việc đó, Schwarzer mang theo cả chồng vở lớ
 Bây giờ thì chỉ có thể nhìn thấy hai ngọn nến.
 Tình yêu đứng đắn, thầm lặng đã kết họ lại, trong mới tình này Giza là người làm chủ; quả là bản tính cô ta đôi khi khó chịu, nếu cáu thì cô ta vượt quá giới hạn, nhưng lại không bao giờ chịu được việc như thế ở người khác.
 Do vậy mà Schwarzer với tính tình sôi nổi cần phải
-
 thuận theo: gã đi lại, nói năng chậm rãi và phải im lặng nhiều.
 Nhưng bù lại thỏa đáng cho những chuyện đó là sự gần gũi giản dị và lặng lẽ của Giza.
 Trong khi đó có thể Giza, nói chung không hề yêu gã, chí ít thì đôi mắt tròn, màu tro, thật ra chưa lúc nào sáng lên, nhấp nháy bất thường ấy chưa bao giờ trả lời câu hỏi về việc đó, chỉ có thể thấy rằng cô ta chấp nhận Schwarzer mà không chống đối, nhưng chắc chắn cô không hề có ý tưởng gì về sự vinh hạnh đối với mình là được yêu con trai của quan phòng thành.
@@ -3669,7 +3442,6 @@ Nhưng Barnabás đã không đến.
 Giờ thì không còn gì khác là chàng phải đến chỗ mấy người chị em nhà Barnabás, chỉ vài phút thôi, chàng muốn hỏi thăm từ ngoài bậc cửa rồi trở về ngay.
 Cắm chiếc xẻng vào trong tuyết, chàng đi ngay.
 Đến nhà Barnabás, thở không ra hơi; chàng gõ cộc lốc và giật cửa, cũng chẳng nhìn quanh ở trong phòng, chàng hỏi:
-
 - Barnabás vẫn chưa về à?
 Chỉ bây giờ chàng mới thấy Olga không có ở trong đó, hai người già lại gật gà gật gù ở bên chiếc bàn phía xa, họ vẫn chưa hiểu cái gì đang xảy ra ở cửa, khuôn mặt họ rất chậm chạp quay về phía đó.
 Amália đang nằm trên bệ lò sưởi, người phủ chăn cô choàng tỉnh dậy khi K. xuất hiện, tay giơ lên trán để trấn tĩnh lại.
@@ -3696,7 +3468,6 @@ Thực ra chỉ hôm nay, bây giờ tôi mới nghĩ tới điều này.
 Cô người ở làng này à?
 Cô sinh ở đây?
 Amália gật đầu, như thể K. chỉ hỏi câu cuối cùng, lúc sau cô nói:
-
 - Vậy là anh vẫn đợi Olga chứ?
 - Tôi không hiểu tại sao cô cứ hỏi điều đó, — K. trả lời.
 - Tôi không thể ở lại nữa, vợ chưa cưới của tôi đang chờ ở nhà.
@@ -3714,7 +3485,7 @@ Cô chỉ muốn nói điều đó cho chàng mà thôi.
 K. lắc đầu, nhắc lại là chàng đã hứa hôn.
 Amália, hình như không chú ý đến việc đính hôn, đối với cô cái ấn tượng mà K. trực tiếp khơi dậy trong cô, và việc chàng đang đứng một mình trước mặt cô là quyết định.
 Cô chỉ hỏi K. quen cô gái kia ở đâu, bởi vì chàng chỉ mới có mặt trong làng mấy hôm.
-K. kể lại cho cô về cái buổi tối ở trong quán "Ông chủ”, Amána chỉ nhận xét ngắn gọn là cô rất phản đối việc Olga đưa K. vào quán "Ông chủ”.
+K. kể lại cho cô về cái buổi tối ở trong quán "Ông chủ", Amána chỉ nhận xét ngắn gọn là cô rất phản đối việc Olga đưa K. vào quán "Ông chủ".
 Cô gọi Olga làm chứng, người vừa lúc ấy bước vào, tay ôm một bó củi, vẻ hào hứng, nhanh nhẹn, đầy sinh lực má đỏ hồng vì khí lạnh.
 Cô đã phải thường xuyên ngồi ở trong phòng, nhưng bây giờ dường như công việc đã làm cho cô thay đổi.
 Cô ném bó củi xuống, chào K. một cách thoải mái và liền hỏi thăm về Frida.
@@ -3724,7 +3495,6 @@ Chàng kể rằng trong hoàn cảnh khó khăn như thế mà Frida vẫn cố
 Sau đó chàng hoảng lên và ngắc ngứ, trong khi Amána gần như chặn lại không cho chàng nói tiếp và tuyên bố ngay rằng cô xin nhận lời mời, Olga cũng bất giác đồng ý theo.
 Cái ý nghĩ cần phải nhanh chóng chuồn khỏi đây đã làm K. mỗi lúc một phập phồng lo lắng, lại còn ánh mắt Amána cứ nhìn dán vào cũng làm chàng bồn chồn day dứt.
 Không màu mè, chàng nói rằng lời mời vừa rồi hoàn toàn thiếu suy nghĩ, do những cảm giác riêng tư của chàng chi phối, rất tiếc là chàng không thể giữ nguyên lời mời, bởi vì giữa Frida và gia đình Barnabás có một sự thù hằn lớn gì đó mà chàng
-
 - Nói hằn thù thì cũng không phải, - Amália nói, cô ngồi dậy trên bệ lò sưởi, hất chăn ra phía sau, - mà chỉ là sự bắt chước theo dư luận.
 Nhưng bây giờ thì anh hãy đi về với vợ chưa cưới của anh, tôi thấy là anh đang vội, và anh đừng lo, chúng tôi không tới thăm anh đâu, lúc đầu tôi nói đùa vì muốn xỏ anh đấy.
 Còn anh thì có thể đến với chúng tôi thường xuyên hơn, điều ấy không có gì trở ngại cả; anh có thể viện cớ là đợi tin tức ở Barnabás.
@@ -3733,7 +3503,6 @@ Anh ấy không thể chạy nhiều đến thế, tội nghiệp, anh ấy đ�
 K. chưa từng được nghe Amália nói một thôi như thế, những lời nói của cô cũng vang lên khác thường, có cái gì cao ngạo trong những lời nói đó.
 Không chỉ K. cảm thấy điều này, mà rõ ràng là cả Olga nữa, dẫu là cô đã quen với Amália.
 Cô hơi đứng sang một bên trong tư thế đã quen, tay để trước bụng, và vai hơi xệ xuống, mắt nhìn chăm chăm vào Amália, trong khi Amália dán mắt vào K.
-
 - Cô nhầm rồi, - K. nói.
 - Cô nhầm to nếu cô tưởng rằng tôi không chờ đợi Barnabás một cách nghiêm túc nhất.
 Mong muốn chính, mà thật ra là duy nhất của tôi là giải quyết công chuyện của mình với các nhà chức trách.
@@ -3747,8 +3516,6 @@ Có lẽ cô không phải là người tham dự vào những việc của Barn
 Còn qua Olga thì anh có thể nhận được thông báo đầy đủ, bởi vì chị ấy là người tin cậy của anh tôi.
 Nói rồi Amália đi khỏi đó, lúc đầu cô đến chỗ bố mẹ, thì thầm vài lời với họ, sau đó cô đi vào nhà bếp, không chào tạm biệt, bỏ K. ở lại như thể cô biết rằng chàng còn ở lại đó lâu, và không cần thiết phải chào.
 Chương XV
-
-
 K. hơi sửng sốt đứng ở đó, Olga cười chàng và kéo chàng đến bên bệ lò sưởi, xem ra thì cô thật sự mừng vì bây giờ có thể ngồi với K., chỉ hai người với nhau, niềm hạnh phúc yên ổn mà sự ghen tuông chắc chắn không quấy phá.
 Chính điều này làm K. thích thú.
 Không hề có biểu hiện gì của sự ghen tuông và nỗi e ngại do ghen tuông, chàng vui vẻ nhìn vào đôi mắt xanh không quyến rũ, cũng không sai khiến mà hoàn toàn điềm tĩnh e lệ nhìn lại chàng vẻ hiền lành.
@@ -3997,7 +3764,6 @@ Anh ấy có thể đi vào các văn phòng hay nếu thích nói khác hơn, l
 Đối với anh, chẳng hạn cái phòng ngoài đó, ít ra thì trước mắt là hoàn toàn không thể với tới được.
 Anh không biết Barnabás nói chuyện với ai ở đó, viên thư ký ấy và người phục vụ cấp thấp nhất, nhưng thậm chí là hạ đẳng nhất th cũng có thể đưa anh ấy đến người cấp cao hơn, hoặc nếu không thể đưa đến, thì chí ít ông ta cũng có thể nêu tên người đó, và nếu như không thể gọi tên, thì ông ta có thể chỉ cho anh ấy đến với ai đó có thể gọi tên.
 Chúng ta giả thiết, ông Klamm giả tạo đó không hề có gì giống ông Klamm thật; giả thiết là sự giống nhau ấy chỉ có trong con mắt đã mờ đi vì xúc động của Barnabás; giả thiết viên công chức hạ đẳng nói đến ấy thậm chí chưa phải là viên chức đi thì hắn cũng có nhiệm vụ gì đó bên giá đọc, cũng đọc một cái gì đó trong quyển sách to của mình chứ, và cũng thì thầm điều gì đó cho gã
-
 thư ký, cũng suy nghĩ một điều gì đó và ánh mắt hắn đôi lúc cũng dừng lại ở Barnabás.
 Và nếu thảy những điều đó cũng không đúng, nếu cái hắn ta làm không có nghĩa gì đi chăng nữa thì vẫn có ai đó đã phân công hắn ở đó, chắc chắn là với ý định như thế nào đó.
 Với những chuyện này, anh muốn nói vì thế vẫn có cái gì ở đó, và người ta vẫn trao cho Barnabás cái gì đó, chỉ một mình Barnabás là có lỗi nếu với những điều đó mà anh ấy vẫn không đạt được gì khác ngoài sự ngờ vực, nỗi lo sợ và tuyệt vọng.
@@ -4009,7 +3775,6 @@ Dẫu có như thế đi nữa, những lá thư này chí ít thì cũng liên 
 Chúng xuất phát từ tay Klamm, như trưởng thôn và vợ ông ta khẳng định, và mặc dù ý nghĩa của chúng không rõ ràng, lại theo lời trưởng thôn, chỉ mang tính chất cá nhân, thì chúng vẫn có giá trị lớn.
 - Trưởng thôn nói điều này à?
 - Olga
-
 - Vâng, ông ấy nói, - K. trả lời.
 - Em sẽ kể chuyện này cho Barnabás, - Olga nói nhanh, - nó sẽ cổ vũ cậu ấy nhiều.
 - Có điều anh ấy không cần sự cổ vũ, - K. nói.
@@ -4056,7 +3821,6 @@ Nhưng vẫn luôn luôn còn một vấn đề: nói chung anh có muốn biế
 - Tôi không sợ.
 Vì sự lo lắng của đàn bà mà cô đã làm cho câu chuyện xấu hơn là vốn có.
 Bí mật của Amália
-
 - Tự anh hãy xét lấy, - Olga nói.
 - Tuy thế, mọi chuyện có vẻ rất đơn giản, thoạt đầu không thể hiểu, làm sao mà nó có thể có ý nghĩa lớn đến thế.
 Ở Lâu đài có một viên chức quan trọng tên là Sortini.
@@ -4077,8 +3841,7 @@ Tóm lại là ngày lễ.
 Mấy tuần liền cùng với Amália chúng em đã vui sướng vì ngày lễ, sửa soạn quần áo lễ, đặc biệt bộ váy áo Amália rất đẹp, với chiếc áo bluz phía trước thật lộng lẫy, hàng đăngten này chồng lên hàng đăngten kia, mẹ em có bao nhiêu đăngten đều cho cô ấy tất.
 Lúc ấy em đã ghen tức, đã khóc suốt gần một đêm.
 Chỉ đến sáng, khi bà chủ nhà trọ "Bên cầu" đến với chúng em...
-
-- Bà chủ quán "Bên cầu” à?
+- Bà chủ quán "Bên cầu" à?
 - K. hỏi.
 - Vâng.
 - Olga trả lời.
@@ -4139,7 +3902,6 @@ Nói chung ngày hôm đó chúng em vui vẻ một cách ngớ ngẩn, và tr�
 Cùng với Amália, cả hội dường như chuếnh choáng vì rượu vang ngọt của Lâu đài.
 - Thế Sortini?
 - K. hỏi
-
 - Tất nhiên, - Olga nói, - em còn thấy Sortini một vài lần nữa trong buổi lễ.
 Ông ta ngồi trên chiếc cần của máy bơm nước, khoanh tay trên ngực cho đến khi xe ở Lâu đài đến đón.
 Ông ta cũng không đến chỗ biểu diễn chữa cháy, vậy mà bố em lúc đó vì hy vọng là Sortini chú ý đến, ông đã trội hơn vượt lên tất cả những người bạn cùng tuổi.
@@ -4167,7 +3929,7 @@ Ai không biết Amália, nếu đọc lá thư thì chỉ có thể xem cô gá
 Sau đó, chúng em suy tính có lẽ Sortini đã muốn trở về Lâu đài ngay từ buổi tối, chỉ vì Amália mà ông ta ở lại trong làng, và đến sáng thì ông ta viết thư, trong lòng đầy bực bội vì suốt đêm đó ông ta không làm sao quên được Amália.
 Một lá thư như thế làm phẫn uất bất kỳ cô gái nào, thậm chí cả người phớt đời nhất, nhưng sau đó hẳn nỗi khiếp sợ bởi giọng điệu đe dọa và giận dữ của lá thư sẽ thắng cô gái không giống như Amália.
 Thế nhưng ở Amália nó chỉ gây nên sự phẫn nộ, chứ cô không biết sợ, dù nó liên quan đến bản thân hay những người khác.
-Cho đến khi em lại chui lên giường, và thầm nhắc đi nhắc lại câu kết bị cắt ngang: "đến đây ngay, nếu không thì...” Amália vẫn đứng ở bậu cửa sổ nhìn ra, như thể cô đang đợi những người đưa thư mới, và sẵn sàng xử sự với họ như với người đầu tiên.
+Cho đến khi em lại chui lên giường, và thầm nhắc đi nhắc lại câu kết bị cắt ngang: "đến đây ngay, nếu không thì..." Amália vẫn đứng ở bậu cửa sổ nhìn ra, như thể cô đang đợi những người đưa thư mới, và sẵn sàng xử sự với họ như với người đầu tiên.
 - Nói tóm lại, bọn quan chức là như thế đấy, - K. nói ngập ngừng, - nghĩa là, họ có những kẻ như thế đấy.
 Thế bố cô đã làm gì?
 Tôi hy vọng là ông đã lên án Sortini ở nơi có thẩm quyền, nếu như ông không thích chọn con đường ngắn và đúng đắn nhất là đến thẳng quán "Ông chủ".
@@ -4315,7 +4077,6 @@ Chả lẽ anh không rõ rằng cách xử sự của Amália đối với Sort
 - Có thể khâm phục hoặc chê trách Amália chứ sao lại coi khinh cô ấy được?
 Và nếu thậm chí vì những nguyên nhân tôi không thể nào hiểu được mà người ta thực sự coi thường Amália đi nữa, thì tại sao sự khinh bỉ ấy lại lạn sang cả các cô, sang cả một gia đình vô tội?
 Việc Pepi coi thường cô, đơn thuần là tầm bậy, tôi sẽ hỏi tội cô ta nếu lúc nào đó tôi đến quán trọ ấy...
-
 - Việc khó đấy, anh K. ạ.
 - Olga nói.
 - nếu như anh muốn làm cho người nào coi thường chúng em cũng phải thấu hiểu hơn, bởi mọi chuyện từ Lâu đài mà ra cả.
@@ -4333,7 +4094,6 @@ Mẹ quở mắng Amália vì những lời nói đó, bố thì chỉ cười n
 Brunswick có kể với ông về người đưa thư nào đó với lá thư nào đó bị xé, và ông hỏi chúng em có biết việc đó không, điều ấy có liên quan gì đến ai, và điều gì đã xảy ra.
 Chúng em im lặng; Barnabás hồi đó còn nghịch ngợm như một chú cừu non đã nói điều gì đó rất ngớ ngẩn và láo lếu, sau đấy chúng em chuyển sang nói chuyện khác, và việc đó đã bị lãng quên.
 Sự trừng phạt Amália
-
 Sau đó chẳng bao lâu người ta bắt đầu vây lấy gia đình em bằng những câu hỏi liên quan tới lá thư; lần lượt bạn bè, kẻ thù, những người quen và người lạ đến, không ai ở lại lâu, những người bạn tốt nhất của gia đình vội vàng từ biệt trước tiên.
 Laseman là người vẫn luôn có cử chỉ chậm rãi và chững chạc đúng mực giờ đây bước vào phòng như thể chỉ muốn đo căn phòng, mắt nhìn quanh, mọi việc cứ y như một trò chơi trẻ con tồi tệ: khi Laseman định bắt đầu ra về, bố em đã gạt mọi người bâu lấy ông để chạy theo ông ta đến tận bậu cửa, rồi đứng sững lại ở đó.
 Lúc sau Brunwich đến xin thôi việc nói rất chân thành với ông bố rằng anh ta muốn làm việc độc lập; anh ta đủ khôn để lợi dụng giây phút thích hợp.
@@ -4487,7 +4247,6 @@ Chiếc đèn có thể treo ở đâu, nếu không phải phía trên bàn kia
 Nhưng nếu chúng em có treo chiếc đèn ở chỗ khác thì cũng không làm sự ác cảm của họ.
 Chúng em là ai, và cái gì chúng em có, tất cả đều bị khinh bỉ.
 Những cuộc hành hương
-
 - Và suốt thời gian đó chúng em đã làm gì?
 Chúng em đã làm cái việc xấu xa hơn những việc đã làm, để người ta có thể khinh chúng em hơn là trong thực tế đã coi khinh: chúng em đã phản bội Amália, không quan tâm tới mệnh lệnh im lặng của cô ấy nữa, không thể sống như vậy tiếp tục; không chịu sống vô vọng hoàn toàn, mỗi người theo cách của mình, chúng em bắt đầu nài nỉ xin Lâu đài thứ lỗi cho mình.
 Tất nhiên chúng em biết là không thể nào sửa chữa được gì nữa, và chúng em cũng biết là mối quan hệ có hy vọng duy nhất của gia đình em với Lâu đài đúng hơn là với Sortini, vị viên chức có thiện chí với bố em này, đã trở nên xa vời đối với chúng em do chính những việc xảy ra.
@@ -4536,7 +4295,6 @@ Hôm nay hoặc mai là ông sẽ biết tất cả, giờ đây mọi cố gắ
 Nhưng từ cách ông nói có thể cảm thấy rằng chính ông cũng không tin, và liền đó ông bắt đầu vạch ra những kế họach mới.
 Vì không thành công trong việc xác định nổi tội của ông và do đó bằng con đường chính thức ông không thể đạt được cái gì cả, giờ đây ông chỉ còn biết đích thân đến nài nỉ với các viên chức, chắc là trong số họ chắc chắn có những người đồng cảm, tốt bụng, và nếu họ không thể nghe những lời tâm tình của ông trong giờ hành chính thì họ có thể nghe ông ngoài giờ hành chính, nhất là trong một thời điểm thích hợp ông làm cho họ bị bất ngờ.
 Cho tới lúc này K. vẫn mải mê lắng nghe Olga nói, nhưng bây giờ chàng đã cắt ngang câu chuyện của cô bằng một câu hỏi:
-
 - Thế cô không cho việc đó là đúng sao?
 Từ những điều dưới đây, chắc là K. cũng nhận được câu trả lời, nhưng lúc này chàng muốn biết ngay.
 - Không, - Olga nói, - không thể có sự đồng cảm như thế.
@@ -4596,7 +4354,6 @@ Amália đảm nhiệm việc chăm sóc, phục vụ và chạy chữa cho ông
 Amália biết những cây thuốc nào làm giảm các cơn đau, hầu như cô không cần ngủ, không bao giờ hoảng hốt hay sợ gì cả, không bao giờ sốt ruột, cô ấy làm mọi công việc phục vụ bố mẹ, trong khi đó vì không thể đỡ đần được việc gì nên chúng em chỉ quanh quẩn ở đấy mà thôi, cô ấy vẫn luôn luôn lặng lẽ và đúng mực.
 Sau đó, khi điều tồi tệ nhất đã qua, và bố đã có thể thận trọng, nhờ được đỡ từ hai bên, buông được hai chân ra khỏi giường thì Amália liền co lại và giao ông cho chúng em.
 Những kế hoạch của ">
-
 - Bây giờ chúng em lại phải tìm cho bố một việc gì đó mà ông còn đủ khả năng để làm, bất kỳ việc gì, chí ít thì cũng cứ để bố tin rằng với công việc đó ông đang hành động để chuộc lại tội lỗi đang đè nặng lên gia đình.
 Tìm việc như thế không khó khăn gì, về cơ bản mà nói thì việc gì khác cũng hợp lý hơn là đứng chôn chân ở trước vườn rau nhà Bertuch.
 Nhưng em đã nghĩ ra điều mà đến em cùng phần nào hy vọng.
@@ -4717,7 +4474,7 @@ Nhưng mà như Barnabás kể thì cậu ấy nhận thấy rõ quyền lực v
 Nào là họ mắt nửa nhắm nửa mở, tay vung vẩy nhanh chóng ra lệnh ra sao, họ chỉ bằng cách động đậy một ngón tay, không cần nói một lời là đủ xử lý bọn phục vụ cáu bẳn, còn chúng vào những phút ấy, thì thở phì phì mà vẫn cười hạnh phúc; nào là việc một viên chức tìm được một chỗ quan trọng trong quyển sách, liền đập tay xuống trang giấy, những người khác thấy thế liền túm lại, nào là chỗ chật hẹp cho phép họ nghiêng ngó, vươn cổ ra: từ những cảnh như thế, Barnabás đã tạo cho mình ý niệm rất cao cả về những người đó, và cậu ấy tưởng tượng rằng, nếu lúc nào cậu ấy làm cho người ta thấy mình, và có thể trao đổi được vài lời với họ, không phải như người lạ, mà là như người đồng nghiệp cùng công sở, dù là người cấp dưới cũng thế, thì cậu ấy có thể làm được nhiều vô kể cho gia đình.
 Cho đến nay, tạm thời cậu ấy chưa đạt được điều đó, và cũng không dám đánh liều làm những việc có thể đưa mình tới gần mục đích hơn, dù cậu ấy biết rõ rằng do hoàn cành không may mắn, trách nhiệm nặng nề của người chủ gia đình cũng đã đổ lên đầu cậu ấy.
 Cuối cùng em phải kể cho anh nghe cái gì đã xảy ra mới đây: anh đến được một tuần rồi.
-Em đã nghe ở quán "Ông chủ”, ai đó nhắc tới việc có một người đạc điền đến đây, nhưng em không để ý, cũng không biết người đạc điền là ai.
+Em đã nghe ở quán "Ông chủ", ai đó nhắc tới việc có một người đạc điền đến đây, nhưng em không để ý, cũng không biết người đạc điền là ai.
 Nhưng tối ngày hôm sau thì Barnabás trở về sớm hơn mọi khi, em vẫn thường đi đón cậu ấy vào một giờ nhất định, thấy Amália đang ở trong phòng, cậu ấy kéo em ra ngoài đường, gục vào vai em khóc mấy phút liền.
 Cậu ấy lại là cậu bé năm xưa.
 Cậu ấy đã gặp chuyện gì đó mà chưa đủ trưởng thành để hiểu nó.
@@ -4727,7 +4484,6 @@ Có điều đây là lá thư đầu tiên, là công việc đầu tiên mà c
 Olga không nói nữa.
 Yên lặng, chỉ còn nghe thấy tiếng thở nặng nề, thỉnh thoảng khò khè của bố mẹ.
 K. nói vẻ trịch thượng như để tổng kết vào câu chuyện của Olga
-
 - Các người giả nhân, giả nghĩa trước mặt tôi.
 Barnabás đã đưa lá thư cho tôi như một người đưa thư sành sỏi, rất chi là bận rộn; và thế đấy, còn cô và Amália, cả cô ấy và cô, dường như cũng cùng một giuộc với nhau; các người làm như là việc đưa thư và các lá thư chỉ là chuyện thứ yếu không bằng.
 - Anh cần phải có sự phân biệt giữa chúng em, - Olga nói.
@@ -4755,9 +4511,7 @@ Ví dụ Barnabás đã có lần trở về với tin là anh không hài lòng
 Lúc ấy, để sửa chữa lỗi lầm, em đã sẵn sàng lừa đảo, dối trá lòe bịp, và làm mọi chuyện xấu xa để có thể giúp được mình.
 Nhưng lúc đó, theo như em nghĩ, thì em làm không chỉ vì lợi ích của chúng em mà còn vì lợi ích của anh nữa.
 *
-
 * *
-
 Có người gõ cửa, và Olga ra mở cửa.
 Chiếc đèn pin bỏ túi hắt vạch sáng vào bóng tối.
 Người đến thăm muộn thì thầm hỏi điều gì đó, và nhận được câu trả lời cũng thì thầm, nhưng người đó không vừa lòng, bằng mọi giá y muốn len vào phòng.
@@ -4780,11 +4534,8 @@ Không phải những tin tức mà Barnabás mang đến là niềm hy vọng d
 Nếu cần phải lựa chọn giữa Amália và Olga thì một phút chàng cũng không do dự.
 Chàng nắm chặt tay cô thân thiết, trước khi nhảy qua hàng rào của vườn nhà hàng xóm.
 Chương XVI
-
-
 Khi đã ở ngoài đường, chàng thấy, trong chừng mực bóng đêm ảm đạm cho phép, ở nơi cao hơn, trước nhà Barnabás tên phụ tá vẫn còn đi lên đi xuống, thỉnh thoảng hắn dừng lại và thử chiếu sáng vào phòng qua cửa sổ có phủ rèm.
 K. gọi hắn, tên phụ tá không hoảng hốt, mà chỉ ngừng việc nhòm ngó, hắn tiến về phía K.
-
 - Anh tìm ai?- K. hỏi và quất quất nhánh liễu vào chân mình xem có dễ uốn không.
 - Tìm ông, - tên phụ tá trả lời trong khi đang tiến lại gần.
 - Thật ra anh là ai vậy?
@@ -4813,7 +4564,6 @@ Cậu ấy đã trở về Lâu đài để tố cáo ông.
 Chúng tôi đã làm gì kia chứ?
 Chúng tôi đùa một tí, cười một tí, trêu chọc vợ chưa cưới của ông một tí mà thôi, vả lại, chúng tôi làm những việc đó theo sự chỉ bảo.
 Khi mà Galater cử chúng tôi đến với anh...
-
 - Galater à?
 - K. hỏi.
 - Vâng, Galater, - Jeremiás nói, - lúc đó ông ấy vừa thay Klamm.
@@ -4868,7 +4618,6 @@ Nhưng dù cố gắng tự an ủi mình bằng những tính toán như thế 
 Vừa nãy, trước mặt Olga chàng còn khoe về Frida, chàng đã nói cô là chỗ dựa duy nhất của mình.
 Cô ấy đâu phải là chỗ dựa vững chắc nhất, đểớp Frida khỏi tay K., không cần đến sự can thiệp của một thế lực nào đó, chỉ cần tên phụ tá không mấy hấp dẫn, cái cục thịt mà thỉnh thoảng cứ như thể không có sinh khí này là đủ.
 Jeremiás đã định đi; K. gọi lại:
-
 - Jeremiás, - chàng nói, - tôi muốn nói chuyện một cách cởi mở với anh, anh cũng phải trả lời trung thực câu hỏi của tôi.
 Chúng ta không còn đối với nhau như chủ và tớ, điều này không chỉ anh mừng mà tôi cũng thế.
 Cho nên chúng ta không có lý do gì để đánh lừa nhau.
@@ -4890,7 +4639,6 @@ Việc ông bẻ gãy cái roi cũng chẳngến tôi, việc đó chỉ làm t�
 - Anh nói năng với tôi, - K. nói, - như thể anh chắc chắn rằng sẽ không bao giờ phải sợ gì tôi nữa ấy.
 Vậy mà tình thế không hoàn toàn như vậy.
 Trước mắt có lẽ anh cũng chưa hoàn toàn độc lập với tôi, những việc như thế người ta không giải quyết nhanh chóng đâu…
-
 - Thỉnh thoảng người ta còn giải quyết nhanh hơn thế, - Jeremiás nói chen vào.
 - Thỉnh thoảng thôi, - K. nói, - nhưng chưa có dấu hiệu gì chứng tỏ việc đó đã xảy ra như vậy, chí ít thì trước mắt, trong tay chúng ta chưa có quyết định bằng văn bản, cả tôi và anh đều không có.
 Tức là thủ tục chỉ vừa mới được tiến hành và tôi chưa hề can thiệp vào bằng các mối quan hệ của mình nhưng chắc chắn tôi sẽ can thiệp.
@@ -4930,7 +4678,6 @@ Tôi còn làm điều không được phép: tôi đã giơ tay trình diện k
 Tôi đã ở lại lâu nhất trong văn phòng, khi chỉ còn tôi với những người phục vụ thì rất may mắn nhìn thấy một lần nữa, Klamm đã quay lại, nhưng không phải vì tôi, ngài chỉ muốn xem lại điều gì đó ở một trong các quyển sách, sau đó ngài đi liền.
 Và vì đến lúc đó mà tôi vẫn chưa chịu chùn bước, một tên phục vụ suýt đã dùng chổi quét tôi ra khỏi cửa.
 Tôi tường thuật tất cả những chuyện đó để ông khỏi bất bình với với cố gắng của tôi
-
 - Sự chăm chỉ của anh đã cho tôi ích lợi gì Barnabás?
 - K. nói, - một khi nó không có kết quả gì cả.
 - Nhưng mà có đấy!
@@ -4950,22 +4697,17 @@ Ngài đạc điền hãy tìm tới ở đó.
 Tôi ở phòng số mười lăm, nhưng ông ta phải đến ngay.
 Tôi chỉ bàn bạc điều gì đó, rồi năm giờ sáng tôi lại quay về.
 Anh hãy nói với ngài đạc điền rằng tôi rất cần nói chuyện với ông ta
-
 Bất thần Jeremiás bỏ chạy.
 Barnabás cho đến lúc này vì hồi hộp đã không để ý đến anh ta, bây giờ thì lại hỏi:
-
 - Jeremiás làm sao thế?
 - Anh ta muốn vượt tôi đến gặp Erlanger trước.
 - K. nói và chạy theo Jeremiás, chàng đã đuổi kịp, nắm lấy cánh tay anh ta nói.
 - Anh đột ngột nhớ Frida phải không?
 Tôi cũng vậy, thế này thì chúng ta có thể đi cùng nhau.
 Chương XVII
-
-
 Có nhóm người đứng trước quán "Ông chủ" tối tăm, hai - ba người tay cầm đèn, vì vậy có thể nhận ra những khuôn mặt.
 K. đã tìm được trong số họ một người quen, gã xà ích Gerstäcker.
 Gerstäcker chào chàng bằng câu hỏi:
-
 - Anh vẫn còn ở trong làng à?
 - Vâng, - K. nói, - tôi đến đây một thời gian dài.
 - Điều đó chẳng liên can gì đến tôi, - Gerstäcker nói, gã ho mạnh và quay về phía những người khác.
@@ -4984,7 +4726,7 @@ Bà ta cho là không thể chấp nhận được chuyện nhà của mình, nh
 Nhưng câu trả lời đó thực sự đã soi sáng cho bà, và bà sẵn sàng dẫn lời tuyên bố đó.
 Bà cố gắng để người ta dựng lên một ngôi nhà nhỏ đối diện với quán "Ông chủ", nơi mà khách có thể chờ đợi, và sự cố gắng này của bà cũng phù hợp với mong muốn của khách.
 Bà mừng nhất là nếu những cuộc thảo luận và tiếp kiến đều diễn ra ở ngoài quán "Ông chủ", nhưng các viên chức không muốn nghe về điều đó, và nếu một khi họ đã nghiêm nghị phản đối điều gì thì tất nhiên bà chủ quán cũng không thể thực hiện được ý định của mình, mặc dù trong những chuyện thứ yếu hơn bà thật sự chuyên quyền độc đoán bằng sự quyết đoán tinh khôn một cách đàn bà, không biết mệt mỏi.
-Nhưng hiện thời bà đành phải tiếp tục chịu đựng các cuộc thảo luận và tiếp kiến ở trong quán "Ông chủ”, bởi vì các quý ông của Lâu đài không hề muốn bỏ quán này, họ vào làng vì những việc chính quyền.
+Nhưng hiện thời bà đành phải tiếp tục chịu đựng các cuộc thảo luận và tiếp kiến ở trong quán "Ông chủ", bởi vì các quý ông của Lâu đài không hề muốn bỏ quán này, họ vào làng vì những việc chính quyền.
 Họ luôn luôn vội vàng, và lúc nào cũng lưu lại trong làng trái với ý thích của mình, không tỏ ra muốn lưu lại lâu hơn mức cần thiết, vì thế không ai có thể đòi hỏi ở họ chỉ vì sự bình yên của quán mà mất đi bao nhiêu thì giờ vì phải chuyển sang một căn nhà khác cùng với các tài liệu, giấy tờ của mình.
 Các viên chức thích nhất là giải quyết những việc chính quyền ở trong quầy uống hoặc trong phòng của họ, có thể trong khi ăn, hoặc từ trong giường trước lúc ngủ, hay sáng sớm nếu họ còn lười chưa muốn dậy và muốn nằm dài một tí.
 Vấn đề xây dựng phòng đợi, trái lại rõ ràng đã tiến gần hơn tới giải pháp có lợi, giờ đây chính vì chuyện phòng đợi mà cần phải tiếp tục nhiều cuộc bàn bạc, và thường xuyên có người qua lại ở các hành lang như vậy, nhưng đây lại là sự trừng phạt đối với bà chủ quán, vì nó mà người ta cười bà.
@@ -4996,7 +4738,6 @@ K. phản bác rằng Klamm cũng thường đến làng vào ban ngày, thậm 
 Một số người cười vẻ thông cảm, những người khác thì im lặng một cách lúng túng, những người này nhiều hơn, và hầu như họ không trả lời K.. Chỉ có một người nào đó tuyên bố ngập ngừng rằng tất nhiên Klamm là không thể thay thế ở Lâu đài cũng như ở trong làng.
 Lúc đó cửa nhà mở ra và Momus xuất hiện giữa hai người phục vụ cầm đèn.
 - Tiếp theo đây là những người đầu tiên đến gặp ngài thư ký Erlanger, - gã nói, - Gerstäcker và K. Cả hai người có ở đây chứ
-
 Họ trình diện.
 Nhưng Jeremiás đã lẻn vào nhà, trước họ, miệng nói: "Tôi là hầu phòng ở đây".
 Momus mỉm cười chào và vỗ vai hắn.
@@ -5008,11 +4749,9 @@ Khi K. đi qua trước mặt Momus, gã làm như chỉ bây giờ mới nhận
 Với tôi hôm đó thì sự việc hẳn đã đơn giản hơn.
 Tất nhiên là không dễ gì lựa chọn được sự cật vấn nào thích hợp hơn.
 Nghe những lời ấy, K định đứng lại, nhưng Momus nói:
-
 - Ngài cứ đi đi!
 Hôm đó tôi cần ngài trả lời, nhưng bây giờ thì không cần nữa.
 K. lo lắng vì cách xử sự của Momus, thế nhưng chàng vẫn nói với y:
-
 - Các ông chỉ nghĩ đến bản thân thôi.
 Chỉ vì một người có địa vị nào đó thì tôi đã vẫn không có ý định trả lời, cả hôm đó lẫn hôm nay.
 - Vậy thì chúng tôi nghĩ đến ai nếu không phải là vì bản thân?
@@ -5035,7 +4774,6 @@ Tiếng động, tiếng búa gõ làm K. nhớ tới chuyện mà có lần ng�
 Hành lang vắng vẻ, chỉ có một ngài da vàng vọt, gầy gò, dáng người cao đang ngồi trước một trong những cánh cửa, từ dưới chiếc áo lông thú lộ ra chiếc áo ngủ; có lẽ căn phòng ngột ngạt quá nên ông ta đã ngồi ra đây đọc báo, nhưng không đọc một cách chăm chú, vì ông ta ngáp liên tục, thỉnh thoảng bỏ báo xuống, nghiêng người vế phía trước nhìn suốt hành lang.
 Có lẽ ông ta đang đợi người khách được mời đến và anh ta đã không xuất hiện.
 Khi họ đi ngang qua trước mặt ông ta, tên đầy tớ đã nói với Gerstäcker v ông ta:
-
 - Pinzgauer đấy!
 Gertäcker gật đầu.
 - Đã lâu rồi ông ta không ở dưới này, - gã nói.
@@ -5053,15 +4791,12 @@ Bởi vì ông ấy đến đây làm việc theo ý nguyện riêng.
 Gerstäcker gật đầu, kéo tên đầy tớ sang một bên và thì thầm giải thích cho hắn điều gì đó; nhưng tên đầy tớ không chú ý tới, hắn nhìn phía trên Gerstäcker, - hắn cao hơn gã gần một cái đầu.
 - và chậm rãi, thận trọng vuốt tóc.
 Chương XVIII
-
-
 Lúc đó K. nhìn quanh không mục đích, chàng chợt thấy Frida từ xa, ở một trong số các lối rẽ của hành lang.
 Cô gái làm như không quen biết, chăm chăm nhìn chàng, tay cô ta cầm chiếc khay và những chiếc nồi không.
 K. quay về phía người đầy tớ, nhưng hắn hoàn toàn không để ý đến chàng, dường như người ta càng nói nhiều với hắn thì các ý nghĩ của hắn càng lơ đễnh hơn.
 Chàng bảo hắn là chàng sẽ quay lại ngay, rồi chạy đến với Frida.
 Vừa tới nơi chàng đã bám lấy vai cô ta như thể Frida lần nữa lại là của chàng, và trong khi hỏi cô ta vài câu vu vơ chàng nhìn vào mắt cô ta dò hỏi.
 Nhưng Frida vẫn chưa hết vẻ cứng nhắc, cô ta lúng túng xếp trên chiếc khay và nói:
-
 - Anh còn muốn gì tôi nữa?
 Hãy đến với họ đi... anh biết là đến với ai rồi đấy.
 Anh vừa từ chỗ họ, nhìn anh là tôi biết.
@@ -5090,7 +4825,6 @@ Nhưng về phần anh không có gì thay đổi từ đó, tất cả đều v
 Vậy nên về phần em phải có một sự thay đổi nào đó hoặc là có lẽ kẻ nào bêu riếu anh với em, hoặc là vì những việc gì khác nữa.
 Em thật là bất công đối với anh, bởi vì em xem, câu chuyện với hai cô gái như thế nào nhỉ?
 Một cô gái da ngăm ngăm, anh thật xấu hổ là phải bào chữa cho họ từng người một như thế này, nhưng em buộc anh phải làm điều đó, nói chung cô gái da ngăm ngăm có lẽ cũng khó chịu đối với anh như đối với em, anh cố gắng thận trọng hết mức với cô ta, và việc này chính cô ta cũng đã giúp anh vì không thể có ai nhút nhát hơn
-
 - Vâng !
 - Frida kêu lên, lời nói bật ra gần như ngược lại với ý chí của cô ta.
 K. vui mừng nhận thấy cô ta đã không kìm được, đã xử sự không như cô muốn.
@@ -5222,7 +4956,6 @@ Em hãy tỉnh táo lại đi, hãy lấy lại nghị lực, nếu em tưởng 
 Galater gửi chúng đấy.
 Người ta chỉ mê hoặc em bằng việc đó, đến nỗi ngay cả trong sự bẩn thỉu và dâm đãng của họ em cũng muốn tìm ra dấu vết của Klamm, giống như khi có người nào đó muốn tìm thấy viên đá quý bị đánh mất từ lâu trong một đống rác, mặc dù trong thực tế không thể tìm thấy nếu quả thật viên đá quý có ở đó.
 Mà ở đây thực chất chúng lại thanh niên tầm thường, giống như những gã đầy tớ trong chuồng ngựa, mà chúng còn không được khỏe mạnh như thế, chỉ cần một ngọn gió mát nhỏ thôi là chúng đã ốm lăn ra giường, mà cái giường phù hợp thì chúng kiếm được ngay cho mình bằng sự láu cá của người đi ở.
-
 Frida ngả đầu vào vai K., họ khoác tay nhau và lại lặng lẽ đi lên đi xuống.
 - Giá mà, - Frida nói chậm rãi, gần như dịu dàng như thể biết rằng cô ta chỉ có được thoáng lát yên tĩnh ngắn ngủi trên vai K., và cô ta muốn tận hưởng nó trọn vẹn, - giá mà chúng ta đã đi ngay trong đêm ấy thì bây giờ chúng ta có thể đang ở đâu đó, an toàn, luôn bên cạnh nhau và tay anh luôn gần bên tay em để có thể nắm được, em cần sự gần gũi của anh biết bao.
 Từ khi quen biết anh, em cô đơn làm sao mỗi khi anh không ở gần em, anh hãy tin rằng em chỉ mơ một điều duy nhất, vâng, duy nhất, là được gần anh.
@@ -5232,7 +4965,6 @@ Anh ta đứng đó vẻ thiểu não, với bộ râu lơ thơ ướt sũng nh�
 Anh ta trông giống một bệnh nhân vừa trốn khỏi bệnh viện, nhìn thấy cảnh ấy không thể nghĩ gì khác hơn là phải đưa ngay vào giường.
 Frida cũng quan niệm sự việc như vậy, cô ta thoát ra khỏi tay K. và có mặt ngay ở dưới đó bên cạnh Jeremiás.
 Anh chàng đó thì dường như được tăng thêm sức mạnh nhờ sự gần gũi của Frida, nhờ sự quan tâm lo lắng khi cô ta buộc chặt hơn chiếc khăn cho anh ta, nhờ sự vội vã khi cô muốn đẩy anh ta trở lại phòng: dường như chỉ bây giờ gã mới nhận ra K.
-
 - Ô, ngài đạc điền.
 - Gã nói và vuốt ve khuôn mặt Frida vẻ dỗ dành, vì rõ ràng không muốn nói chuyện.
 - Xin lỗi vì đã làm phiền.
@@ -5257,7 +4989,6 @@ Cuộc sống tốt đẹp đang chờ đợi anh ở đằng ấy, có lẽ s�
 Mối liên kết của các vị đã được ban phước từ trước rồi.
 Anh đừng nói một lời phản đối nào, cái gì anh cũng có thể phủ nhận nhưng cuối cùng thì chẳng bác bỏ được điều gì cả.
 Anh thử nghĩ mà xem, Jeremiás, anh ta phủ nhận
-
 Họ gật đầu tán thưởng và mỉm cười với nhau.
 - Nhưng ta cứ giả thiết, - Frida nói tiếp, - rằng tất cả đều bị phu nhận thật sự đi nữa thì chúng ta được gì trong chuyện đó, em cần gì kia chứ?
 Và việc gì xảy ra ở chỗ họ thì đó là việc của họ và của anh ta, em không có gì liên quan cả.
@@ -5286,7 +5017,6 @@ Chàng gõ cửa nhẹ nhàng để nếu nhỡ ra có ai đang ngủ trong đó
 Bất chợt chàng nghe thấy một tiếng kêu thốt lên khe khẽ.
 Đó là căn phòng nhỏ mà chiếc giường rộng đã chiếm mất hơn một nửa, trên chiếc tủ nhỏ đèn vẫn sáng, cạnh đó là chiếc ba lô.
 Trên giường, dưới chiếc chăn trùm kín có ai đang ngọ nguậy bất an, người đó hỏi giọng thì thào qua chăn và khăn trải giường
-
 - Ai đó?
 K. giờ đây không thể đơn giản bỏ đi mà không nói gì, chàng bực bội quan sát cái giường hấp dẫn nhưng rất tiếc đã có người nằm, rồi nhớ tới câu hỏi, chàng đã nói tên mình.
 Việc này có vẻ có ảnh hưởng tốt, vì người đàn ông nằm trong giường đã kéo chiếc chăn xuống khỏi khuôn mặt một ít, nhưng vẫn giữ thái độ lo lắng, sẵn sàng kéo trùm chăn lại ngay, nếu có sự gì bất lợi.
@@ -5324,7 +5054,6 @@ Tôi đã chọn cái giường lớn, trong phòng ngủ thì chung quy lại g
 Nhưng đối với tôi cũng tốt, dù tôi không ngủ được, luôn luôn mệt mỏi, phần lớn thời gian trong ngày tôi sinh hoạt trên giường này, ở đây tôi viết tất cả các lá thư và nghe lời khai của các bên.
 Như thế thật tiện lợi.
 Đúng là khách thăm không biết ngồi vào đâu, nhưng họ không quan tâm tới điều đó, họ có lợi hơn
-
 nếu đứng, mà người làm biên bản cũng phấn khởi hơn là họ ngồi thoải mái và liên tục phải rít gào lên với họ.
 Thêm nữa lôi có thể mời ai đó ngồi xuống mép giườ không phải là chỗ ngồi khi làm việc, nó chỉ dành cho những cuộc nói chuyện ban đêm.
 Nhưng tại sao ông im lặng thế, ông đạc điền?
@@ -5345,7 +5074,6 @@ Tôi bảo đảm sự liên hệ chặt chẽ nhất - nói đến đây ông t
 Ông thấy cái túi đi đường của tôi đấy, một cuộc sống bất ổn, không phải ai cũng thích hợp.
 Mặt khác, đúng là tôi không thể tồn tại nếu không có công việc này, tất cả những công việc khác tôi đều thấy vô vị.
 Ông cũng như thế với công việc đạc điền chứ
-
 - Tôi không làm việc đó, người ta không quan tâm đến tôi như là người đạc điền, - K. nói, chàng không chú ý lắm.
 Chàng chỉ mong Bnrgel ngủ đi, nhưng mong muốn đó có được trong chàng là nhờ ý thức trách nhiệm đối với bản thân, vì từ đáy lòng mình dường như chàng biết rằng cái giây phút Bürgel ngủ còn lâu, không biết bao giờ.
 - Chuyện này lạ đấy, - Bürgel nói, hất mạnh đầu và lôi từ dưới chăn ra quyển sổ ghi chép để ghi lại điều gì đó.
@@ -5516,7 +5244,6 @@ Lúc đầu, đầu chàng nghỉ ngơi trên cánh tay trái gối trên thành
 Chỗ tựa của cánh tay chàng ở phía trên không đủ.
 K. buộc phải tìm cái gì khác cho mình: Chàng chống cánh tay phải lên tấm chăn và tình cờ túm lấy chân của Bürgel nhô lên dưới tấm chăn.
 Bürgel nhìn về phía đó, và mặc dù việc đó khó chịu như thế nào, ông ta cũng để mặc K.
-
 Lúc đó có ai gõ mạnh vài lần vào bức tường chung.
 K. giật mình, liếc mắt về phía bức tường.
 - Có ông đạc điền ở đó không?
@@ -5550,8 +5277,6 @@ Chỉ bây giờ nó mới như thế hay là thường xuyên như thế, chàn
 Ở đây chàng không bao giờ ngủ ngon được.
 Nhận thức này là trọng lượng quyết định vào cán c chàng cười thầm rồi đứng dậy tựa vào cái gì có thể tựa được như giường, tường, cửa và như thể đã tạm biệt Bürgel, chàng bước ra mà không chào ông ta.
 Chương XIX
-
-
 Có lẽ chàng cũng đã đi ngang qua trước cửa phòng Erlanger một cách xa lạ như thế nếu Erlanger không đứng ở nơi cánh cửa mở và không ra hiệu cho chàng.
 Ông ta ra hiệu ngắn gọn, một lần, bằng ngón tay trỏ.
 Erlanger đứng với tư thế sẵn sàng lên đường.
@@ -5585,7 +5310,7 @@ K. cũng biết rằng sự mệt mỏi của chàng hôm nay có hại cho chà
 Nếu trong chàng không có niềm tin đó, đơn giản là chàng không lên đường, tại sao chàng không chịu được một vài đêm xấu và một đêm mất ngủ; tại sao chàng lại mệt mỏi không thể nào khắc phục được chính tại đây, nơi mà không một ai mệt mỏi, hay nói chính xác hơn ai cũng luôn luôn mệt mỏi, vậy mà thay vì nhìn thấy tác hại của sự mệt mỏi đối với công việc thì ngược lại, chàng thấy dường như sự mệt mỏi này lại có lợi cho công việc.
 Từ đấy có thể rút ra kết luận rằng sự mệt mỏi của họ hoàn toàn khác sự mệt mỏi của K., là sự mệt mỏi đến sau khi công việc được hoàn thành tốt đẹp: nhìn bề ngoài thì mệt mỏi, nhưng trong thực tế thì đó là sự yên tĩnh, bình yên tuyệt đối.
 Nếu vào buổi trưa con người ta mệt mỏi một tí thì điều đó là tất yếu, là hậu quả tự nhiên của buổi sáng.
-"Ở các ngài đây luôn luôn là buổi trưa”.
+"Ở các ngài đây luôn luôn là buổi trưa".
 - K. thầm nghĩ.
 Và khớp với việc đó một cách chính xác là sống đã nhộn nhịp ở hai bên hành lang, dù chỉ mới năm giờ sáng.
 Trong tiếng động này có gì vui vẻ lắm.
@@ -5751,11 +5476,9 @@ K. rất mệt mỏi, lời qua tiếng lại của cặp vợ chồng có ý ng
 Nếu người ta đuổi chàng đi khỏi nơi này thì đó là sự không may mắn lớn nhất từ trước tới nay.
 Không thể để việc này xảy ra kể cả khi ông chủ quán và vợ ông ta đoàn kết chống lại chàng.
 Ngồi co ro trên thùng, chàng nhìn họ chờ đợi cho đến khi bà chủ quán với sự nhạy cảm đặc biệt mà K. đã thấy từ lâu, đột ngột bước lùi sang một phía và - có thể bà ta đã nói với ông chủ quán về chuyện khác - kêu lên:
-
 - Ông xem kìa, anh ta nhìn tôi như thế nào kìa!
 Hãy tống cổ hắn đi!
 Nhưng K. chớp lấy cơ hội, và bây giờ chàng hoàn toàn tin chắc đến mức thờ ơ, rằng mình có thể ở lại, chàng nói:
-
 - Tôi không nhìn bà, tôi chỉ nhìn quần áo bà.
 - Tại sao lại nhìn quần áo tôi?
 - bà vợ ông chủ quán hỏi vẻ lo lắng.
@@ -5764,8 +5487,6 @@ K. nhún vai.
 Để hắn ngủ ở đây cho qua cơn chếnh choáng!
 Và bà ta còn ra lệnh cho Pepi ném cho chàng một cái gối nào đó, khi cô ta xuất hiện từ trong bóng tối lờ mờ, vẻ bẩn thỉu và mệt mỏi, tay vung vẩy cái chổi.
 Chương XX
-
-
 Khi K. thức dậy, chàng tưởng mình chưa hề ngủ gì cả.
 Căn phòng vẫn trống rỗng và ấm áp, những bức tường trong bóng tối, phía trên quầy uống rượu là một ngọn đèn duy nhất cũng đã tắt, và phía ngoài cửa sổ cũng là đêm.
 Nhưng khi chàng duỗi chân tay, chiếc gối đã rơi xuống, còn tấm ván và những chiếc thùng thì rung rinh; ngay lập tức Pepi đã có mặt ở đó, bây giờ K. mới biết trời đã tối, và chàng đã ngủ liền một mạch hơn mười hai giờ.
@@ -6142,7 +5863,6 @@ Nếu mùa xuân đến và anh tìm được chỗ ở khác ở nơi nào đó
 Tất nhiên, anh cũng phải thận trọng khi còn ở chỗ bọn em, anh không được xuất hiện ở đâu cả, chỉ được phép có mặt ở những nơi mà bọn em cho là không nguy hiểm, và nói chung anh phải làm theo những lời khuyên của bọn em.
 Chỉ có việc đó trói buộc, không có gì khác cả, và việc đó đối với anh cũng quan trọng như đối với chúng em, còn lại anh hoàn toàn tự do, cái công việc mà chúng em phân chia cho anh, sẽ không có khó khăn gì đặc biệt hơn, anh không cần phải sợ.
 Vậy anh đến c
-
 - Còn bao nhiêu thời gian nữa thì đến mùa xuân?
 - K. hỏi.
 - Đến naùa xuân à?
@@ -6189,7 +5909,6 @@ Chàng chỉ ngạc nhiên là giữa đêm khuya khi mọi người chỉ kịp
 Anh lại cộng thêm một sự quá quắt mới.
 Anh không hiểu về quần áo, điều đó đúng.
 Vậy thì tôi đề nghị anh một cách nghiêm chỉnh nhất là anh hãy bỏ lối xét đoán loại quần áo nào đắt, loại nào không; và bộ nào thích hợp vào buổi tối v.v... Mà nói chung, - nói đến đây dường như có cơn rùng mình chạy khắp người bà ta, - anh làm ơn đừng can thiệp vào chuyện quần áo của tôi, anh hiểu c
-
 Và khi K. định quay đi lần nữa không nói năng gì, bà ta hỏi: - Do đâu anh có được những hiểu biết về quần áo?
 K. nhún vai, nói rằng chàng không có hiểu biết gì cả.
 - Anh không có hiểu biết gì cả, - bà chủ quán nói.
@@ -6198,7 +5917,6 @@ Anh đi theo tôi vào văn phòng, tôi cho anh xem một cái gì đó và hy 
 Bà ta ra khỏi cửa, đi trước.
 Pepi nhảy đến chỗ K. lấy cớ là lấy tiền chàng còn cầm của cô, và họ nhanh chóng thỏa thuận, sự việc diễn ra dễ dàng, K. đã biết cái sân mà cổng của nó mở ra ngõ phụ, cạnh cổng có một cánh cửa nhỏ, khoảng một giờ nữa Pepi sẽ đứng sau đó, nghe ba lần gõ thì mở cửa.
 Văn phòng nằm đối diện với quầy uống, chỉ cần bước qua hành lang, bà chủ quán đã đứng trong văn phòng có điện sáng và sốt ruột chờ K.. Nhưng vẫn còn một trở ngại: Gerstäcker đang chờ ngoài hành lang và muốn nói chuyện với K.
-
 Không dễ gì tống khứ được gã, bà chủ quán cũng giúp đỡ, bà lệnh cho Gerstäcker phải giữ trật tự.
 - Đi đâu?
 Đi đâu?
@@ -6248,5 +5966,4 @@ Nhưng đây chỉ là những quần áo không có chỗ để ở trong phòn
 - Tôi không cố gắng đạt được cái gì khác, mà chỉ muốn ăn mặc đẹp, còn anh chỉ là một thằng điên, hoặc là đứa trẻ, hoặc là người rất độc ác và nguy hiểm.
 Bây giờ thì anh hãy đi đi!
 K. đã ở ngoài hành lang, và Gerstäcker đã bám lấy ông tay áo bành tô của chàng, thì bà chủ quán gọi với theo:
-
 - Ngày mai tôi nhận quần áo mới, có lẽ tôi sẽ cho tìm anh.

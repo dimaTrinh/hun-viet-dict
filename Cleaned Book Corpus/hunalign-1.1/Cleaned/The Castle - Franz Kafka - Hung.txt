@@ -1,12 +1,5 @@
-﻿
+﻿A KASTÉLY
 FRANZ KAFKA
-
-A KASTÉLY
-
-FORDÍTOTTA
-RÓNAY GYÖRGY
-
-
 Első fejezet
 Késő este volt, mikor K. megérkezett.
 A falu vastag hó alatt pihent.
@@ -112,7 +105,7 @@ Ha az ember ilyen messze elkóborol az asszonytól meg a családtól, legalább 
 A vendéglős, K.-val szemközt, az ablakpárkányon ült, kényelmesebben nem mert elhelyez­kedni, s egész idő alatt K.-t bámulta szorongó, nagy barna szemével.
 Először odatolakodott hozzá, de most mintha a legszívesebben elszaladt volna.
 Attól félt, hogy kikérdezik a gróf felől?
-Vagy attól, hogy az „úr”, akinek K.-t tartotta, nem elég megbízható?
+Vagy attól, hogy az "úr", akinek K.-t tartotta, nem elég megbízható?
 K. úgy vélte, jobb lesz másra terelni a szót.
 Az órára pillantott, azt mondta:
 - Nemsokára megjönnek a segédeim; el tudod itt helyezni őket?
@@ -307,7 +300,7 @@ Csak kiabálva lehetett szót váltani velük, olyan gyorsan mentek, s egy pilla
 - kiabálta túl hirtelen mindnyájukat K. Nagyon szerette volna, ha azok ketten magukkal viszik, ismeretségüktől ugyan nem várt sokat, de nyilván jó, serkentő úti­tár­sak lettek volna.
 Meghallották a kiabálását, de épp csak biccentettek, és máris messze jártak.
 K. még mindig a hóban állt, semmi kedve nem volt hozzá, hogy kihúzza belőle a lábát, aztán kicsikével odább megint belemélyessze, a tímármester meg a társa, beérve vele, hogy végle­gesen kitették a szűrét, visszahúzódtak a keskenyre nyitott ajtón át a házba, bár közben még egyre szemmel tartották, és K. ott maradt egymaga, hóba burkoltan.
-„Alkalom egy kis kétség­be­esésre - gondolta -, ha véletlenségből és nem szándékosan állnék itt.”
+"Alkalom egy kis kétség­be­esésre - gondolta -, ha véletlenségből és nem szándékosan állnék itt."
 Ekkor kinyílt a bal kéz felé eső kunyhó parányi ablakocskája, csukottan mélykéknek látszott, talán a hó visszfénye miatt, s olyan aprócska volt, hogy most, ahogy kinyitották, annak, aki kinézett rajta, nem is lehetett látni az arcát, hanem csak a szeme látszott, egy öreg barna szempár.
 - Ott áll - hallott K. egy reszketős női hangot.
 - A földmérő - mondta egy férfihang.
@@ -367,7 +360,7 @@ Második fejezet
 Mire a fogadó közelébe értek - K. ezt az út kanyarodásából vette észre -, nagy meglepetésére már majdnem teljesen sötét volt.
 Ilyen sokáig járt volna oda?
 Nem, számítása szerint legföl­jebb egy-két órát, s reggel indult el, meg sem éhezett közben, amellett mindeddig egyforma nappali világosság volt, csak most szállt le hirtelen a sötétség.
-„Kurta napok, kurta napok!” - mondta magában, lecsúszott a szánról, és ment a fogadó felé.
+"Kurta napok, kurta napok!" - mondta magában, lecsúszott a szánról, és ment a fogadó felé.
 A házba vezető lépcső tetején ott állt a vendéglős, igen szívélyesen fogadta, és magasra emelt lámpással elébe világított.
 K.-nak futólag eszébe jutott a fuvaros; megállt, köhögést hallott a homályban, ez ő lehet.
 No majd legközelebb találkoznak.
@@ -446,7 +439,7 @@ Talán a várnagynál.
 Hívjátok föl a várnagyot, most rögtön, mind a ketten.
 A készülékhez szaladtak, megkapták az összeköttetést - majd letaposták egymást igyekeze­tükben.
 Látszólag nevetségesen szófogadók voltak; megkérdezték, fölmehet-e velük K. holnap a kastélyba.
-K. még az asztalánál is meghallotta a válaszból a „nem!”-et.
+K. még az asztalánál is meghallotta a válaszból a "nem!"-et.
 De a válasz nem csak ennyiből állt; így hangzott:
 - Sem holnap, sem máskor.
 - Majd én magam telefonálok - mondta K. és fölállt.
@@ -528,14 +521,14 @@ Ahogy beszélt, férfiasan és mégis lágyan nyílt-csukódott az ajka.
 Barnabás azonban, nyilvánvalóan teljesen ártatlanul, föl sem fogta a kérdést, elengedte a füle mellett, mint jól nevelt inas urának egy-egy, csak látszólag hozzá intézett szavát, éppen csak elnézett a jelzett irányba, odaintett egyik-másik paraszt ismerősének, és váltott néhány szót a segédekkel is, mindezt szabadon, természetesen anélkül, hogy keverednék velük.
 K.-nak, miután így elutasították, bár nem szégyenítették meg, eszébe jutott a levél a kezében; felnyitotta.
 Így szólt:
-„Igen tisztelt Uram!
+"Igen tisztelt Uram!
 Mint tudja, fölvettük a grófság szolgálatába.
 Közvetlen fölöttese a falu elöljárója, aki a továbbiakat mind munkájára, mind fizetésére vonatkozólag közölni fogja önnel, s akinek egyben számadással is tartozik.
 Ennek ellenére azonban én sem fogom szemem elől veszteni.
 Barnabás, jelen soraim átadója, időnként érdeklődni fog önnél, hogy megtudja és közvetítse hozzám esetleges kívánságait.
 Amennyire csak lehetséges, mindig készséggel állok rendelkezésére.
-Igen fontosnak tartom, hogy munkásaink elégedettek legyenek.”
-Az aláírást nem lehetett kibetűzni, mellette ez állt: „A X. iroda vezetője.”
+Igen fontosnak tartom, hogy munkásaink elégedettek legyenek."
+Az aláírást nem lehetett kibetűzni, mellette ez állt: "A X. iroda vezetője."
 - Várj!
 - mondta K. Barnabásnak, aki meghajolt előtte, aztán rákiáltott a kocsmárosra, nyisson neki egy szobát, egy ideig egyedül akart lenni a levelével.
 Közben eszébe jutott, hogy Barnabás, bármilyen vonzónak látja, mégiscsak küldönc, semmi más; sört rendelt hát neki.
@@ -558,7 +551,7 @@ Ez a veszély: a munkás volta.
 Szolgálat, elöljáró, munka, fizetés, számadás, munkás: csak úgy hemzsegett tőlük a levél, s még ami egyebet, személyesebb jellegűt mondott, azt is ebből a szempontból mondta.
 Ha K. munkás akar lenni, ám legyen, hanem akkor istenigazában, minden másfelé való kacsingatás nélkül.
 K. tudta, hogy nem fenyegetik valódi kényszerrel, ettől nem félt, s itt éppenséggel nem; félt viszont a csüggesztő környezet hatalmától, attól, hogy belefásul a csalódásokba, meg azoknak az észrevehetetlen hatásoknak az erejétől, melyek pillanatról pillanatra érhették; ezzel a veszéllyel azonban föl kellett vennie a küzdelmet.
-A levél azt sem rejtette véka alá, hogy amennyiben harcra kerülne a sor, vakmerőségében K. volt a kezdeményező fél; a levél éppen csak finom célzást tett rá, és azt legföljebb a nyugtalan - nem rossz, csupán nyugtalan - lelkiismeret vehette észre: ott rejlett a fölvételére vonatkozó két szóban: „Mint tudja.” K. jelentkezett, és azóta tudhatja, hogy, mint a levél mondta, fölvették.
+A levél azt sem rejtette véka alá, hogy amennyiben harcra kerülne a sor, vakmerőségében K. volt a kezdeményező fél; a levél éppen csak finom célzást tett rá, és azt legföljebb a nyugtalan - nem rossz, csupán nyugtalan - lelkiismeret vehette észre: ott rejlett a fölvételére vonatkozó két szóban: "Mint tudja." K. jelentkezett, és azóta tudhatja, hogy, mint a levél mondta, fölvették.
 Levett egy képet a falról, és fölszúrta a levelet a szögre; ebben a szobában fog lakni, lógjon itt a levél is.
 Aztán lement az ivóba.
 Barnabás az egyik asztalnál ült a segédekkel.
@@ -980,7 +973,7 @@ Boldog volt, hogy végre a szabadban lehet, nagy boldogságában ezúttal még a
 A kocsmában egyenest a szobá­jába ment, és ágyára feküdt; Frida mellette, a földön csinált magának fekhelyet.
 A segédek is utánuk nyomultak; elkergették őket, de visszajöttek az ablakon.
 K. fáradtabb volt, semhogy újra elzavarja őket.
-A kocsmárosné személyesen jött föl, hogy üdvözölje Fridát, és Frida „Anyuskának” nevezte, érthetetlenül szívélyesen üdvözölték egymást, csókokkal, hosszas ölelkezésekkel.
+A kocsmárosné személyesen jött föl, hogy üdvözölje Fridát, és Frida "Anyuskának" nevezte, érthetetlenül szívélyesen üdvözölték egymást, csókokkal, hosszas ölelkezésekkel.
 Nyugalom alig volt a szobában, férficsizmájukban még a szolgálók is be-bedübörögtek, hoztak valamit, elvittek valamit.
 Ha a különféle holmikkal teletömött ágyból kellett nekik ez vagy az, kíméletlenül kirángatták K. alól.
 Fridát úgy köszöntötték, mint magukfajtát.
@@ -1074,7 +1067,7 @@ Frida megpróbálta megnyugtatni.
 - Mit akarsz?
 - mondta a kocsmárosné, és hirtelen egész testével feléje fordult.
 - A földmérő úr kérdezett, felelnem kell neki.
-Egyébként hogyan érthetné meg, ami a mi számunkra természetes: hogy Klamm úr soha nem fog szóba állni vele; mit mondok: „fog”?, soha nem állhat szóba vele!
+Egyébként hogyan érthetné meg, ami a mi számunkra természetes: hogy Klamm úr soha nem fog szóba állni vele; mit mondok: "fog"?, soha nem állhat szóba vele!
 Ide figyeljen, földmérő úr.
 Klamm úr kastélybeli úr, s ez már önmagában véve is igen magas rangot jelent, teljesen függetlenül Klamm egyéb rangjától.
 Mi ezzel szemben maga?
@@ -1091,10 +1084,10 @@ Nem kell felelnie; tudom, nagyon jól elviselte.
 Hiszen nem is képes rá, hogy Klammot igazában lássa, és ez nem túlzás részemről, mert hiszen én magam sem vagyok képes rá.
 Klamm álljon szóba magával, mikor még a falubeliekkel sem áll szóba, még soha nem állt szóba egyetlen falusival sem.
 Frida számára nagy kitüntetés volt, kitüntetés, melyre életem végéig büszke leszek, hogy legalább Fridát a nevén szólította néha, és Frida kedvére szólhatott hozzá, és engedélyt kapott tőle a kémlelőlyukra, de szóba azért ővele sem állt.
-S hogy néha szólította Fridát, annak egyáltalán nem kell olyasfajta jelentőséget tulajdonítani, aminőt szívesen tulajdonítanának, mert egyszerűen csak azt a nevet mondta, hogy „Frida”, ki ismerheti szándékait?
+S hogy néha szólította Fridát, annak egyáltalán nem kell olyasfajta jelentőséget tulajdonítani, aminőt szívesen tulajdonítanának, mert egyszerűen csak azt a nevet mondta, hogy "Frida", ki ismerheti szándékait?
 és Frida természetesen azonnal ugrott, mert hiszen ez volt a dolga; az meg, hogy ellenkezés nélkül beengedték hozzá, Klamm jóságán múlt; de hogy egyenesen őt hívta volna, azt nem lehet mondani.
 De persze most már annak, ami volt, örökre vége.
-Klamm talán ezután is szólítani fogja még a „Frida” nevet, ez lehetséges, de bizonyos, hogy többé soha nem engedik be hozzá: egy lányt, aki magával állt össze!
+Klamm talán ezután is szólítani fogja még a "Frida" nevet, ez lehetséges, de bizonyos, hogy többé soha nem engedik be hozzá: egy lányt, aki magával állt össze!
 És csak egyet nem értek ezzel az én szegény fejemmel: azt az egyet, hogyan engedhette egy lány, akiről azt mondták, Klamm kedvese, amit egyébként szerfölött túlzó minősítésnek tartok, hogyan engedhette, hogy maga akár csak hozzá is érjen.
 - Ez valóban különös - mondta K., és ölébe vonta Fridát, aki, ha lehajtott fejjel is, engedel­me­sen hozzásimult -, viszont, úgy hiszem, azt bizonyítja, még sincs minden egészen olyasfor­mán, ahogyan maga gondolja.
 Abban például kétségkívül igaza van, mikor azt mondja, Klammhoz képest senki vagyok: s ha én ezek után is beszélni óhajtok Klamm-mal, és ettől még felvilágosításai sem térítenek el, ezzel még egyáltalán nem azt mondom, hogy képes lennék Klamm látványát közbeeső ajtó nélkül elviselni, és nem rohannék ki már puszta megjelenésére a szobából.
@@ -1113,7 +1106,7 @@ Nos, Fridáról akarok beszélni vele, és ez egyáltalán nem olyan borzalmas, 
 Mert nyilván téved, ha azt hiszi, Frida az én föllépésem pillanatától fogva nem jelent semmit Klamm számára.
 Tudom, vakmerőség részemről, hogy ki akarom oktatni ebben a vonatkozásban, de meg kell tennem.
 Klammnak Fridához való kapcsolatában az én személyem révén nem történhetett semmi változás.
-Vagy nem volt köztük semmiféle lényeges kapcsolat, ezt állítják tulajdonképpen azok, akik Fridától megvonják a megtisztelő „kedves” címet, és akkor nincs ma sem; vagy volt, s akkor hogy zavarhattam volna meg ezt én, éppen én, aki, mint az imént olyan találóan mondta, Klamm szemében senki és semmi vagyok.
+Vagy nem volt köztük semmiféle lényeges kapcsolat, ezt állítják tulajdonképpen azok, akik Fridától megvonják a megtisztelő "kedves" címet, és akkor nincs ma sem; vagy volt, s akkor hogy zavarhattam volna meg ezt én, éppen én, aki, mint az imént olyan találóan mondta, Klamm szemében senki és semmi vagyok.
 Ilyesmit csak az ijedség első pillanataiban gondolhat az ember, hogy aztán a legkisebb megfontolásra ismét mindent a helyére igazítson.
 Egyébként hallgassuk meg minderről Frida véleményét is.
 Frida, messze révedező tekintettel, arcát K. mellére hajtva, azt mondta:
@@ -1122,11 +1115,11 @@ De persze nem azért, mert te, kedves, közbejöttél, ilyesmi őt egyáltalán 
 Inkább azt gondolom, éppenséggel az ő műve, hogy ott a pult alatt egymásra találtunk, nem átkozott, hanem áldott legyen az az óra.
 - Ha így áll a dolog - mondta K. lassan, mert édesek voltak Frida szavai, néhány pillanatra lehunyta a szemét, s hagyta, hogy a szavak egész lényét átjárják -, ha így áll a dolog, még kevésbé van okom félni attól, hogy kibeszéljem magamat Klamm-mal.
 - Igaz, ami igaz - mondta a kocsmárosné, és lenézett K.-ra -, néha emlékeztet a férjemre, maga is olyan nyakas és gyerekes, akárcsak ő. Alig néhány napja van itt, és máris mindent jobban akar tudni, mint a helybeliek, jobban nálam, öregasszonynál, meg Fridánál, aki annyit látott és hallott az Udvarházban.
-Nem tagadom, egyszer talán lehetséges teljesen a szabályok és ha­gyo­mányok ellenére is elérni valamit, én soha életemben nem tapasztaltam ilyesmit, állító­lag van rá példa, meglehet, ámde akkor bizonyosan nem azon az úton-módon, ahogy maga csinálja, hogy folyton csak azt hajtogatja, „nem”, „nem”, megy konokul a saját feje után, és nem hallgat a legokosabb tanácsra sem.
+Nem tagadom, egyszer talán lehetséges teljesen a szabályok és ha­gyo­mányok ellenére is elérni valamit, én soha életemben nem tapasztaltam ilyesmit, állító­lag van rá példa, meglehet, ámde akkor bizonyosan nem azon az úton-módon, ahogy maga csinálja, hogy folyton csak azt hajtogatja, "nem", "nem", megy konokul a saját feje után, és nem hallgat a legokosabb tanácsra sem.
 Azt hiszi, magáért aggódom?
 Törődtem magával, amíg egyedül volt?
 Bár nem ártott volna, s egyet-mást elkerülhettünk volna.
-Akkor csak annyit mondtam magáról az uramnak: „Óvakodjál tőle.” S ma is ezt tenném, ha Frida nem keveredett volna bele a sorsába.
+Akkor csak annyit mondtam magáról az uramnak: "Óvakodjál tőle." S ma is ezt tenném, ha Frida nem keveredett volna bele a sorsába.
 Neki köszönheti a gondoskodásomat, sőt a figyelmemet, akár tetszik magának, akár nem.
 És nem szabad kurtán-furcsán elutasítania, mert szigorúan felelős nekem, az egyetlennek, aki anyai gonddal vigyáz a kis Fridára.
 Lehet, hogy Fridának igaza van, s ami történt, az mind Klamm akaratából történt; de Klammról most nem tudok semmit; sosem fogok beszélni vele, teljességgel elérhetetlen számomra; maga viszont itt ül, ölében az én kis Fridámmal: maga tartja őt, és (miért titkoljam?)
@@ -1264,7 +1257,7 @@ Ki győzi mindezt megőrizni!
 De kint a csűrben még jócskán van.
 Meg tudod találni azt a leiratot?
 - fordult ismét a feleségéhez.
-- Azt az aktát kell keresned, amelyiken ez a szó, hogy „földmérő”, kékkel alá van húzva.
+- Azt az aktát kell keresned, amelyiken ez a szó, hogy "földmérő", kékkel alá van húzva.
 - Nagyon sötét van itt - mondta az asszony -, hozok egy szál gyertyát - és a papírokon taposva kiment a szobából.
 - Nagy segítség nekem a feleségem - mondta az elöljáró -, ebben a nehéz hivatali munkában, amit ráadásul csak mellékesen kell csinálnom.
 Az írásbeli munkához van ugyan még egy segéderőm, a tanító, mégis képtelenség végezni a dologgal, mindig sok elintézetlen marad, ott gyűlik abban a ládában - és egy másik szekrényre mutatott.
@@ -1286,7 +1279,7 @@ Mindenesetre megnevelte már őket egy kicsit, nem tódultak be azonnal a szobá
 Különben ismerem a fickókat.
 Régi ismerőseim.
 - De nekem terhemre vannak - mondta K. minden köntörfalazás nélkül, és tekintete a segédekről az elöljáróra, aztán az elöljáróról megint a segédekre siklott, s ugyanazt a mosolyt látta mindhármuk arcán.
-- Hát ha már itt vagytok - mondta aztán, kísérletképpen -, maradjatok és segítsetek az elöljáróné asszonynak megkeresni egy aktát, melyen a „földmérő” szó kékkel alá van húzva.
+- Hát ha már itt vagytok - mondta aztán, kísérletképpen -, maradjatok és segítsetek az elöljáróné asszonynak megkeresni egy aktát, melyen a "földmérő" szó kékkel alá van húzva.
 Az elöljáró nem tiltakozott.
 Amit K.-nak nem volt szabad, az a segédeknek szabad volt, nyomban rá is vetették magukat a papírokra, de inkább csak turkáltak benne, mintsem kerestek, s ha valamelyikük böngészni kezdett egy iratot, a másik tüstént kitépte a kezéből.
 Az asszony meg ott térdepelt az üres szekrény előtt, és úgy látszott, már nem keres semmit, a gyertya legalábbis jó messze volt tőle.
@@ -1425,7 +1418,7 @@ Alighogy a levélbe tekintett, könnyedén összetette a kezét.
 Aztán együtt elolvasták a levelet, egy ideig suttogtak egymással, majd végül, épp mikor a segédek harsány hurrát kiáltottak, mert végre sikerült benyomniuk a szekrény ajtaját, Mici pedig néma hálával feléjük pillantott, az elöljáró így szólt:
 - Mici tökéletesen osztja a véleményemet, úgyhogy bátran kimondhatom.
 Ez a levél egyáltalán nem hivatalos leirat, hanem magánlevél.
-Ez már a megszólításból is félreérthetetlenül kinyilvánul: „Igen tisztelt Uram!” Azonfölül egy árva szóval sem állítják benne, hogy megfo­gadták földmérőnek, hanem csak úgy általánosságban beszélnek benne grófi szolgálatról, és még ezt sem mondják kötelezőleg, hanem csak fölvették, „mint tudja”, vagyis azt, hogy fölvették, önnek kell bizonyítania.
+Ez már a megszólításból is félreérthetetlenül kinyilvánul: "Igen tisztelt Uram!" Azonfölül egy árva szóval sem állítják benne, hogy megfo­gadták földmérőnek, hanem csak úgy általánosságban beszélnek benne grófi szolgálatról, és még ezt sem mondják kötelezőleg, hanem csak fölvették, "mint tudja", vagyis azt, hogy fölvették, önnek kell bizonyítania.
 Továbbá, hivatali tekintetben, egyedül hozzám utasítják, az elöljáróhoz, mint közvetlen fölötteséhez, aki a továbbiakat közli önnel: ez különben jórészt meg is történt.
 Az előtt, aki ért a hivatalos levelek olvasásához, s ennek következtében még jobban ért a nem hivatalosakéhoz, mindez napnál világosabb.
 Persze nem csodálkozom rajta, hogy ön ezt nem látja, hiszen idegen.
@@ -1872,7 +1865,7 @@ De mit is tehetne mást, most, amikor, legalábbis az ő fölfogása szerint, va
 Ami Fridát illeti, ő természetesen követi K.-t, bárhová a világon, hóban és fagyban, erre kár is szót vesztegetni; de mindenesetre igen szorult helyzetben vannak, ezért nagy örömmel fogadta az elöljáró ajánlatát, mert ha az állás nem is illik K.-hoz, félreért­hetetlenül leszögezték, hogy csak átmeneti jellegű, időt nyernek vele, és könnyen találnak más lehetőséget, még ha a végleges döntés kedvezőtlen lenne is.
 - Végső esetben - kiáltotta Frida, már K. nyakában - kivándorlunk, mi tart minket itt a faluban?
 Egyelőre azonban elfogadjuk az ajánlatot, ugye, kedves?
-Visszahoztam a tanítót, csak annyit mondasz neki, hogy „elfogadva”, semmi egyebet, és átköltözünk az iskolába.
+Visszahoztam a tanítót, csak annyit mondasz neki, hogy "elfogadva", semmi egyebet, és átköltözünk az iskolába.
 - Hát ez komisz dolog - mondta K., de nem egészen komolyan, mert a lakás nem nagyon érdekelte, amellett nagyon fázott is így alsóneműben a padláson, melynek kétfelől se fala, se ablaka nem volt, s alaposan átjárta a jéghideg levegő.
 - Olyan szépen rendbe tetted a szobát, és most menjünk ki belőle!
 Nem, nem szívesen fogadnám el azt az állást, már az is kínosan érint, hogy pillanatnyilag meg kell alázkodnom ez előtt a kis tanító előtt, és még ráadásul a főnököm is legyen!
@@ -1902,7 +1895,7 @@ Frida kisegítette K.-t.
 - Persze - mondta.
 - Elfogadja az állást.
 Igaz, K.?
-Így aztán K. egyetlen kurta „igaz”-ra korlátozhatta nyilatkozatát, s ezt az egy szót sem a tanítóhoz, hanem Fridához intézte.
+Így aztán K. egyetlen kurta "igaz"-ra korlátozhatta nyilatkozatát, s ezt az egy szót sem a tanítóhoz, hanem Fridához intézte.
 - Így - mondta a tanító - most már csak szolgálati kötelességeit kell ismertetnem, hogy ezzel ebben a kérdésben egyszer s mindenkorra szót értsünk; tehát, földmérő úr, naponta ki kell takarítania a két tantermet, be kell fűtenie, a kisebb javításokat a házban, valamint a tan- és tornaszereken magának kell eszközölnie, a kerten átvezető útról el kell söpörnie a havat, küldönci szolgálatokat kell teljesítenie nekem és a tanító kisasszonynak, s a melegebb évszakokban el kell végeznie minden kerti munkát.
 Ennek fejében joga van a tetszése szerint választott tanteremben lakni; ha azonban nem folyik tanítás egyszerre mind a két teremben, s ön éppen abban a teremben lakik, ahol a tanítás folyik, természetesen köteles átköltözni a másik terembe.
 Főzni nem szabad az iskolában, ezért hozzátartozóival együtt itt a kocsmában kap ellátást a község terhére.
@@ -2240,7 +2233,7 @@ Mindössze ennyit mondtam, és aki mást állít, rosszindulatúan elcsűri-csav
 - Ha így van, kocsmárosné asszony - mondta K. -, akkor bocsánatot kérek, félreértettem; korábbi szavaiból, mint most kiderült, tévesen azt vettem ki, hogy valami végtelenül parányi reménységem azért mégiscsak van.
 - Kétségkívül - mondta a kocsmárosné -, nekem is csak ez a véleményem, megint félrema­gyarázta a szavaimat, csakhogy ezúttal az ellenkező irányba.
 Véleményem szerint van a maga számára ilyesfajta remény, de mindenesetre pusztán csak ezen a jegyzőkönyvön alapszik.
-Ám nem úgy áll vele a dolog, hogy egyszerűen rátámadhat a titkár úrra a kérdéssel: „Klamm elé kerülhetek, ha válaszolok a kérdésekre?” Ha ezt egy gyerek kérdezi, legföljebb nevet rajta az ember; ha egy felnőtt teszi ugyanezt, megsérti a hivatalt; a titkár úr válaszának, finomságával kegyesen elleplezte ezt a tényt.
+Ám nem úgy áll vele a dolog, hogy egyszerűen rátámadhat a titkár úrra a kérdéssel: "Klamm elé kerülhetek, ha válaszolok a kérdésekre?" Ha ezt egy gyerek kérdezi, legföljebb nevet rajta az ember; ha egy felnőtt teszi ugyanezt, megsérti a hivatalt; a titkár úr válaszának, finomságával kegyesen elleplezte ezt a tényt.
 A remény, melyre én gondolok, éppen abban áll, hogy a jegyzőkönyv által valamilyen kapcsolatra tesz szert, valamilyen kapcsolatra, talán magával Klamm-mal.
 Ez talán nem elég remény?
 Ha föltennék magának a kérdést, mivel érdemelte ki ennek a reménynek az ajándékát: ugyan mire tudna hivatkozni?
@@ -2250,7 +2243,7 @@ Az ő számára, mint mondta, csupán a mai délután leírásáról van szó, a
 - Nem - felelte Momus.
 - Minek olvasná?
 Utóvégre Klamm nem olvashat el minden jegyző­könyvet, sőt egyetlenegyet sem olvas el.
-Többnyire azt mondja: „Hagyjatok nekem békét a jegyzőkönyveitekkel!”
+Többnyire azt mondja: "Hagyjatok nekem békét a jegyzőkönyveitekkel!"
 - Földmérő úr - mondta panaszosan a kocsmárosné -, idegeimre megy az effajta kérdésekkel.
 Hát szükséges vagy egyáltalán csak kívánatos is, hogy Klamm elolvassa ezt a jegyzőkönyvet, és szó szerint értesüljön a maga életének semmiségeiről?
 Inkább kérje alázatosan, rejtsék el a jegyzőkönyvet Klamm elől, ami egyébként éppoly oktalan kérés lenne, mint az előbbi, mert ki rejthet el valamit Klamm elől?...
@@ -2321,13 +2314,13 @@ A viszontlátás okozta meglepetés hirtelenében elfeledtette vele mindazt a bo
 - Világítsatok!
 - szólt rá a segédekre, akik jobbról-balról hozzá nyomakodtak, és fölemelték a lámpásukat.
 - K.-nak apróra kellett hajtogatnia a nagy ívet, nehogy a szél eltépje; aztán olvasni kezdte:
-„A földmérő úrnak A hídhoz címzett vendégfogadóba!
+"A földmérő úrnak A hídhoz címzett vendégfogadóba!
 Eddig végzett földmérő munkála­tai elismerésemmel találkoznak.
 Dicséretre méltó a segédek munkája is, jól dologra tudja fogni őket.
 Buzgalma a továbbiakban se lankadjon!
 Vigye jó végre ezt a munkát; megszakítása elkeserítene.
 Egyébként legyen nyugodt, a díjazás kérdésében hamarosan döntés történik.
-Szemmel tartom önt.”
+Szemmel tartom önt."
 K. előbb nézett föl a levélből; a segédek sokkal lassabban olvastak, s a jó hír örömére csak később kiáltottak háromszoros, hangos hurrát, lámpásukat lóbálva hozzá.
 - Maradjatok veszteg - mondta nekik, aztán Barnabásnak: - Ez valami félreértés.
 Barnabás nem értette.
@@ -2376,7 +2369,7 @@ K. ekkor kissé megnyugodott, mert eszébe jutott, hogy Klamm közben valószín
 - Nem haragszom rád - mondta K., és idegessége most saját maga ellen fordult.
 - Rád nem haragszom, de nagy baj nekem, hogy fontos dolgaimban csak ilyen küldöncöm van.
 - Nézd - mondta Barnabás, és úgy látszott, küldönci becsülete védelmében többet mond, mint amennyit szabadna -, Klamm nem vár híreket, sőt egyenesen bosszankodik, ha meglát.
-„Már megint új hírek!”, mondta egyszer, és többnyire föláll, mihelyt megpillant, átmegy a szomszéd szobába, és nem is fogad.
+"Már megint új hírek!", mondta egyszer, és többnyire föláll, mihelyt megpillant, átmegy a szomszéd szobába, és nem is fogad.
 Különben nincs is megszabva, hogy minden üzenettel azonnal jelentkeznem kell: ha meg lenne szabva, természetesen azonnal mennék, de semmiféle ilyen szabály nincs, és akkor se figyelmeztetnének, ha sosem jelentkezném.
 Ha üzenetet kézbesítek, csak jószántamból teszem.
 - Jól van - mondta K., Barnabást figyelte, és szántszándékkal nem vette észre a segédeket, akik Barnabás háta mögül fölváltva föl-fölemelkedtek, lassan, mint valami süllyesztőből, aztán hirtelen újra lebuktak, a szél hangját utánzó füttyentéssel, mintha megijednének K. látványától, s így szórakoztak sokáig.
@@ -2482,7 +2475,7 @@ Szép is lenne!
 Maga engedélyt kapott ugyan, hogy az iskolateremben aludjék, nekem azonban nem kötelességem a maga hálószobájában tanítani.
 Egy iskolaszolga, aki családostul délig az ágyban hever!
 Pfuj!
-„Erre ugyan lehetne egyet és mást mondani, kivált ami a családot meg az ágyat illeti” - gondolta K., miközben Fridával - a segédek, hasznukvehetetlenül, a földön heverve bámulták a tanítónőt meg a gyerekeket - sietve odatolta a korlátot meg a lovat, mindkettőre pokrócot vetett, hogy némi kis helyet kerítsen el maguknak, ahová a gyerekek nem látnak be, s így legalább fölöltözködhetnek.
+"Erre ugyan lehetne egyet és mást mondani, kivált ami a családot meg az ágyat illeti" - gondolta K., miközben Fridával - a segédek, hasznukvehetetlenül, a földön heverve bámulták a tanítónőt meg a gyerekeket - sietve odatolta a korlátot meg a lovat, mindkettőre pokrócot vetett, hogy némi kis helyet kerítsen el maguknak, ahová a gyerekek nem látnak be, s így legalább fölöltözködhetnek.
 Nyugtuk ugyan egy pillanatra sem volt, a tanítónő mindjárt pörölni kezdett, miért nincs tiszta víz a mosdótálban; K. éppen arra gondolt, elhozza a tálat Fridának és magának, de nem akarta túlságosan fölbosszantani a tanítónőt, fölhagyott hát ezzel a szándékával, ám nem sok eredménnyel, mert nyomban utána csörömpölés hallatszott; a vacsora maradványait ugyanis, sajnos, elfelejtették eltakarítani a katedráról, s most a tanítónő vonalzójával az egészet lesöpörte a földre; az, hogy a szardínia olaja meg a maradék kávé kifolyt, a kávéskanna pedig összetört, a tanítónőt a legkevésbé sem érdekelte: azért van az iskolaszolga, hogy egykettő rendet csináljon.
 Frida és K. még félig öltözetlenül, a korlátra támaszkodva szemlélték vagyonkájuk pusztulását; a segédeknek szemlátomást eszükbe sem volt felöltözni, s a gyerekek nagy örömére a takaró alól kukucskálva lesték, mi történik.
 Fridának természetesen a kávéskanna elvesztése fájt a legjobban, csak mikor K., vigasztalásul, kijelentette, hogy nyomban elmegy az elöljáróhoz, kárpótlást kér, és nyilván kapni is fog: csak akkor szedte össze magát annyira, hogy ingben, alsószoknyában kiszaladt fedezékük mögül, a terítőért, mert legalább azt meg akarta óvni attól, hogy bemocskolják.
@@ -2625,7 +2618,7 @@ Ha pedig valahol nyugtot találhattam volna, olyan emberek voltak, akiktől siet
 - Menekültél tőlük?
 Ugye, menekültél?
 Drágám!
-- kiáltott közbe Frida hevesen, s aztán, K. habozó „igen”-je után megint fáradtan magába süppedt.
+- kiáltott közbe Frida hevesen, s aztán, K. habozó "igen"-je után megint fáradtan magába süppedt.
 De most már K.-ban sem volt elég erő, hogy elmondja, mennyiben fordította jobbra sorsát Fridával való kapcsolata.
 Lassan levette róla a karját, egy ideig hallgatva ültek; aztán, mintha K. karjától kapta volna a meleget, ami nélkül már el se lehetne, Frida így szólt:
 - Nem fogom bírni ezt az életet itt.
@@ -2673,7 +2666,7 @@ Szegények!
 - kérdezte K. - Te voltál a közvetlen oka.
 - Én?
 - kérdezte Frida, és egyre csak kifelé nézett.
-- Az, hogy olyan határtalanul barátságosan bántál velük - mondta K. - Hogy minden komisz­ságukat megbocsátottad, hogy csak nevettél rajtuk, a hajukat simogattad, hogy folyton tele vagy részvéttel irántuk, most is egyre azt hajtogatod, hogy „szegények, szegények”, s végül itt az a legutóbbi eset, amikor engem vetettél oda, csak hogy őket megmentsd az elpáholástól.
+- Az, hogy olyan határtalanul barátságosan bántál velük - mondta K. - Hogy minden komisz­ságukat megbocsátottad, hogy csak nevettél rajtuk, a hajukat simogattad, hogy folyton tele vagy részvéttel irántuk, most is egyre azt hajtogatod, hogy "szegények, szegények", s végül itt az a legutóbbi eset, amikor engem vetettél oda, csak hogy őket megmentsd az elpáholástól.
 - Éppen ez az - mondta Frida -, hiszen erről beszélek, ez az, ami szerencsétlenné tesz, s ami távol tart tőled, pedig elképzelni sem tudok nagyobb boldogságot, mint veled lenni, folyton, megszakítás nélkül, végtelenül; s ehelyett azon tűnődöm, szerelmünknek nincs egy talpalatnyi nyugodt hely a földön, sem a faluban, sem másutt, s ezért egy mély, szűk sírt képzelek el ma­gamnak, s ott végre ölelkezünk, mintha satu préselne egymáshoz, és arcomat hozzád szorítom, te a tiédet hozzám, és rejtekünkben nem láthat bennünket soha senki többé.
 De itt... nézd a segédeket!
 Nem neked szól, ha kezüket rimánkodva kinyújtják, hanem nekem.
@@ -2781,7 +2774,7 @@ K. minderre némi töprengés után azt felelte, nincs szüksége segítségre, 
 Ezzel szemben ezúttal talán ő, K. nyújthatna némi kis segítséget; igen fájlalja, hogy Jancsi anyja betegeskedik, és bajához itt nyilván senki sem ért: ha így elhanyagolják, még az önmagában véve könnyű betegség is gyakran rosszra fordulhat.
 Nos, neki, K.-nak vannak bizonyos orvosi ismeretei, s ami még többet ér, bizonyos tapasztalatai a betegápolásban.
 Nemegyszer boldogult már ott, ahol orvosok kudarcot vallottak.
-Odahaza gyógyító képessége miatt „gyógynövénynek” hívták.
+Odahaza gyógyító képessége miatt "gyógynövénynek" hívták.
 Mindenesetre szívesen meglátogatná Jancsi anyját, és szívesen beszélne vele.
 Ki tudja, nem adhat-e valami jó tanácsot; örömest megtenné, már csak Jancsi kedvéért is.
 Jancsi szeme először fölfénylett erre az ajánlatra, úgyhogy K., félrevezetve, már-már unszolni kezdte, ám egyáltalán nem kielégítő eredménnyel, mert Jancsi a különféle kérdésekre azt felelte, és még csak nem is különösebben szomorúan, hogy anyja nagy kíméletre szorul, ezért senki idegen nem látogathatja meg; noha K. annak idején alig beszélt vele, utána mégis néhány napig ágyban feküdt, ami természetesen máskor is megesik.
@@ -2975,7 +2968,7 @@ K., ahogy odakint a hóban lábalt - már rég el kellett volna kotorni az utat;
 De csak az egyiket; hol volt a másik?
 Sikerült megtörnie legalább az egyiknek a kitartását?
 De ebben itt azért még maradt épp elég ügybuzgóság; erre vallott, hogy K. láttára azonnal fölélénkült, s nyomban vad hadonászásba és epekedő szemforgatásba kezdett.
-„Kitartása való­ban példás - mondta magában K., és kénytelen volt hozzátenni -: kész megfagyás a rácsnál.” De azért csak az öklét emelte föl fenyegetőleg, s ez eleve útját szegte minden közeledésnek, sőt a segéd ijedtében még jócskán hátrább is hőkölt.
+"Kitartása való­ban példás - mondta magában K., és kénytelen volt hozzátenni -: kész megfagyás a rácsnál." De azért csak az öklét emelte föl fenyegetőleg, s ez eleve útját szegte minden közeledésnek, sőt a segéd ijedtében még jócskán hátrább is hőkölt.
 Épp akkor nyitotta ki Frida az ablakot, hogy mielőtt begyújtanak, megállapodásuk szerint kiszellőztessen.
 A segéd abban a pillanat­ban elfordult K.-tól, és mintha ellenállhatatlan vonzásnak engedelmeskednék, az ablak felé kúszott.
 Frida arca eltorzult, szívélyességtől a segéd, esedező tanácstalansággal K. felé, s föntről, az ablakból tétován intett egyet a kezével; még azt sem lehet biztosan tudni, mi volt ez, tilalom vagy köszöntés; a segéd nem is hagyott föl a közeledéssel.
@@ -3179,7 +3172,7 @@ Egyre inkább elvesztette ugyan reményét Barnabás küldönci szolgálatának 
 Mindezt természe­tesen még korántsem látta elég világosan, és végül fordulhatott az ellenkezőjére is; nem kell engedni, hogy Olga kétségkívül ártatlan lénye egyszeriben félrevezesse, és Barnabás őszinte­sé­gé­ben sem kell föltétlenül hinnie.
 - A Klamm külső megjelenéséről szóló tudósításokat - folytatta Olga - Barnabás nagyon jól ismeri, sokat összeszedett és összehasonlított, talán túl sokat is, s egyszer magát Klammot is látta, vagy látni vélte a faluban, a kocsi ablakán át; kellően fölkészült hát, hogy megismerje, mégis, s ezt vajon hogyan magyarázod meg magadnak, mikor a kastélyban belépett az egyik irodába, s a hivatalnokok közt rámutattak az egyikre, és azt mondták, ez Klamm, nem ismert rá, és utána még sokáig nem szokta meg, hogy valóban Klamm.
 Ha most aztán megkérdezed Barnabást, miben különbözik az az ember attól, ahogyan Klammot általában elképzeljük, nem tud mit felelni, jobban mondva úgy felel, hogy leírja a kastélybeli hivatalnokot, de ez a leírás pontról pontra egybevág azzal, ahogyan Klammot ismerjük.
-„Akkor hát, mondom neki, miért kételkedel, Barnabás, miért gyötröd magad?” Erre, szemlátomást szorongva, sorolni kezdi a kastélybeli hivatalnokok sajátosságait, de mintha inkább csak kitalálná őket, mintsem beszá­molna róluk; s ezek a sajátosságok ráadásul olyan jelentéktelenek, például Klamm egy külön­leges fejbólintására vagy kigombolt mellényére vonatkoznak, hogy lehetetlen komolyan venni őket.
+"Akkor hát, mondom neki, miért kételkedel, Barnabás, miért gyötröd magad?" Erre, szemlátomást szorongva, sorolni kezdi a kastélybeli hivatalnokok sajátosságait, de mintha inkább csak kitalálná őket, mintsem beszá­molna róluk; s ezek a sajátosságok ráadásul olyan jelentéktelenek, például Klamm egy külön­leges fejbólintására vagy kigombolt mellényére vonatkoznak, hogy lehetetlen komolyan venni őket.
 Még fontosabbnak találom azt a módot, ahogyan Klamm Barnabással érintkezik.
 Barnabás gyakran leírta, sőt le is rajzolta nekem.
 Rendszerint egy nagy irodaszobába vezetik, de ez nem Klamm irodája, és nem is valamelyik tisztviselőé.
@@ -3212,7 +3205,7 @@ De ha régi levél, miért váratták olyan sokáig Barnabást?
 És téged is?
 S végül a levelet is, hiszen most már elavult?
 És Barnabás ezáltal abba a látszatba keveredik, hogy rossz, lassú küldönc.
-Az írnok mindenesetre könnyedén veszi a dolgot, odaadja Barnabásnak a levelet, és azt mondja: „Klamm küldi K.-nak”, azzal elbocsátja.
+Az írnok mindenesetre könnyedén veszi a dolgot, odaadja Barnabásnak a levelet, és azt mondja: "Klamm küldi K.-nak", azzal elbocsátja.
 Most aztán Barnabás hazajön, kifulladva, inge alatt, puszta testén a végre megszerzett levél, s akkor leülünk ide a padkára, úgy, mint most mi ketten, és mesélni kezd, és pontról pontra mindent megvizsgálunk, és latra vetjük, hogy mit ért el, és a végén kiderül, hogy jóformán semmit, és még ez a majdnem semmi is kérdéses; s akkor Barnabás félreteszi a levelet, nincs kedve kézbesíteni, de ahhoz sincs kedve, hogy aludni menjen, nekilát a susztermunkának, s ott ül egész éjszaka a zsámolyon.
 Így van ez, K., ezek az én titkaim, és most már bizonyára nem csodálkozol rajta, hogy Amália lemond róluk.
 - És a levél?
@@ -3222,7 +3215,7 @@ Most aztán Barnabás hazajön, kifulladva, inge alatt, puszta testén a végre 
 - Nos, egy idő múltán, ha már eleget noszogattam, napok, hetek is beletelhetnek, Barnabás végre mégis előveszi a levelet, és elindul, hogy kézbesítse.
 Az effajta külsőségekben erősen függ tőlem.
 Én ugyanis, miután elbeszélésének első hatását leküzdöt­tem, ismét össze bírom szedni magamat, ő viszont képtelen erre, valószínűleg éppen azért, mert többet tud nálam.
-S akkor aztán újra meg újra elmondhatom neki nagyjában a követ­ke­ző­ket: „Mondd, Barnabás, mit akarsz voltaképpen?
+S akkor aztán újra meg újra elmondhatom neki nagyjában a követ­ke­ző­ket: "Mondd, Barnabás, mit akarsz voltaképpen?
 Milyen pályáról, milyen célról ábrándozol?
 Odáig akarsz jutni, hogy végül egészen el kell hagynod minket, engem?
 Hát ez a célod?
@@ -3235,7 +3228,7 @@ Semmit sem jelent ez neked?
 Nem újítja meg erődet?
 Semmiféle biztonságot nem ad neked az a tudat, hogy én boldog, sőt már-már kevély vagyok, amiért ilyen testvérem van?
 Őszintén megmondom, csalódás számomra, nem az, amit te a kastélyban elértél, hanem az, amit én értem el nálad.
-Fölmehetsz a kastélyba, bejáratos vagy az irodákba, napokat töltesz egy teremben Klamm-mal, nyilvánosan elismert küldönc vagy, igényt tarthatsz szolgálati öltönyre, fontos levelek kihordását bízzák rád; ez vagy, ennyi mindent szabad neked, s amikor lejössz, ahelyett hogy könnyes örömmel borul­nánk egymás karjába, csak rám nézel, és mintha végképp elszontyolodnál; mindenben kétel­kedel, csak a cipészkedéssel törődöl, a levelet meg, jövőnk zálogát, a sarokban heverteted.” Ilyesmit mondok neki, s mikor már naphosszat újra meg újra elmondtam, végül nagy sóhajtva mégiscsak előveszi a levelet, és elindul vele.
+Fölmehetsz a kastélyba, bejáratos vagy az irodákba, napokat töltesz egy teremben Klamm-mal, nyilvánosan elismert küldönc vagy, igényt tarthatsz szolgálati öltönyre, fontos levelek kihordását bízzák rád; ez vagy, ennyi mindent szabad neked, s amikor lejössz, ahelyett hogy könnyes örömmel borul­nánk egymás karjába, csak rám nézel, és mintha végképp elszontyolodnál; mindenben kétel­kedel, csak a cipészkedéssel törődöl, a levelet meg, jövőnk zálogát, a sarokban heverteted." Ilyesmit mondok neki, s mikor már naphosszat újra meg újra elmondtam, végül nagy sóhajtva mégiscsak előveszi a levelet, és elindul vele.
 De valószínűleg nem is az én szavaim hatására, hanem mert megint mehetnékje támadt a kastélyba, s a megbízás teljesítése nélkül mégse merne visszamenni.
 - De abban, amit mondasz neki, mindenben igazad van - mondta K. - Csodálatos, milyen helyesen foglaltad össze a dolgot.
 Meglepően világosan gondolkodol!
@@ -3351,7 +3344,7 @@ Csak reggel, mikor a hídi kocsmárosné benézett hozzánk...
 - A hídi kocsmárosné?
 - kérdezte K.
 - Igen - felelte Olga -, nagyon jóban volt velünk; szóval eljött hozzánk, és el kellett ismernie, hogy Amália sokkal előnyösebben fest; erre aztán, hogy megbékítsen, nekem adta cseh-gránát nyakláncát.
-Alikor aztán már indulóban voltunk, és Amália ott állt előttem, s mi mind megcsodáltuk, apám pedig azt mondta: „Emlékezzetek a szavamra: Amáliának ma vőlegénye akad”... akkor, magam sem tudom, miért, lecsatoltam büszkeségemet, a nyakláncot, és most már minden irigység nélkül Amália nyakára kapcsoltam.
+Alikor aztán már indulóban voltunk, és Amália ott állt előttem, s mi mind megcsodáltuk, apám pedig azt mondta: "Emlékezzetek a szavamra: Amáliának ma vőlegénye akad"... akkor, magam sem tudom, miért, lecsatoltam büszkeségemet, a nyakláncot, és most már minden irigység nélkül Amália nyakára kapcsoltam.
 Magamban éppen meghajoltam győzelme előtt, s azt gondoltam, mindenkinek meg kell hajolnia előtte, talán meg is lepett minket, mennyire más, mint egyébként, mert alapjában véve nem is volt szép, de komor tekintete, s ez a komorság azóta is megmaradt benne, fölényesen elsiklott fölöttünk, úgyhogy az ember önkéntelenül majdhogynem valóban meghajolt előtte.
 Mindenki észrevette ezt, Lasemann meg a felesége is, akik értünk jöttek.
 - Lasemann?
@@ -3378,7 +3371,7 @@ Ma sem értem, mint történhetett, hogy noha sokáig álldogáltunk a fecskend�
 Persze iszonya­tos lárma volt, jóval nagyobb, mint általában ilyen ünnepélyeken.
 A kastély ugyanis néhány trombitát is ajándékozott a tűzoltóságnak, különleges hangszereket, melyekből a legkisebb erőfeszítés nélkül a legvadabb hangokat lehetett kicsalni, akár egy gyerek is képes volt rá, aki hallotta, azt hitte, nyakunkon a török, és nem lehetett megszokni: ahányszor fölharsant, mindig újra meg újra összerezzent az ember.
 És mert új trombiták voltak, mindenki ki akarta próbálni őket, és mert ünnep volt, mindenkinek meg is engedték.
-Épp körülöttünk gyakorolt néhány ilyen trombitás, talán Amália szépsége csalta oda őket; az ember nehezen bírta összeszedni a figyelmét, s ha még ráadásul, ahogy apánk parancsolta, a fecskendőt is alaposan szemügyre kellett vennünk, ennél többre már igazán nem tellett az erőnkből, ezért nem vettük észre olyan hosszú ideig Sortinit, akit előzőleg egyébként nem is ismertünk... „Ott van Sortini”, suttogta végül Lasemann apám fülébe; én éppen a közelükben álltam.
+Épp körülöttünk gyakorolt néhány ilyen trombitás, talán Amália szépsége csalta oda őket; az ember nehezen bírta összeszedni a figyelmét, s ha még ráadásul, ahogy apánk parancsolta, a fecskendőt is alaposan szemügyre kellett vennünk, ennél többre már igazán nem tellett az erőnkből, ezért nem vettük észre olyan hosszú ideig Sortinit, akit előzőleg egyébként nem is ismertünk... "Ott van Sortini", suttogta végül Lasemann apám fülébe; én éppen a közelükben álltam.
 Apám mélyen meghajolt, és izgatottan nekünk is intett, hogy hajtsuk meg magunkat.
 Apám, noha eddig még nem ismerte, mindig úgy tisztelte Sortinit, mint a tűzvédelmi dolgok szakértőjét, otthon is többször emlegette; érthető hát, ha most rendkívül meglepett, és igen jelentősen hatott ránk, hogy szemtől szembe láthatjuk.
 Sortini azonban nem törődött velünk (ez a közöny nem egyedül az ő sajátossága volt, nyilvánosság előtt a legtöbb kastélybeli tisztviselő közönyösnek mutatkozik), amellett fáradt is volt, csak hivatali kötelességből maradt lent; nem a legrosszabb tisztviselők, akik az effajta reprezentációs kötelezettségeket különösképpen terhesnek találják; más tisztviselők meg inasok, ha már ott voltak, a nép közé vegyültek; ő azonban a fecskendő mellett maradt, és hallgatásával mindenkit elriasztott, aki valamilyen kéréssel vagy hízelgéssel közeledni igyekezett hozzá.
@@ -3387,7 +3380,7 @@ Csak mikor tisztelettel meghajoltunk, s apa mentegetőzni kezdett a nevünkben, 
 Meglepődött, átugrott a fogantyún, hogy közelebb kerüljön Amáliához; először félreértettük a mozdulatát, s apa vezetésével közeledni akartunk hozzá, de ő kezét fölemelve megállított, aztán intett, hogy menjünk onnét.
 Ennyi volt az egész.
 Utána aztán sokat húztuk vele Amáliát, hogy lám, valóban talált vőlegényt magának, botorságunkban egész délután majd fölvetett minket a jókedv; Amália azonban hallgatagabb volt, mint bármikor.
-„Teljesen belehabarodott Sortiniba” - mondta Brunswick, aki mindig nyers egy kicsit, és az ilyen Amália-féle természeteket egyáltalán nem érti meg; megjegyzését azonban ezúttal találónak éreztük, aznap általában bolond jó kedvünk volt, s amikor éjfélkor hazamentünk, Amáliával együtt valamennyien egy kicsit kótyagosak voltunk az édes, kastélybeli bortól.
+"Teljesen belehabarodott Sortiniba" - mondta Brunswick, aki mindig nyers egy kicsit, és az ilyen Amália-féle természeteket egyáltalán nem érti meg; megjegyzését azonban ezúttal találónak éreztük, aznap általában bolond jó kedvünk volt, s amikor éjfélkor hazamentünk, Amáliával együtt valamennyien egy kicsit kótyagosak voltunk az édes, kastélybeli bortól.
 - És Sortini?
 - kérdezte K.
 - Persze Sortini - mondta Olga.
@@ -3415,7 +3408,7 @@ Aki nem ismerte Amáliát, és csak ezt a levelet olvasta, nem is tarthatott má
 És nem szerelmes levél volt ez, egyetlen becéző szó sem akadt benne; Sortini nyilvánvalóan inkább bosszankodott, amiért Amália látványa meg­ragadta és megzavarta foglalatosságaiban.
 Később úgy képzeltük, Sortini valószínűleg még az este vissza akart térni a kastélyba, csak Amália miatt maradt a faluban, s reggel írta a levelet, tele bosszúsággal, amiért a közben eltelt éjszakán át sem sikerült elfelejtenie Amáliát.
 A levél először valóban fölbőszítette az embert, még a leghidegvérűbbet is, hanem aztán Amálián kívül mindenki másban félelmet keltett volna komisz, fenyegető hangja; Amália azonban megmaradt a felháborodásnál, félelmet nem ismert, sem saját magát, sem másokat illetően.
-És míg én újra visszabújtam az ágyba, és magamban a félbeszakított záró mondatot ismétel­gettem: „És azonnal gyere, különben!...” Amália ott maradt az ablak padkáján, és kinézett, mintha újabb küldöncöket várna, készen rá, hogy azokkal is úgy bánjon, mint az elsővel.
+És míg én újra visszabújtam az ágyba, és magamban a félbeszakított záró mondatot ismétel­gettem: "És azonnal gyere, különben!..." Amália ott maradt az ablak padkáján, és kinézett, mintha újabb küldöncöket várna, készen rá, hogy azokkal is úgy bánjon, mint az elsővel.
 - Szóval ilyenek ezek a tisztviselők - mondta K. tétován.
 - Ilyen alakok vannak köztük.
 Apád mit csinált?
@@ -3559,7 +3552,7 @@ Mind­annyiunkat kétségbeesés környékezett ugyan, de minthogy fiatalok volt
 Oktalanságunkban úgy véltük, Seemann kiválóan alkalmas erre.
 Feszülten vártuk, mikor pattan ki végre folyto­nos nevetéséből a világos szó.
 Mi egyében is lehetett itt nevetni, mint azon, milyen bárgyú igazságtalanság történik velünk.
-„Parancsnok úr, parancsnok úr, szóljon hát már az emberek­nek”, gondoltuk, és odatolakodtunk hozzá, közeledésünk azonban csak valami meglepő forgo­lódást váltott ki belőle.
+"Parancsnok úr, parancsnok úr, szóljon hát már az emberek­nek", gondoltuk, és odatolakodtunk hozzá, közeledésünk azonban csak valami meglepő forgo­lódást váltott ki belőle.
 Végül aztán mégis beszélni kezdett, ha nem is azért, hogy a mi titkos kívánságunkat teljesítse, hanem hogy az emberek bátorító vagy bosszankodó biztatásának eleget tegyen.
 Mi még mindig reménykedtünk.
 Azzal kezdte, hogy agyba-főbe dicsérte apát.
@@ -3693,7 +3686,7 @@ Nos hát, ha nem tud semmit, és nem történt semmi, mit akar tulajdonképpen?
 Mit bocsáthatnak meg neki?
 Legföljebb azt, hogy értelmetlenül terheli a hivatalokat; ám éppen ez megbocsáthatatlan.
 Apa nem hagyta abba, akkoriban még mindig erőteljes ember volt, és a kényszerű semmit­tevés következtében, volt bőven ideje is.
-„Nem tart már sokáig, visszaszerzem Amália becsületét”, mondta nekem, meg Barnabásnak napjában többször is, de csak halkan, mert Amáliának nem volt szabad meghallania; holott valójában csak Amália miatt mondta, mert igazában nem a becsület visszanyerésére gondolt, hanem csak a megbocsátásra.
+"Nem tart már sokáig, visszaszerzem Amália becsületét", mondta nekem, meg Barnabásnak napjában többször is, de csak halkan, mert Amáliának nem volt szabad meghallania; holott valójában csak Amália miatt mondta, mert igazában nem a becsület visszanyerésére gondolt, hanem csak a megbocsátásra.
 De ahhoz, hogy bocsánatot nyerjen, előbb a bűnt kellett megállapítani, a hivatalok azonban egyszerűen hallani sem akartak bűnről.
 Akkor arra gondolt (ez mutatja, hogy szellemi képességei már hanyatlottak), csupán azért titkolják el előle a bűnt, mert nem fizet eleget, eddig ugyanis csak a kiszabott illetéket fizette, ami legalábbis a mi viszonyainkhoz képest, elég magasra rúgott.
 Most azonban azt hitte, többet kell fizetnie, s ebben kétségkívül tévedett, mert a mi hivata­lainkban, egyszerűség okából, a fölösleges szófecsérlés elkerülése végett, elfogadnak ugyan vesztegetéseket, elérni azonban semmit sem lehet velük.
@@ -3774,7 +3767,7 @@ Persze egyik szolga olyan, mint a másik, és magam sem voltam biztos benne, hog
 Kezdtünk hát eljárni az Udvarházba, és körülnézni a cselédség közt.
 Az illető ugyan Sortini szolgája volt, és Sortini nem jött többé a faluba, az urak azonban szaporán váltogatják a szolgáikat, ezt például könnyen meg lehetett találni esetleg egy másik úrnak a cselédei közt; s ha nem is akadunk rá, talán a többi szolgától megtudhatunk róla valamit.
 Ehhez azonban minden este ott kellett lenni az Udvarházban, és sehol sem láttak szívesen minket, hát még egy ilyen helyen; és nem léphettünk föl fizető vendégként sem.
-De aztán kiderült, hogy nekünk is hasznunkat lehet venni; jól tudod, mennyi baja volt Fridának a cselédekkel, ezek alapjában véve majdnem mind jámbor emberek, a könnyű szolgálat elkényeztette és ellustította őket; „menjen úgy a sorod, mint egy szolgának”: ez afféle áldó szólásmondás a hivatalnokok közt, és ami a könnyű, jó életet illeti, igazában valóban a szolgák az urak a kastélyban; meg is becsülik a helyzetüket, és a kastélyban, ahol a kastély törvényei alatt élnek, csöndesen és tisztességesen viselkednek, ezt számtalanszor hangoztatták nekem, s ennek még idelent is tapasztalható a cselédségben némi maradványa, de éppen csak maradványa, mert egyébként, mivel a kastély törvényei a faluban nem mindenestül érvényesek rájuk, mintha kivetkeznének magukból; vad, fegyelmezetlen népség, törvények helyett kielégíthetetlen ösztönei uralkodnak rajta.
+De aztán kiderült, hogy nekünk is hasznunkat lehet venni; jól tudod, mennyi baja volt Fridának a cselédekkel, ezek alapjában véve majdnem mind jámbor emberek, a könnyű szolgálat elkényeztette és ellustította őket; "menjen úgy a sorod, mint egy szolgának": ez afféle áldó szólásmondás a hivatalnokok közt, és ami a könnyű, jó életet illeti, igazában valóban a szolgák az urak a kastélyban; meg is becsülik a helyzetüket, és a kastélyban, ahol a kastély törvényei alatt élnek, csöndesen és tisztességesen viselkednek, ezt számtalanszor hangoztatták nekem, s ennek még idelent is tapasztalható a cselédségben némi maradványa, de éppen csak maradványa, mert egyébként, mivel a kastély törvényei a faluban nem mindenestül érvényesek rájuk, mintha kivetkeznének magukból; vad, fegyelmezetlen népség, törvények helyett kielégíthetetlen ösztönei uralkodnak rajta.
 Szemér­metlenségük határtalan: szerencséje a falunak, hogy csak parancsra hagyhatják el az Udvarházat; az Udvarházban azonban igyekeznie kell az embernek, hogy valahogyan kijöjjön velük; Fridának ez nagyon nehezére esett, és nagyon örült neki, hogy engem fölhasználhatott a szolgák megnyugtatására; több mint két éve, hetente legalább kétszer a szolgákkal töltöm az éjszakát az istállóban.
 Régebben, amikor még el bírt jönni az Udvarházba, apa ott aludt valahol az ivóban, és ott várta, milyen híreket hozok reggel neki.
 S vajmi keveset hoztam.
@@ -3834,7 +3827,7 @@ De a következő napokban természetesen már nem volt mit mondanom.
 Ennél a gyors sikernél meg is rekedtünk.
 Két évig élte Barnabás ezt az egyhangú, szívszorító életet.
 A szolgák tökéletesen csődöt mondtak; levélkét adtam Barnabásnak, melyben a szolgák figyelmébe ajánlottam, s egyben ígéreteikre is emlékeztettem őket; Barnabás meg, vala­hányszor egy-egy szolgát meglátott, elővette és az orra elé tartotta a levelet; s ha néha olyan szolgára akadt is, aki nem ismert engem, vagy ha valamelyik ismerőst bosszantotta is, ahogyan a levelet némán feléje nyújtotta (mert beszélni nem mert odafönt), azért mégiscsak szégyenletes, hogy senki nem segített neki, és valóságos fölszabadulás volt, amit persze mi magunk is már régen megszerezhettünk volna magunknak, amikor az egyik szolga, akinél Barnabás nyilván már többször is okvetetlenkedett, fogta a levelet, összegyűrte és a papír­kosárba dobta.
-Közben, úgy gondoltam, akár azt is mondhatta volna: „Ti is így bántok a levelekkel.” De bármilyen eredménytelen volt is ez az idő, Barnabásra mégis kedvezően hatott, már amennyiben kedvezőnek minősíthetjük, hogy mintegy idősebb lett a koránál, és idő előtt férfivá érett; igen, egyben-másban férfinál is komolyabb és belátóbb.
+Közben, úgy gondoltam, akár azt is mondhatta volna: "Ti is így bántok a levelekkel." De bármilyen eredménytelen volt is ez az idő, Barnabásra mégis kedvezően hatott, már amennyiben kedvezőnek minősíthetjük, hogy mintegy idősebb lett a koránál, és idő előtt férfivá érett; igen, egyben-másban férfinál is komolyabb és belátóbb.
 Nemegyszer elszomorodom, ha látom és összehasonlítom azzal az ifjúval, aki még két éve volt.
 S közben egyáltalán nincs meg az a vigaszom és támaszom, amit talán mint férfi adhatna.
 Nélkülem aligha jutott volna a kastélyba, de mióta ott van, független tőlem.
@@ -4043,12 +4036,12 @@ Nem ismered?
 Egyik első titkára Klammnak.
 Ösztövér kis ember, sántít is egy kicsit.
 Azonnal megismert, híres az emlékezőtehetségéről meg az emberismeretéről, csak összevonja a szem­öldökét, és máris akárkit megismer, sokszor olyanokat is, akiket életében sosem látott, legföl­jebb csak hallott vagy olvasott róluk, engem például bizonyára sosem láthatott.
-De noha azon­nal megismer mindenkit, előbb megkérdezi, mintha nem lenne biztos a dologban, nekem is azt mondta: „Nem Barnabás vagy?” És utána azt kérdezte: „Ismered a földmérőt, igaz?” Aztán azt mondta: „Ez nagyon kapóra jött: most indulok az Udvarházba.
+De noha azon­nal megismer mindenkit, előbb megkérdezi, mintha nem lenne biztos a dologban, nekem is azt mondta: "Nem Barnabás vagy?" És utána azt kérdezte: "Ismered a földmérőt, igaz?" Aztán azt mondta: "Ez nagyon kapóra jött: most indulok az Udvarházba.
 Ott keressen föl a földmérő.
 A tizenötös számú szobában lakom.
 De azonnal jönnie kell.
 Éppen csak valamit megbeszélek ott, aztán reggel ötkor már jövök is vissza.
-Mondd meg neki, nagyon fontos számomra, hogy beszéljek vele.”
+Mondd meg neki, nagyon fontos számomra, hogy beszéljek vele."
 Jeremiás ebben a szempillantásban futásnak eredt.
 Barnabás eddig ügyet se vetett rá izgalmában, most azonban megkérdezte:
 - Mi baja Jeremiásnak?
@@ -4071,7 +4064,7 @@ A vétség az Udvarház kocsmárosnéját terhelte, törekvése a finomkodó el�
 - Ha már így kell lennie, és ide kell jönniük - mondogatta -, az ég szerelmére, csak szép sorjában, egyik a másik után.
 És elérte, hogy az ügyfelek, akik először egyszerűen egy folyosón, később a lépcsőn, majd a tornácon, aztán meg az ivóban várakoztak, végül is kikerültek az utcára.
 De még ez sem volt elég neki.
-Elviselhetetlennek tartotta, hogy háza, mint mondta, folyton „ostrom alatt áll”.
+Elviselhetetlennek tartotta, hogy háza, mint mondta, folyton "ostrom alatt áll".
 Sehogy sem értette, miért van egyáltalán szükség ügyfelek fogadására.
 - Hogy bemocskolják elöl a ház lépcsőjét - vágta oda kérdésére egyszer az egyik tisztviselő, valószínűleg bosszúságában; benne azonban valósággal világosságot gyújtott ez a válasz, és szívesen idézgette a kijelentést.
 Arra törekedett, s ez a törekvése az ügyfelek kívánságával is találkozott, húzzanak föl az Udvarházzal szemközt egy kis épületet, ahol az ügyfelek vára­kozhatnak.
@@ -4091,7 +4084,7 @@ Csak egyvalaki akadt, aki habozva kijelentette, hogy Klamm természetesen nélk�
 Ekkor kinyílt a ház ajtaja, és Momus jelent meg két lámpás szolga közt.
 - Az elsők, akik Erlanger titkár úr elé bocsáttatnak - mondta -, a következők: Gerstäcker és K. Itt vannak mind a ketten?
 Jelentkeztek.
-Hanem ekkor azzal, hogy „Szobainas vagyok itt”, Jeremiás még előttük besurrant a házba; Momus mosolyogva üdvözölte, és vállon veregette.
+Hanem ekkor azzal, hogy "Szobainas vagyok itt", Jeremiás még előttük besurrant a házba; Momus mosolyogva üdvözölte, és vállon veregette.
 - Jobban kell majd ügyelnem Jeremiásra - mondta magában K., közben azonban változatlanul meg volt győződve róla, hogy Jeremiás valószínűleg kevésbé veszélyes, mint Artúr, aki fönt a kastélyban áskálódik ellene.
 Talán okosabb is lett volna eltűrni, hogy mint segédek kínozzák, mintsem hagyni, hogy ellenőrzés nélkül járjanak-keljenek, és szőjék cselszövényeiket, amire, úgy látszik, különös hajlandóságuk volt.
 Mikor K. elment előtte, Momus úgy tett, mintha csak most ismerné meg a földmérőt.
@@ -4171,7 +4164,7 @@ Az egyik, a fekete, szinte szégyellem magam, hogy ilyen részletesen kell véde
 - Igen!
 - kiáltott föl Frida, szinte akarata ellenére tört ki belőle a szó; K. örömmel látta, mennyire kizökkent a kerékvágásból: egészen más volt, mint amilyen lenni akart.
 - Ezt nevezed te tartózkodónak, a világ legszégyentelenebb teremtését, és bármilyen hihetetlen, valóban így is gondolod, mert tudom, hogy nem alakoskodol.
-A hídi kocsmárosné azt mondja rólad: „Nem tűrhetem ezt az embert, de nem bírom magára hagyni sem; mint ahogy akkor se bírjuk megállni, hogy utána ne kapjunk, ha kisgyereket látunk, aki még nem tud rendesen járni, és messzire elmerészkedik.”
+A hídi kocsmárosné azt mondja rólad: "Nem tűrhetem ezt az embert, de nem bírom magára hagyni sem; mint ahogy akkor se bírjuk megállni, hogy utána ne kapjunk, ha kisgyereket látunk, aki még nem tud rendesen járni, és messzire elmerészkedik."
 - Ezúttal fogadd meg a tanítását - mondta K. mosolyogva -, és ami azt a lányt illeti, akár tartózkodó, akár szégyentelen, ezen most ne vitatkozzunk, és tudni sem akarok róla.
 - De miért mondod, hogy tartózkodó?
 - kérdezte Frida makacsul.
@@ -4425,7 +4418,7 @@ Valójában természetesen ez a kíméletlenség nem egyéb, mint a szolgálat v
 Ezt alapjában véve teljesen el is ismerik (a fölületes szemlélő ugyan nem veszi észre), mert hiszen ez esetben például az ügyfelek éppen az éjszakai kihall­gatásokat veszik szívesen, és az éjszakai kihallgatások ellen nem futnak be lényegbevágó panaszok.
 Akkor meg miért idegenkednek tőle a titkárok?
 K. ezt sem tudta, oly keveset tudott, még azt sem tudta eldönteni, komolyan kívánja-e Bürgel a választ, vagy csak úgy tesz, mintha kívánná.
-„Ha megengeded, hogy az ágyadba feküdjem - gondolta -, holnap délben, vagy inkább este valamennyi kérdésedre megfelelek.” Bürgel azon­ban látszólag nem sokat törődött vele, annyira lekötötte a kérdés, melyet saját magának tett föl.
+"Ha megengeded, hogy az ágyadba feküdjem - gondolta -, holnap délben, vagy inkább este valamennyi kérdésedre megfelelek." Bürgel azon­ban látszólag nem sokat törődött vele, annyira lekötötte a kérdés, melyet saját magának tett föl.
 - Amennyire látom, és amennyire magam is tapasztaltam, az éjszakai kihallgatásokat illetőleg a titkároknak a következő meggondolásaik vannak: Az éjszaka azért kevésbé alkalmas az ügyfelekkel való tárgyalásokra, mert éjjel nehéz vagy egyáltalán lehetetlen is teljesen megőriz­ni a tárgyalások hivatalos jellegét.
 Ez nem a külsőségeken múlik, a formákat természetesen kedve szerint ki-ki éjszaka is éppoly szigorúan megtarthatja, mint nappal.
 Nem erről van szó, hanem arról, hogy éjszaka a dolgok hivatalos megítélése szenved csorbát.
@@ -4437,8 +4430,8 @@ S ezek mind olyan hibák, az ügyfeleknek olyan félig-meddig jogtalan nyereség
 Egészen bizonyos, hogy a hibát egyszer majd egy ellenőrző hivatal ki fogja javítani, de ennek már csak a jog látja hasznát, az illető ügyfélnek azonban mit sem árthat.
 S ilyen körülmények között nem nagyon is jogosak a titkárok panaszai?
 K. egy ideje már szundikált; most újra fölzavarták.
-„Mire jó mindez?
-Mire jó mindez?” - kérdezte magában, és félig hunyt pillái mögül nem úgy nézte Bürgelt, mint egy tisztviselőt, aki súlyos kérdéseket beszél meg vele, hanem csak mint valami olyasmit, ami nem hagyja aludni, s aminek az értelmét sehogyan sem tudta kitalálni.
+"Mire jó mindez?
+Mire jó mindez?" - kérdezte magában, és félig hunyt pillái mögül nem úgy nézte Bürgelt, mint egy tisztviselőt, aki súlyos kérdéseket beszél meg vele, hanem csak mint valami olyasmit, ami nem hagyja aludni, s aminek az értelmét sehogyan sem tudta kitalálni.
 Bürgel viszont, teljesen belemerülve gondo­lataiba, mosolygott, mintha hirtelenében sikerült volna K.-t egy kissé tévútra vezetnie.
 De nyomban arra is kész volt, hogy visszavezesse a helyes útra.
 - Nos - mondta -, azért egészen jogosnak nevezni mégsem lehet minden fönntartás nélkül ezeket a panaszokat.
@@ -4474,10 +4467,10 @@ Megtenni azonban aligha teszik meg, majdnem értelmetlen.
 Először is az ilyesmi nagyon elkeserítené az illetékes titkárt; mi, titkárok, a munkát illetőleg egyáltalán nem vagyunk féltéke­nyek egymásra, mindegyikünknek megvan a maga bőven kimért, valóban minden kicsinyeskedés nélkül ráosztott terhe a munkából, az ügyfelek részéről azonban semmiképpen sem tűrhetjük el az illetékességek megzavarását.
 Nem egy akad, aki azért vesztette el az ügyét, mert azt hitte, az illetékes helyen nem jut előbbre, s ezért illetéktelen helyen próbált átbújni.
 Az effajta kísérleteknek egyébként már azon is zátonyra kell futniuk, hogy egy-egy illetéktelen titkár, még ha éjjel rohanják is meg, és ha csupa segítőkészség is, az ügy menetébe, éppen illetéktelensége miatt, aligha avatkozhat bele jobban, mint akármelyik ügyvéd, illetve alapjában véve még kevésbé avatkozhat bele, mert nem jut hozzá... még ha egyébként tehetne is valamit, hiszen a jog rejtekútjait jobban ismeri, mint az ügyvéd uraságok együttvéve... egyszerűen nincs ideje az illetékességén kívül eső dolgokra, egyetlen szempillantást sem szentelhet nekik.
-Ilyen kilátások mellett ugyan ki fordítaná éjszakáit arra, hogy illetéktelen titkárokkal tárgyaljon, hiszen az ügyfelek is nyakig vannak munkával, ha hivatásuk ellátása mellett az illetékes helyek idézéseinek és intézkedéseinek is meg akarnak felelni, „nyakig vannak” persze ügyféli értelemben, ami természetesen meg sem közelíti azt, ahogyan a titkárok „vannak nyakig”.
+Ilyen kilátások mellett ugyan ki fordítaná éjszakáit arra, hogy illetéktelen titkárokkal tárgyaljon, hiszen az ügyfelek is nyakig vannak munkával, ha hivatásuk ellátása mellett az illetékes helyek idézéseinek és intézkedéseinek is meg akarnak felelni, "nyakig vannak" persze ügyféli értelemben, ami természetesen meg sem közelíti azt, ahogyan a titkárok "vannak nyakig".
 K. mosolyogva bólintott, most azt hitte, mindent pontosan ért; nem mintha mindez különö­sebben érdekelte volna, hanem mert szent meggyőződése volt, hogy a következő pillana­tokban igazán elalszik, ezúttal álomtalanul és háborítatlanul; egyfelől az illetékes, másfelől az illetéktelen titkárok közt, és szemközt a nyakig levő ügyfelek tömegével mély álomba merül, s ezzel mindnyájuktól megszabadul.
 Bürgel halk, önelégült, saját elalvásáért nyilván hiába küzdő hangját annyira megszokta már, hogy ez inkább elő fogja segíteni, mintsem zavarná álmát.
-„Zakatolj, malom, zakatolj csak - gondolta -, úgyis csak nekem zakatolsz.”
+"Zakatolj, malom, zakatolj csak - gondolta -, úgyis csak nekem zakatolsz."
 - Hol van hát - mondta Bürgel, két ujjával alsó ajka körül játszva, kitágult szemmel, nyújtott nyakkal, mintha hosszú vándorlás után pompás kilátóhoz közelednék -, hol van hát az az említett, ritka, szinte soha elő sem forduló lehetőség?
 A titok az illetékességre vonatkozó előírásokban rejlik.
 Mert nem úgy áll a dolog, s egy nagy, élő szervezetnél nem is állhat úgy, hogy minden egyes dologban csak egyetlen titkár illetékes.
@@ -4508,7 +4501,7 @@ Ellenkezőleg.
 Az, hogy a világ összedőljön, még a legnagyobb valószínűtlenségnél is valószínűtlenebb.
 Persze az már fölöttébb rossz, ha az ügyfél egyszer bent van a szobában.
 Az embernek elszorul a szíve.
-„Vajon meddig bírsz ellenállni?”, kérdezzük magunktól.
+"Vajon meddig bírsz ellenállni?", kérdezzük magunktól.
 Ugyanakkor tudjuk, hogy nem lesz semmiféle ellenállás.
 Képzelje csak el annak rendje és módja szerint a helyzetet.
 Itt ül az ügyfél, akit sosem láttunk, és folyton vártunk, valódi szomjúsággal vártuk, és mindig elérhe­tetlennek tekintettük.
@@ -4596,7 +4589,7 @@ K. ugyan tudta, hogy fáradtsága ma a viszonyok minden kedvezőtlenségénél j
 Mindebből arra lehetett következtetni, hogy az ő fáradtságuk egészen másfajta volt, mint K.-é.
 Ez itt a jól sikerült munka fáradtsága volt; kívülről fáradt­ság­nak látszott, valójában azonban megzavarhatatlan nyugalom, megzavarhatatlan béke volt.
 Ha az ember délben fáradt egy kicsit, ez természetszerűen vele jár minden hasznosan töltött nappal.
-„Ezeknek az uraknak itt mindig dél van” - mondta magában K.
+"Ezeknek az uraknak itt mindig dél van" - mondta magában K.
 S ezzel pontosan egybevágott, hogy, noha még csak reggel öt óra volt, a folyosó két oldalán már pezsgett az élet.
 Volt ebben a hangzavarban valami nagy-nagy vidámság.
 Hol úgy hang­zott, mint kirándulásra készülő gyerekek ujjongása, hol úgy, mint a tyúkólban kitörő kárálás, az öröm, hogy együtt ébredhettek az ébredő nappal; valahol egy úr utánozta még a kakas­kukorékolást is.
@@ -4647,7 +4640,7 @@ Mindenesetre úgy látszott, hogy a szolga valószínűleg itt is föltétlenül
 Végül csak egyetlenegy úr maradt, aki sehogy sem akart megnyugodni, sokáig hallga­tott, de csak hogy erőt gyűjtsön, aztán újra kitört, semmivel sem enyhébben, mint az előbb.
 Nem volt egészen világos, miért kiabál és panaszkodik, talán nem is az aktaelosztás miatt.
 Közben a szolga befejezte munkáját, egyetlen akta, voltaképpen csak egy papírlap, egy jegyző­könyvből kitépett cédula maradt a segéderő hibájából a kocsin, s most aztán nem tudták, kinek adják.
-„Ki tudja, nem az én aktám-e” - futott át K. fején a gondolat.
+"Ki tudja, nem az én aktám-e" - futott át K. fején a gondolat.
 Hiszen az elöljáró folyton erről a legeslegkisebb esetről beszélt.
 A szolga tűnődve szemlélte a cédulát, K. pedig alapjában véve bármilyen önkényesnek és nevetségesnek találta ő maga is az észrevételét, igyekezett a szolga közelébe kerülni, nem volt könnyű dolog, mert a szolga ellenségesen fogadta K. közeledését, s az imént még a legnagyobb munka közben is talált rá időt, hogy ideges fejrándításokkal, dühösen vagy türelmetlenül rá-rápillantson.
 Mintha csak most, a kiosztás befejeztével feledkezett volna meg egy kissé K.-ról, mint ahogy most általában közönyösebb lett, amit nagy kimerültsége érthetővé is tett, a cédulára sem fordított sok gondot, talán végig sem olvasta, hanem csak úgy csinált, és bár valószínűleg a folyosón minden szobaúrnak nagy örömet szerzett volna a cédula odaadásával, másként döntött, már torkig volt a kiosztással, mutatóujját ajkára tette, így jelezte társának, hogy hallgasson, apró darabkákra tépte a cédulát - K. még messze volt tőle -, és zsebre dugta a foszlányokat.
@@ -4758,7 +4751,7 @@ A kocsmárosné néhányszor érdeklődött felőle napközben, s hogy utána­n
 - kérdezte Pepi, ahogy kávét és kalácsot hozott.
 De most már nem komiszkodva kérdezte, ahogy azelőtt beszélt, hanem szomorúan, mintha közben megismerte volna a világ gonoszságát, amivel szemben a mi saját gonoszságunk mind hiábavaló, és csődöt mond; úgy beszélt K.-hoz, mintha társa volna a szenvedésben, s amikor K. megízlelte a kávét, és Pepi úgy látta, nem találja elég édesnek, elszaladt, és odahozta neki az egész cukor­tartót.
 Szomorúsága persze nem akadályozta meg benne, hogy ma talán még jobban ki ne cicomázza magát, mint legutóbb; homloka körül, hajába fonva egész sereg masni és szalag, halántékán a haja gondosan kisütve, és nyakában egy láncocska, mely blúza mély kivágásába lógott le.
-Amikor K. jóleső örömében, hogy végre alaposan kialhatta magát, és jó kávét ihat, észrevétlenül az egyik masnihoz nyúlt, és megpróbálta kioldani, Pepi fáradtan azt mondta: „Ugyan, hagyj!” - és leült mellé az egyik hordóra.
+Amikor K. jóleső örömében, hogy végre alaposan kialhatta magát, és jó kávét ihat, észrevétlenül az egyik masnihoz nyúlt, és megpróbálta kioldani, Pepi fáradtan azt mondta: "Ugyan, hagyj!" - és leült mellé az egyik hordóra.
 És K.-nak meg se kellett kérdeznie, mi baja, Pepi nyomban magától is mesélni kezdte, szemét mereven K. kávésbögréjére szegezve, mintha még mesélés közben is szüksége volna valami kikapcsolódásra, s mintha még most, mikor vele foglalkozik, sem bírná egészen átadni magát fájdalmának, mert ez meghaladná erejét.
 K. először is azt tudta meg, hogy Pepi balsorsának voltaképpen ő az oka, de a lány nem neheztel rá emiatt.
 És elbeszélése közben buzgón bólogatott, nehogy K.-nak módja legyen ellentmondani.
@@ -4852,7 +4845,7 @@ S valóban, az emberek csodálkoznak rajta, hogy még mindig ott van az ivóban;
 Miért nem viszi följebb?
 Hiába mondja az ember a népeknek százszor és százszor, hogy itt semmiféle ellentmondás nincs, hogy Klammnak megvannak a maga okai, amiért így cselekszik, vagy egyszer csak váratlanul, talán már a legközelebbi jövőben meg­történik Frida fölemelkedése: mindez jóformán hatástalan marad, a népeknek megvannak a maguk elképzelései, és azoktól tartósan semmilyen mesterkedéssel sem lehet eltéríteni őket.
 Senki sem kételkedett már benne, hogy Frida Klamm kedvese, még azok is belefáradtak a kétkedésbe, akik kétségkívül jobban tudták a dolgot.
-„Vigyen az ördög, légy hát Klamm kedvese - gondolták -, de ha már az vagy, szeretnénk látni az előmeneteleden is.” De nem lehetett látni semmit, Frida ott maradt, ahol volt, az ivóban, és titokban még örült is neki, hogy így maradt a dolog.
+"Vigyen az ördög, légy hát Klamm kedvese - gondolták -, de ha már az vagy, szeretnénk látni az előmeneteleden is." De nem lehetett látni semmit, Frida ott maradt, ahol volt, az ivóban, és titokban még örült is neki, hogy így maradt a dolog.
 A népek előtt azonban vesztett a tekintélyéből, és ezt természetesen neki is észre kellett vennie; általában sok mindent észrevesz, még mielőtt bekövetkeznék.
 Egy való­ban szép és szeretetre méltó lánynak, ha egyszer megmelegedett az ivóban, nem kell többé mesterkednie; amíg szép, addig csaposlány marad, hacsak valami váratlan baleset közbe nem lép.
 Egy Frida-fajta lánynak azonban örökké aggódnia kell az állásáért, bár ezt, érthe­tőleg, egyáltalán nem mutatja, inkább panaszkodik, és átkozza a helyét.
@@ -4948,11 +4941,11 @@ De miért nem jött?
 Véletlenségből?
 Annak idején Pepinek is megfordult ez a fejében.
 Abban a két napban sokáig várta, minden pillanatban, és még éjszaka is várta.
-„Most jön majd Klamm” - gondolta szüntelenül, és ide-oda futkosott, semmi másért, egyedül csak, mert várta, és mert elsőnek szerette volna látni, amikor belép.
+"Most jön majd Klamm" - gondolta szüntelenül, és ide-oda futkosott, semmi másért, egyedül csak, mert várta, és mert elsőnek szerette volna látni, amikor belép.
 Ez a folytonos csalódás nagyon elfárasztotta; talán ezért is végzett kevesebbet, mint amennyi tellett volna tőle.
 Mihelyt akadt egy kis ideje, fölosont a folyosóra, ahová pedig a személyzetnek szigorúan tilos belépni, ott elbújt a fal egyik fülkéjében, és várt.
-„Ha most végre mégis jönne Klamm - gondolta -, ha elébe mehetnék az ajtajáig, és karjaimban vihetném le a vendégszobába!
-Ez alatt a teher alatt nem roskadnék össze, akármekkora lenne is.” De Klamm nem jött.
+"Ha most végre mégis jönne Klamm - gondolta -, ha elébe mehetnék az ajtajáig, és karjaimban vihetném le a vendégszobába!
+Ez alatt a teher alatt nem roskadnék össze, akármekkora lenne is." De Klamm nem jött.
 Odafönt ezen a folyosón akkora a csönd, hogy aki még nem járt ott, el sem tudja képzelni.
 Olyan nagy csönd van, hogy nem is bírja ki sokáig az ember, a csönd elűzi onnét.
 Hiába: Pepit tízszer elkergette a csönd, és ő tízszer újra visszament.
@@ -5187,4 +5180,3 @@ Csodálkozol?
 Menj, most aztán menj már!
 K. már a folyosón volt, és Gerstäcker már erélyesen a kabátja ujjába kapaszkodott, amikor a kocsmárosné utánakiáltott:
 - Holnap új ruhát kapok, talán majd érted küldök.
--&-

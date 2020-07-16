@@ -1,45 +1,4 @@
-﻿ALEXANDRE DUMAS
-A FEKETE TULIPÁN
-Fordította: Hevesi Sándor
-
-TARTALOM
-A HÁLÁS NÉP
-A KÉT FIVÉR
-JAN DE WITT TANÍTVÁNYA
-A GYILKOSOK
-A TULIPÁNKEDVELŐ ÉS SZOMSZÉDJA
-A TULIPÁNKERTÉSZ GYŰLÖLETE
-A BOLDOG EMBER MEGISMERKEDIK A BOLDOGTALANSÁGGAL
-ELLENSÉGES BETÖRÉS
-A CSALÁDI CELLA
-A BÖRTÖNŐR LÁNYA
-CORNELIUS VAN BAERLE TESTAMENTUMA
-A KIVÉGZÉS
-MI MENT VÉGBE EKÖZBEN AZ EGYIK NÉZŐ LELKÉBEN?
-A DORDRECHTI GALAMBOK
-A KIS ABLAK
-MESTER ÉS TANÍTVÁNY
-AZ ELSŐ SARJHAGYMA
-ROSA IMÁDÓJA
-LEÁNY ÉS VIRÁG
-MI TÖRTÉNT AZON A HÉTEN?
-A MÁSODIK SARJHAGYMA
-VIRÁGFAKADÁS
-AZ IRIGY
-AMELYBEN A TULIPÁN GAZDÁT CSERÉL
-VAN SYSTENS ELNÖK
-A KERTÉSZETI TÁRSASÁG EGY TAGJA
-A HARMADIK SARJHAGYMA
-A VIRÁGOK ÉNEKE
-AMELYBEN VAN BAERLE, MIELŐTT ELHAGYNÁ LEEUWENSTEEN VÁRÁT, 
-LESZÁMOL GRYPHUSSZAL
-AMELYBEN AZ OLVASÓ SEJTENI KEZDI, HOGY MIFÉLE BÜNTETÉST 
-TARTOGATTAK CORNELIUS VAN BAERLE SZÁMÁRA
-HAARLEM
-EGY UTOLSÓ KÉRÉS
-VÉGSZÓ
-
-A HÁLÁS NÉP
+﻿A HÁLÁS NÉP
 1672. augusztus huszadikán Hága városa - amely olyan eleven, olyan fehér, olyan kacér, mintha csak minden napja vasárnap volna -, Hága városa, amelynek árnyékos a parkja, amely­nek lombos fái gótikus épületekre borulnak, és széles csatornáiban mint tükörben nézegetik magukat a tornyok szinte keleties kupolái, Hága városa, a hét egyesített tartomány székhelye, arra ébredt, hogy siető, lihegő, izgatott polgárok piros és fekete áradata hullámzik végig valamennyi ütőerén, s tőrrel az övükben, muskétával a vállukon vagy pálcával a kezükben a Buitenhof felé iparkodnak.
 Félelmetes börtön ez, vasrácsos ablakait ma is mutogatják; itt szenvedett Cornelius de Witt, Hollandia volt főminiszterének az öccse, amióta Tyckelaer, a sebészorvos, gyilkossággal vádolta meg.
 Ha annak az időnek, kiváltképpen pedig annak az esztendőnek a története, amelyben ez az elbeszélés megindul, nem volna elválaszthatatlanul összekapcsolva a fent említett két névvel, ez az itt következő néhány sornyi magyarázat talán fölöslegesnek is látszanék.
@@ -355,13 +314,13 @@ Cornelius csakugyan fogta a plajbászt, és írt.
 A fehér vásznon átpirosodtak a vércseppek, amelyek az ujjak szorítása nyomán szivárogtak ki a fölszaggatott húsból.
 A főminiszter halántékán gyöngyözött a verejték.
 Cornelius pedig ezt írta:
-„Édes Keresztfiam!
+"Édes Keresztfiam!
 Égesd el a csomagot, amit rád bíztam; meg se nézzed, ki se nyissad, csak égesd el, hogy ne is tudd, mi van benne.
 Az ilyen természetű titkok megölik azt, aki az őrzésüket vállalja.
 Égesd el, ezáltal megmented Jant és Corneliust.
 Isten veled, tarts meg szeretetedben.
 1672. augusztus 20.
-Cornelius de Witt”
+Cornelius de Witt"
 Jan könnyezve törölte le a papírlapra hullott nemes vércsöppet, átadta az írást Craekénak, még egyszer lelkére kötötte, mit tegyen, aztán visszatért a kíntól még sápadtabb Corneliushoz, akit már az ájulás környékezett.
 - No most, mihelyt hallani fogjuk a derék Craeke szokásos füttyét, az lesz a jel, hogy kívül van a sokaságon, s átjutott a halastó túlsó partjára... Akkor aztán mi is útra kelünk.
 Alig telt bele öt perc, amikor hosszú és harsány füttyszó tört keresztül a szilfák sötét lomb­koronáján, és a buitenhofi ordítozást is túlsivította.
@@ -850,7 +809,7 @@ Szépek voltak, mi több: keresettek.
 Sok műértő jött el megnézni Boxtel tulipánjait.
 Végül is Boxtel a Linnék és Tournefort-ok világát6 egy saját nevéről elkeresztelt tulipánfajtával gazdagította.
 Ez a tulipán nagy utat járt be, átment Franciaorszá­gon, eljutott Spanyolországba, sőt Portugáliáig hatolt, és VI.
-Alfonz király, aki Lisszabonból elűzetvén, Terceira szigetére vonult vissza, ahol nem szegfűt öntözött, mint a „nagy” Condé,7 hanem tulipánt nevelt, a fönt említett Boxtel-tulipán láttára így nyilatkozott: „Nem rossz!”
+Alfonz király, aki Lisszabonból elűzetvén, Terceira szigetére vonult vissza, ahol nem szegfűt öntözött, mint a "nagy" Condé,7 hanem tulipánt nevelt, a fönt említett Boxtel-tulipán láttára így nyilatkozott: "Nem rossz!"
 A különféle tanulmányok során, amelyekre Cornelius van Baerle ráadta a fejét, egyszerre úgy elhatalmasodott rajta a szenvedély a tulipán iránt, hogy átépíttette a Boxtel-házzal szomszédos dordrechti házát: az egyik udvari traktusra új emeletet húzatott, amely körülbelül fél fok meleget vett el Boxteltól, este pedig cserébe fél fok hideget adott, nem is számítva, hogy útjában állt a széljárásnak, és így a szomszéd tulipánkertészetnek minden számítását s egész kerti gazdaságát csúffá tette.
 De azért Boxtel szomszéd szemében nem volt ez veszedelmes baj.
 Van Baerle csak festő volt, vagyis afféle bolond, aki vásznon próbálja utánozni s közben eltorzítja a természet csodáit.
@@ -1012,18 +971,18 @@ A Ruart eltávozott, a lárma elült, és a tűz kialudt, Cornelius pedig nem is
 Akinek kedve van hozzá, követheti az utat a további fejezetekben; ami bennünket illet, állottuk a szavunkat, és bebizonyítottuk, hogy sem Corneliusnak, sem Jan de Wittnek nem akadt soha olyan ádáz ellensége széles Hollandiában, mint amilyen ellensége támadt Van Baerlénak az ő szomszédjában, Izaak Boxtel úrban.
 Nem tudva a világról semmit, a mi tulipánkertészünk mindenesetre haladt tovább a haarlemi társaság által kitűzött cél felé, elérkezve a barna tulipántól a pörköltkávé-színűhöz; éppen aznap is, amikor Hágában lejátszódott a nagy esemény, amelyről számot adtunk, ebéd után egy órakor munka közben találhatjuk, amint kiszedegeti a termőágyból a még terméketlen hagymákat, amelyek már a pörköltkávé-színű tulipán magvából valók, és mindeddig nem hoztak virágot, de 1673 tavaszára okvetlenül ki kell hajtaniok, s Van Baerle bizonyos volt benne, hogy meg is hozzák a nagy fekete tulipánt, amilyet a haarlemi társaság kívánt.
 1672. augusztus huszadikán, déli egy órakor tehát Cornelius éppen a szárítóban volt, lába az asztal keresztfáján pihent, könyöke az asztalterítőn nyugodott, így gyönyörködött a három sarjhagymában, amelyet éppen akkor választott le a hagymáról: tiszta, érintetlen, tökéletes sarjhagymák, felbecsülhetetlen forrásai egy csodálatos alkotásnak, amelyben egyesül termé­szet és tudomány, s amelynek létrejötte mindörökre egybefonódik Cornelius van Baerle nevé­vel.
-„Meg fogom találni a nagy fekete tulipánt - ábrándozott Cornelius, míg letisztogatta a sarj­hagymákat.
+"Meg fogom találni a nagy fekete tulipánt - ábrándozott Cornelius, míg letisztogatta a sarj­hagymákat.
 - Enyém lesz a százezer forint jutalom.
 Szétosztom majd a dordrechti szegények között, ily módon kioltva a gyűlöletet, amelyet a polgárháborúk idején a gazdag emberek iránt éreznek, úgyhogy sem az orániai párttól, sem a republikánusoktól nem kell majd félnem, és változatlanul tenyészthetem a tulipánjaimat.
 Attól sem kell majd tartanom, hogy egy nap föllázadnak a dordrechti boltosok meg a kikötőbeli tengerészek, és kitépik a hagymáimat, hogy éhező családjukat táplálják velük, ahogy néha maguk közt fenyegetőznek, amikor azt hallják, hogy két-háromszáz forintot is adtam egy hagymáért.
 Hát ez el van döntve, a százezer forint díjat a haarlemi szegényeknek fogom juttatni.
-Igaz, hogy...”
+Igaz, hogy..."
 És ennél az igaz, hogy-nál Cornelius van Baerle megállott, és nagyot sóhajtott.
-„Igaz, hogy - folytatta aztán töprengését - gyönyörű dolog volna elkölteni ezt a százezer forintot a kertészetem bővítésére vagy akár egy utazásra napkeleti országokba, ahol annyi szép virágot láthatnék.”
+"Igaz, hogy - folytatta aztán töprengését - gyönyörű dolog volna elkölteni ezt a százezer forintot a kertészetem bővítésére vagy akár egy utazásra napkeleti országokba, ahol annyi szép virágot láthatnék."
 De jaj, ilyesmire most gondolni sem lehet; pillanatnyilag a puska, a lobogó, a dobszó és a proklamációk uralják a helyzetet.
 Van Baerle föltekintett az égre, és felsóhajtott.
 Figyelme azután megint a hagymái felé fordult, hiszen azok szerinte sokkal előbbre valók, mint a puskák, lobogók, dobok, proklamációk, amelyek mind csak arra jók, hogy megzavarják a becsületes ember elméjét!
-„Mégiscsak szépek ezek a sarjhagymák - gondolta.
+"Mégiscsak szépek ezek a sarjhagymák - gondolta.
 - Milyen simák, milyen szép formájúak, mennyire megvan bennük az a szomorkás jelleg, amely ébenfaszínt ígér a tulipánomnak!
 Puszta szemmel még csak a nedvek erezeteit sem látni a héjukon!
 Ó, most már egészen bizonyos, hogy a legcsekélyebb folt sem lesz annak a virágnak a gyászruháján, amely nekem köszönheti majd az életét.
@@ -1041,16 +1000,16 @@ Mi a neve?
 - Az, aki már öt új tulipánfajtát tenyésztett ki, ilyen a Johanna, a Jan de Witt, a Cornelius stb.
 - Lám, ilyenek az én ambícióim.
 És senkinek sem kerül egyetlen csepp könnyébe sem.
-A Tulipa nigra Barlaensist pedig akkor is emlegetik a világon, amikor keresztapámat, a nagyszerű politikust, talán már csak arról a tulipánról fogják ismerni, amelyet róla neveztem el.”
+A Tulipa nigra Barlaensist pedig akkor is emlegetik a világon, amikor keresztapámat, a nagyszerű politikust, talán már csak arról a tulipánról fogják ismerni, amelyet róla neveztem el."
 Milyen szép sarjhagyma!...
-„Ha majd a tulipánom kinyílt - folytatta álmodozását Cornelius -, és Hollandiába visszatért a békesség, csak ötvenezer forintot fogok a szegényeknek juttatni.
+"Ha majd a tulipánom kinyílt - folytatta álmodozását Cornelius -, és Hollandiába visszatért a békesség, csak ötvenezer forintot fogok a szegényeknek juttatni.
 Utóvégre is ez elég olyan embertől, aki senkinek sem tartozik semmivel.
 A másik ötvenezer forintot újabb kísérletekre fordítom.
 Azzal az ötvenezer forinttal el akarom érni, hogy a tulipánnak szaga legyen.
 Ó, ha meg tudnám neki adni a rózsa vagy a szegfű illatát, vagy valami teljesen új illatot, ami még jobb volna!
 Ha vissza tudnám adni a virágok e királynőjének a maga eredeti, természetes illatát, amelyet akkor vesztett el, amikor keleti trónját felcserélte az európai trónnal; azt az illatot, amelyet még az indiai félszigeten, Goában, Bombayben, Madrasban áraszt magából, kiváltképp pedig azon a szigeten, amelyről azt állítják, hogy ott volt valamikor a földi paradi­csom, s amelynek Ceylon a neve!
 Ah, minő dicsőség volna rám nézve!
-Akkor azután igazán jobban örülnék neki, hogy Van Baerle vagyok, és nem Nagy Sándor, Julius Caesar vagy Maximilian császár... Milyen csodálatos gumók!”
+Akkor azután igazán jobban örülnék neki, hogy Van Baerle vagyok, és nem Nagy Sándor, Julius Caesar vagy Maximilian császár... Milyen csodálatos gumók!"
 Cornelius elgyönyörködött bennük, és belefeledkezett az édes ábrándozásba.
 Egyszerre csak megszólalt a dolgozószoba csengettyűje, a szokottnál jóval harsányabban.
 Cornelius összerezzent, kezét védőn a gumók fölé terjesztette, és hátrafordult.
@@ -1190,10 +1149,10 @@ Következésképpen Boxtel, aki sokkal nagyobb figyelemmel kísérte a politikai
 Hanem bármennyire is ujjongott örömében Boxtel, megborzongott arra a gondolatra, hogy feljelentsen egy embert, akit ez a feljelentés esetleg a vérpadra juttathat.
 Csakhogy a gonosz gondolatokban az a legrettentőbb, hogy a rosszlelkű emberek lassanként megbarátkoznak velük.
 Különben pedig mynheer Izaak Boxtel ezzel az okoskodással bátorította magát:
-„Cornelius de Witt rossz polgár, mert hazaárulással vádolják, és börtönbe vetették.
+"Cornelius de Witt rossz polgár, mert hazaárulással vádolják, és börtönbe vetették.
 Én magam jó polgár vagyok, mert semmivel a világon nem vádolnak, és olyan szabad vagyok, mint a madár.
 Ha azonban Cornelius de Witt csakugyan rossz polgár, ami pedig bizonyos, minthogy haza­árulás vádja miatt börtönben ül, bűntársa, Cornelius van Baerle, nem kevésbé rossz polgár.
-Tehát: mivelhogy én jó polgár vagyok, és mivelhogy a jó polgárnak szent kötelessége, hogy följelentse a rosszakat, nekem: Izaak Boxtelnak, kötelességem, hogy följelentsem Cornelius van Baerlét.”
+Tehát: mivelhogy én jó polgár vagyok, és mivelhogy a jó polgárnak szent kötelessége, hogy följelentse a rosszakat, nekem: Izaak Boxtelnak, kötelességem, hogy följelentsem Cornelius van Baerlét."
 Ez a körmönfont okoskodás talán mégsem lett volna teljesen úrrá Boxtel elhatározásán, az irigy szomszéd talán nem engedte volna át lelkét az emésztő bosszúvágynak, ha az irigység ördögével nem párosul a kapzsiság ördöge is.
 Boxtel tudott róla, hogy mennyire jutott Van Baerle a nagy fekete tulipánra irányuló kísérlete­zéssel.
 Bármily szerény volt is Cornelius doktor, legmeghittebb barátai előtt mégsem titkolhatta el azt a szinte biztos reményét, hogy az Úr 1673. esztendejében meg fogja nyerni a haarlemi műker­tészeti társaság százezer forintos díját.
@@ -1239,9 +1198,9 @@ Az elment, de alig fertályóra múlva vissza is tért.
 - Jaj, uram, azt mondják, ámbár ez nem éppen bizonyos, hogy Hágában a polgárok éppen most gyilkolták le Cornelius és Jan de Witt urakat.
 - Ó!
 - mormogta vagy inkább hörögte Boxtel, lecsukva mind a két szemét, hogy ne lássa a szörnyű képet, amely ebben a pillanatban nyilván fölmerült előtte.
-„A manóba!
+"A manóba!
 - gondolta a szolga kimenőben.
-- Boxtel uram ugyancsak beteg lehet, ha még az ilyen hírre sem ugrik ki az ágyból.”
+- Boxtel uram ugyancsak beteg lehet, ha még az ilyen hírre sem ugrik ki az ágyból."
 Csakugyan beteg volt, beteg, mint az az ember, aki megölt egy másik embert.
 Ám annak az embernek a megölésével kettős célja volt.
 Az elsőt elérte.
@@ -1294,7 +1253,7 @@ Azért csak összeszedte a bátorságot.
 Nem azért jött, hogy üres kézzel térjen haza.
 De hiába kutatott, keresett, hiába nyitogatta-csukogatta fiókokat, még azt a kiváltságos fiókot is, amely oly végzetessé vált Corneliusra nézve; olyasfajta föliratokra bukkant, amilyenek a füvészkertben láthatók: Johanna tulipán, Witt tulipán, világosbarna tulipán, pörköltkávé-színű tulipán; de fekete tulipánnak vagy inkább azoknak a sarjhagymáknak, amelyeknek héjába rejtve szunnyad a jövendőbeli virág: sehol sem akadt a nyomára.
 Pedig a magvak és hagymák kettős könyvvitelű lajstromában, amit Van Baerle pontosabban és gondosabban vezetett, mint a legelső amszterdami cégek üzleti könyveiket, Boxtel ezeket a sorokat olvasta:
-„Ma, 1672. augusztus huszadikán, kiástam a fekete tulipán hagymáját, és három tökéletesen kifejlődött sarjhagymát nyertem belőle.”
+"Ma, 1672. augusztus huszadikán, kiástam a fekete tulipán hagymáját, és három tökéletesen kifejlődött sarjhagymát nyertem belőle."
 - Ezek a sarjhagymák!
 Ezek a sarjhagymák!
 - üvöltötte Boxtel, mindent széthányva a szárító­ban.
@@ -1357,7 +1316,7 @@ Cornelius felismerte a bitófát.
 Két véres emberi tetem.
 A jó hágai nép széjjelszaggatta áldozatainak testét, de azért hűségesen meghagyott a bitófának annyit, amennyi alkalmat nyújt egy nagy hirdetményen egy kettős feliratra.
 Ezen a falragaszon pedig Cornelius huszonnyolc esztendős szemével ki tudta betűzni a következő sorokat, amelyeket valami cégtáblamázoló durva ecsetje kent oda:
-„Itt függ Jan de Witt, a nagy gazember, és testvére, Cornelius de Witt, a kis gazember, ellensé­gei a holland népnek, ámde jó barátai a francia királynak.”
+"Itt függ Jan de Witt, a nagy gazember, és testvére, Cornelius de Witt, a kis gazember, ellensé­gei a holland népnek, ámde jó barátai a francia királynak."
 Cornelius fölsikoltott rémületében, és úgy magával ragadta az iszonyat, hogy kézzel-lábbal dörömbölni kezdett az ajtaján, olyan erővel és olyan hangosan, hogy Gryphus dühösen szaladt oda, óriási köteg kulccsal a kezében.
 Kinyitotta az ajtót, s közben szörnyű szitkokat szórt a fogolyra, aki olyankor háborgatta, amikor őt senki sem szokta háborgatni.
 - No, nézze meg az ember, ez az új De Witt milyen őrült!
@@ -1541,11 +1500,11 @@ A bírák fontolóra vették:
 A belviszály legkisebb hatása is végzetes lehet, mert föléleszti a háborút, pedig annak elfojtá­sa mindenkinek legfőbb érdeke.
 Az egyik bíró, akit jó emberismerőnek tartottak, megállapította, hogy ez a látszólag oly nyugodt fiatalember alapjában véve nagyon veszedelmes egyén, tekintettel arra, hogy a jéghideg páncél alatt, amelyet fölvett, nyilvánvalóan lángol a bosszúvágy, hogy megfizethes­sen rokonaiért, a De Wittekért.
 Egy másik bíró megjegyezte, hogy a tulipánimádat nagyon jól összefér a politikával, s a történelem tanúbizonysága szerint több rendkívül veszedelmes ember úgy kertészkedett, mintha csak az lett volna élethivatása, holott egészen más dolog járt az eszükben.
-Ott van Tarquinius Priscus,11 aki mákot termelt Gabiában, ott a „nagy” Condé, aki szegfűt öntözött a vincennes-i toronyban, tették pedig ezt akkor, amikor az előbbi azon töprengett, hogy visszatér Rómába, a másik meg azon, hogy megszökik a börtönből.
+Ott van Tarquinius Priscus,11 aki mákot termelt Gabiában, ott a "nagy" Condé, aki szegfűt öntözött a vincennes-i toronyban, tették pedig ezt akkor, amikor az előbbi azon töprengett, hogy visszatér Rómába, a másik meg azon, hogy megszökik a börtönből.
 Ebből a dilemmából a bíró ilyen következtetésre jutott:
 Cornelius van Baerle úr vagy a virágokat szereti nagyon, vagy a politikát szereti nagyon; akár így áll a dolog, akár úgy, hazudott nekünk, először, mert a levelek, amelyeket nála megtalál­tak, kétségtelenül bizonyítják, hogy foglalkozott politikával, míg másfelől az is be van bizonyítva, hogy foglalkozott a tulipánokkal.
 Erről hitet tesznek a tulipánhagymák.
-Végül - és ez éppen a szörnyűség -, minthogy Cornelius van Baerle egyidejűleg foglalkozott politikával és tulipánokkal, a vádlott ennélfogva hibrid jellem, kétéltű alkat, aki egyazon hévvel míveli a politikát és a tulipánokat, ami a békés közélet szempontjából a legveszedelmesebb fajtájú jellemnek tekintendő, és bizonyos tekintetben, sőt talán minden tekintetben azokhoz a nagy szellemekhez hasonlít, akik közül épp az imént idéztük Tarquinius Priscus és a „nagy” Condé példáját.
+Végül - és ez éppen a szörnyűség -, minthogy Cornelius van Baerle egyidejűleg foglalkozott politikával és tulipánokkal, a vádlott ennélfogva hibrid jellem, kétéltű alkat, aki egyazon hévvel míveli a politikát és a tulipánokat, ami a békés közélet szempontjából a legveszedelmesebb fajtájú jellemnek tekintendő, és bizonyos tekintetben, sőt talán minden tekintetben azokhoz a nagy szellemekhez hasonlít, akik közül épp az imént idéztük Tarquinius Priscus és a "nagy" Condé példáját.
 Ennek a sokféle okoskodásnak az lett a summája, hogy ő hercegi fensége, Hollandia helytar­tója, kétségkívül roppant hálás lesz a hágai bíróságnak, ha egyszerűsíti a Hét Tartományok kormányzását, amennyiben kiirtja az ellene irányuló összeesküvés utolsó csíráját is.
 Ez az érv túltett valamennyi többi érven, és hogy az összeesküvés végső csíráját is bizton kiirtsák, egyhangúlag halálra ítélték Cornelius van Baerlét, aki bűnösnek találtatott abban, hogy a tulipánkertészet ártatlan mesterségének örve alatt részt vett a Witt uraknak a holland nemzet ellen való gyalázatos cselszövényeiben és alávaló összeesküvéseiben, nemkülönben a francia ellenséggel való titkos összejátszásában.
 Kiegészítették az ítéletet azzal, hogy fönt nevezett Cornelius van Baerle vezettessék ki a Buitenhof börtönből a hasonnevű téren felállított vérpadra, ahol is az ítéletvégrehajtó le fogja ütni a fejét.
@@ -1643,8 +1602,8 @@ Akkor azután értesíti a haarlemi társaság elnökét.
 Az elnök az egylettel megállapíttatja, hogy csakugyan fekete-e a tulipán, és ki fogja fizetni a százezer forintot.
 Rosa nagyot sóhajtott.
 - Most pedig - folytatta Cornelius, miközben szempillája széléről letörölt egy reszkető könny­cseppet, és ez sokkal inkább szólt a csodálatos fekete tulipánnak, amelyet sohasem fog meglátni, mint annak a földi életnek, amelytől meg kell válnia -, nincs más kívánságom, csak az, hogy a tulipánnak Rosa Barlaensis legyen a neve, vagyis mindkettőnkre emlékeztessen, és minthogy maga minden valószínűség szerint nem tud latinul, s így elfelejthetné ezt a nevet, kérem, szerezzen irónt és papírt, hogy leírhassam.
-Rosa keservesen sírva nyújtott át Corneliusnak egy bőrkötésű könyvet, amelyen ezek a kezdőbetűk voltak olvashatók: „C.
-W”.
+Rosa keservesen sírva nyújtott át Corneliusnak egy bőrkötésű könyvet, amelyen ezek a kezdőbetűk voltak olvashatók: "C.
+W".
 - Mi ez?
 - kérdezte a fogoly.
 - Ó, Istenem - felelte Rosa -, ez szegény keresztapjának, Cornelius de Wittnek a bibliája.
@@ -1660,9 +1619,9 @@ Cornelius átvette a bibliát, és tiszteletteljesen megcsókolta.
 - Benne találtam, és megőriztem.
 Jan de Witt irónja volt, amelyet kölcsönadott fivérének, és nem vett vissza többé.
 Cornelius elvette, és a második lapra - mert hiszen emlékszünk rá, hogy az elsőt kiszakították - a halál küszöbén, úgy, mint keresztapja, és éppen olyan biztos kézzel, írta, amint következik:
-„Ma, 1672. augusztus havának huszonharmadikán, mielőtt ártatlanul kilehelném lelkemet a vérpadon, Rosa Gryphusnak hagyományozom egyetlen tulajdonomat, mely annyi javaim közül még megmaradt e világon, mivel a többit mind elkobozták; Rosa Gryphusnak hagyomá­nyozok tehát három tulipánhagymát; ezekből szilárd meggyőződésem szerint a jövő esztendő máju­sában ki kell hajtania a nagy fekete tulipánnak, amelyre a haarlemi társaság százezer forintos díjat tűzött ki; kívánságomnak megfelelően ő vegye fel a százezer forintokat helyettem és mint egyetlen örökösöm, azzal az egyetlen kikötéssel, hogy feleségül megy egy korombeli fiatal­emberhez, aki őt szereti, s akit ő is szeret, és hogy a nagy fekete tulipánt, ezt az új tulipánfajtát a Rosa Barlaensis néven nevezzék el, vagyis egyesítve nevében mindket­tőnk nevét.
+"Ma, 1672. augusztus havának huszonharmadikán, mielőtt ártatlanul kilehelném lelkemet a vérpadon, Rosa Gryphusnak hagyományozom egyetlen tulajdonomat, mely annyi javaim közül még megmaradt e világon, mivel a többit mind elkobozták; Rosa Gryphusnak hagyomá­nyozok tehát három tulipánhagymát; ezekből szilárd meggyőződésem szerint a jövő esztendő máju­sában ki kell hajtania a nagy fekete tulipánnak, amelyre a haarlemi társaság százezer forintos díjat tűzött ki; kívánságomnak megfelelően ő vegye fel a százezer forintokat helyettem és mint egyetlen örökösöm, azzal az egyetlen kikötéssel, hogy feleségül megy egy korombeli fiatal­emberhez, aki őt szereti, s akit ő is szeret, és hogy a nagy fekete tulipánt, ezt az új tulipánfajtát a Rosa Barlaensis néven nevezzék el, vagyis egyesítve nevében mindket­tőnk nevét.
 Isten adjon nekem kegyelmet és neki erőt, egészséget.
-Cornelius van Baerle”
+Cornelius van Baerle"
 Avval átnyújtotta a bibliát Rosának.
 - Olvassa el.
 - Jaj, Cornelius úr, hiszen már mondtam, hogy nem tudok olvasni.
@@ -1713,7 +1672,7 @@ Az általános ordítozás, fenyegetőzés, üvöltözés közepette Cornelius e
 Mire gondolt vajon ez az ember a halálba vezető úton?
 Nem az ellenségeire, nem a bíráira és nem a hóhéraira.
 Arra a sok szép tulipánra gondolt, amit a magasságos mennyekből Ceylonban, Bengáliában vagy másutt fog látni, amikor majd a többi ártatlan lélekkel egyetemben ott ül az Isten jobbján, és szánakozó szívvel tekinthet a földre, ahol meggyilkolták Jan és Cornelius de Wittet, amiért nagyon is sokat törődtek a politikával, s ahol most meggyilkolják Cornelius van Baerlét, amiért túl sokat törődött a tulipánokkal.
-„Egy kardsuhintás az egész - gondolta a filozófus -, és máris kezdődhetik a szép álom.”
+"Egy kardsuhintás az egész - gondolta a filozófus -, és máris kezdődhetik a szép álom."
 Még csak azt kellett volna tudni, vajon a hóhér a szegény tulipánkertésszel is nem úgy fog-e bánni, mint Chalais-val, Thou-val és más, rosszul kivégzett urakkal, akiket nem egy kardcsa­pással, szóval nem egy mártírkínnal küldött át a másvilágra.
 De azért Van Baerle elszántan haladt fölfelé a vérpad lépcsőjén.
 Büszke volt rá, noha meglakolt érte, hogy barátja a híres Jannak és keresztfia a nemes Corneliusnak, akiket három nappal ezelőtt szétmarcangolt és megégetett ez a gaz népség, amely most az ő látására gyűlt össze.
@@ -1741,16 +1700,16 @@ Csakhogy Cornelius tévedett: a levélnek utóirata is volt, és a levél legfon
 Ebben az utóiratban Vilmos, Hollandia helytartója, Cornelius van Baerlét életfogytiglani börtönre ítélte.
 Nem volt elég bűnös ahhoz, hogy meghaljon, de bűnösebb volt, semhogy szabadon élhessen.
 Cornelius tehát meghallgatta az utóiratot, s miután leküzdötte bosszúságát, amelyet a csalódás első pillanatában érzett, így szólt magában:
-„Eh, nincs még veszve minden.
+"Eh, nincs még veszve minden.
 Az életfogytiglani fogságnak jó oldala is van.
 Az életfogytig­lani börtönhöz hozzátartozik Rosa.
-Meg azután ott van a fekete tulipán három sarjhagymája.”
+Meg azután ott van a fekete tulipán három sarjhagymája."
 Hanem Cornelius megfeledkezett arról, hogy a Hét Tartományoknak akár hét börtöne is lehet, tartományonkint egy, és hogy a foglyok ellátása másutt olcsóbb, mint Hágában, amely mégiscsak főváros.
 Eszerint Vilmos orániai herceg őfenségének nem futotta a pénzéből arra, hogy Hágában tartsa el Cornelius van Baerlét, örökös börtönéül Leeuwensteen várát jelölte ki, amely közel esett ugyan Dordrechthez, de jaj!
 mégiscsak nagyon messzire.
 Leeuwensteen vára ugyanis, mint a geográfusok mondják, annak a szigetnek a csúcsán áll, amelyet a Waal és a Maas összefolyása alkot, Gorkummal szemben.
 Van Baerle járatos volt hazájának történetében, így hát azt is tudta, hogy ebbe a várkastélyba volt zárva Barneveldt halála után a nagy hírű Grotius,12 és hogy a rendek a hírneves politikai író, tudós, történész, költő és teológus iránti nagylelkűségükben minden napra huszonnégy holland sou-t szavaztak meg neki, hogy abból élelmezhesse magát.
-„Én, aki meg sem közelíthetem Grotiust - töprengett Van Baerle -, legföljebb ha nagy nehezen tizenkét sou-t fogok kapni naponta, és nagyon rosszul fogok élni, de legalább élni fogok.”
+"Én, aki meg sem közelíthetem Grotiust - töprengett Van Baerle -, legföljebb ha nagy nehezen tizenkét sou-t fogok kapni naponta, és nagyon rosszul fogok élni, de legalább élni fogok."
 Hanem egyszerre rettentő gondolat cikázott át az agyán.
 - Ó!
 - kiáltott fel Cornelius.
@@ -1839,10 +1798,10 @@ Egy virágot és egy nőt szeretett, és mindkettőt örökre elvesztette.
 Szerencsére a derék Van Baerle tévedett!
 Isten abban a pillanatban, amikor Cornelius a vérpad felé lépkedett, atyai mosollyal nézett le rá, és úgy rendelkezett, hogy börtöne mélyén, Hugó Grotius szobájában, a legkalandosabb életet folytathassa, ami tulipánkertésznek valaha is osztályrészül jutott.
 Egy reggel az ablak mellett állva beszívta a Waal felől áramló friss levegőt, és a messzeségbe bámult, a kéményerdő mögött fölsejlő, jól ismert dordrechti malmokra, amikor egyszerre csak abból az irányból érkező nagy sereg galambot pillantott meg a láthatáron, amint a napsugárban megrebbenő szárnnyal leereszkedtek a leeuwensteeni vár hegyes tornyaira.
-„Ezek a galambok Dordrechtből jönnek - ötlött föl Van Baerle fejében a gondolat -, tehát nyilván vissza is repülnek oda.
-Ha valaki egy levélkét csatolhatna az egyik galamb szárnyára, talán-talán hírt adhatna magáról Dordrechtbe, ahol annyira siratják.”
+"Ezek a galambok Dordrechtből jönnek - ötlött föl Van Baerle fejében a gondolat -, tehát nyilván vissza is repülnek oda.
+Ha valaki egy levélkét csatolhatna az egyik galamb szárnyára, talán-talán hírt adhatna magáról Dordrechtbe, ahol annyira siratják."
 Egy ideig eltűnődött, azután döntött:
-„Az a valaki pedig én leszek.”
+"Az a valaki pedig én leszek."
 Ha az ember huszonnyolc esztendős, és életfogytiglani börtönre van ítélve, ami körülbelül huszonkét vagy huszonháromezer napi fogságot jelent, akkor csöppet sem türelmetlen.
 Van Baerlénak egyre a három tulipánhagymán járt az esze, úgy lüktetett agyában ez a gondolat, ahogy a szív dobog a mellkas mélyén, és mert egyre csak ez járt eszében, hát kelepcét állított a galamboknak.
 Tizennyolc holland sou-ba kerülő kosztjának (ez annyi, mint tizenkét francia sou) legjobb falatjaival csalogatta a szelíd állatokat, és egyhónapi sikertelen próbálkozás után végre elcsípett egy nőstény galambot.
@@ -2002,7 +1961,7 @@ Ahogy eltűnt, Cornelius az ajtóhoz lopózott, a távolodó léptek zaját fül
 Inkább soha többé ne jöjjenek a közelébe, semhogy halálveszedelembe kerüljenek a kedves hírnökök, hiszen nekik köszönheti, hogy Rosát viszontláthatja.
 A porkoláb látogatása, durva fenyegetőzése, a szigorú őrizetre való szomorú kilátás mindez nem tudta elvonni Corneliust azoktól az édes gondolatoktól s főképp az édes reményektől, amelyeket Rosa megjelenése támasztott lelkében.
 Alig várta, hogy a leeuwensteeni toronyban kilencet üssön az óra.
-Rosa azt mondta: „Kilenc órakor várjon rám.”
+Rosa azt mondta: "Kilenc órakor várjon rám."
 A bronznyelv kilencedik ütése még a levegőben reszketett, amikor Cornelius meghallotta a lépcső felől a szép fríz leány könnyű lépteit és ruhája suhogását, és csakhamar fény szűrődött be az ajtórácson, amelyre égő vággyal tapadt Cornelius tekintete.
 A kis ablakot kívülről kinyitották.
 - Itt vagyok - szólt Rosa még lihegve a lépcsőjárástól -, itt vagyok!
@@ -2230,7 +2189,7 @@ Hallottam tegnap, amint azt mondta apámnak, hogy nem ismeri magát.
 - Kérem, Rosa, folytassa, szeretném kitalálni, hogy ki az az ember, és mit akar.
 - Bizonyos benne, Cornelius úr, hogy nincs egyetlen barátja sem, aki érdeklődhetnék maga iránt?
 - Nincsenek barátaim, Rosa, nem volt senkim a dajkámon kívül, őt pedig ismeri, és ő is ismeri magát.
-Nem, nem a szegény Zug, és nem ravaszkodnék, hanem sírva mondaná az apjának vagy magának: „Édes úr vagy édes kisasszony, itt van a gyermekem, nézzék, mennyire kétségbe vagyok esve, engedjék meg, hogy csak egy órára láthassam, és én egész életemen át imádkozni fogok magukért.” Ó, nem - folytatta Cornelius -, a jó Zugon kívül nincsenek barátaim.
+Nem, nem a szegény Zug, és nem ravaszkodnék, hanem sírva mondaná az apjának vagy magának: "Édes úr vagy édes kisasszony, itt van a gyermekem, nézzék, mennyire kétségbe vagyok esve, engedjék meg, hogy csak egy órára láthassam, és én egész életemen át imádkozni fogok magukért." Ó, nem - folytatta Cornelius -, a jó Zugon kívül nincsenek barátaim.
 - Akkor vissza kell térnem eredeti föltevésemhez, annyival is inkább, mert tegnap, napnyugta­kor, amikor a virágágyat rendezgettem, amelyben a sarjhagymát el kell ültetnem, egy árnyékot pillantottam meg, a félig nyitott ajtón át surrant a bodzák és a nyárfák közé.
 Úgy tettem, mintha nem láttam volna, de a mi emberünk volt.
 Elbújt, látta, hogy forgatom meg a földet, és bizonyos, hogy engem nézett, és azt kémlelte, hogy mit csinálok.
@@ -2401,56 +2360,56 @@ Cornelius akkorát sóhajtott, hogy nyögésnek is beillett volna.
 - Ha látta volna abban a pillanatban Jacob mestert!
 - folytatta Rosa.
 - Azt hittem, lángba borítja az egész várkastélyt, a két szeme akár két égő fáklya, a haja fölborzolódott, a keze ökölbe szorult, már-már azt hittem, meg akarja fojtani az apámat.
-„Eltaposta a tulipánhagy­mát?” „El hát” - felelte az apám.
-„Micsoda gyalázat!
+"Eltaposta a tulipánhagy­mát?" "El hát" - felelte az apám.
+"Micsoda gyalázat!
 - folytatta Jacob mester.
 - Hitványság!
-Nagy bűnt követett el!” - üvöltözött magából kikelve.
+Nagy bűnt követett el!" - üvöltözött magából kikelve.
 Apám nagyon meg volt rökönyödve.
-„Hát már maga is megbolondult?” - kérdezte a barátjától.
+"Hát már maga is megbolondult?" - kérdezte a barátjától.
 - Micsoda derék ember lehet az a Jacob - mormogta Cornelius -, becsületes szív, fennkölt lélek.
 - Szent igaz, hogy kíméletlenebbül nem is lehet lehordani embert, mint ahogyan ő lehordta apámat - tette hozzá Rosa.
 - Jacob mester őszintén kétségbe volt esve.
-Egyre azt hajtogatta: „Eltaposta, eltaposta a sarjhagymát, ó, Istenem, Istenem, eltaposta.” Azután hozzám fordult.
-„Ugye, nemcsak ez az egy sarjhagymája volt?” - kérdezte tőlem.
+Egyre azt hajtogatta: "Eltaposta, eltaposta a sarjhagymát, ó, Istenem, Istenem, eltaposta." Azután hozzám fordult.
+"Ugye, nemcsak ez az egy sarjhagymája volt?" - kérdezte tőlem.
 - Ezt kérdezte?
 - szólt Cornelius, a fülét hegyezve.
-- „Azt hiszi, hogy nem ez volt az egyetlen tulipánhagymája?
+- "Azt hiszi, hogy nem ez volt az egyetlen tulipánhagymája?
 - hökkent meg apám.
-- No jó, hát majd megkeressük a többit.” „A többit is meg akarja keresni?” - kiáltott Jacob mester, és torkon ragadta apámat, de rögtön el is eresztette megint.
-Aztán újra hozzám fordult: „És mit mondott az a szegény fiatalember?” - kérdezte tőlem.
+- No jó, hát majd megkeressük a többit." "A többit is meg akarja keresni?" - kiáltott Jacob mester, és torkon ragadta apámat, de rögtön el is eresztette megint.
+Aztán újra hozzám fordult: "És mit mondott az a szegény fiatalember?" - kérdezte tőlem.
 Nem tudtam, mit feleljek, hiszen maga a lelkemre kötötte, hogy még csak ne is sejtessem senkivel, mennyire a szívén viseli a tulipánhagymák sorsát.
 Szerencsére apám kimentett zavaromból.
-„Hogy mit mondott?” - és megint tajtékozni kezdett.
-Én a szavába vágtam: „Hogyne lett volna dühös - mondtam neki -, mikor apám olyan igazságtalanul és gorombán bánt vele.” „Ejha, tán mind megbolondultatok?
+"Hogy mit mondott?" - és megint tajtékozni kezdett.
+Én a szavába vágtam: "Hogyne lett volna dühös - mondtam neki -, mikor apám olyan igazságtalanul és gorombán bánt vele." "Ejha, tán mind megbolondultatok?
 - kiáltotta az apám.
 - Hát olyan nagy baj, ha az ember eltapos egy tulipánhagymát?
-A gorkumi vásáron több százat kapok egy forintért.” „De azok talán nem olyan értékesek, mint ez volt” - vetettem közbe nagyon szerencsétlenül.
+A gorkumi vásáron több százat kapok egy forintért." "De azok talán nem olyan értékesek, mint ez volt" - vetettem közbe nagyon szerencsétlenül.
 - És mit szólt erre Jacob?
 - kérdezte Cornelius.
 - Mondhatom, hogy ezekre a szavakra villámot szórt a szeme.
 - Igen, de ez nem minden; mondott is valamit?
-- „Így hát, szép Rosa - mondotta mézédes hangon -, maga azt hiszi, hogy az a hagyma értékes volt?” Láttam, hogy hibát követtem el.
-„Mit tudom én - feleltem félvállról -, hát értek én a tulipánhoz?
+- "Így hát, szép Rosa - mondotta mézédes hangon -, maga azt hiszi, hogy az a hagyma értékes volt?" Láttam, hogy hibát követtem el.
+"Mit tudom én - feleltem félvállról -, hát értek én a tulipánhoz?
 Csak annyit tudok, mivel, fájdalom, arra vagyunk ítélve, hogy együtt éljünk a rabokkal, mondom, én csak annyit tudok, hogy egy rab szemében minden időtöltés értékes.
 Az a szegény Van Baerle elszórakozott azzal a tulipánhagymával.
-Ezért szerintem nagy kegyet­lenség volt megfosztani őt a szórakozásától.” „De mindenekelőtt - szólt közbe apám -, mi úton-módon jutott a hagymához?
-Nekem úgy rémlik, hogy ezt volna jó tudnunk.” Elfordul­tam, hogy kikerüljem apám tekintetét, de Jacob szemével találkoztam.
+Ezért szerintem nagy kegyet­lenség volt megfosztani őt a szórakozásától." "De mindenekelőtt - szólt közbe apám -, mi úton-módon jutott a hagymához?
+Nekem úgy rémlik, hogy ezt volna jó tudnunk." Elfordul­tam, hogy kikerüljem apám tekintetét, de Jacob szemével találkoztam.
 Mintha csak a gondolataimban akart volna olvasni, belátni a szívem mélyére.
 Sokszor egy kelletlen mozdulat is ér annyit, mint egy felelet.
 Én vállat vontam, hátat fordítottam, és indultam az ajtó felé.
 De hirtelen megállított egy párbeszéd; meghallottam, ámbár nagyon súgva mondták.
-Jacob így szólt apámhoz: „Ejnye, nem is volna olyan nehéz meggyőződni róla.
+Jacob így szólt apámhoz: "Ejnye, nem is volna olyan nehéz meggyőződni róla.
 Meg kell motozni, és ha több hagymája is van, okvetlenül megtaláljuk nála.
-Rendszerint három ilyen sarjhagymája van a tulipánkertésznek.”
+Rendszerint három ilyen sarjhagymája van a tulipánkertésznek."
 - Csakugyan három van!
 - kiáltott Cornelius.
 - Azt mondta, hogy három sarjhagyma van nálam?
 - Képzelheti, hogy engem is éppúgy meglepett, mint magát.
 Megfordultam.
 Mindketten annyira el voltak foglalva, hogy nem vették észre ezt a mozdulatomat.
-„De hátha még sincse­nek nála azok a hagymák?” - mondta apám.
-„Akkor hozza le valami ürüggyel a foglyot, azalatt én átkutatom a szobáját.”
+"De hátha még sincse­nek nála azok a hagymák?" - mondta apám.
+"Akkor hozza le valami ürüggyel a foglyot, azalatt én átkutatom a szobáját."
 - Ó, ó - mondta Cornelius -, hiszen a maga Jacob urasága gazember!
 - Tartok tőle.
 - Mondja csak, Rosa... - folytatta Cornelius eltűnődve.
@@ -2597,7 +2556,7 @@ Vad vágy fogta el, hogy megfojtsa, de aztán eszébe jutott, hogy ha ezt megtes
 A porkoláb tehát tudtán kívül megszabadult a legnagyobb veszedelemtől, ami csak életében fenyegette.
 Jött az este, és Van Baerle kétségbeesése búskomorságra fordult: bánatát még sötétebbé tette, hogy fájdalmas érzéseibe akaratlanul is belevegyült az elárvult tulipánra való emlékezés.
 Április havának éppen abban az időszakában jártak, amely a legtapasztaltabb kertészek szerint éppen tulipánültetésre való.
-Cornelius azt mondta Rosának: „Majd én megjelölöm a napot, amikor el kell ültetni a sarjhagymát.” És ezt a napot a következő estén kellett volna kijelölnie.
+Cornelius azt mondta Rosának: "Majd én megjelölöm a napot, amikor el kell ültetni a sarjhagymát." És ezt a napot a következő estén kellett volna kijelölnie.
 Nagyon szép idő járta, s bár még kissé nyirkos volt a levegő, az áprilisi nap halvány sugarai, amelyek ha sápadtak is, mégis édesek, mert az elsők, és mérsékelik egy kicsit a hűvösséget.
 Mi lesz, ha Rosa elmulasztja a kellő időpontot, és ha nemcsak őt nem látja többé, hanem ezenfelül még a tulipánhagyma is elpusztul, mert nem ültették el idejében, vagy pedig egyáltalában nem ültették földbe?!
 Nem csoda, ha e kettős fájdalom elvette a kedvét evéstől, ivástól egyaránt.
@@ -2621,14 +2580,14 @@ Rosa olyan sápadt lett, mint a halál.
 Mélységesen elszomorodva a szobájába ment, papírt és tollat vett elő, s egész éjszaka gyako­rolta a betűvetést.
 Másnap, amikor Cornelius felkelt, hogy a kis ablakhoz vánszorogjon, egy papírlapot vett észre, amit valaki az ajtó alá csúsztatott.
 Fölkapta az írást, kibontotta, elolvasta, de alig ismert rá Rosa keze vonására, annyira javult az írása a hétnapos távollét alatt.
-„Legyen nyugodt, a tulipánja jól érzi magát.”
+"Legyen nyugodt, a tulipánja jól érzi magát."
 Ez a levélke valamelyest csillapította ugyan Cornelius fájdalmát, de azért szíven ütötte a szavak mögött lappangó gúny.
 Szóval így állunk: Rosa mégsem beteg, Rosa megsértődött; nem azért maradt el, mert nem engedték jönni, hanem a maga jószántából maradt távol.
 Rosa tehát szabad, Rosa önnön akaraterejéből tellett annyi, hogy nem látogatta meg azt a férfit, aki majd meghalt bánatában, hogy nem láthatja.
 Corneliusnak maradt még a Rosától kapott papírból és irónból.
 Megértette, hogy a lány választ vár tőle, de a válaszért csak az éjszaka folyamán fog eljönni.
 Ennélfogva egy ugyanolyan formájú papirosra, amilyent ő kapott, ezt írta:
-„Nem azért vagyok beteg, mert a tulipánomat féltem: azért vagyok beteg, mert maga után bánkódom”
+"Nem azért vagyok beteg, mert a tulipánomat féltem: azért vagyok beteg, mert maga után bánkódom"
 Miután Gryphus harmadszor is elment, s az este is leszállott, Cornelius az ajtó alá csúsztatta az írást, és hallgatózott.
 De akárhogy hegyezte a fülét, sem lépéseket, sem ruhasuhogást nem hallott.
 Nem hallott mást, csak egy hangot, gyöngét, mint a lehelet, édeset, mint a simogatás, egy hangot, amely az ablakrácson keresztül ezt az egy szót suttogta feléje:
@@ -2913,7 +2872,7 @@ Ami annyit jelentett, hogy amíg ébren volt, folyton Rosára gondolt.
 Amikor pedig elaludt, vele álmodott.
 Csakhogy az álombéli Rosa sokkal tökéletesebb teremtés volt, mint az igazi.
 Mert nemcsak hogy beszélt a tulipánról, hanem szép kínai vázában pompás, kinyílt fekete tulipánt hozott Corneliusnak.
-Cornelius örömteli szívvel ébredt, ajkán e szókkal: „Rosa, Rosa, szeretlek.”
+Cornelius örömteli szívvel ébredt, ajkán e szókkal: "Rosa, Rosa, szeretlek."
 Mivel pedig közben világos nappal lett, Cornelius nem is akart többé elaludni.
 Egész álló nap az a gondolat foglalkoztatta, amellyel reggel fölébredt.
 Ó, ha Rosa beszélt volna a tulipánról, Cornelius többre becsülte volna őt Szemirámisz király­nénál, Kleopátra királynénál, Erzsébet királynénál, Ausztriai Anna királynénál, szóval a világ legnagyobb vagy legszebb királynéinál.
@@ -3140,14 +3099,14 @@ De ma este, ma éjszaka látlak egész mivoltodban, a mennybolt tükrében és m
 A szegény beteg egészségesnek, a szegény fogoly szabadnak érezte magát.
 Az éjszaka első felét Cornelius az ablakrácshoz támaszkodva töltötte, s folyton hallgatózott; öt érzékét egyre összpontosította, azazhogy kettőre: lesett és fülelt.
 Az eget nézte, és a földet hallgatta.
-Néha-néha kitekintett a folyosóra, és ezt gondolta: „Odalenn van Rosa, ő is virraszt, akárcsak én, és éppen így számlálja a pillanatokat.
+Néha-néha kitekintett a folyosóra, és ezt gondolta: "Odalenn van Rosa, ő is virraszt, akárcsak én, és éppen így számlálja a pillanatokat.
 Rosa szeme előtt ott a titokzatos virág, mely él, fölpattan és kinyílik.
 Rosa talán éppen ebben a pillanatban tartja finom és forró ujjai között a tulipán szárát.
 Gyöngéden fogd, Rosa!
-Talán e pillanatban ajkával érinti félig kinyílt kelyhét; óvatosan érintsed a kelyhét, Rosa, Rosám, az ajkad tüzel, talán épp most enyeleg egymással az én két szerelmem az Isten szeme láttára.”
+Talán e pillanatban ajkával érinti félig kinyílt kelyhét; óvatosan érintsed a kelyhét, Rosa, Rosám, az ajkad tüzel, talán épp most enyeleg egymással az én két szerelmem az Isten szeme láttára."
 E pillanatban déli irányban kigyúlt egy csillag, végighasította az egész nagy távolságot a láthatár és az erőd között, és eltűnt a vár mögött.
 Cornelius megremegett.
-„Isten most küldte le a tulipánom lelkét.”
+"Isten most küldte le a tulipánom lelkét."
 És mintha eltalálta volna, hajszálra ugyanabban a pillanatban léptek neszét hallotta a folyosó felől, mintha tündérek jártak volna arra, aztán ruhasuhogást, akár szárnyak lebbenését, majd egy jól ismert hangot, amely így szólt:
 - Cornelius barátom, hőn szeretett és boldog barátom, jöjjön, jöjjön hamar.
 Cornelius egy ugrással az ablaknál termett; ajka most is Rosa ajkával találkozott, amely egy csókon keresztül ezt súgta feléje:
@@ -3169,7 +3128,7 @@ A tulipán szép volt, káprázatos, pompás, a szára több mint tizennyolc hü
 - Mialatt a tulipán nyiladozott, megírtam a levelet, mert egy pillanatot sem akartam elveszíte­ni.
 Itt a levél, mondja meg, hogy jó lesz-e?
 Cornelius elvette a levelet, elolvasta, s látta a betűkön, hogy Rosa a neki írt levélke óta megint nagyot haladt.
-„Elnök úr!
+"Elnök úr!
 A fekete tulipán talán már tíz perc múlva kinyílik.
 Mihelyt kinyílt, hírnökkel izének Önnek, hogy legyen szíves kijönni és személyesen megtekinteni a virágot Leeuwensteen várában.
 Én Gryphus börtönfelügyelő leánya vagyok, s majdnem olyan rab, mint azok a rabok, akiket apám őriz.
@@ -3179,7 +3138,7 @@ Az a kívánságom, hogy a virág neve Rosa Barlaensis legyen.
 A tulipán már ki is nyílt, és egészen fekete.
 Kérem, elnök úr, jöjjön el, jöjjön mielőbb!
 Soraimat zárva, maradtam alázatos szolgája:
-Rosa Gryphus”
+Rosa Gryphus"
 - Ez az, nagyon jó, drága Rosa.
 Kitűnő levél!
 Én nem tudtam volna ilyen egyszerűen megfogalmazni.
@@ -3193,7 +3152,7 @@ Közismert ember.
 Van Systens úr, Haarlem polgármestere.
 Adja ide, Rosa, adja ide.
 És Cornelius reszkető kézzel ráírta a levélre:
-„Peter van Systens polgármester úrnak, a haarlemi kertészeti társaság elnökének.”
+"Peter van Systens polgármester úrnak, a haarlemi kertészeti társaság elnökének."
 - Most pedig menjen, édes Rosa, és kérjük Isten oltalmát, aki eddig is annyira kegyébe vett bennünket.
 AZ IRIGY
 A két fiatal teremtés igazán rászolgált, hogy az Úristen a maga közvetlen védelme alá helyezze őket.
@@ -3471,7 +3430,7 @@ Rosa egyszerűen mint Rosa Gryphus jelentette be magát, de bármilyen szépen h
 Hollandiában, a gátak és zsilipek hazájában, nagyon nehéz valahová erőszakkal bejutni.
 De Rosát ez a legkevésbé sem riasztotta vissza; magára vállalt egy küldetést, s megfogadta, hogy semmiféle elutasítás, durvaság vagy sérelem nem fogja őt feltett céljától eltántorítani.
 - Jelentse be az elnök úrnak, hogy a fekete tulipán ügyében kívánok vele beszélni.
-Szavai olyasfajta varázsigének bizonyultak, mint az ezeregyéjszakabeli „Szezám, nyílj ki”: biztosították Rosának a szabad bemenetelt.
+Szavai olyasfajta varázsigének bizonyultak, mint az ezeregyéjszakabeli "Szezám, nyílj ki": biztosították Rosának a szabad bemenetelt.
 Varázsigéje segítségével bejutott Van Systens elnök dolgozószobájába, és az elnök udvariasan elébe is jött, hogy fogadja.
 Vékonypénzű, alacsony emberke volt, meglehetős hű hasonmása egy virágnak: a feje volt a virág kelyhe, lelógó, himbálózó két karja megfelelt a tulipán hosszúkás, dupla levelének, s a hasonlatosságot betetőzte sajátos imbolygó járása, amely éppen olyan volt, mint mikor a tulipán a szélben hajlong.
 Említettük már, hogy Van Systensnek hívták.
@@ -3558,16 +3517,16 @@ A KERTÉSZETI TÁRSASÁG EGY TAGJA
 Rosa magánkívül volt, majd eszét vesztette az örömtől és a félelemtől arra a gondolatra, hogy megvan a fekete tulipán, és a révész kíséretében, aki olyan jól megtermett fríz legény volt, hogy egymaga akár tíz Boxtellal is elbánt volna, a Fehér Hattyú fogadó felé vette útját.
 Útközben beavatta a dologba a révészt, és az bizony nem hátrált meg a viaskodás lehetősége előtt, ha sor kerülne rá; Rosa csak azt kötötte ki, hogy a tulipánt minden körülmények között kímélni kell.
 De a Groote Marktra érve Rosa hirtelen megtorpant, elragadta egy felvillanó gondolat, akárcsak Homérosz Minerváját, aki abban a pillanatban, amikor a harag elragadta, belemar­kolt Akhilleusz üstökébe.
-„Istenem - mormogta -, rettentő hibát követtem el, talán Corneliust is, a tulipánt is meg magamat is elveszejtettem.
+"Istenem - mormogta -, rettentő hibát követtem el, talán Corneliust is, a tulipánt is meg magamat is elveszejtettem.
 Figyelmeztettem őket, fölkeltettem a gyanújukat.
 Én csak szegény nő vagyok, s ha ezek a férfiak összeesküsznek ellenem, végem van.
-És még az sem volna baj, de mi lesz Corneliusszal, mi lesz a tulipánnal?”
+És még az sem volna baj, de mi lesz Corneliusszal, mi lesz a tulipánnal?"
 Rövid töprengés után így folytatta okoskodását:
-„Ha elmegyek Boxtelhoz, akit nem ismerek, és ha ez a Boxtel nem az én Jacobom, hanem egy másik tulipánkedvelő, aki szintén fölfedezte a fekete tulipánt, vagy ha az én tulipánomat nem az lopta el, akire gyanakszom, vagy ha más kézbe került, és én nem is ismerem azt az embert, hanem csak a tulipánt: hogyan bizonyítom be, hogy az az én tulipánom?
+"Ha elmegyek Boxtelhoz, akit nem ismerek, és ha ez a Boxtel nem az én Jacobom, hanem egy másik tulipánkedvelő, aki szintén fölfedezte a fekete tulipánt, vagy ha az én tulipánomat nem az lopta el, akire gyanakszom, vagy ha más kézbe került, és én nem is ismerem azt az embert, hanem csak a tulipánt: hogyan bizonyítom be, hogy az az én tulipánom?
 Másfelől, ha Boxtelban fölismerem az ál-Jacobot, ki tudja, mi történik még?
 Amíg mi ketten pörlekedünk, addig elpusztul a tulipán!
 Ó, Szent Szűz, te világosítsd meg a lelkemet!
-Egész életem sorsa dől el most, a szegény fogoly sorsa dől el most, aki talán meghal e pillanatban.”
+Egész életem sorsa dől el most, a szegény fogoly sorsa dől el most, aki talán meghal e pillanatban."
 Miután így imádkozott, Rosa áhítatos szívvel várta a mennyei sugallatot, amelyért könyörgött.
 Ezalatt a Groote Markt túlsó oldalán nagy zajongás támadt.
 Emberek jöttek-mentek, kapuk nyíltak-csukódtak, csak Rosa maradt érzéketlen a nyüzsgő, forgó sokaság iránt.
@@ -3685,7 +3644,7 @@ Van Systens folytatta a kihallgatást.
 - Leeuwensteenben.
 - Kegyed hát Leeuwensteenből való?
 - Az ottani börtönfelügyelő lánya vagyok.
-A herceg észrevétlen mozdulatot tett, mintha ezt mondta volna: „Igen, persze, most már emlékszem.”
+A herceg észrevétlen mozdulatot tett, mintha ezt mondta volna: "Igen, persze, most már emlékszem."
 Aztán, továbbra is olvasást színlelve, még nagyobb figyelemmel nézte Rosát.
 - Szereti a virágot?
 - folytatta Van Systens.
@@ -3901,12 +3860,12 @@ Vilmos átadta a harmadik tulipánhagymát az elnöknek, átvette a papirost Ros
 Alig vetett rá egy pillantást, Vilmos megtántorodott, a keze remegni kezdett, mintha el akarta volna ejteni a papirost, tekintetében fájdalom és részvét döbbenetes kifejezése tükröződött.
 A Rosa kezéből átvett papír a bibliának az a kiszakított lapja volt, amit Cornelius de Witt Craekéval, fivérének hírnökével küldött Dordrechtbe, s melyben arra kérte Corneliust, hogy égesse el a főminiszternek Louvois-val váltott leveleit.
 Az olvasó még emlékezhetik rá, mit tartalmazott a kérés:
-„Édes Keresztfiam!
+"Édes Keresztfiam!
 Égesd el a csomagot, amit rád bíztam; meg se nézzed, ki se nyissad, csak égesd el, hogy ne is tudd, mi van benne, az ilyen természetű titkok megölik azt, aki az őrzésüket vállalja.
 Égesd el, ezáltal megmented Jant és Corneliust.
 Isten veled, tarts meg szeretetedben.
 1672. augusztus 20.
-Cornelius de Witt”
+Cornelius de Witt"
 Ez a levél pedig bizonyította Van Baerle ártatlanságát, de egyúttal azt is hogy a tulipánnak ő az igazi gazdája.
 Rosa és a helytartó összenézett.
 Rosa tekintetében ez volt: no látja!
@@ -3952,7 +3911,7 @@ Cornelius újra meg újra átgondolta azokat a szegényes fogásokat, amelyekkel
 Még az is eszébe jutott, hogy megszökik, amire sohasem gondolt, amíg naponta láthatta Rosát.
 De minél többet foglalkozott e gondolattal, annál lehetetlenebbnek látta a szökést.
 Azok közé a finom lelkű emberek közé tartozott, akik irtóznak mindentől, ami közönséges, és elszalasztják a legjobb alkalmakat, mert nem tudnak rálépni a közönséges útra, a középszerű emberek széles országútjára, amely mindenüvé elviszi őket.
-„Hogyan is szökhetnék meg Leeuwensteenből - tépelődött Cornelius -, ahonnan Grotius megszökött hajdanán?
+"Hogyan is szökhetnék meg Leeuwensteenből - tépelődött Cornelius -, ahonnan Grotius megszökött hajdanán?
 Az ő szökése óta a legkülönfélébb óvintézkedéseket foganatosították.
 Nem őriznek-e minden ablakot?
 Nincsenek-e kettős vagy hármas ajtók?
@@ -3970,10 +3929,10 @@ Amióta elvesztettem boldogságomat: Rosát, s főképpen amióta elvesztettem a
 Bizonyosra vehető, hogy Gryphus előbb-utóbb olyat tesz, ami a legnagyobb mértékben sérti hiúságomat vagy szerelmemet, vagy veszélyezteti személyes biztonságomat.
 Mióta börtönben ülök, valami különös, izgága, elviselhetetlen erő bizsereg bennem.
 Viszket a tenyerem, ütni szeretnék, birkózni volna kedvem, és érthetetlen módon verekedni vágyom.
-Legszívesebben torkon ragadnám és megfojtanám a vén gazembert.”
+Legszívesebben torkon ragadnám és megfojtanám a vén gazembert."
 Az utolsó szavaknál Cornelius összeszorított ajakkal és kimeredt szemmel szünetet tartott.
 Szüntelenül egy gondolat motoszkált a fejében:
-„Ha Gryphust megfojtom, miért ne vehetném el tőle a kulcsait?
+"Ha Gryphust megfojtom, miért ne vehetném el tőle a kulcsait?
 Miért ne mehetnék le a lépcsőn úgy, mintha a legderekabb dolgot vittem volna véghez?
 Miért ne kereshetném fel Rosát a szobájában?
 Miért ne magyarázhatnám meg neki, hogy mi történt, s miért ne ugorhatnám ki az ablakából vele együtt a Waalba?
@@ -3983,7 +3942,7 @@ Rosa!
 Akárhogy szeret is engem, nem fog belenyugodni, hogy megfojtottam az apját, ha mégoly durva, mégoly gonosz ember volt is az öreg.
 Vitatkozni fogunk, és míg mi agyondisputáljuk a dolgot, megérkezik az egyik börtönőr vagy porkolábsegéd, aki rátalált a még talán hörgő vagy már kiszenvedett Gryphusra, és a vállamra teszi a kezét.
 Akkor pedig viszontláthatom újra a Buitenhofot meg annak az utálatos kardnak a villanását, amely ezúttal nem fog félúton megállni, hanem megismerkedik a nyakammal.
-Nem, Cornelius barátom, szó se legyen erről, ez rossz módszer!”
+Nem, Cornelius barátom, szó se legyen erről, ez rossz módszer!"
 De hát akkor mihez fogjon, és hogy leljen rá Rosára?
 Így tépelődött Cornelius három nappal a gyászos jelenet után, amelynek során Rosa elvált apjától, éppen abban a pillanatban is, amikor az ablakban könyökölt.
 És ebben a pillanatban lépett be hozzá Gryphus.
@@ -4042,13 +4001,13 @@ De nem hinném, hogy azzal fenyeget.
 - Nocsak!
 Szóval nem hiszed!
 És miért nem?
-- Mert minden porkoláb, aki megüt egy rabot, kétféle büntetésnek vettetik alá; az elsőt a leeuwensteeni szabályzat kilencedik pontja rendeli ekképpen: „Elveszti hivatalát minden felügyelő, porkoláb vagy börtönőr, aki államfogolyra kezet emel.”
+- Mert minden porkoláb, aki megüt egy rabot, kétféle büntetésnek vettetik alá; az elsőt a leeuwensteeni szabályzat kilencedik pontja rendeli ekképpen: "Elveszti hivatalát minden felügyelő, porkoláb vagy börtönőr, aki államfogolyra kezet emel."
 - Kezet!
 - ordította Gryphus magánkívül a dühtől.
 - De nem furkósbotot!
 Furkósbotról nem beszél a szabályzat.
-- A második pedig - folytatta Cornelius -, a második nincsen ugyan benne a szabályzatban, de megtalálható az evangéliumban, és ez a második paragrafus így szól: „Ki fegyvert fog, fegyver által vész el.
-Ki bottal üt, bottal páholtatik el.”
+- A második pedig - folytatta Cornelius -, a második nincsen ugyan benne a szabályzatban, de megtalálható az evangéliumban, és ez a második paragrafus így szól: "Ki fegyvert fog, fegyver által vész el.
+Ki bottal üt, bottal páholtatik el."
 Gryphus, akit Cornelius nyugodt és kenetes hangja teljesen kihozott a sodrából, megsuhintotta a fütyköst, de mihelyt fölemelte, Cornelius nekiugrott, kitépte a kezéből, és a hóna alá dugta.
 Gryphus üvöltött dühében.
 - Így, így, jóember - mondta Cornelius -, miért tenné ki magát annak, hogy elveszítse a hivata­lát?
@@ -4111,7 +4070,7 @@ Belenyúlt a zsebébe, kihúzott egy kést, és kinyitotta.
 Késsel jössz nekem!
 - kiáltott Cornelius, és maga elé tartva a furkósbotot, védelmi állásba helyezkedett.
 AMELYBEN VAN BAERLE,
- MIELŐTT ELHAGYNÁ LEEUWENSTEEN VÁRÁT,
+MIELŐTT ELHAGYNÁ LEEUWENSTEEN VÁRÁT,
 LESZÁMOL GRYPHUSSZAL
 Egy pillanatig farkasszemet néztek egymással, Gryphus támadóan, Van Baerle pedig védekez­ve.
 Minthogy azonban a hadihelyzet a végtelenségig elhúzódhatott volna, Cornelius tudni akarta, mit jelent ellenfelének ez az újabb kitörése, hát megkérdezte:
@@ -4194,13 +4153,13 @@ Mit mondtam?
 - Igaz!
 Csakhogy magához ideküldték őfensége hadsegédét, egyik legbizalmasabb emberét, Van Deken ezredes urat!
 Teringettét, a szegény Mathiast nem részesítették ilyen nagy tisztes­ségben.
-„Nyugalom, nyugalom - gondolta Cornelius, és úgy teleszítta magát levegővel, ahogy csak bírta -, gyerünk, mutassuk meg ezeknek az embereknek, hogy egy polgár, Cornelius de Witt keresztfia, egyetlen arcrándulás nélkül elszenved ugyanannyi golyót, mint az a Mathias nevezetű fogoly.”
+"Nyugalom, nyugalom - gondolta Cornelius, és úgy teleszítta magát levegővel, ahogy csak bírta -, gyerünk, mutassuk meg ezeknek az embereknek, hogy egy polgár, Cornelius de Witt keresztfia, egyetlen arcrándulás nélkül elszenved ugyanannyi golyót, mint az a Mathias nevezetű fogoly."
 És büszkén elébe került az írnoknak, aki hivatalos ténykedésében megzavarva, megkockázta­tott egy megjegyzést:
 - Van Deken ezredes úr, még nem kész a jegyzőkönyv.
 - Nem érdemes befejezni - válaszolta az ezredes.
 - Értem!
 - felelte az írnok, és filozofikus nyugalommal becsomagolta iratait és tollat egy használt, piszkos mappába.
-„Meg van írva - gondolta magában a szegény Cornelius -, hogy én ezen a világon se gyerek­nek, se virágnak, se könyvnek ne adhassam a nevemet, pedig azt mondják, hogy az Úristen e három dolog közül egyet mindenesetre megkíván minden valamirevaló embertől, kit ép testtel, ép lélekkel áldott meg.”
+"Meg van írva - gondolta magában a szegény Cornelius -, hogy én ezen a világon se gyerek­nek, se virágnak, se könyvnek ne adhassam a nevemet, pedig azt mondják, hogy az Úristen e három dolog közül egyet mindenesetre megkíván minden valamirevaló embertől, kit ép testtel, ép lélekkel áldott meg."
 És fölemelt fővel, elszánt lélekkel követte az ezredest.
 Cornelius számlálta a vársétányhoz vezető lépcsőfokokat, és sajnálta, hogy nem kérdezte meg az őrtől, hány grádicson kell lemenniök; a szolgálatkész, udvarias őr bizonyára nagyon szívesen megmondta volna.
 Egész úton, amelyről Cornelius szentül hitte, hogy egyenesen a halálba visz, csakis attól rettegett, hogy látni fogja Gryphust, és nem fogja látni Rosát.
@@ -4241,17 +4200,17 @@ Kétségkívül kötelességének érezte, hogy új felvilágosításokkal szolg
 Halálraítéltje válogatja.
 Cornelius egy biccentéssel megköszönte.
 Magában meg ezt gondolta:
-„Nohát, micsoda szerencse: egy ilyen derék fickó, el nem mulasztaná, hogy egy vigasztaló szót szóljon az embernek, mihelyt alkalma nyílik rá.
+"Nohát, micsoda szerencse: egy ilyen derék fickó, el nem mulasztaná, hogy egy vigasztaló szót szóljon az embernek, mihelyt alkalma nyílik rá.
 Igazán lekötelez, barátom!
-Isten veletek.”
+Isten veletek."
 A hintó elrobogott.
 - A gazember!
 A zsivány!
 - ordította Gryphus, és öklével fenyegette áldozatát, amiért kisiklott a kezéből.
 - S ha meggondolom, hogy elmegy, és nem adja vissza a lányomat!
-„Ha Dordrechtbe visznek - gondolta Cornelius -, a házam előtt elmenet látni fogom, hogy szegény virágágyaim nem mentek-e nagyon tönkre.”
+"Ha Dordrechtbe visznek - gondolta Cornelius -, a házam előtt elmenet látni fogom, hogy szegény virágágyaim nem mentek-e nagyon tönkre."
 AMELYBEN AZ OLVASÓ SEJTENI KEZDI,
-HOGY MIFÉLE BÜNTETÉST TARTOGATTAK 
+HOGY MIFÉLE BÜNTETÉST TARTOGATTAK
 CORNELIUS VAN BAERLE SZÁMÁRA
 A hintó egész nap meg sem állt.
 Bal felől elhagyta Dordrechtet, végigrobogott Rotterdamon, elérte Delftet.
@@ -4571,9 +4530,6 @@ Fogadótermének fő dísze, két nagy aranykeretben, a Cornelius de Witt bibli�
 A másikon ő testálta Rosára a fekete tulipán hagymáját azzal a kikötéssel, hogy a százezer forint hozománnyal feleségül megy egy huszonhat-huszonnyolc éves szép fiatalemberhez, aki szeretni fogja, s akit ő is szeretni fog.
 Amely kikötésnek Rosa lelkiismeretesen eleget tett, ámbár Cornelius nem halt meg, sőt éppen azért, mert nem halt meg.
 És hogy jövendőbeli irigyeit lefegyverezze, ha netán a Gondviselés nem szabadítaná meg tőlük, ahogy Izaak Boxtel úrral tette, ajtaja fölé azt a jelmondatot írta, amit Grotius vésett szökése napján börtönének falára:
-„Olykor eleget szenvedünk ahhoz,
+"Olykor eleget szenvedünk ahhoz,
 hogy jogunk legyen soha azt nem mondani:
-- Nagyon-nagyon boldog vagyok”
-
-
-.oOo.
+- Nagyon-nagyon boldog vagyok"
