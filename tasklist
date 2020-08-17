@@ -4,7 +4,7 @@
 4. Please put on nessie all files (originals, not just aligned) ~~~ DONE
 5. Edit out initial material where needed ~~~ DONE
 6. Rerun hunalign ~~~ DONE
-7. /mnt/store/gaebor/Chinese/ has the previous Chinese project ~~~ NO ACCESS
+7. /mnt/store/gaebor/Chinese/ has the previous Chinese project ~~~ DONE
 8. https://github.com/zseder/hundict ~~~ IN PROGRESS
 
 (Detection of compound words, collocations. Read Manning and Schuetze Chapter 5 https://nlp.stanford.edu/fsnlp/colloc/ )
