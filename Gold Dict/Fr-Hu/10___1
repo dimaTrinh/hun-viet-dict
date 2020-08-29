@@ -1,0 +1,49 @@
+{
+  "type" : "Word",
+  "oid" : 3599511,
+  "deleted" : false,
+  "indexedInDicts" : "482",
+  "ixwRef" : "481:3599509|482:3599511",
+  "content" : "10",
+  "language" : "hun",
+  "sourceId" : "180547",
+  "pos" : "1",
+  "dictRef" : "481 482",
+  "order_meaning_explicit_482:3599511" : "3599510",
+  "connections" : [ {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 20987795,
+    "sourceId" : "180549",
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 3599510,
+      "deleted" : false,
+      "ixwRef" : "481:3599509|482:3599511",
+      "sourceId" : "180545",
+      "dictRef" : "481 482",
+      "order_translation_explicit_481:3599509" : "3599511",
+      "order_translation_explicit_482:3599511" : "3599509",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 20987797,
+        "sourceId" : "180548",
+        "connected" : {
+          "type" : "Word",
+          "oid" : 3599509,
+          "deleted" : false,
+          "indexedInDicts" : "481",
+          "ixwRef" : "481:3599509|482:3599511",
+          "content" : "shíyuè",
+          "language" : "fre",
+          "sourceId" : "180546",
+          "pos" : "1",
+          "dictRef" : "481 482",
+          "order_meaning_explicit_481:3599509" : "3599510"
+        }
+      } ]
+    }
+  } ]
+}

@@ -1,0 +1,84 @@
+{
+  "type" : "Word",
+  "oid" : 3507821,
+  "deleted" : false,
+  "indexedInDicts" : "482",
+  "ixwRef" : "481:3507819|481:3507822|482:3507821",
+  "content" : "Bahrein",
+  "language" : "hun",
+  "sourceId" : "18963",
+  "pos" : "1",
+  "dictRef" : "481 482",
+  "order_meaning_explicit_482:3507821" : "3507823|3507820",
+  "connections" : [ {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 21172411,
+    "sourceId" : "18965",
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 3507820,
+      "deleted" : false,
+      "ixwRef" : "481:3507819|482:3507821",
+      "sourceId" : "18961",
+      "dictRef" : "481 482",
+      "order_translation_explicit_481:3507819" : "3507821",
+      "order_translation_explicit_482:3507821" : "3507819",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 21172413,
+        "sourceId" : "18964",
+        "connected" : {
+          "type" : "Word",
+          "oid" : 3507819,
+          "deleted" : false,
+          "indexedInDicts" : "481",
+          "ixwRef" : "481:3507819|482:3507821",
+          "content" : "Bahrayn",
+          "language" : "fre",
+          "sourceId" : "18962",
+          "pos" : "1",
+          "dictRef" : "481 482",
+          "order_meaning_explicit_481:3507819" : "3507820"
+        }
+      } ]
+    }
+  }, {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 21172407,
+    "sourceId" : "18969",
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 3507823,
+      "deleted" : false,
+      "ixwRef" : "481:3507822|482:3507821",
+      "sourceId" : "18966",
+      "dictRef" : "481 482",
+      "order_translation_explicit_481:3507822" : "3507821",
+      "order_translation_explicit_482:3507821" : "3507822",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 21172409,
+        "sourceId" : "18968",
+        "connected" : {
+          "type" : "Word",
+          "oid" : 3507822,
+          "deleted" : false,
+          "indexedInDicts" : "481",
+          "ixwRef" : "481:3507822|482:3507821",
+          "content" : "Bahreïn",
+          "language" : "fre",
+          "sourceId" : "18967",
+          "pos" : "1",
+          "dictRef" : "481 482",
+          "order_meaning_explicit_481:3507822" : "3507823"
+        }
+      } ]
+    }
+  } ]
+}

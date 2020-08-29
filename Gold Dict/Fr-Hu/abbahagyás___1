@@ -1,0 +1,56 @@
+{
+  "type" : "Word",
+  "oid" : 608757,
+  "deleted" : false,
+  "indexedInDicts" : "28",
+  "ixwRef" : "27:608755|28:608757",
+  "content" : "abbahagyás",
+  "language" : "hun",
+  "sourceId" : "53902",
+  "pos" : "1",
+  "dictRef" : "27 28",
+  "source" : "SZTAKI",
+  "inAkad" : "true",
+  "order_meaning_explicit_28:608757" : "608756",
+  "connections" : [ {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 4158852,
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 608756,
+      "deleted" : false,
+      "ixwRef" : "27:608755|28:560791|28:608757|28:595012",
+      "dictRef" : "27 28",
+      "order_translation_explicit_27:560785" : "560791",
+      "order_translation_explicit_27:594992" : "595012",
+      "order_translation_explicit_27:600775" : "595012",
+      "order_translation_explicit_27:608755" : "595012|608757|560791",
+      "order_translation_explicit_28:560791" : "608755",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 4158848,
+        "connected" : {
+          "type" : "Word",
+          "oid" : 608755,
+          "deleted" : false,
+          "indexedInDicts" : "27",
+          "ixwRef" : "27:608755|28:608759|28:560791|28:608757|28:595012",
+          "content" : "discontinuité",
+          "language" : "fre",
+          "sourceId" : "w151724",
+          "pos" : "1",
+          "dictRef" : "27 28",
+          "source" : "SZTAKI",
+          "oldSourceId" : "370669",
+          "inAkad" : "true",
+          "sourceUrl" : "file:///Users/pataki/Documents/work/szotar/sztakidict2010/dicts/Sactol/akad-fre-hun/html/frhunagy_110127/0000023552.txt",
+          "gender" : "n",
+          "order_meaning_explicit_27:608755" : "608756|608758"
+        }
+      } ]
+    }
+  } ]
+}

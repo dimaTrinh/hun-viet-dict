@@ -1,0 +1,55 @@
+{
+  "type" : "Word",
+  "oid" : 679183,
+  "deleted" : false,
+  "indexedInDicts" : "28",
+  "ixwRef" : "27:679177|28:679183",
+  "content" : "abbahagy",
+  "language" : "hun",
+  "sourceId" : "158-1336558667751",
+  "pos" : "2",
+  "dictRef" : "27 28",
+  "source" : "SZTAKI",
+  "inAkad" : "true",
+  "order_meaning_explicit_28:679183" : "679182",
+  "connections" : [ {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 4027188,
+    "explanation" : "pl sportolást",
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 679182,
+      "deleted" : false,
+      "ixwRef" : "27:679177|28:679196|28:679183",
+      "dictRef" : "27 28",
+      "order_translation_explicit_27:679177" : "679183|679196",
+      "order_translation_explicit_28:679196" : "679177",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 4027184,
+        "stylisticQualification" : "1.2",
+        "connected" : {
+          "type" : "Word",
+          "oid" : 679177,
+          "deleted" : false,
+          "indexedInDicts" : "27",
+          "ixwRef" : "27:679177|28:679213|28:679211|28:679210|28:679196|28:679183|28:679181|28:679179",
+          "content" : "raccrocher",
+          "language" : "fre",
+          "sourceId" : "w162544",
+          "pos" : "2",
+          "dictRef" : "27 28",
+          "source" : "SZTAKI",
+          "oldSourceId" : "392231",
+          "inAkad" : "true",
+          "sourceUrl" : "file:///Users/pataki/Documents/work/szotar/sztakidict2010/dicts/Sactol/akad-fre-hun/html/frhunagy_110127/0000064546.txt",
+          "subPos" : "2.2",
+          "order_meaning_explicit_27:679177" : "679178|679180|679182|679197|679212"
+        }
+      } ]
+    }
+  } ]
+}

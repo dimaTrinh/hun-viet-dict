@@ -1,0 +1,53 @@
+{
+  "type" : "Word",
+  "oid" : 582527,
+  "deleted" : false,
+  "indexedInDicts" : "28",
+  "ixwRef" : "27:582525|28:582527",
+  "content" : "abbamarad",
+  "language" : "hun",
+  "sourceId" : "29574",
+  "pos" : "2",
+  "dictRef" : "27 28",
+  "source" : "SZTAKI",
+  "inAkad" : "true",
+  "order_meaning_explicit_28:582527" : "582526",
+  "connections" : [ {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 4201692,
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 582526,
+      "deleted" : false,
+      "ixwRef" : "27:582525|28:582527",
+      "dictRef" : "27 28",
+      "order_translation_explicit_27:582525" : "582527",
+      "order_translation_explicit_28:582527" : "582525",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 4201694,
+        "connected" : {
+          "type" : "Word",
+          "oid" : 582525,
+          "deleted" : false,
+          "indexedInDicts" : "27",
+          "ixwRef" : "27:582525|28:582527",
+          "content" : "cesser",
+          "language" : "fre",
+          "sourceId" : "w148318",
+          "pos" : "2",
+          "dictRef" : "27 28",
+          "source" : "SZTAKI",
+          "oldSourceId" : "363691",
+          "inAkad" : "true",
+          "sourceUrl" : "file:///Users/pataki/Documents/work/szotar/sztakidict2010/dicts/Sactol/akad-fre-hun/html/frhunagy_110127/0000014277.txt",
+          "subPos" : "2.1",
+          "order_meaning_explicit_27:582525" : "582526"
+        }
+      } ]
+    }
+  } ]
+}

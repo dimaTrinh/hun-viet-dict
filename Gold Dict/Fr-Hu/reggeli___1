@@ -1,0 +1,84 @@
+{
+  "type" : "Word",
+  "oid" : 3567312,
+  "deleted" : false,
+  "indexedInDicts" : "482",
+  "ixwRef" : "481:3567310|481:3580000|482:3567312",
+  "content" : "reggeli",
+  "language" : "hun",
+  "sourceId" : "123338",
+  "pos" : "1",
+  "dictRef" : "481 482",
+  "order_meaning_explicit_482:3567312" : "3580001|3567311",
+  "connections" : [ {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 21055213,
+    "sourceId" : "123340",
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 3567311,
+      "deleted" : false,
+      "ixwRef" : "481:3567310|482:3567312",
+      "sourceId" : "123336",
+      "dictRef" : "481 482",
+      "order_translation_explicit_481:3567310" : "3567312",
+      "order_translation_explicit_482:3567312" : "3567310",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 21055215,
+        "sourceId" : "123339",
+        "connected" : {
+          "type" : "Word",
+          "oid" : 3567310,
+          "deleted" : false,
+          "indexedInDicts" : "481",
+          "ixwRef" : "481:3567310|482:3567312",
+          "content" : "matutinal",
+          "language" : "fre",
+          "sourceId" : "123337",
+          "pos" : "1",
+          "dictRef" : "481 482",
+          "order_meaning_explicit_481:3567310" : "3567311"
+        }
+      } ]
+    }
+  }, {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 21028981,
+    "sourceId" : "146442",
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 3580001,
+      "deleted" : false,
+      "ixwRef" : "481:3580000|482:3567312",
+      "sourceId" : "146439",
+      "dictRef" : "481 482",
+      "order_translation_explicit_481:3580000" : "3567312",
+      "order_translation_explicit_482:3567312" : "3580000",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 21028983,
+        "sourceId" : "146441",
+        "connected" : {
+          "type" : "Word",
+          "oid" : 3580000,
+          "deleted" : false,
+          "indexedInDicts" : "481",
+          "ixwRef" : "481:3580000|482:3567312",
+          "content" : "petit-déjeuner",
+          "language" : "fre",
+          "sourceId" : "146440",
+          "pos" : "1",
+          "dictRef" : "481 482",
+          "order_meaning_explicit_481:3580000" : "3580001"
+        }
+      } ]
+    }
+  } ]
+}

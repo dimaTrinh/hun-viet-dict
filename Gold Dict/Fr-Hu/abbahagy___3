@@ -1,0 +1,170 @@
+{
+  "type" : "Word",
+  "oid" : 556052,
+  "deleted" : false,
+  "indexedInDicts" : "28",
+  "ixwRef" : "27:556040|27:582519|27:678858|27:688556|28:556052",
+  "content" : "abbahagy",
+  "language" : "hun",
+  "sourceId" : "158",
+  "pos" : "2",
+  "dictRef" : "27 28",
+  "source" : "SZTAKI",
+  "inAkad" : "true",
+  "order_meaning_explicit_28:556052" : "688574|678863|582520|556051",
+  "connections" : [ {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 4244374,
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 556051,
+      "deleted" : false,
+      "ixwRef" : "27:556040|28:556053|28:556052",
+      "thematicQualification" : "004",
+      "dictRef" : "27 28",
+      "order_translation_explicit_27:556040" : "556052|556053",
+      "order_translation_explicit_28:556053" : "556040",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 4244372,
+        "connected" : {
+          "type" : "Word",
+          "oid" : 556040,
+          "deleted" : false,
+          "indexedInDicts" : "27",
+          "ixwRef" : "27:556040|28:556053|28:556052|28:556050|28:556048|28:556046|28:556044|28:556042",
+          "content" : "abandonner",
+          "language" : "fre",
+          "sourceId" : "w144858",
+          "pos" : "2",
+          "dictRef" : "27 28",
+          "source" : "SZTAKI",
+          "oldSourceId" : "356769",
+          "inAkad" : "true",
+          "sourceUrl" : "file:///Users/pataki/Documents/work/szotar/sztakidict2010/dicts/Sactol/akad-fre-hun/html/frhunagy_110127/0000000022.txt",
+          "subPos" : "2.2",
+          "order_meaning_explicit_27:556040" : "556041|556043|556045|556047|556049|556051"
+        }
+      } ]
+    }
+  }, {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 4201710,
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 582520,
+      "deleted" : false,
+      "ixwRef" : "27:582519|28:582521|28:556052",
+      "dictRef" : "27 28",
+      "order_translation_explicit_27:556040" : "556052",
+      "order_translation_explicit_27:582519" : "556052|582521",
+      "order_translation_explicit_28:582521" : "582519",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 4201708,
+        "connected" : {
+          "type" : "Word",
+          "oid" : 582519,
+          "deleted" : false,
+          "indexedInDicts" : "27",
+          "ixwRef" : "27:582519|28:582524|28:556365|28:582521|28:556052",
+          "content" : "cesser",
+          "language" : "fre",
+          "sourceId" : "w148317",
+          "pos" : "2",
+          "dictRef" : "27 28",
+          "source" : "SZTAKI",
+          "oldSourceId" : "363691",
+          "inAkad" : "true",
+          "sourceUrl" : "file:///Users/pataki/Documents/work/szotar/sztakidict2010/dicts/Sactol/akad-fre-hun/html/frhunagy_110127/0000014277.txt",
+          "order_meaning_explicit_27:582519" : "582520|582522|582523"
+        }
+      } ]
+    }
+  }, {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 4027760,
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 678863,
+      "deleted" : false,
+      "ixwRef" : "27:678858|28:556052",
+      "dictRef" : "27 28",
+      "order_translation_explicit_27:556040" : "556052",
+      "order_translation_explicit_27:582519" : "556052",
+      "order_translation_explicit_27:678858" : "556052",
+      "order_translation_explicit_28:556052" : "678858",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 4027762,
+        "connected" : {
+          "type" : "Word",
+          "oid" : 678858,
+          "deleted" : false,
+          "indexedInDicts" : "27",
+          "ixwRef" : "27:678858|28:556056|28:579023|28:582521|28:556052|28:648264|28:678860",
+          "content" : "quitter",
+          "language" : "fre",
+          "sourceId" : "w162496",
+          "pos" : "2",
+          "dictRef" : "27 28",
+          "source" : "SZTAKI",
+          "oldSourceId" : "392137",
+          "inAkad" : "true",
+          "sourceUrl" : "file:///Users/pataki/Documents/work/szotar/sztakidict2010/dicts/Sactol/akad-fre-hun/html/frhunagy_110127/0000064405.txt",
+          "subPos" : "2.2",
+          "order_meaning_explicit_27:678858" : "678859|678861|678862|678865|678866"
+        }
+      } ]
+    }
+  }, {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 4007396,
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 688574,
+      "deleted" : false,
+      "ixwRef" : "27:688556|28:556052",
+      "dictRef" : "27 28",
+      "order_translation_explicit_27:556040" : "556052",
+      "order_translation_explicit_27:582519" : "556052",
+      "order_translation_explicit_27:678858" : "556052",
+      "order_translation_explicit_27:688556" : "556052",
+      "order_translation_explicit_28:556052" : "688556",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 4007398,
+        "connected" : {
+          "type" : "Word",
+          "oid" : 688556,
+          "deleted" : false,
+          "indexedInDicts" : "27",
+          "ixwRef" : "27:688556|28:625660|28:566818|28:610135|28:576876|28:558893|28:555989|28:688579|28:577165|28:608754|28:562887|28:615439|28:556052|28:603283|28:563816|28:559720|28:560027|28:605891|28:557803|28:594818|28:557804|28:688563|28:560784|28:685142|28:581492|28:577661|28:616043|28:602432",
+          "content" : "rompre",
+          "language" : "fre",
+          "sourceId" : "w163989",
+          "pos" : "2",
+          "dictRef" : "27 28",
+          "source" : "SZTAKI",
+          "oldSourceId" : "395179",
+          "inAkad" : "true",
+          "sourceUrl" : "file:///Users/pataki/Documents/work/szotar/sztakidict2010/dicts/Sactol/akad-fre-hun/html/frhunagy_110127/0000068323.txt",
+          "subPos" : "2.2",
+          "order_meaning_explicit_27:688556" : "688557|688558|688559|688560|688561|688568|688573|688580|688585"
+        }
+      } ]
+    }
+  } ]
+}

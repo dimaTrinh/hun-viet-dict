@@ -1,0 +1,53 @@
+{
+  "type" : "Word",
+  "oid" : 628883,
+  "deleted" : false,
+  "indexedInDicts" : "28",
+  "ixwRef" : "27:628869|28:628883",
+  "content" : "abbahagy",
+  "language" : "hun",
+  "sourceId" : "158-1336558325858",
+  "pos" : "2",
+  "dictRef" : "27 28",
+  "source" : "SZTAKI",
+  "inAkad" : "true",
+  "order_meaning_explicit_28:628883" : "628870",
+  "connections" : [ {
+    "name" : "meaning",
+    "type" : "DConnection",
+    "oid" : 4125510,
+    "connected" : {
+      "type" : "Meaning",
+      "oid" : 628870,
+      "deleted" : false,
+      "ixwRef" : "27:628869|28:628883",
+      "dictRef" : "27 28",
+      "order_translation_explicit_27:628869" : "628883",
+      "order_translation_explicit_28:628883" : "628869",
+      "levelIndexStyle" : "num",
+      "connections" : [ {
+        "name" : "translation",
+        "type" : "DConnection",
+        "oid" : 4125512,
+        "explanation" : "befejezett cselekmény jelölésére",
+        "connected" : {
+          "type" : "Word",
+          "oid" : 628869,
+          "deleted" : false,
+          "indexedInDicts" : "27",
+          "ixwRef" : "27:628869|28:628883",
+          "content" : "finir",
+          "language" : "fre",
+          "sourceId" : "w154384",
+          "pos" : "2",
+          "dictRef" : "27 28",
+          "source" : "SZTAKI",
+          "oldSourceId" : "375695",
+          "inAkad" : "true",
+          "sourceUrl" : "file:///Users/pataki/Documents/work/szotar/sztakidict2010/dicts/Sactol/akad-fre-hun/html/frhunagy_110127/0000031152.txt",
+          "order_meaning_explicit_27:628869" : "628870"
+        }
+      } ]
+    }
+  } ]
+}
