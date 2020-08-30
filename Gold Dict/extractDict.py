@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
 import json
 import glob
 
@@ -28,13 +27,13 @@ for file in files:
         translations = []
         for container in data["connections"]:
             translations.extend(findTranslations(container))
-        for translation in translations:
-            if translation not in d:
-                d[translation] = [word]
-            elif (word not in d[translation]):
-                d[translation].append(word)
+        if word not in d:
+            d[word] = translations
+        else:
+            d[word].extend(translations)
     except:
         print("Not json file: {}".format(file.split("/")[-1]))
 
 with open("./hu-fr.json", "w") as outfile:
     json.dump(d, outfile)
+
