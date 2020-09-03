@@ -1,5 +1,4 @@
 ﻿Charles Dickens	Charles Dickens
-Karácsonyi ének	Bài Ca Mừng Giáng Sinh
 Marley, a kísértet	Bóng Ma Của Marley
 Hogy az elején kezdjem, Marley halott volt.	Trước hết, Marley đã chết, chết hẳn rồi.
 Ehhez nem fér semmi kétség.	Chẳng còn nghi ngờ gì điều đó.
@@ -14,67 +13,41 @@ Azonkívül Scrooge volt Marley egyetlen hagyatéki végrehajtója, egyetlen fő
 Marley temetéséről beszélve, megint csak vissza kell térnem oda, ahonnan kiindultam.	Nói đến đám ma ông già Marley làm tôi trở lại từ điểm đầu tiên.
 Tehát ismétlem, semmi kétség nem férhet hozzá, hogy Marley halott volt.	Chắc chắn rằng ông Marley đã chết.
 Ezt feltétlenül tudomásul kell vennünk, mert egyébként az itt következő történetben semmi csodálatosat nem találnánk.	Việc này phải hiểu một rành mạch, nếu không câu chuyện tôi sắp kể ra đây sẽ mất hẳn hay ho.
-Hiszen, ha nem tudnók biztosan, hogy Hamlet apja már az előadás kezdete előtt meghalt, csavargását a viharos éjszakában a bástyák körül szóra sem méltatnánk. Akármelyik idősebb úriember kószálhat végül alkonyat után valami vidám forgalmas utcán vagy - akár a Szent Pál-téren is, anélkül, hogy gyermeke gyenge szívét halálra rémítené.	Nếu chúng ta không tin chắc cha của Hamlet đã qua đời trước khi vở kịch bắt đầu, sẽ chẳng có gì khác thường trong việc ông ta lang thang suốt đêm trên thành lũy của mình trong ngọn gió đông, hơn là ở một nơi hiu hiu gió - ví dụ như nghĩa trang St Paul chẳng hạn - làm tâm trí ốm yếu của con trai ông bàng hoàng.
-Minthogy Scrooge nem kaparta le az öreg Marley nevét a cégtábláról, még évek múlva is az állott a boltajtó felett: Scrooge és Marley.	Scrooge không bao giờ xóa tên ông già Marley. Bao năm sau, tên ông ta vẫn còn đó, bên trên cửa kho hàng: Scrooge và Marley.
 Mindenki ezen a néven ismerte a céget.	Tên công ty là Scrooge và Marley.
-Az ügyfelek olykor Scrooge-nak, máskor Marleynek szólították Scrooge-ot.	Thỉnh thoảng, những người mới đến giao dịch gọi là Scrooge Scrooge, đôi khi là Marley, nhưng ông ta trả lời cả hai tên.
 Mindkét névre egyformán hallgatott.	Với Scrooge, đằng nào cũng thế cả mà thôi.
-Nyilván mindegy volt neki.	Nhưng chao ôi!
 De ha arról volt szó, hogy valakit, akit körme közé kaparintott, megkopasszon, akkor Scrooge nem ismert kíméletet.	Trong công việc ông già Scrooge là một tay keo cú, biển lận, bắt mọi người làm việc không ngơi!
-Az üzletfelet megzsarolni, kiforgatni, térdrekényszeríteni, utolsó cseppig kipréselni, ehhez valóban pompásan értett a vén bűnös!	Một lão già phạm tội vắt cổ chày ra nước, vồ lấy, bóp nặn, thèm thuồng!
 A lényéből áradó hidegség megfagyasztotta arcvonásait, barázdákat szántott bőrébe, kivörösítette szemhéjait és kékre festette keskeny száját, amit ha szóra nyitott, nyekergő, visszataszító hang hagyta el ajkát.	Sự lạnh lùng trong con người đã làm nét mặt Scrooge đông cứng, mũi quắp lại nhọn hoắt, gò má nhăn nheo, dáng đi cứng nhắc; mắt đỏ ngàu, đôi môi mỏng tái nhợt, nói năng sắc sảo bằng giọng kèn kẹt.
-Haja, szemöldöke és borostás álla is fagyos-deres volt.	Vẻ lạnh lẽo băng giá trên đầu, trên lông mày và cái cằm rắn chắc.
-Ezt a fagyos klímát mindenüvé magával vitte.	Bên ngoài nóng hay lạnh chẳng ảnh hưởng gì mấy đến Scrooge.
 Kutya-hideg áradt szét boltjában és a karácsonyeste sem volt képes őt magát és környezetét egy fokkal sem felmelegíteni.	Không hơi ấm nào có thể làm ông ta ấm lên, thời tiết mùa đông không làm ông ta thấy rét mướt.
-Nem volt szélvihar, ami fagyosabb lett volna, s a szakadatlanul zuhogó eső sem volt kérlelhetetlenebb nála.	Thời tiết xấu không bén mảng đến nơi có ông.
 Jégverés, égiháború, zúzmara, dér, hóvihar, mintha csak jelzői lettek volna fanyar egyéniségének.	Mưa rào, tuyết rơi, mưa đá, mưa tuyết chỉ có thể khoe khoang lợi thế với ông trong một khía cạnh duy nhất.
 Az elemek megnyilvá­nulásai közül legfeljebb a jótékony tavaszi esővel nem lehetett őt vonatkozásba hozni, hiszen Scrooge bármi volt inkább, mint jótékony.	Chúng thường "trút xuống" một cách hậu hĩ, còn Scrooge chẳng bao giờ "trút" đi thứ gì.
 Magános sétáin senki sem állította meg, senki sem mondta: - Hogy van, kedves Scrooge?	Trên đường phố, không người nào dáng bộ vui vẻ ngăn ông lại và nói:
-Nem látogatna meg egyszer?	– Scrooge thân mến, ông có khỏe không?
 - kérdéssel útját állja.	Lúc nào đến nhà tôi chơi nhé?
-Soha életében nem történt Scrooge-al, hogy férfi vagy asszony megkérdezte volna, merre van ez, vagy az az utca vagy tér.	Với ông già Scrooge ấy, không người hành khất nào dám xin ông một xu, không đứa trẻ nào hỏi ông mấy giờ, cả đời ông chưa một người đàn ông hoặc đàn bà nào hỏi thăm đường đến nơi này nơi kia.
-Még a vak koldus kutyája is dühösen mordult rá, ha megpillantotta, mintha csak azt mondta volna: "Világtalan gazdám, az örök sötétségnél is rosszabb ez a sötét tekintet!"	Ngay cả những con chó của những người mù cũng có vẻ biết ông, nhìn thấy ông đi đến, chúng kéo giật chủ dạt vào các ngưỡng cửa hoặc mảnh sân nhà, chúng ve vẩy đuôi như muốn nói: "Thà chẳng nhìn thấy gì còn hơn thấy cái nhìn độc ác, ông chủ ạ!".
 Ám Scrooge-nak jó volt ez így!	Nhưng Scrooge cần quái gì?
 Egyszer egy este - éppen szent karácsonyeste volt - az öreg Scrooge javában dolgozott az iro­dájában.	Từ lâu lắm rồi, - mọi ngày nghỉ trong năm, vào đêm trước lễ Giáng sinh -, ông già Scrooge ngồi, bận bịu trong phòng tài vụ.
 A köd beszivárgott a réseken és kulcslyukakon és odakint olyan sűrű volt, hogy a szűk kis udvar túlsó végében álló házaknak csak kísérteties árnyalakja látszott.	Sương mù tràn vào từng khe hở và lỗ khóa, dày đặc đến mức mặc dù mảnh sân là hẹp nhất rồi, vậy mà những ngôi nhà đối diện trông chỉ lờ mờ như những bóng ma.
-A sűrűn leereszkedő ködfelhő olyan volt, mintha óriás sör­főzőüst nehéz párája lenne.	Nhìn những đám mây xám xịt rũ xuống, che mờ mọi vật, người ta có thể nghĩ tạo hóa thật khắc nghiệt, và đang trù tính một việc rất xấu.
 Scrooge nyitvahagyta irodájának ajtaját, hogy szemmel tarthassa segédjét, aki sötét kis odujában leveleket másolt.	Cánh cửa phòng tài vụ của Scrooge mở, để ông ta có thể để mắt đến người thư ký trong một căn phòng bé tẹo, tối tăm như một cái bể, đang sao chép thư từ.
 A főnöki szobában sem égett valami nagy tűz, de a segéd szobájában már csak egy darab szén maradék parazsa pislogott.	Lò sưởi của Scrooge rất nhỏ, nhưng lò sưởi của viên thư ký còn nhỏ hơn rất nhiều, trông như một hòn than.
 A szenesláda Scrooge szobájában volt, és ha a didergő segéd arra vetemedik, hogy egy lapát szénért menjen, az öreg holtbiztos rámordul, hogy keressen magának másik állást.	Nhưng ông ta không thể cho thêm than vì Scrooge cất thùng than trong phòng ông ta; chắc chắn là nếu viên thư ký có cầm xẻng vào phòng, ông chủ sẽ báo ngay rằng họ cần chia tay nhau.
 - kiáltotta hirtelen egy vidám hang.	- Một giọng phấn khởi kêu to.
 A hang Scrooge unokaöccséé volt, aki oly észrevétlenül lépett be, hogy az öreg csak a mondókájára figyelt fel.	Đó là tiếng cháu trai của Scrooge, anh ta bước vào nhanh đến mức ngay từ tiếng báo hiệu đầu tiên đã thấy anh ta đến gần.
-- Hagyjuk ezt a szamárságot, - mondta mogorván.	– Chà! - Scrooge nói. - Láo toét!
 A fiatalember a fagyos ködben, úgy látszik, sietve jött és úgy kimelegedett, hogy most kipirult arccal, csillogó szemmel állt az öreg előtt.	Người cháu của Scrooge đã phải hâm nóng người bằng cách đi bộ nhanh trong sương mù và giá rét, nên toàn thân nóng bừng.
 Forró lehelete látható páraként lebegett csinos álla körül.	Bộ mặt anh hồng hào và điển trai, cặp mắt lấp lánh, hơi thở bốc khói.
-- De bácsikám, csak nem akarod azt mondani, hogy a karácsony szamárság.	- Người cháu nói. - Cháu chắc bác không định nói thế chứ?
-Ezt magad sem gondolod komolyan.	– Tao nói thế đấy, - Scrooge đáp.
 - De mennyire!	- Giáng sinh vui vẻ!
 Boldog karácsony!	Vui cái nỗi gì?
-Tán te is boldog vagy?	Mày có lý do gì mà vui, hả?
-Egy ilyen ágrólszakadt szerencsétlen flótás, aki szegény, mint a templom egere.	– Kìa bác, - người cháu hoan hỉ đáp lại.
 - Scrooge nem sokat törte a fejét, hogy a fiúnak valami szellemes választ adjon, hanem egyszerűen csak legyintett:	Tình thế ấy khiến Scrooge thà không trả lời còn hơn, ông ta nói lần nữa:
 - Ne mérgelődj, bátyám, - mondta szeliden a fiú.	- Rồi, tiếp theo là, - Bịp bợm!
 Boldog karácsony!	- Người cháu nói.
-Vagy hogy egy évvel idősebb lettél és egy fillérrel sem gazdagabb?	Giáng sinh vui vẻ cái cóc khô!
 Hogy esztendőd mérlege csupa veszteség?	Xéo đi với cái Giáng sinh vui vẻ!
 - De bátyám!	– Kìa bác!
 - De öcsém!	- Người cháu năn nỉ.
-- mondta az öreg szemmel láthatóan türelmét vesztve.	– Ăn mừng! - Người cháu nhắc lại.
 - Hagyj most már békén.	- Nhưng bác có làm gì đâu!
-Úgy ünnepelem a karácsonyt, ahogy nekem tetszik.	– Vậy hãy mặc xác ta.
 - Hiszen, ha megünnepelnéd.	- Scrooge nói.
-De inkább csak káromlod - válaszolta az unokaöccs.	- Mày muốn làm gì thì tùy! Cứ làm như mày đã làm!
 - No, de most már elég legyen öcsém, légy boldog karácsonyoddal, hozzon neked most is annyi hasznot, amennyit eddig hozott.	– Cháu dám nói có nhiều việc cháu làm vì thiện chí, chứ không phải vì lời lãi, - người cháu đáp.
-- Vannak dolgok, amikből sohasem húztam hasznot, noha megtehettem volna - ilyen a kará­csonyi ünnep is!	- Lễ Giáng sinh chẳng hạn.
 Egy morzsányi aranyat, egy ezüstszilánkocskát nem juttatott nekem soha karácsonyom és lám, mégis hiszem, hogy jót tett velem és boldoggá tett mindig!	Vì thế, bác ơi, dẫu chẳng bao giờ cháu có một mẩu vàng hoặc bạc trong túi, cháu vẫn tin rằng nó đã và sẽ làm cháu vui vẻ và nói, cầu Chúa ban phúc cho nó!
-Isten áldása legyen szent ünnepén!	Viên thư ký ngồi trong cái bể kia bất giác vỗ tay.
-A segéd odújából elfojtott, de észrevehető tetszésnyilvánítás hallatszott.	Ngay khi hiểu ra là một hành động không phải phép, ông ta chọc lò và làm tàn lửa mỏng manh cuối cùng tắt ngóm.
 Szegény feje, zavará­ban olyan hevesen kezdte piszkálni a kis maradék parazsat, hogy az egyet pislantva, végképp kialudt, miközben zord főnöke ráreccsentett: - Még egy szó!	– Ta nghe thấy một tiếng động khác của anh, - Scrooge nói, - và anh sẽ tổ chức Giáng sinh của anh bằng cách mất việc!
 - Aztán öccséhez fordult:	- Ta không biết vì sao cậu không vào Nghị viện.
 - Micsoda szónok veszett el benned!	– Bác đừng giận.
 Nem kár ily képességeket elvesztegetni?	Ngày mai mời bác đến ăn tối với chúng cháu.
-Tulajdonképpen a parlamentben volna a helyed!	Scrooge nói ông ta sẽ gặp anh ta ở…- Ờ, mà quả thực ông ta đã gặp rồi.
-- Ne mérgelődj, kedves bátyám, jer inkább holnap el hozzánk!	Ông ta thể hiện rõ ràng cảm xúc của mình và nói rằng cùng lắm mới đến thăm cháu.
 Szívesen látnánk ünnepi ebédre.	– Nhưng vì sao kia ạ?
 - Engem akartok vendégül látni?	- Người cháu thốt lên.
 - De miért?	- Vì sao?
@@ -85,25 +58,18 @@ Szívesen látnánk ünnepi ebédre.	– Nhưng vì sao kia ạ?
 - Még mindig itt vagy?	- Xin chào!
 - ismételte Scrooge állhatatosan.	– Xin chào, - Scrooge nói.
 De Scrooge csak rámordult ismét:	– Xin chào, - Scrooge nói.
-De nem is tágítok ettől.	Bác cháu ta chưa bao giờ có chuyện tranh chấp.
 - Alászolgája - dünnyögte fogai közt Scrooge.	Vì thế cháu chúc bác Giáng sinh vui vẻ!
 - És sok szerencsét Újesztendőre!	– Xin chào, - Scrooge nói.
 - Alászolgája és künn tágasabb!	– Và Chúc mừng Năm mới!
 - felelte Scrooge mogorván.	– Xin chào, - Scrooge nói.
-De öccse még erre sem jött ki a béketűrésből.	Ấy thế mà người cháu vẫn rời phòng không một lời giận dữ.
-Nyájas mosollyal húzta be maga mögött az ajtót, nem mulasztván el az előszobában kuporgó segédnek is boldog karácsonyt és szerencsés újévet kívánni, amint az, minthogy sokkal emberségesebb volt gazdájánál, hálásan viszonzott.	Anh ta dừng lại ở cửa ngoài, chúc mừng người thư ký vốn lạnh lùng nhưng còn nhiệt tình hơn Scrooge, vì ông ta cũng thân mật chúc lại.
 - Még egy fajankó - dohogta Scrooge.	Nghe lỏm được, Scrooge lầm bầm:
-- Ez a segéd, ez a szerencsétlen flótás, heti tizenöt shillingjével szintén boldogságról és szerencséről beszél.	– Lại một thằng cha nữa, cái thằng thư ký của ta, mỗi tuần kiếm nhõn mười lăm silinh, phải nuôi vợ và cả gia đình, thế mà cũng nói Giáng sinh vui vẻ.
-Meg kell ebbe őrülni!	Ta sẽ ra khỏi cái Nhà thương điên này!
 Ezalatt a "szerencsétlen flótás" az ajtóig kísérte a főnök unokaöccsét és két újabb látogatót tessékelt befelé.	Cái Nhà thương điên vừa để cháu trai của Scrooge ra, lại có hai người khác vào.
 Jólöltözött, biztos fellépésű úriemberek voltak és már ott is álltak levett kalappal Scrooge dolgozószobájában.	Họ là hai quý ông đẫy đà, nom vui vẻ và lúc này, họ đứng trong văn phòng của Scrooge, mũ đã ngả.
 Az egyik könyvet, a másik tekintélyes iratcsomót tartott kezében.	Tay cầm sổ sách và giấy tờ, họ cúi chào ông.
 - Scrooge és Marley - ha nem tévedek - mondta a magasabbik, a kezében tartott iratról olvasva a cég nevét.	- Tôi có vinh hạnh gặp ông Scrooge hoặc ông Marley đây?
 - Scrooge úrhoz van szerencsém, vagy Marley úrhoz?	– Ông Marley đã mất từ bảy năm nay, - Scrooge đáp.
 - Marley úr a legutóbbi hét évben csupán csendes társam volt.	- Ông ấy mất vào đúng đêm nay, cách đây bảy năm.
-Oly csendes, hogy csendesebb már nem is lehetett volna.	Lẽ tất nhiên là thế rồi, vì họ vốn là hai người tâm đầu ý hợp.
 - A megboldogult közismert jótékonysága és nemes áldozatkészsége bizonyára Önre szállott örökül - mondta a látogató ünnepélyesen és még mélyebben meghajolva, gyűjtőívet nyújtott át Scrooge-nak.	– Thưa ông Scrooge, trong mùa lễ hội này, - một ông nói và rút bút ra, - hơn bao giờ hết, chúng ta nên cung cấp thêm chút ít cho những người nghèo đói và thiếu thốn, lúc này họ đang rất khổ.
-A baljóslatú "jótékonyság" szóra Scrooge megvető mozdulattal tolta el maga elől az ívet.	Hàng ngàn người đang thiếu những nhu cầu thiết yếu nhất, hàng trăm ngàn người đang thiếu những tiện nghi tối thiểu, thưa ông.
 De a vendég nem zavartatta magát.	– Không kể các nhà tù chứ?
 - Sok ezren éheznek és fáznak.	- Scrooge hỏi.
 - És mire valók a fegyházak?	- Scrooge hỏi gặng.
@@ -112,44 +78,29 @@ De a vendég nem zavartatta magát.	– Không kể các nhà tù chứ?
 - ismételte a jövevény halkan és kissé leeresztette kezében a bemártott tollat.	Vẫn hoạt động, - ông kia đáp, - Giá tôi có thể nói chúng không còn.
 - Igen, és a toloncház, az aggok háza, meg a szegényház, remélem, még működnek ezek a kiváló közintézmények?	– Công việc lao dịch và Luật ủng hộ người nghèo vẫn có hiệu lực chứ?
 - Sajnos, több dolguk van, mint kívánatos.	- Ông Scrooge nói.
-Ezért elhatároztuk, hogy jótékonysági alapot létesítünk, amelyből a szegényeket étellel, itallal, tüzelővel kívánjuk ellátni.	– Có cảm tưởng là họ chỉ cung cấp niềm vui hoặc xác chết thần thánh cho đám đông, - một quý ông đáp, - rất ít người trong chúng ta gắng sức góp quỹ để mua cho người nghèo ít thịt, đồ uống và những phương tiện sưởi ấm.
 Ez a cél, amelynek érdekében gyűjtünk és azért éppen ma, mert ezen a napon a szűkölködő fokozottan érzi nyomorúságát és mindenki, aki csak teheti, készségesen és boldogan adakozik.	Chúng tôi chọn thời điểm này vì đây là lúc với tất cả những người khác, càng cảm nhận được sự Thiếu thốn, càng gắn kết với nhau vì sự Dư dật.
 - Semmit!	- Scrooge đáp.
-- Óh, nemes szerénység!	– Ông muốn giấu tên chăng?
 Bizonyára azt kívánja, hogy hagyjuk említés nélkül nevét.	– Tôi muốn để mặc xác tôi, - Scrooge nói.
 - Azt kívánom, hogy hagyjanak magamra, uraim.	- Vì các ông hỏi tôi muốn gì, thì đây là câu trả lời của tôi, thưa các ông.
 Számomra nem jelent semmi örömet a karácsonyeste, nem kívánhatják, hogy naplopók részére ünnepséget rendezzek.	Tôi đã giúp chu cấp các tổ chức tôi nhắc đến trên, thế là đủ lắm rồi, những người nghèo có thể đến đấy.
-Egyébként éppen elég adót fizetek, amiből az általam már említett intézményeket és más jótékonysági micsodákat fenntarthatják.	– Nhiều người không thể đến đấy; còn nhiều người thà chết còn hơn.
 - De uram, gondoljon a szemérmes szegényekre, akik belehalnának a szégyenbe, ha nyíltan kellene ezekhez az intézményekhez fordulniok.	– Nếu họ thà chết thì cứ để họ làm thế, càng giảm bớt dư thừa dân số, - Scrooge nói.
 - Belehalnának!	- Hơn nữa, xin lỗi chứ, tôi không biết điều đó.
 Jó éjszakát, uraim!	Xin chào các quý ông.
 A két úriember reménytelennek látván a helyzetet, eltávozott.	Rõ ràng thấy đeo đuổi mãi cũng vô ích, các quý ông đành rút lui.
 Scrooge nekibuzdultan folytatta munkáját.	Scrooge lại tiếp tục công việc, càng vững tin vào ý kiến của mình, và dễ cáu hơn thường lệ.
-A hideg nőttön-nőtt.	Cái rét ngày càng buốt giá.
 A boltok kivilágított fenyőágakkal díszített kirakatai mese­szerűen világítottak.	Đầu ống nước để hở, nước trào ra đông ngay lại, và biến thành băng.
 Oly tündériek és látomásszerűek voltak a ködben, hogy szinte hihetet­lennek látszott, hogy mögöttük rideg kalmárok pénzért árulják portékáikat.	Các cửa hiệu sáng rực rỡ, những cành cây và quả mọng kêu lách tách trong hơi ấm của ngọn đèn trên cửa sổ, khiến những bộ mặt xanh tái hồng hẳn lên lúc đi qua.
-A főbíró úr fényes palotájában megparancsolta szakácsainak és kuktáinak, hogy olyan ünnepi vacsorát készítsenek, ami méltó ilyen előkelő urasághoz.	Việc bán gia cầm và tạp phẩm thành một trò vui vô cùng: một hoạt cảnh huy hoàng, vui vẻ để rồi sau đó không thể tin rằng những phép tắc buồn chán như mặc cả và bán hàng lại diễn ra như thế.
-Néhány házzal odébb, a kis szabó­legény, akit csak a mult héten büntettek meg öt shillingre, mert italos fővel a nyílt utcán duhaj­kodott, most kis padlásszobájában vígan dagasztotta az ünnepi kalácsot, mialatt vékony­ka felesége, kisbabájával a karján, húsért ment a mészároshoz.	Ngài Thị trưởng trong dinh thự đồ sộ đã ra lệnh cho năm chục đầu bếp và người hầu làm bữa Giáng sinh đúng như gia đình một Thị trưởng nên làm; ngay cả người thợ may bé nhỏ vừa bị phạt năm silinh vào thứ Hai tuần trước vì say rượu và bạo hành trên phố cũng trộn bột làm bánh pút-đinh trên gian áp mái của mình, trong lúc người vợ gầy còm cùng đứa con đi mua thịt bò.
-És a hideg csak mind nőtt.	Sương mù càng dày hơn, và trời càng rét hơn!
-A kis betlehemes fiúcskának vékonyka orrát is úgy megmarta a hideg, mint kutya a csontot.	Cái lạnh buốt giá và nhức nhối luồn vào mọi nơi.
 Ám Scrooge az ének hallatára felkapta az asztalról vonalzóját és úgy az ajtóhoz vágta, hogy a kisfiú ijedten futott el onnan.	Một anh chàng, mòn mỏi và lầm bầm vì cái rét thấu xương, ghé vào lỗ khóa nhà Scrooge hiến bài hát mừng lễ Giáng sinh; nhưng vừa nghe thấy:
 Dala helyén csak a hideg szél fütyült a kulcslyukon át.	Chúa phù hộ ông, hỡi quý ông vui vẻ
 Végre eljött az üzletzárás órája.	Cầu cho ông không bao giờ ngã lòng!
-Scrooge nagynehezen felkelt íróasztalától.	Cuối cùng, thời khắc đóng cửa phòng tài vụ cũng đến.
 A segéd, mintha csak erre várt volna, villámgyorsan eloltotta a gyertyát, fejére csapta kalapját és már ment is volna.	Scrooge ác ý tụt khỏi ghế và ngầm thừa nhận thực tế với viên thư ký đang trông đợi, ngay lúc ông ta tắt nến và đội mũ.
-- Persze, holnap szabadnapot szeretne?	– Tôi tin rằng anh muốn nghỉ cả ngày mai?
 - mondta Scrooge.	- Scrooge nói.
 - Ha meg tetszik engedni, uram.	– Nếu thuận tiện, thưa ông.
-Fogadjunk, ha levonnék Önnek a szabadnapért fél koronát, azt jogtalanságnak tartaná.	Nếu tôi cắt nửa curon*, tôi tin chắc anh sẽ phát ốm?
 A segéd félénken mosolygott.	Người thư ký mỉm cười yếu ớt.
 - De azt, hogy én fizessek magának egy egész napot, noha nem dolgozik, nem tartja jogtalan­ságnak.	– Còn nữa, anh tưởng tôi không phát ốm khi trả lương một ngày không làm việc ư?
 - Évente csak egy ilyen nap van, uram - dadogta a segéd.	- Scrooge nói.
 - No, de úgy látom, kénytelen vagyok mégis szabadnapot adni magának.	- Scrooge nói lúc cài khuy chiếc áo bành tô to xù đến tận cằm.
-De holnapután reggel azután annál korábban jöjjön.	- Nhưng tôi sẽ cho anh nghỉ cả ngày.
 A segéd ezt is megígérte és végre az utcán álltak mindketten.	Sáng hôm sau, phải có mặt ở đây từ sớm đấy.
-Scrooge ráfordította a kulcsot az ajtóra, a segéd nyakára csavarta hosszú fehér gyapjúsálját (télikabátja nem volt az isten­adtának), és már el is köszönt gazdájától.	Viên thư ký hứa sẽ làm thế, và Scrooge vừa bước ra vừa càu nhàu.
-A lakás néhány barátságtalan szobából állott, egy komor, sötét épületben, ahová hosszú elhagyatott udvaron át lehetett bejutni.	Ông ta sống trong dãy phòng trước kia thuộc người cùng hùn vốn đã qua đời.
-A ház olyan sután állt ebben a környezetben, hogy szinte azt hihette az ember, hogy kölyökkorában talán bújócskát játszott társaival, elbújt ebbe a zugba és nem talált ki többé belőle.	Đó là một dãy phòng tối tăm, trong ngôi nhà rầu rĩ xây lấp cái sân, chẳng mấy khi có sinh khí đến nỗi người ta phải nghĩ rằng khi còn là ngôi nhà mới, nó đã chạy đến đó chơi trò trốn tìm với những ngôi nhà khác và quên mất đường ra.
 Az udvar oly sötét volt, hogy Scrooge, noha ezerszer megjárta már ezt az utat és minden követ ismert, csak tapogatódzva tudott átmenni rajta.	Sương mù và băng giá lơ lửng trên cái cổng cũ kỹ, đen đủi của ngôi nhà, như thể Thần Thời tiết đang ngồi rầu rĩ suy ngẫm trên ngưỡng cửa.
 Azt is vegyük figyelembe, hogy, noha Scrooge délután futtában említette ugyan halott üzlettársának nevét, most eszeágában sem volt, hogy rágondoljon.	Scrooge cũng chẳng hề dành ý nghĩ nào nhớ đến Marley từ lần cuối cùng ông ta nhắc đến người cùng hùn vốn đã chết bảy năm trước, vào một buổi chiều như thế này.
 Nem, az arc világos volt!	Bộ mặt của Marley.
@@ -160,11 +111,8 @@ Scrooge dermedten meredt a kopogtatóra, szívét soha nem érzett félelem szor
 De erőt vett magán, még egyet fordított a kulcson és elszántan belépett az ajtón.	Ông ta đã dừng lại, phân vân giây lát trước khi đóng cửa.
 Gyertyát gyújtott és egy ideig bizonytalanul keresgélt az ajtó hátlapján, mintha az imént látott archoz tartozó tarkót keresné.	Trước hết, ông ta đã cẩn thận ngoái nhìn đằng sau, như thể sợ thấy điếu thuốc lá quấn thành cuộn dài của ông Marley thò vào tiền sảnh.
 De az ajtó hátlapján csak néhány anyacsavar volt, amelyek a hatalmas kopogtatót tartották belülről.	Nhưng đằng sau cửa chẳng có gì ngoài những ốc, vít giữ cái vòng gõ cửa, nên ông ta nói:
-- mondta Scrooge és hatalmas dörrenéssel bevágta az ajtót.	- Rồi ông đóng sầm cửa lại. Tiếng động vang khắp nhà như sấm.
-Az egész ház, de még a ház alatt levő borpince is megremegett és hosszan visszhangzott belé.	Mỗi căn phòng tầng trên và từng cái thùng trong hầm rượu ở tầng dưới hình như có một kiểu tiếng vọng riêng.
 De Scrooge nem volt olyan legény, aki egy kis visszhangtól megijed.	Scrooge không phải là người sợ tiếng vang.
 Kezében a gyertyával, bár a szokottnál talán valamivel lassabban, de határozott léptekkel ment fel a lépcsőn háló­szobája felé.	Ông ta đóng chặt cửa, qua tiền sảnh rồi lên gác: cũng chậm rãi, vừa đi vừa cắt tàn nến.
-Igaz ugyan, hogy viszont olyan sötét is volt, hogy egy egész utca gázlámpái is csak gyéren világították volna meg.	Hãy còn rộng, còn lại nhiều khoảng trống, có lẽ đấy là lý do khiến Scrooge tưởng như nhìn thấy cái nhà táng đi trước ông ta trong cảnh tối tăm.
 Nem csoda, hogy Scrooge, pislákoló kanócának imbolygó fényénél szinte látni vélte a komor menetet.	Nửa tá đèn hơi ngoài phố còn không chiếu đủ sáng cho lối vào, vì thế với một ngọn nến của Scrooge, có thể thấy là khá tối.
 Mielőtt az emeleti pántos ajtót bereteszelte volna, alaposan körülnézett szobáiban.	Nhưng trước khi đóng cánh cửa nặng trịch, ông ta đi khắp các phòng xem mọi thứ có an toàn không.
 A lidérc­fényű arc még nagyon friss volt emlékezetében!	Chỉ vừa chợt nhớ đến bộ mặt, ông ta đã rất muốn làm việc đó.
@@ -172,122 +120,91 @@ Hálószoba, ebédlő, kamra - minden rendben.	Phòng khách, phòng ngủ, phò
 Bekukkantott az asztal alá - senki!	Tất cả đâu vào đấy.
 Na, még egy pillantás az ágy alá - senki!	Phòng để đồ cũ vẫn như thường lệ.
 Nyakkendőjét megoldja, házikabátot ölt, hálósapkát vesz és leül a tűz mellé, hogy megigya herbateáját.	Thực ra ngọn lửa rất nhỏ, chẳng nghĩa lý gì trong một đêm rét mướt đến thế.
-Milyen különös alakok!	– Láo toét!
-Mintha valamennyi hasonlítana egy kissé Marleyre!	- Scrooge nói và đi khắp phòng.
-- Eh, szamárság - fakadt ki végül és hosszú léptekkel mérte végig a szobát.	Được vài vòng, ông ta lại ngồi xuống.
 A csengettyűt valamikor hosszú zsinórral az épület legfelső emeletéről lehetett megszólaltatni; réges-régen nem használta már senki.	Ông vô cùng sửng sốt và kinh hãi lạ lùng, không sao giải thích nổi khi thấy cái chuông bắt đầu lắc lư.
 A rezgés erősbödött, míg a csengettyű halkan megszólalt, mind erősebben csilingelt, végül harsogva zúgott.	Việc này chỉ độ nửa phút hoặc một phút, nhưng dường như dài đến một giờ.
 A házban levő valamennyi csengő vele zengett.	Tiếng chuông cùng ngừng bặt như lúc bắt đầu.
 Scrooge gondolatában felrémlett, hogy kísértetlakta házak pincéiben a szellemek csörgetni szokták láncaikat.	Scrooge chợt nhớ đã từng nghe nói linh hồn trong các ngôi nhà ma được miêu tả hay kéo lê sợi xích.
 - Szemfényvesztés!	- Scrooge nói.
 - mondta Scrooge - nem hiszek benne.	- Ta không thể tin nổi!
-- Ám a szellem a nehéz tölgyfaajtót semmibe se véve, már a szobában állott a kandalló előtt.	Tuy vậy, ông biến sắc khi không hề ngừng lại, tiếng động ấy xuyên qua cánh cửa nặng nề và đi vào căn phòng trước mắt ông.
 A láng a tűzhelyen magasra csapott, mintha csak azt mondta volna: Ismerlek!	Đúng lúc nó vào, ngọn lửa lom đom bừng sáng dường như reo lên: "Tôi biết ông ta!
 Ismét az iménti kísérteties arc!	Vẫn bộ mặt ấy, chính bộ mặt ấy.
-Hosszúszárnyú szürke kabátja, csíkos nadrágja, cipői!	Sợi xích ông ta kéo móc vào thắt lưng.
-Vastag lánc a dereka köré fonva, egyik vége hosszan csüng hátul, uszályként vonszolja maga után, csörömpölve. A láncszemek, - amint Scrooge éles szeme rögtön felfedezte - kulcsokból, lakatokból, pénzesládák acélpántjaiból valók!	Nó dài và cuốn quanh người như một cái đuôi; Scrooge quan sát kỹ thì thấy nó kết bằng các hộp đựng tiền, chìa khóa, khóa móc, gióng, những cái ví nặng rèn bằng thép.
 Scrooge gyakran hallotta még Marley életében, hogy Marleynek nincs szíve, de sohasem akarta elhinni.	Scrooge thường nghe nói Marley không có ruột, nhưng ông chẳng bao giờ tin, cho đến lúc này.
 Mint ahogy még most sem hitte tulajdonképpen.	Không, ngay cả lúc này ông ta vẫn không tin.
-- Nos, mi lesz?	– Giờ thì sao đây?
 - szólalt meg végre Scrooge hidegen és óvatosan, mint mindig.	- Scrooge nói, cay độc và lạnh lùng như thường lệ.
 - Mit kíván tőlem?	- Ông muốn gì ở tôi?
-- Sok mindent - felelte a kísértet.	– Nhiều lắm!
 - Ez Marley hangja kétségtelenül - dörmögte magában Scrooge.	- Tiếng Marley, không còn nghi ngờ gì nữa.
-Majd nekibátorodva, rászólt:	– Ông là ai?
 - Azt kérdezd inkább, ki voltam?	– Vậy thì, ông đã là ai?
 - Nos, hát ki voltál?	- Scrooge nói, cao giọng.
 - mondta Scrooge.	- Ông là trường hợp cá biệt cho một vong hồn.
 - Árnyalak létedre, úgy látom, sokat adsz az árnyala­tokra.	- Scrooge định nói "với một vong hồn", nhưng đổi lại cho thích hợp hơn.
-- Amíg éltem, a társad voltam: Marley Jakab.	– Lúc sống, tôi là Jacob Marley, người hùn vốn với ông.
 - kérdezte Scrooge, gyanakodva.	- Scrooge hỏi, nhìn ông ta ngờ vực.
-- Hogyne!	– Có thể.
-- Hát akkor ülj le.	– Vậy ông ngồi đi.
 Scrooge csak habozva kínálta hellyel, mert nem volt meggyőződve arról, hogy egy ilyen átlátszó jelenség helyet foglalhat-e a széken.	Scrooge hỏi vậy vì không biết bóng ma trong suốt kia có thể tự ngồi xuống ghế không, và nếu không thể liệu có kèm theo một lời giải thích lúng túng không.
 Attól tartott, hogy amennyiben ez lehetetlen, a szellem rettentő magyarázatot talál adni.	Nhưng bóng ma ngồi xuống phía bên kia lò sưởi, dường như vẫn quen như thế.
-Ám az árny nyugodtan leült a kandalló mellé, mintha rég megszokta volna a helyet.	– Ông không tin tôi, - bóng ma nhận xét.
 - Te nem hiszel bennem, - kezdte a beszélgetést.	– Tôi không tin, - Scrooge nói.
 - Megvallom, nem.	– Tôi không biết, - Scrooge nói.
 - De hiszen saját érzékeiddel győződhetsz meg jelenlétemről.	– Tại sao ông không tin vào các giác quan của mình?
-- Éppen ezeknek nem hiszek. - De miért?	– Bởi vì, - Scrooge nói, - có một thứ nho nhỏ ảnh hưởng đến chúng.
 - Azért, mert egy kis rendetlenség a testben elég ahhoz, hogy tévútra vigye érzékeinket.	Một rối loạn nhỏ của dạ dày khiến chúng bất thường.
 Lehet, hogy nem vagy más, mint egy darab rosszul megemésztett marhahús, vagy egy falat túlkövér sajt, vagy romlott krumpli.	Có lẽ ông không tiêu hóa nổi một miếng thịt bò, một vết mù tạc, một mẩu phó mát, một miếng khoai tây chưa thật chín.
 Egyébként kevésbé látszol síri, mint inkább siralmas jelenségnek, bármi légy is!	Dù ông là ai thì thêm một chút nước sốt còn hơn là phần mộ của ông!
-Scrooge-nak máskor nem volt szokása, hogy szójátékokat faragjon.	Scrooge không quen nói những câu đùa dí dỏm, lúc này trong thâm tâm càng chẳng có lòng dạ nào bông đùa.
 Ha most mégis megtette, ezzel csak bátorítani akarta magát, mint amikor a sötétben félelmében fütyül valaki.	Thực ra, ông đang cố tỏ ra khéo léo để nhãng trí và giảm bớt nỗi kinh hãi; vì giọng nói của con ma xáo lộn tận tủy xương ông.
-Az igazság az volt, hogy a jelenség kísérteties hangja a csontja velejéig megborzongatta.	Scrooge cảm thấy ngồi im lặng một lát, nhìn trừng trừng vào cặp mắt bất động, đờ đẫn của con ma sẽ áp đảo được nó.
 Kiverte a veríték a gondolatra, hogy a szellem merev szemébe nézzen.	Con ma mang đến một không khí địa ngục thật khủng khiếp.
 Valami pokoli volt benne, az bizonyos.	– Ông có nhìn thấy cái tăm này không?
 A kísértet mozdulatlanul ült a széken, de haja, nyakkendője, cipőzsinórja, ruhaujja nyugtalanul lobogott, mintha alvilági szél borzolta volna őket.	- Scrooge nói, nhanh chóng trở lại câu chuyện vì muốn chỉ trong giây lát, lái cái nhìn chằm chằm, lạnh lùng của ảo ảnh khỏi mình.
 - Látod ezt a fogpiszkálót?	– Có chứ, - bóng ma đáp.
 - folytatta Scrooge, hogy egy pillanatra szabaduljon a reászegezett merev tekintettől.	– Ông không nhìn vào nó, - Scrooge nói.
 - Látom - mondta a szellem.	– Nhưng tôi vẫn nhìn thấy nó, - bóng ma nói.
-- De hiszen nem is nézel oda.	– Quái quỷ!
 - Mégis látom - makacskodott a kísértet, le nem véve a szemét Scrooge-ról.	- Scrooge đập lại, - tôi phải chịu đựng chuyện này, và vì những ngày còn lại của tôi bị cả đám ma mãnh quấy quả, tất cả đều do trí tưởng tượng của tôi mà ra.
 Válaszul a kísértet rettentőt üvöltött és oly borzalmasan csörgette láncát, hogy Scrooge-nak a szék karjába kellett kapaszkodnia, nehogy a földre essék a rémülettől.	Nghe câu ấy, hồn ma rít lên khủng khiếp và giũ sợi xích thành tiếng ảm đạm và kinh hoàng khiến Scrooge vội nắm chặt lấy cái ghế để khỏi ngã lăn ra bất tỉnh.
-A szellem most könnyed mozdulattal, mintha csak melege volna, leoldotta fejéről a kendőt, amellyel álla fel volt kötve.	Nhưng ông ta còn kinh hãi hơn nữa khi bóng ma giật dải băng quanh đầu, dường như đeo nó trong nhà quá nóng, hàm dưới của nó rơi xuống ngực!
 - Irgalom!	- Ông ta nói.
 - rebegte Scrooge, térdrevetve magát, miközben remegő kézzel takarta el arcát.	- Hỡi hồn ma rùng rợn, tại sao lại quấy rầy tôi?
 - Szörnyalak, mit akarsz tőlem?	– Hỡi con người của cõi trần!
 - Kétkedő ember, hiszel-e már bennem?	- Bóng ma đáp, - ông đã tin là tôi hay không nào?
 - szólt a szellem rettentő hangon. - Hiszek, hiszek!	– Tôi tin, - Scrooge nói, - tôi phải tin thôi.
-Erre vagyok kárhoztatva én is szerencsétlenül.	Nó chịu số phận lang thang khắp thế giới - ôi chao, khổ thân tôi chưa!
 Szellemem, amellyel életemben magamat és másokat boldoggá tehettem volna, arra ítéltetett, hogy nyugtalan, kósza árnyként imbolyogjon.	- và chứng kiến những thứ không thể chia sẻ nhưng có thể chia sẻ trên trần gian, và trở nên hạnh phúc!
 Ezzel megint rettentőt üvöltött, félelmetesen rázva és tördelve borzalmas kezét.	Hồn ma lại cao giọng, giũ sợi xích và vặn đôi bàn tay mờ ảo.
 - De hisz meg is vagy láncolva, mondd miért?	– Ông đang bị xiềng xích, - Scrooge nói, run run.
 - kérdezte Scrooge fogvacogva.	- Hãy cho tôi biết vì sao?
 - Ezt a láncot magam kovácsoltam életemben fokról-fokra, szemről-szemre.	– Tôi mang sợi xích tôi đã rèn lúc sinh thời, - bóng ma đáp.
-Nézd csak meg, miből van!	Kiểu này lạ với ông lắm sao?
 Talán nem ismered ezeket a holmikat?	Scrooge mỗi lúc càng run hơn.
 - Scrooge úgy reszketett félelmében, hogy már szólni sem tudott.	– Liệu ông có biết, - bóng ma truy tiếp, - trọng lượng và chiều dài của sợi xích bền vững mà ông đeo không?
 - Szeretnéd látni, mekkora az a lánc, amit te magad hordasz?	Nó nặng và dài bằng bảy đêm trước Giáng sinh này vậy.
-Nos, most hét éve karácsonykor, pontosan akkora volt, mint az enyém.	Vì lẽ ông phải dốc sức làm nó.
 De azóta alaposan megtoldottad!	Đây là một xiềng xích nặng nề!
 - A félájult Scrooge rémülten pillantott maga köré, de semmit sem látott.	Scrooge liếc nhìn khắp sàn xung quanh, hy vọng thấy mình bị dăm, sáu chục sải xích sắt bao quanh, nhưng không nhìn thấy gì.
 - Jakab, öreg barátom, mondj el hát mindent.	- Ông Jacob Marley, xin ông hãy tiết lộ thêm nữa!
 Mondj valami vigasztalót, az Isten szerelmére.	Hãy nói với tôi vài lời an ủi, ông Jacob!
 - Nincs több mondanivalóm és nem is vagyok az, akitől vigaszt várhatsz, Scrooge Ebenezár.	– Tôi chẳng có gì mà cho, - bóng ma đáp.
-A vigasz máshonnan kell, hogy jöjjön, más hírnökök útján.	- Nó thuộc các lĩnh vực khác, Ebenezer Scrooge ạ, do các giáo sĩ khác truyền tải cho nhiều loại người khác.
 Annyit sem mondhatok, amennyit szeretnék.	Tôi cũng không thể cho ông biết tôi sẽ làm gì.
 Barangolnom kell szüntelen, nem pihenhetek meg sehol, itt sem időzhetek tovább.	Thêm một chút xíu nữa là tất cả những gì tôi được phép.
 Szellemem, amíg éltem, csak az üzlet körül mozgott, kis pénzváltó boltunk szűk határai között.	Tôi không được nghỉ ngơi, không được lưu lại, không được nấn ná ở bất cứ nơi đâu.
 Most is így tett, mert a kísértet szavai ugyancsak elgondolkoztatták.	Scrooge có thói quen mỗi khi trầm ngâm lại thọc bàn tay vào vòng khóa túi.
 Zsebredugott kézzel térdelt ott, anélkül, hogy felpillantott volna; különös látvány volt.	Ngẫm nghĩ lời con ma vừa nói, Scrooge làm y như thế, nhưng mắt không ngước lên hoặc nới lỏng đôi đầu gối.
 - Nem dolgozhattál valami gyorsan - mondta végül kissé üzleties hangon, de nagy tisztelettel és csaknem alázatosan.	– Chắc hẳn ông rất chán việc đó, - Scrooge nhận xét bằng giọng thiết thực, dù với vẻ nhún nhường và tôn kính.
-- Nem-e?	– Chán!
 - mondta a kísértet.	- bóng ma nhắc lại.
 - Hét éve vagy már halott!	– Chết đã bảy năm, - Scrooge đăm chiêu.
 És folyton csak utaztál?	- Và nay đây mai đó suốt?
 - Szüntelenül!	– Suốt, - bóng ma nói.
-Egy óra nyugalmam sem volt.	- Không nghỉ ngơi, không yên ổn.
 A lelkiismeret is folyvást mardosott.	Bị sự ăn năn hành hạ triền miên.
 - A szelek szárnyán!	- Scrooge nói.
 - felelte a szellem.	– Trên cánh gió, - bóng ma đáp.
 - Messzi vidéket, sok országot járhattál be hét esztendő alatt.	– Trong bảy năm, hẳn ông đã đến rất nhiều nơi, - Scrooge nói.
 - Oh te nyomorult rabszolga, hát azt sem tudod, hogy évszázadoknak kell elmúlnia, ezer és ezer munkás életnek kell az öröklétbe távoznia, hogy a jóság, mi egy-egy halandó szívében él, még itt a földön megnyilvánulhasson.	Giam cầm, trói buộc và xiềng xích gấp đôi, - con ma than thở, - những kẻ bất tử không biết đến những năm tháng lao động không ngừng, để trái đất này phải trở thành bất diệt trước khi những tốt đẹp của nó bị ảnh hưởng vì mọi sự phát triển!
-Minden igaz keresztyén lélek, aki jóra törekszik a maga kis körében, túl rövidnek fogja érezni életét, az elvégzendő munka nagyságához viszonyítva.	Không biết mọi hồn ma Công giáo làm việc chăm chỉ trong lĩnh vực nhỏ bé của mình có hay rằng dù thế nào đi nữa, nó sẽ thấy cuộc sống dài lê thê và buồn tẻ của mình quá ngắn ngủi cho vô vàn phương kế được sử dụng!
 Bármily hosszú a bűnbánat útja, nem teheti jóvá a haszontalanul elfecsérelt életet.	Không biết rằng bao nhiêu ân hận mới có thể sửa chữa những dịp sai trái trong đời con người!
 Én az enyémet elfecséreltem.	Tôi là kẻ như thế đấy!
 Haszontalanul elfecséreltem!	Chao ôi, tôi là thế đấy!
 - Kötelezettség, kötelesség!	- Scrooge ấp úng nói, lúc này ông ta bắt đầu nghĩ đến việc mình sẽ bị y như thế này.
-- kiáltotta a szellem, kezét tördelve.	– Công việc ư!
 - Az egész emberiség volt a kötelességem.	- Bóng ma kêu lên, lại siết chặt hai bàn tay.
 A közjó ápolása lett volna a kötelességem.	- Nhân loại là công việc của tôi.
-A jótékonyság, szívélyesség, felebaráti szeretet, irgalmasság, mind-mind kötelességem volt!	Phúc lợi chung là công việc của tôi; lòng từ thiện, sự khoan dung, sự độ lượng và nhân từ, tất cả, là công việc của tôi.
 Amire te gondolsz, nyilván az esedékes váltók pontos beváltására, az csak egy vízcsepp a valódi kötelességek tengerében.	Những cuộc giao dịch buôn bán của tôi chỉ là một giọt nước trong đại dương mênh mông các công việc của tôi mà thôi!
 - Magasra emelte és mégegyszer megcsörgette láncát s úgy nézte végig minden láncszemét, mintha mindennek ez a lánc volna az oka, azután rettentő erővel, csörömpölve vágta a földhöz.	Con ma giơ cao sợi xích trên cánh tay, như đó là nguyên nhân của mọi nỗi tiếc thương vô tích sự, rồi lại quăng mạnh lên sàn lần nữa.
 - Ilyenkor, karácsony táján szenvedek a legkeservesebben, - folytatta azután.	– Lần này, cả một năm trời qua, - con ma nói, - là tôi khốn khổ nhất.
 Semmibe se venni azt a csillagot, amely a napkeleti bölcseket a szegénység hajlékába vezette.	Không căn nhà nghèo khổ nào có ánh sáng chỉ đường cho tôi sao?
 Vajjon, nem akadt volna egy kunyhó, ahol énrám vártak, ahová a csillagnak engem kellett volna vezérelnie?	Scrooge mất hết can đảm khi nghe con ma cứ nói mãi kiểu này, và bắt đầu run như cầy sấy.
 - Ide hallgass, időm lejár, de még van mondanivalóm számodra.	- Thời gian của tôi sắp hết rồi.
-- Hallgatlak, - mondta Scrooge -, de kérlek, ne légy túl szigorú és beszélj egyszerűen és világosan, nem értelek meg, ha virágnyelven szólsz hozzám.	– Tôi sẽ nghe, - Scrooge nói.
 - Magam sem tudom, miképp lehetséges az, hogy most látsz engem - folytatta a szellem.	- Nhưng đừng gay gắt với tôi!
 Ez a közlés nem hatott nagyon kellemesen Scrooge-ra, mert ismét megborzongott és a hideg verítéket törölte homlokáról.	– Vì sao tôi lại xuất hiện trước mặt ông trong hình dạng để ông có thể nhìn thấy thì tôi không thể nói ra.
-- Ma azért jöttem, hogy megmondjam neked, van még lehetőséged és reményed arra, hogy elkerüld az én sorsomat.	Tôi phải ngồi vô hình cạnh ông rất nhiều ngày rồi.
-Én magam szereztem meg a lehetőséget számodra, Ebenezár!	Ý nghĩ này chẳng dễ chịu gì.
 - Mindig jóbarátom voltál, - nyöszörögte Scrooge - köszönöm jóságodat.	Scrooge run và lau những giọt mồ hôi túa ra trên trán.
 - Három kísértet fog meglátogatni, - mondta tompa hangon a szellem.	– Về phần tôi, hành xác như thế cũng chẳng nhẹ nhõm gì, - bóng ma tiếp tục.
 - Óh - mondta borzadva Scrooge, és oly hosszúra nyúlt ábrázata, hogy szinte maga is kísértet­nek látszott.	- Tôi đến đây tối nay để báo cho ông rằng ông có một cơ hội và hy vọng thoát khỏi số phận như tôi.
-- Ez a lehetőség és remény, amit említettél?	Một cơ hội và hy vọng mà tôi kiếm được, Ebenezer ạ.
 - kérdezte reszkető hangon.	– Ông lúc nào cũng là bạn tốt của tôi, - Scrooge nói.
 - Igen.	- Cảm ơn ông.
 - Nincs - nincs mód arra, hogy mellőzzük ezt?	– Ông sẽ bị Ba Vong hồn ám ảnh, - con ma nói tiếp.
@@ -297,76 +214,50 @@ Az első holnap éjfél után egy órakor fog megjelenni!	– Đấy là cơ h
 - könyörgött Scrooge.	– Tôi… tôi nghĩ thà không có còn hơn, - Scrooge nói.
 - A második holnapután éjszaka ugyanabban az órában jő el.	– Không có những cuộc viếng thăm của họ, - con ma nói, - ông đừng mong hòng thoát được con đường của tôi.
 És az utolsó a rákövetkező éjjelen, ha az óra az éjfélt elütötte.	Hy vọng rằng cuộc thăm đầu tiên sẽ vào ngày mai, khi chuông báo Một giờ.
-Engem nem fogsz többé látni, de törekedj saját érdekedben észben tartani, amit ma éjszaka hallottál tőlem.	– Tôi có thể gặp họ luôn một lần cho xong có được không, Jacob?
 A néma csendben tisztán hallotta Scrooge, amint ennél a műveletnél a kísértet foga összekoccant.	Cuộc thứ ba, vào đêm tiếp theo khi tiếng chuông cuối cùng của Mười hai giờ ngừng ngân.
 Félénken felpillantott és látta, hogy a túlvilági látogató egyenesen áll előtte, karjára fűzve hosszú láncának lecsüngő végét.	Ông sẽ không gặp tôi nữa; vì ích lợi của ông, hãy nhớ lại những gì đã qua giữa chúng ta!
 A csukott ablak, amint a szellem közeledett felé, önmagától fokról-fokra kitárult.	Nói xong những lời này, bóng ma cầm dải băng trên bàn và quấn quanh đầu như trước.
 Mire odaért, az ablaktáblák tárva-nyitva voltak.	Scrooge biết dải băng dùng để khép hai hàm lại với nhau.
-A félelemtől és iszonyattól elcsigázott Scrooge a szellem minden mozdulatára vakon engedel­meskedett.	Con ma đi giật lùi tách khỏi Scrooge; cứ mỗi bước, cánh cửa sổ lại nhấc lên một chút, và khi con ma đến sát đó, cửa sổ mở toang.
-A nyitott ablakon keresztül különös hangok hallatszottak.	Nó ra hiệu cho Scrooge đến gần.
 Scrooge, bármily megrendült volt is, nem tudta fékezni kiváncsiságát: hirtelen az ablakhoz lépett és kitekintett.	Sau khi lắng nghe một lát, con ma hòa với bài hát buồn và trôi vào bóng đêm tối tăm, lạnh lẽo.
-Valamennyi meg volt láncolva, akárcsak Marley szelleme.	Không khí đầy những bóng ma, vội vàng lang thang đây đó và than van rền rĩ lúc đi.
-Voltak olyanok is, akik egymáshoz voltak bilincselve; ezek életükben cinkosok lehettek.	Con ma nào cũng đeo xiềng y như Marley; một vài con (chắc là nặng tội) bị xích liền với nhau, không con nào được tự do.
 Jobban szemügyre véve őket, Scrooge egy csomó ismerőst látott a szellemek között.	Nhiều con ma Scrooge biết khi sinh thời.
 De a többiek is, valahányan csak voltak, mind azt panaszolták, hogy nem tehetnek jót embertársaikkal; most már késő, amit életükben elmulasztottak, azt pótolni nem képesek többé.	Cảnh khốn khổ của họ hiển hiện rõ ràng, vì họ cố tìm cách giúp đỡ những việc có tình người, song họ đã mất sức mạnh vĩnh viễn.
 Scrooge még mindig az ablaknál állott, de mind homályosabban látta a kísérteties csapatot.	Scrooge không thể nói những người này tan vào sương mù hay sương mù che lấp họ.
-Miközben azon tűnődött, vajon a köd sűrűsödik-e, vagy talán maguk az imbolygó alakok válnak-e köddé, a zaj mindjobban elült és már nem látott semmi mást, mint a néma, hideg és ködös éjszakát.	Nhưng họ và những tiếng nói của vong hồn họ cùng nhạt nhòa dần, và màn đêm lại y như lúc ông về nhà.
-Becsukta az ablakot és gondosan megvizsgálta az ajtót, amin a kísértet a szobába lépett.	Scrooge đóng cửa sổ, kiểm tra cái cửa con ma đã lọt vào.
-Az ajtó kulcsra volt zárva és két tolóretesszel; pontosan úgy, amint este, amikor hazajött, maga zárta be.	Nó khóa hai lần, do chính tay ông khóa, các then không hề suy suyển.
 - Szamárság - gondolta és már a nyelvén volt, hogy ki is mondja, de idejében elharapta.	Ông định nói: "Bịp bợm!" nhưng dừng lại ngay ở âm tiết đầu tiên.
 Az első számu kísértet	Hồn Ma Đầu Tiên
 Amikor Scrooge felébredt, oly sötét volt, hogy az ágyával éppen szemközt fekvő ablak négyszögét sem tudta kivenni.	Khi Scrooge thức giấc, trời tối đến mức ông chỉ phân biệt được cửa sổ trong suốt với các bức tường mờ đục trong phòng ngủ.
 Épp azon iparkodott, hogy valamiképp mégis tájékozódjék, amikor a közeli templomtorony órája ütni kezdett.	Ông đang cố đưa mắt tìm kiếm xuyên bóng đêm thì các chùm chuông của nhà thờ gần đó điểm bốn lần mười lăm phút.
 Tizenkét óra!	Mười hai!
-Hiszen két óra elmúlt, amikor nyugovóra tért.	Khi ông đi nằm là quá hai giờ.
-Ám a zsebóra is csak szaporán elütötte a tizenkettőt és elhallgatott.	Ắt là một cột băng đã lọt vào bên trong nó. Mười hai giờ!
-Erre az ijesztő ötletre menten kiugrott az ágyból és az ablakhoz tapogatódzott.	Nó đánh mười hai tiếng nhỏ và ngừng.
 A befagyott ablaktáblán kis lyukat dörzsölt a jégrétegbe és azon át kipillantott.	– Ơ kìa, mình không thể ngủ suốt một ngày thẳng đến đêm.
-Vajmi keveset látott!	- Scrooge nói.
 Annyit mégis meg tudott állapítani, hogy künn derekasan fagy és sűrű köd van.	- Không thể có chuyện gì đó xảy ra với mặt trời, và bây giờ chắc là mười hai giờ trưa!
 Járókelőket nem látott; ezek szerint éjszaka volt, mert délben okvetlen lett volna forgalom az utcán.	Hoảng hốt vì ý nghĩ ấy, ông lồm cồm xuống giường và dò dẫm đến cửa sổ.
 Minél inkább törte a fejét, annál jobban belezavarodott.	Scrooge lại lên giường và nghĩ, nghĩ mãi mà chẳng nghĩ ra được gì.
-Nem tudott szabadulni kínzó gondolataitól.	Càng nghĩ, ông ta càng bối rối; và càng cố không nghĩ, ông ta càng phải nghĩ.
 Marley szellemének rejtélye szüntelenül gyötörte.	Bóng ma của Marley quấy rầy ông ta quá thể.
 Valahányszor gondos megfontolás után megállapította, hogy csupán álmodott, villámgyorsan tért vissza gondolata a kiindulási pontra, arra ösztönözve, hogy más irányban próbálja végiggondolni a történteket, hogy ismét felvesse a kérdést: álom vagy valóság?	Mỗi lần tự phân tích, sau khi thẩm tra kỹ lưỡng, ông lại thầm nhủ tất cả chỉ là một giấc mơ, đầu óc ông lại bật như một cái lò xo khỏe về vị trí đầu tiên và tự hỏi: "Đây là mơ hay thực?"
 Már vagy háromnegyedórája hevert így gondolatokba merülten, amikor hirtelen eszébe jutott, hogy Marley szelleme éjfélután egy órára jelezte az első számú kísértet jövetelét.	Scrooge cứ nằm trong tình trạng này cho đến lúc chùm chuông báo ba lần mười lăm phút nữa, ông chợt nhớ ra bóng ma đã báo trước cuộc đến thăm ông vào lúc chuông điểm một giờ.
 Az utolsó negyedóra oly rettentő hosszúnak tűnt, hogy többször is arra kellett már gondolnia, vajjon nem bóbiskolt-e el és talán elmulasztotta az óraütést.	Mười lăm phút sao dài đến thế, hơn một lần ông tưởng mình đã chìm vào giấc ngủ lơ mơ và bỏ lỡ tiếng chuông đồng hồ.
-- Bim-bam.	– Bính, boong!
-- Egynegyed biztosan elmúlt, - mondta Scrooge. - Bim-bam.	– Mười lăm phút qua rồi, - Scrooge nói lúc đếm.
 Fél is elmúlt.	– Bính, boong!
 - Bim-bam.	– Nửa giờ đã qua, - Scrooge nói.
 Háromnegyed is.	– Bính, boong!
-- Bim-bam.	– Thêm mười lăm phút nữa, - Scrooge nói.
 - Egy óra - és sehol semmi!	– Bính, boong!
 - kiáltott fel diadalmasan.	– Một giờ nữa, - Scrooge nói, hoan hỉ, - và chẳng có gì nữa!
 Ám öröme korai volt, mert még ott vibrált az óraütés hangja a levegőben, és csak lassankint, halk zümmögéssel halt el.	Ông nói trước khi tiếng chuông đồng hồ ngân vang, lúc này là MỘT tiếng trầm, đục, giả dối, u uất.
-Abban a pillanatban, amikor végképp elhangzott, hirtelen világos lett a szobában és ágyának kárpitja félre­libbent.	Ngọn đèn trong phòng lóe sáng ngay lập tức, và rèm giường ông cuốn lên.
-Egy kéz libbentette félre.	Một bàn tay kéo rèm giường ông sang bên.
 Nem a lábtól eső kárpitot, nem is a hátamögött levőt, hanem éppen azt húzták félre, ami szemtől-szembe, fejtől esett.	Không phải rèm dưới chân giường, cũng không phải ở sau lưng, mà là những tấm rèm ngay trước mặt ông.
 A félrevont kárpit mögül félig ülve, félig fekve bámult Scrooge a földöntúli jelenségre, aki a kárpitot félrevonta és most ott állt, oly közel hozzá, hogy kinyújtott kézzel elérhette volna.	Những tấm rèm của giường ông bị kéo sang một bên, và Scrooge bật dậy trong tư thế nửa nằm, thấy mình mặt đối mặt với vị khách đáng sợ đã kéo chúng: lúc này gần như tôi đứng ngay sát bên khuỷu tay bạn.
-Különös alak volt - gyermek és aggastyán egy személyben, vagy még inkább úgy tűnt, mintha valami torzító tükör kicsinyített volna egy aggot kis gyermekké.	Đó là một hình dáng kỳ dị, giống như một đứa trẻ; nom không như một đứa trẻ mà như một ông già, nhìn qua môi trường siêu nhiên khiến diện mạo của nó mờ khỏi tầm nhìn và thu nhỏ theo tỉ lệ một đứa trẻ.
-Válláig érő haja hófehér, mintha ősz volna, de az arcán egyetlen ránc nyoma sincs és bőre oly hamvas és üde, mint egy barack.	Tóc nó phất phơ trên cổ và rủ xuống lưng, bạc trắng có lẽ vì tuổi tác; song bộ mặt không hề có một nếp nhăn, nước da hồng hào tươi tắn, mịn màng bậc nhất.
-Hosszú, izmos karok, határozott, erős kéz. Combja, lábszára, formás és csakúgy, mint karja, mezítelen.	Cánh tay rất dài và vạm vỡ, bàn tay cũng thế, dường như ẩn chứa một sức mạnh khác thường.
 Öltözéke rövid, bő, hófehér tunika, amit derekán csodálatos fényű öv fog össze.	Chân và bàn chân hình dáng thanh tú và để trần như các phần trên.
 Kezében üde zöld fenyőág és - mily különös, tél közepén - ruhája redőiben friss nyári virágok.	Con ma mặc áo choàng không tay trắng toát; quanh eo thắt một cái thắt lưng bóng láng, óng ánh rất đẹp.
 De a legkülönösebb az volt rajta, hogy a feje búbján tiszta, világos fénysugár tört elő, amely az egész jelenséget földöntúli fénybe burkolta.	Nó cầm một nhành cây nhựa ruồi xanh tươi; và trái ngược kỳ quặc với biểu tượng mùa đông, quần áo của nó tô điểm những bông hoa mùa hè.
-Hol egy­karú, egylábú, majd húszkarú, húszlábú szörnyetegnek, majd fejnélküli törzsnek, végül törzsnélküli fejnek látszott.	Và, kỳ lạ chính là ở chỗ, sau đó nó lại hiện ra rõ ràng và trong trẻo.
 - Oh, Uram, Ön talán az a kísértet, akinek eljövetelét előre jelezték?	– Ông là Hồn ma mà tôi được báo trước phải không?
 - kérdezte Scrooge.	- Scrooge hỏi.
-- Én vagyok.	– Đúng thế!
 A kísértet hangja halk volt és csodálatosan lágy.	Giọng nói mềm mại và nhẹ nhàng.
-Noha egészen közelről hangzott, úgy tetszett, mintha távolból jönne.	Khẽ lạ thường, dường như không phải của người đứng sát ngay sau ông mà ở một khoảng xa lắc.
 - És kicsoda Ön?	- Scrooge hỏi.
 - Az elmúlt karácsonyesték szelleme vagyok.	– Tôi là Hồn ma của Giáng sinh Quá khứ.
 - A régen elmúltaké?	– Quá khứ từ lâu ư?
 - kérdezte most Scrooge a törpe alakot méregetve.	- Scrooge hỏi và quan sát vóc người lùn tịt của con ma.
-- Mit!?	– Gì kia!
 - kiáltott a kísértet, - hát volna lelked szentségtörő kézzel kioltani a fényt, amely belőlem sugárzik?	- Hồn ma kêu lên, - Ông sẽ vội vàng tắt ngay ánh sáng bằng bàn tay trần tục của ông, thứ ánh sáng tôi mang đến?
 Nem elég, hogy te és hozzád hasonlók sötét szenvedélye megformálta ezt a süveget, amelyet évek hosszú során át mélyen a szemembe húzva kellett viselnem?	Ông là một trong những người say mê làm cái mũ này và buộc tôi phải kép sụp nó xuống tận lông mày hết năm này sang năm khác, chưa đủ sao?
 Scrooge ijedten mentegetődzött, hogy eszeágában sem volt megbántani és arra sem emlékszik, hogy mikor kényszerítette volna a süveg viselésére.	Một mực cung kính, Scrooge chối đây đẩy mọi ý định xúc phạm hoặc cố ý "đội mũ" cho Hồn ma, dù ở bất cứ giai đoạn nào trong đời ông ta.
 - A te jóléted!	- Con ma nói.
 A kísértet, úgy látszik, átlátott gondolatain, mert hirtelen megszólalt:	Hồn ma ắt là nghe được suy nghĩ của ông, vì nó nói ngay lập tức:
-- Nos, mondjuk, úgy, hogy megjavulásod!	– Sau đó, là vì sự cải tà quy chính của ông.
 Figyelj ide!	Hãy chú ý!
 Kinyújtotta erős kezét és gyengéden vállon ragadta az ámuló Scrooge-ot.	Nói xong, nó chìa bàn tay mạnh mẽ ra và nhẹ nhàng nắm lấy cánh tay ông.
 - Kelj fel és kövess!	– Đứng dậy!
@@ -374,26 +265,19 @@ Ez mind nem használna.	Và đi cùng tôi!
 Felkelt és már-már követte a szellemet, amikor borzadva vette észre, hogy az ablak felé tart.	Cái nắm tay của nó tuy nhẹ nhàng như của phụ nữ song không cho cưỡng lại.
 - Gondold meg, hogy halandó vagyok - esedezett - repülni nem tudok és ha az ablakon kilépek, csúfosan a mélybe bukom.	– Tôi là người, - Scrooge than thở, - và có thể bị ngã.
 - Lám csak az ujjam hegyével érintlek meg és menten úgy megkönnyebülsz, hogy lebegni fogsz és követni téren és időn keresztül mindenüvé - mondta a szellem, kezét Scrooge szívére téve.	– Hãy chịu đựng, chỉ cần bàn tay tôi chạm vào đó, - Hồn ma nói và đặt bàn tay lên trái tim ông ta, - ông sẽ được nâng lên cao hơn thế này!
-Alighogy elhangzottak szavai, már ki is léptek a falon keresztül a szabadba.	Lời nói vừa thốt ra xong, họ đã qua bức tường và đứng trên một con đường miền quê thoáng đãng, hai bên là những cánh đồng.
 Az ország­úton álltak, jobbra-balra sík mező.	Thành phố đã biến mất hoàn toàn.
 A város eltűnt, mintha a föld nyelte volna el.	Không còn nhìn thấy một vết tích nào nữa.
 - Jóságos Ég!	- Tôi sinh ra ở nơi này.
-A szellem szelíden és megértően mosolygott rá, látván, hogy kezének könnyű és futólagos érintése nyomán az öregember szívében mint támadnak fel régen elfelejtett gyermekkori élményei, gondolatai, reményei.	Sự động chạm nhẹ nhàng của nó, dẫu nhẹ và tức thời, hình như vẫn khiến ông già xúc động.
-Ezer illat, vágy, érzelem zsongott körülötte, mint üzenet az elszállt ifjúságból.	Ông nhận ra rất nhiều mùi thơm thoảng trong không khí, mỗi mùi nối với rất nhiều ý nghĩ, hy vọng, niềm vui và sự ân cần đã bị quên lãng từ lâu!
 - Remeg az ajkad - mondta a kísértet.	– Môi ông đang run kìa, - hồn ma nói.
 - És mi az, ami az orcádon csillog?	- Và cái gì kia trên má ông?
 Scrooge zavartan válaszolta, hogy talán egy megakadt hópehely, noha tudta jól, hogy könny­csepp gördült végig arcán.	Scrooge lẩm bẩm, với sự nhận biết khác thường trong giọng nói, rằng đó là một cái mụn và ông nài con ma đưa ông đến nơi ông muốn.
-Majd arra kérte a szellemet, hogy csak vezesse, ő engedelmesen fogja követni.	– Ông có nhớ đường không?
 - Nem ismered ezt az utat?	- Hồn ma hỏi thăm.
 - kérdezte a szellem.	– Nhớ chứ!
 - Már hogyne ismerném, bekötött szemmel is elmennék rajta - válaszolta élénken Scrooge.	- Scrooge kêu to, sôi nổi, - có thể bịt mắt lại, tôi vẫn đi được.
 - Különös, hogy annyi éven át egyszer sem gondoltál rá; na menjünk csak tovább!	– Vậy mà quên bẵng nhiều năm như thế thì lạ thật!
-A víg gyermekhangok üde muzsikája betöltötte a mezőt, a hideg tiszta levegő csak úgy visszhangzott a boldog kacagástól.	– Đây là những cái bóng của các sự việc đã qua, - hồn ma nói.
 - A mult árnyai, látjuk, halljuk őket, de ők nem tudnak rólunk - mondta a szellem a közeledő csapatra mutatva.	- Họ không nhận biết được chúng ta đâu.
-Amint elhaladtak mellettük, Scrooge kitörő örömmel szólította nevén valamennyit. Vajjon minek örült?	Những người lữ hành vui tươi vẫn đi; và lúc họ đến, Scrooge biết và gọi tên từng người.
 Mitől dobogott öreg szíve egyszerre fiatalos hévvel?	Vì sao ông lại hân hoan quá mức khi nhìn thấy họ?
 Miért érezte magát végtelen boldognak a gyermekek vidám kurjongatásának hallatára?	Vì sao cặp mắt cái nhìn lạnh lùng của ông lấp lánh, trái tim ông nảy lên khi họ đi qua?
-Mi volt Scrooge számára a "boldog karácsony?" Az ördögbe a karácsonnyal!	Giáng sinh vui vẻ là cái quái gì với Scrooge?
 Volt ő valaha boldog karácsonykor?	Quẳng béng cái câu Giáng sinh vui vẻ đi!
 - kérdezte a szellem, - még nem zárták be.	– Nhà trường cũng không hoàn toàn vắng vẻ, - con ma nói.
 Társai megfeledkeztek róla és magára hagyták.	Scrooge nói ông biết chuyện đó.
@@ -403,31 +287,19 @@ Keskeny, hosszú, a többinél is barátságtalanabb szobába nyitottak.	Họ - 
 A szellem szelíden belékarolt és olvasásba merült gyermekkori alakjára mutatott.	Hồn ma chạm vào cánh tay ông, và chỉ vào ông hồi trẻ, đang mải mê đọc.
 - De hiszen ez Ali Baba!	– Kìa, đây là Ali Baba!
 - kiáltotta Scrooge izgatottan.	- Scrooge kêu lên, vui sướng.
-- A derék, öreg Ali Baba, aki eljött hozzám, egy régi karácsonyestén, amikor a többi gyermekek már mind hazamentek és árván buslakodtam az iskolaszobában!	- Đây chính là ông già Ali Baba thật thà!
 És ott megy Jancsi és Juliska is!	Phải, phải, tôi biết mà.
-Úgy kell neki!	Cậu bé tội nghiệp!
-Miért akarta mindenáron feleségül venni a hercegnőt!	- Scrooge nói, - Còn Valentine và Orson, người anh trai lêu lổng của cậu ta, họ ở đằng kia kìa!
 Hol sírva, hol nevetve mondta ezeket a különös, komoly ember számára szinte érthetetlen szavakat.	Tên cậu ấy là gì nhỉ, cái cậu gục xuống ngăn bàn ngủ thiếp đi bên cổng Damascus, ông có nhìn thấy không?
-Ha üzletfelei vagy ismerősei közül valaki meghallja, ugyancsak elcsodálkozik rajta!	Còn viên giám mã của nhà vua bị các thần linh treo ngược lên, cắm đầu xuống đất; Đáng đời cho hắn!
-- kiáltotta Scrooge.	– Đằng kia có một con vẹt!
 - A melle zöld, a farka sárga!	- Scrooge kêu to.
 Az, amelyik Robinson Crusoe-ra rákiáltott, amikor körülvitorlázta a szigetet és ismét hazatért.	Nó đã gọi ông chủ là Robinson Crusoe tội nghiệp lúc ông về nhà sau một chuyến đi thuyền vòng quanh đảo.
 Azt mondta neki: "Hol voltál Robinson?" Szegény Robinson azt hitte, álmodik; de nem álmodott, mi tudjuk, úgy-e?	"Robinson Crusoe tội nghiệp, ông ở đâu, Robinson Crusoe?".
-Hogy fut lélekszakadva a kis öböl felé, hogy megmentse életét.	Ông biết đấy, đó chính là con vẹt.
-Aztán egyszerre, minden átmenet nélkül, bár az ilyesmi egyáltalában nem volt Scrooge szokása, ismét halk, szomorú hangon mondta:	Rồi Thứ Sáu đến, chạy thục mạng đến nhánh sông nhỏ!
-Majd zsebébe nyúlt, bizonytalanul nézett körül és alig hallhatóan mormogta, miközben kabátujjával letörölte könnyeit:	Rồi, nhanh chóng chuyển giọng rất lạ với tính cách thường ngày của ông, Scrooge nói, thương cho mình trước kia: "Tội nghiệp cậu bé!" và lại khóc.
 - kérdezte a szellem.	– Có việc gì vậy?
 - Oh, semmi!	- Hồn ma hỏi.
 Egy szegény betlehemes kisfiú énekelt tegnap este az ajtóm előtt.	- Đêm qua, một cậu bé đã hát bài mừng Giáng sinh bên cửa nhà tôi.
-Bárcsak adtam volna neki valamit.	Lẽ ra tôi nên cho cậu ta cái gì đó, vậy thôi.
 - A szellem elgondolkozottan mosolygott, majd intett:	Bóng ma cười mỉm tư lự, và vẫy tay, bảo:
 - Na, nézzünk egy másik karácsonyt.	– Chúng ta hãy xem Giáng sinh khác vậy!
 Szavaira, mint egy varázsigére, a "kisfiú-Scrooge" valamicskét megnőtt, a szoba sötétebb lett és még sokkal elhanyagoltabb.	Lập tức Scrooge trước kia lớn bổng lên, căn phòng trở nên hơi tối hơn và bẩn thỉu hơn.
-A padozat fája megrepedezett, az ablaküvegek megpattantak, a tetőről a vakolat nagy darabokban hullott alá és csupasz gerendák álltak ki helyén.	Các tấm bảng co lại; cửa sổ cót két; nhiều mảng vữa rơi từ trên trần xuống, lộ ra những thanh gỗ mỏng lát trần, nhưng Scrooge làm sao biết được vì sao cơ sự lại thế này.
-Hogy mindez miért és hogyan ment végbe, azt Scrooge nem tudta volna megmondani, annyit azonban biztosan tudott, hogy színhely tökéletesen élethű volt.	Ông ta chỉ biết nó hoàn toàn chính xác, rằng mọi việc đã xảy ra như thế; rằng ông đã ở đó, lại lẻ loi trong lúc các cậu bé khác đã về nhà hưởng những ngày nghỉ lễ vui vẻ.
 Az elárvult iskolában ismét csak önmagát látta, most már mint nagyobbacska fiút.	Lúc này Scrooge không đọc nữa, mà chán chường đi lên đi xuống.
 Társai elszéledtek, ki-ki boldogan sietett haza, hogy a szentestét övéivel töltse.	Scrooge nhìn bóng ma và rầu rĩ lắc đầu, lo lắng liếc nhìn ra cửa.
-A kisfiúhoz lépett, átölelte, csókokkal halmozta el, édes-kedves bátyámnak nevezte.	– Em phải đến đưa anh về nhà, anh trai yêu quý ơi!
 - Érted jöttem, hogy hazavigyelek, édes bátyám, - mondta a kislány.	- Cô bé nói, rồi vừa vỗ hai bàn tay bé xíu vừa gập người xuống vì cười.
 Hangja olyan volt, mint az ezüstcsengetyű.	- Đưa anh về nhà, về nhà, về nhà!
 - Igen, hogy hazavigyelek, hogy hazavigyelek!	– Về nhà ư, hở nhóc Fan?
@@ -436,11 +308,8 @@ Hangja olyan volt, mint az ezüstcsengetyű.	- Đưa anh về nhà, về nhà, v
 - Igenis, haza - válaszolta a kislány és csakúgy sugárzott az örömtől.	- Cô bé đáp lại, tràn trề vui sướng.
 - Hazaviszlek és többé el sem engedlek.	- Về nhà mãi mãi, anh nhé.
 - Te is már valóságos hölggyé cseperedtél, kicsi Fan, - mondta a fiú.	– Còn em đúng là trưởng thành hẳn hoi rồi, bé Fan ạ!
-Vidám kacagás volt a válasz.	- Cậu bé kêu to.
 A kislány megpróbálta átölelni bátyja nyakát, de oly kicsiny volt, hogy lábujjhegyre kellett állnia, hogy elérje.	Cô bé vỗ tay và cười, rồi cố chạm vào đầu anh, nhưng nó quá bé, nó lại cười và đứng nhón chân lên, ôm lấy anh trai.
-Azután gyermeki pajzánsággal cibálni, vonszolni kezdte az ajtó felé.	Nó bắt đầu kéo anh nó ra cửa, với vẻ sốt sắng rất trẻ con, còn cậu bé miễn cưỡng đi cùng em.
 A fiú alig vonakodva követte, hiszen olyan boldogan ment volna már.	Một giọng nói khủng khiếp trong tiền sảnh quát:
-Ekkor harsány hang hallatszott: - Hozzátok le Scrooge úrfi poggyászát!	– Mang cái rương của cậu Scrooge xuống kia!
 A kerék mélyen belevágódott a vékony hórétegbe, üde zöld fűcsík tűnt elő nyomában a fehér mezőn.	– Lúc nào cũng dễ ốm, chỉ một hơi thở cũng có thể tàn héo, - bóng ma nói.
 - Gyenge kis teremtés volt, minden szellő elfújhatta volna.	- Nhưng cô ấy có trái tim thật rộng lớn.
 De nagyon jószívű - mondta a szellem.	– Nó là thế đấy, - Scrooge nói.
@@ -450,81 +319,51 @@ Azt hiszem, gyermekei is voltak - mondta elgondolkozva a szellem.	– Có mộ
 - Csak egy fia volt - mondta Scrooge.	– Thật ư, - bóng ma nói.
 - Persze, az unokaöcséd!	- Cháu trai của ông!
 - Igen, az unokaöcsém, - mondta Scrooge látható zavarral.	Hình như tâm trí Scrooge có cái gì đó khó chịu, ông trả lời vắn tắt:
-Nagyváros forgalmas utcáján voltak, ide-oda siető emberek között, a kocsiúton lassan haladó járművek, tolongás, kiáltozás, jellegzetes városi lárma kellős közepében.	Họ đã rời khỏi trường một lúc và lúc này đang trên các đường phố đông đúc của thành phố, nơi khách bộ hành lờ mờ qua lại, những cỗ xe ngựa mờ ảo giành đường, mọi thứ ồn ào và hỗn độn y như một thành phố thật.
 Egy futó pillantás az üzletek kirakatára s nyilvánvalóvá vált, hogy itt is karácsonyeste van; ünnepélyes fény, kivilágított boltok és ablakok mindenfelé.	Nó khá giản dị, nhiều cửa hàng quần áo, và ở đây cũng là dịp Giáng sinh; nhưng đang là buổi tối, và các đường phố đã lên đèn.
 A szellem fényes bolt előtt állott meg és megkérdezte Scrooge-ot, ismeri-e ezt az üzletet.	Con ma dừng lại bên cửa một cửa hàng nào đó, và hỏi Scrooge có nhận ra không.
 Bementek a boltba.	- Scrooge nói.
 Az emelvény olyan magas volt, hogy ha az öreg történetesen tíz centiméterrel nagyobbra nőtt volna, fejét minden mozdulatra a mennyezetbe kellett volna vernie.	Trong tầm nhìn là một quý ông đội tóc giả xứ Wales, ngồi sau cái bàn cao đến mức nếu ông ta cao thêm độ dăm centimét, chắc sẽ cộc đầu vào trần; Scrooge kêu to, phấn khích:
-- Istenem, Fezziwig apó, testestől-lelkestől, - kiáltotta Scrooge izgatottan.	– Trời ơi, đây là ông già Fezziwig!
 Fezziwig apó az órára pillantott.	Chao ôi, ông Fezziwig còn sống!
 - Hé, Ebenezár, Dick!	Dick!
-Gyertek csak ide! - Scrooge egykori énje karcsú fiatalember volt, s fürgén futott főnöke felé.	Scrooge ngày xưa giờ đã là một thanh niên, nhanh nhảu bước vào cùng với cậu bạn cùng học việc.
 Gyakornoktársa, Dick mindenütt nyomában.	– Nhất định là Dick Wilkins rồi!
-- Nini, Dick, - mondta Scrooge a szellemnek, - Istenemre, legjobb barátom, Dick.	- Scrooge nói với bóng ma. - Trời đất ơi, đúng rồi. Đúng cậu ta.
 Szegény, jó Dick!	Tội nghiệp Dick!
 - Nos, fiúk, - mondta Fezziwig - záróra, záróra, mire vártok?	– Ô hô hô, các chàng trai của tôi! - Ông Fezziwig nói.
 Karácsonyeste van, fiacskáim.	- Tối nay không còn việc gì nữa đâu.
-Több se kellett a két fiatalembernek.	Bạn sẽ không thể tin nổi hai anh chàng này làm việc ra sao đâu!
 Egy-kettő már kint voltak az utcán - három-négy - már helyükön voltak a keresztzárak - öt-hat - szaporán fordultak a zárban a kulcsok - hét-nyolc - már ismét ott álltak a főnök előtt büszkén, hogy az még tízig sem számolhatott és már minden a helyén volt.	Họ khuân các cánh cửa chớp ra phố - một, hai, ba -, đặt vào đúng chỗ, - bốn, năm, sáu - ghép chúng lại, - bảy, tám, chín - trở về trước khi bạn đếm đến mười hai, và thở hổn hển như những con ngựa đua.
-- Megy ez, mint a karikacsapás!	– Hoan hô!
 - kiáltotta Fezziwig apó és fürgén lefutott a magas emel­vényről.	- Ông già Fezziwig kêu to và nhảy từ cái bàn cao xuống, nhanh nhẹn lạ thường, - Thu dọn đi, chúng ta phải dọn ở đây cho rộng vào đấy!
-Félre mindent!	Thu dọn!
-Oh, mit nem rakott volna félre a két fiú gazdája szavára!	Chẳng có gì họ không thu dọn, hoặc không thể thu dọn, còn ông già Fezziwig đứng xem.
 Perc alatt minden mozdítható a falnál volt.	Việc dọn dẹp xong trong chớp mắt.
-Már jött befelé a zenész is - egy szál muzsikus, hegedűjét cincogtatva.	Bà Fezziwig vào, nụ cười rộng mở.
 Jött Fezziwigné asszonyság is csupa-mosoly ábrázattal.	Rồi ba cô Fezziwig, tươi tắn và đáng yêu.
 Jöttek az összes alkalmazottak, fiúk és lányok, vídám csapatban.	Họ khiến trái tim của sáu chàng thanh niên đang theo đuổi tan vỡ.
 Jött a szobalány is unokabarátjával, a pékkel.	Rồi tất cả nam, nữ làm thuê tại cửa hàng.
-Jött a szakácsné földijével, a tejessel.	Cô hầu đến cùng người anh họ là thợ làm bánh mì.
 Jött a kifutó a szemközti boltból, akiről úgy hírlett, hogy gazdája nem győz eleget enni adni neki.	Cô đầu bếp vào cùng anh bán sữa, bạn đặc biệt thân của anh trai cô ta.
-Jött a szomszédasszony szobalánya, akinek úrnője vörösre ráncigálta a fülét.	Một lữ khách ngại bàn ăn của ông chủ không đủ chỗ nên cứ nấp sau cô gái nhà bên, nhưng bị bà chủ của cô ta vốn thính tai nghe được, kéo vào.
 A zenész bedugta átforrósodott fejét egy vödör vörösborba, amit külön ebből a célból készítettek oda.	Đến lúc này, ông già Fezziwig vỗ tay ra hiệu ngừng vũ điệu lại và kêu to:
-Aztán ismét tánc rogyásig, zálogosdi, hölgyválasz, majd megint tánc, majd sütemény, szere­csen­fánk, hidegsült, főtt sonka vegyes salátával és sör annyi, amennyi csak belefért a sok szomjas torokba.	Nhưng rồi, từ chối nghỉ ngơi, anh ta lại xuất hiện và ngay lập tức bắt đầu lại, dù chẳng còn ai khiêu vũ nữa, như thể có một tay chơi vĩ cầm khác đã bị khiêng về nhà trên một cánh cửa chớp, mệt lử và anh ta là người mới tinh, quyết chí đánh bật người kia ra khỏi tầm nhìn hoặc bỏ mạng.
 rázendített a "Sir Roger de Coverley"-re.	Nhưng ấn tượng mạnh nhất là khi tay kéo vĩ cầm chơi bài Ngài Roger de Coverley.
-Most az öreg Fezziwig állt az élre Fezziwigné asszonysággal; nem lebecsülendő teljesítmény huszonhárom vagy huszonnégy pár táncossal "Sir Roger"-t vezetni.	Ông già Fezziwig đứng phắt dậy, nhảy cùng bà Fezziwig.
-De Fezziwig apó győzte és ha kétszer vagy négyszer annyian lettek volna, akkor is állta volna a sarat. És Fezziwigné sem maradt mögötte - egy lépéssel sem.	Nhưng nếu họ nhảy gấp đôi như nhiều người - chà chà, bốn lần -, ông già Fezziwig sẽ là một đối thủ xứng tầm với họ, cả bà Fezziwig cũng thế.
-Valódi párja volt mindenféle­képpen.	Bà là bạn nhảy xứng tầm của ông, với mọi ý nghĩa của từ này.
 Ha valaki tud ennél nagyobb elismerést, mondja csak ki, hogy azzal adózzak ennek a kitűnő házaspárnak.	Nếu đấy chưa phải là lời tán dương cao nhất, hãy bảo tôi lời hay hơn và tôi sẽ dùng ngay lập tức.
-Ám a fáradhatatlan Fezziwig apó még kivágott egy bokázót olyan frissen és ügyesen, hogy csak úgy porzott a talpa alatt!	Một ánh sáng đẹp xuất hiện từ bắp chân cặp Fezziwig.
 Még javában állt a bál, amikor az óra tizenegyet ütött és véget vetett a mulatságnak.	Chúng được chiếu sáng như ánh trăng trong suốt vũ điệu.
-Ámuló eszmélete egykori való­jánál időzött.	Khi chuông điểm mười một tiếng, cuộc khiêu vũ gia đình này chấm dứt.
 Mindent felismert, mindenre visszaemlékezett, mindent boldogan élt át újból, és egész lényén valami kimondhatatlan izgalom lett úrrá.	Ông bà Fezziwig đứng cạnh nhau bên cửa, bắt tay từng người lúc họ đi ra, chúc Giáng sinh Vui vẻ.
-Csak mikor ifjúkori alakja és egykori barátja, Dick, végképp eltűnt szeme elől, ötlött eszébe ismét a szellem, aki ezt a világot felidézte számára.	Lúc mọi người đã ra về trừ hai cậu học việc, họ cũng chúc nhau như thế.
-A szellem merően nézett reá és a fény rendkívül élesen világított fején.	Lúc những giọng nói vui vẻ đã tắt, mấy chàng trai lên giường của họ dưới cái quầy phía sau cửa hàng.
 - Íme, - szólalt meg a szellem - mily semmiséggel lehet boldoggá tenni ezt a balga népséget.	– Một việc nhỏ làm những con người khờ dại này đầy lòng biết ơn, - bóng ma nói.
 - Semmiséggel - dünnyögte Scrooge.	– Nhỏ ư! - Scrooge nhắc lại.
-- Figyelj csak és hallgasd meg a két kisinast, hogy zengik Fezziwig apó dícséretét. - Scrooge meghallgatta, azután a szellem felé fordult, aki így folytatta:	Bóng ma ra hiệu cho Scrooge lắng nghe hai cậu học việc đang hết lòng ca ngợi ông bà Fezziwig; bóng ma nói:
-- Nos, talán nincs igazam?	– Mà sao lại không kia chứ?
 Fezziwig apó csupán néhány fontot költött el pénzéből, amit úgysem vihet magával a sírba.	Ông ta đã chi vài bảng trong số tiền lớn của ông: có lẽ chỉ ba hoặc bốn bảng.
 - Nem erről van szó, - mondta Scrooge izgatottan és észre sem vette, hogy nem úgy beszél, mint a mostani, hanem mint az egykori Scrooge.	– Không, - Scrooge nói, nổi nóng vì lời nhận xét và bất giác nói, giống như ông trước kia chứ không phải ông bây giờ:
-És mégis mennyire fontos mindez, a kellő pillanatban többet ér, mintha egész vagyonát osztaná ki közöttünk!	Niềm vui ông ta ban cho to lớn bằng cả một tài sản.
 Scrooge hirtelen elhallgatott, magán érezve a kísértet kutató tekintetét.	Scrooge cảm thấy cái liếc nhìn của Hồn ma, và ngừng lại.
 - Van valami kívánságod?	– Có việc gì thế? - Hồn ma hỏi.
 - kérdezte a szellem.	– Không có gì đặc biệt, - Scrooge nói.
 - Oh semmi különös, - mondta Scrooge.	– Tôi nghĩ là có đấy, - hồn ma khăng khăng.
 - De úgy látom, mégis csak furdal valami, - erősködött a szellem.	– Không, - Scrooge nói, - không.
-- Nos, hát, ha mindenképpen tudni akarod, nagyon szívesen váltanék egy-két szót a segédem­mel.	Tôi chỉ muốn nói với thư ký của tôi một, hai lời.
 De most rögtön.	Thế thôi.
 - Időm lejár, - mondta a szellem.	– Thời gian của tôi sắp hết rồi, - Hồn ma nhận xét.
 - Nos gyorsan!	- Nhanh lên!
 - Ez a parancs nem Scrooge-nak, hanem vala­mely láthatatlan hatalomnak szólt, aki abban a szempillanatban végrehajtotta azt.	Câu đó không nhằm vào Scrooge hoặc bất kỳ ai nó có thể nhìn thấy, nhưng có hiệu quả ngay lập tức.
 A kép nyom­ban megváltozott. Scrooge ismét önmagát látta.	Vì một lần nữa, Scrooge lại nhìn thấy mình.
-Most idősebb már, erős, javakorabeli férfi.	Lúc này đã lớn hơn, một người đàn ông đang độ thanh xuân.
 Elszántság és gonoszság - későbbi éveiben oly jellemző tulajdonságai -, még nem látszik az arcán, de a pénzvágy és a gond már egy-két vonásban világosan kiütközik.	Mặt anh ta chưa có những nếp hằn khắc nghiệt và tàn nhẫn như những năm sau này, nhưng bắt đầu mang vẻ lo lắng và hám lợi.
-Scrooge most nincs egyedül, szép, fiatal gyászruhás leány ül mellette.	Scrooge không chỉ có một mình, mà ngồi cạnh một cô gái xinh đẹp vận đồ tang, mắt cô đầy nước nhưng vẫn lấp lánh trong ánh sáng tỏa ra từ bóng ma Giáng sinh Quá khứ.
-Fátyolos, könnyes hangon szólal meg:	– Thần tượng nào thay thế được em kia chứ?
 - Nem sokat jelentek én már számodra.	- anh ta cãi.
 - Az aranyborjú.	- Anh ta nói.
 És nincs ember, aki ne igyekeznék minden eszközzel jólétet teremteni.	– Anh sợ cuộc đời quá nhiều, - cô gái nhẹ nhàng trả lời.
 - Túlságosan félsz az élettől - mondta a leány halkan - és csak abban reménykedsz, hogy a pénzed fog megóvni minden bajtól.	- Mọi mong muốn khác của anh kết hợp thành hy vọng làm người tham lam toàn vẹn.
 Egykor nemesebb céljaidat, törekvéseidet egymás után adtad fel, hogy végül is a legátkosabb szenvedély: a nyerészkedés, teljesen úrrá váljék rajtad.	Em đã thấy những khát vọng cao quý hơn của anh sụp đổ hết cái này đến cái khác, cho đến khi Lợi lộc, niềm say mê chủ yếu ấy choán lấy anh.
 - Mit látsz világosan?	- Anh ta trả miếng.
-Legfeljebb azt láthatod, hogy okosabb lettem az élet dolgaiban, de érzéseimen ez mitsem változtatott!	- Dẫu anh ngày càng khôn ngoan hơn, thì đã sao?
-A leány csak szomorúan intett nemet fejével.	Anh không thay đổi gì với em.
 - Tudod jól, hogy barátságunk nem tegnapi keletű.	– Giao ước của chúng ta đã cũ.
 Még akkor kötöttük, amikor mindketten szegények és elégedettek voltunk és csak abban reménykedhettünk, hogy közös munkával és szorgalommal, idővel, valamelyest javíthatunk helyzetünkön.	Nó có khi cả hai ta đều nghèo và hài lòng với cái mình có, cho đến khi chúng ta có thể khấm khá hơn nhờ sự chăm chỉ, nhẫn nại của mình.
-De te azóta teljesen megváltoz­tál.	Anh đang thay đổi.
-Más ember lett belőled!	Nó đã làm anh thành người khác rồi.
 - Csak ember lett belőlem!	– Anh là một thanh niên, - anh ta sốt ruột nói.
 - Magadnak is érezned kell, hogy nem vagy többé, aki voltál.	– Cảm nghĩ riêng của anh mách bảo anh rằng anh không như hiện có, - cô trả lời.
 Én nem változtam.	- Còn em vẫn thế.
@@ -534,84 +373,52 @@ Most homlokegyenest ellenkező céljaink csak boldogtalanságot hozhatnak ránk.
 - Sohasem mondtad.	Chưa bao giờ.
 - Nem mondtad, de megváltozott szellemed, az enyémtől eltérő életformád és olyan célok, amiket nem tudok veled megosztani, világosan elárulták szándékodat.	– Bằng cách thay đổi tính tình; bằng thay đổi tâm hồn; bằng không khí của cuộc sống khác, hy vọng khác cũng như kết cục huy hoàng của nó.
 És minden egyében is, ami valaha értékessé tette számodra szerelmemet, észre kellett vennem a változást.	Mọi thứ làm nên tình yêu của em chẳng có giá trị hoặc đáng giá gì trong mắt anh.
-- mondta a leány szelíden, de határozottan.	Chao ôi, không đâu!
 - Szóval, te azt hiszed, hogy nem?	– Em đừng nghĩ thế.
 - Oh, milyen szívesen vélekednék másként.	– Em sẽ rất mừng nếu có thể nghĩ khác đi, - cô gái trả lời.
 Isten látja lelkem, nem tehetem.	- Có Trời chứng giám!
 Ráeszméltem az igazságra és most már ki kell tartanom mellette megingathatatlanul.	Khi em hiểu được thực tế này, em cũng biết nó mạnh và hấp dẫn biết chừng nào.
 Te, aki csak a pénzben, a nyereségben bízol és hiszel.	Còn em thì có, vì thế em giải phóng cho anh.
 Tudom, hogy keservesen megbánnád és ezért most elbúcsúzom tőled.	Bằng cả trái tim chân thành và tình yêu đã có với anh.
-Most, amikor szívem még csordultig van szerelemmel aziránt az ember iránt, aki egykor voltál.	Anh ta định cất lời, nhưng cô đã ngoảnh đi và nói tiếp:
 Őszinte szívből kívánom, légy boldog a magad módján!	Có lẽ anh sẽ hạnh phúc trong cuộc sống mà anh chọn lựa!
-Ezzel lassú léptékkel elment, anélkül, hogy hátranézett volna.	Cô rời bỏ anh, và họ chia tay.
-- Szellem!	– Hỡi hồn ma!
 - mondta Scrooge - miért gyötörsz?	Xin đừng cho tôi xem nữa!
-Vezess haza, nem akarok többet látni!	Hãy đưa tôi về nhà.
-- Hátra van még egy kép a múltból!	Tại sao ông lại thích thú hành hạ tôi như vậy?
 - szólt a kísértet tompán.	– Một cái bóng nữa thôi!
 - Nem!	- Hồn ma kêu to.
-Nem akarom látni!	– Không gì nữa hết!
 Ne mutass semmit!	- Scrooge gào.
 - könyörgött Scrooge.	- Không gì nữa!
 Kényelmes, tágas szobát látott.	Tôi không muốn nhìn thấy nữa.
 Őszhajú, idős hölgy lett belőle.	Xin đừng cho tôi xem thêm nữa!
 Most látta csak, hogy annyi gyermek nyüzsög a két nő körül, amennyit hamarjában meg sem tud számlálni.	Họ ở trong một quang cảnh và địa điểm khác; một căn phòng không rộng hoặc không đẹp lắm, nhưng đầy tiện nghi.
-A gyermekek semmiben sem hasonlatosak a költő által megénekelt negy­ven gyermekhez, akik, mint tudjuk, úgy viselkedtek, mint egyetlen gyermek.	Một thiếu nữ xinh đẹp ngồi gần lò sưởi mùa đông, giống người phụ nữ khi trước đến nỗi Scrooge tưởng là người đó, cho đến lúc nhìn thấy bà ta, lúc này là một thiếu phụ đoan trang, ngồi đối diện với con gái.
 Ám a két nőt nem zavarja a zaj, sőt jóízűt nevetnek a gyermekek csínyjein.	Hậu quả là om sòm ngoài sức tưởng tượng, nhưng hình như chẳng ai bực mình.
-A leány elvegyül közéjük, bírkózik velük és szívesen tűri, hogy a kis zsiványok nem éppen kesztyűs kézzel bánjanak vele.	Ngược lại, cả bà mẹ lẫn cô con gái đều cười vui vẻ và rất thích thú; Chẳng mấy chốc, cô gái còn tham gia vào các trò chơi, bị những tên nhóc làm kẻ cướp tước đoạt tàn nhẫn nhất.
-Oh, bárcsak én is köztük lettem volna!	May mà ta không phải là một trong những tên ấy!
 Bár, esküszöm, nem hiszem, hogy oly durva tudtam volna lenni!	Tuy rằng ta không bao giờ man rợ như vậy, không, không bao giờ!
 Egyszóval, bevallom, szívesen cseréltem volna bármelyik gyerekkel, csakhogy vele lehessek.	Rồi những tiếng la hét, tranh giành và tấn công người phu khuân vác vô phương tự vệ!
 A gyerekek egymás hegyén-hátán bukfenceznek, maguk­kal rántják a leányt is.	Những tiếng hò reo ngạc nhiên và mãn nguyện mỗi lúc một tăng cùng một gói quà nhận được!
-Kócosan a hancúrozástól, rendetlen ruhában, de nevető arccal fogadja hazatérő atyját.	Lời tuyên bố kinh khủng là cho em bé vào cái chảo rán của búp bê và đút vào miệng, còn đáng ngờ hơn là nuốt con gà tây tưởng tượng trên cái đĩa bằng gỗ!
-Az apa az ajtóban áll, nyomában egy ember, aki csakúgy roskadozik csomag­jai alatt.	Nhẹ cả người khi thấy đây chỉ là báo động giả!
 Karácsonyi ajándékok és játékok!	Niềm vui, sự biết ơn và hưng phấn!
-A gyerekek a csomagokra vetik magukat.	Tất cả những thứ đó không sao tả xiết.
 A gyerek lenyelte a gombot!	– Ai vậy, mình?
 Végre elfáradnak a gyerekek is.	– Mình thử đoán xem!
-Scrooge ezt a jelenetet is éber figyelemmel kísérte.	– Làm sao em đoán được?
 Ők is odatelepednek melléje.	Chà, em không quen sao?
-- Bella - fordul most a férj az asszonyhoz - mit gondolsz, kit láttam ma délután? - Sejtelmem sincs róla, kicsodát?	- Bà vừa nói thêm vừa thở, và cười lúc ông cười to.
 - Egy régi barátunkat.	- Ông Scrooge.
-Nos, nem találod ki?	– Đúng là ông Scrooge.
-Benn gyertya égett és így jól láthattam őt.	Nghe đồn người hùn vốn với ông ấy sắp chết, và ông ta ngồi một mình.
 Úgy hírlik, hogy a társa halálán van.	Hoàn toàn đơn độc trên đời, tôi tin thế.
 Így hát egyedül volt ott.	– Này hồn ma!
 - Szellem, ne gyötörj tovább, - szólalt meg Scrooge elcsukló hangon.	- Scrooge nói, giọng rạn vỡ, - hãy đưa tôi ra khỏi chỗ này.
-- Vigyél el innen! - Megmondottam, hogy régen elmúlt idők letűnt árnyait fogod látni csupán.	– Tôi đã bảo ông đây là những cái bóng của thời đã qua mà, - con ma nói.
-Legyen bátorságod szembenézni velök.	- Họ là thế, và họ không trách cứ gì tôi đâu!
-- Hagyj békén!	– Hãy buông tha tôi!
-Vigyél haza.	Đưa tôi trở về.
 Ne kínozz tovább!	Đừng ám tôi nữa!
 Scrooge érezte, hogy ereje fogytán fogy és az ájuláshoz közel még csak annyit látott, hogy ismét hálószobájában van.	Ông cảm thấy mệt lử và buồn ngủ không sao cưỡng lại được; Hơn nữa, ông đang trong phòng ngủ của mình.
-A második számu kísértet	Hồn Ma Thứ Hai
 Látszólag nem keltette fel senki és semmi.	– Kìa, là NGÀY GIÁNG SINH.
 Ezt világosan érezte.	– Là Ngày Giáng sinh!
 Ezért is ébredt fel.	- Scrooge tự nhủ.
 Tudta, hogy az időpont egészen közel van, amikor a második számú kísértettel, aki Marley közbenjárására fel fogja keresni, fontos megbeszélést kell folytatnia.	Thức giấc vào giữa cơn ngáy dai dẳng khác thường và ngồi dậy trên giường cho tĩnh trí, Scrooge chẳng có lý do gì mà bảo chuông lại điểm một tiếng.
 Egyideig azon tűnődött, hogy a második számú kísértet ágyának vajon melyik függönyét fogja félrevonni.	Ông cảm thấy đúng lúc này, ông đã hoàn hồn cho mục đích đặc biệt gặp tín sứ thứ hai do Jacob Marley phái đến với ông.
 Azután, noha a szobában olyan hideg volt, hogy az orrahegye is kivörösödött, mégis elhatározta, hogy egy percre kibújik a dunyha alól és valamennyi függönyt előre félre­húzza.	Nhưng thấy mình ớn lạnh khi tự hỏi những tấm rèm của ông che chắn cho con ma mới kia có kéo lên không, ông kéo tuột từng cái sang một bên rồi nằm lại, coi chừng cẩn thận mọi thứ quanh giường.
-Azután visszafeküdt és fürkészve nézett körül.	Ông muốn thách thức hồn ma vào lúc nó xuất hiện, không muốn bị ngỡ ngàng và căng thẳng.
 Anélkül, hogy el akarnók túlozni Scrooge képességeit és pillanatnyi lelkierejét, annyit nyugodtan mondhatunk róla, hogy az eljövendő kísértet külsejét illetően mindenféle jelenségre, ami, mondjuk, egy újszülött és egy rinocerosz között váltakozhatik, teljesen felkészült.	Chẳng cần mạo hiểm cũng như táo bạo, tôi không dám kêu gọi bạn tin rằng Scrooge đã chuẩn bị sẵn sàng cả một phạm vi mênh mông những tướng mạo kỳ lạ, và giữa một đứa trẻ với con tê giác cũng chẳng có gì khiến ông ta sửng sốt cho lắm.
 Csak fény - minden kísértet nélkül; riasztóbb volt, mint egy tucat kísértet, mert sehogysem érte fel ésszel, hogy mit jelenthet és mi lesz ebből.	Thỉnh thoảng, ông sợ rằng nó có thể xuất hiện vào khoảnh khắc thú vị của sự tự bốc cháy, không hề có lời an ủi là biết trước sự ấy.
-Persze, most mindenki azt mondja, hogy ezt már előbb is megtehette volna.	Ý nghĩ này choán hết tâm trí Scrooge, ông nhẹ nhàng ngồi dậy và xỏ vào đôi dép lê, tiến ra cửa.
 Igen ám, de rendszerint éppen az, aki bajban van, látja legkevésbé világosan saját helyzetét.	Đúng lúc Scrooge đặt tay lên chốt cửa, một giọng nói kỳ lạ gọi tên ông và bảo ông quay vào.
-No, de mindegy, tény az, hogy most már gondolkodott.	Đây là phòng riêng của ông.
 Scrooge némán engedelmeskedett.	Không còn nghi ngờ gì nữa.
-A buja zöld levelek között harmatcseppektől csillogó bogyók piroslottak.	Nhưng nó biến dạng đến ngỡ ngàng.
 A magyal, fagyöngy és borostyán fényes leveleiről a tűzfény mint millió kis tükörről megsokszorozódva verődött vissza.	Tường và trần treo đầy cây xanh, nom như một khu rừng nhỏ; chỗ nào cũng có những chùm quả mọng tươi tắn, lấp lánh.
-Habozva állt meg az ajtóban.	– Vào đây!
-- Gyere csak közelebb, - kiáltotta a szellem - ismerkedjünk meg kissé!	- Con ma kêu to. - Vào đây!
 Scrooge félénken lépett közelebb.	Ông sẽ biết rõ tôi hơn, ông bạn!
-Fejét lehajtotta, szemét lesütötte.	Scrooge rụt rè bước vào và cúi đầu trước Hồn ma này.
-A kísértet tekintete tiszta volt és világos, mégsem volt bátorsága szembenézni vele.	Ông không còn là Scrooge gan lì mọi khi nữa, và mặc dù cái nhìn của Hồn ma trong sáng và ân cần, song ông không thích nhìn thấy tí nào.
 - Az idei karácsony szelleme vagyok - dörögte az óriás.	– Tôi là Ma Giáng sinh Hiện tại, - Hồn ma nói.
 - Nézz már rám!	- Hãy nhìn tôi này!
 Scrooge felpillantott és szemügyre vette látogatóját.	Scrooge cung kính làm theo.
-Egyszerű zöld ruhát viselt fehér prém­gallérral.	Hồn ma mặc một áo choàng xanh sẫm giản dị hoặc áo khoác viền lông trắng.
 Kabátja gombolatlan, inge nem volt, csupasz mellkasa önérzetesen kidomborodott, mintha ezzel is leplezetlen őszinteségét hangsúlyozná.	Bộ quần áo lùng thùng trên thân hình, bộ ngực lớn để trần, dường như không thèm né tránh hoặc che giấu bằng bất cứ mưu mẹo nào.
 Barna göndör haja természetes fürtökben vállára csüngött, nyílt arca, vídáman csillogó szeme, zengő hangja valóban bizalomkeltő, zavartalan életörömöt sugárzó jelenséggé tették.	Những lọn tóc quăn nâu sẫm dài và mềm mại, tung tẩy như gương mặt hân hoan, cặp mắt lấp lánh, bàn tay lộ ra ngoài, giọng nói vui vẻ, thái độ tự nhiên và khí sắc tươi tắn.
-Övén baloldalt ócska, rozsdamarta kardhüvely lógott, kard nélkül.	Quanh thắt lưng quấn một bao kiếm cổ, nhưng bên trong không có kiếm, cái bao cổ lỗ đã bị gỉ ăn mòn.
 - Sohasem láttál még ilyesféle alakot, mint én vagyok?	– Trước kia ông chưa bao giờ ưa tôi!
 - kérdezte a kísértet.	- Hồn ma nói.
 - Soha - felelte Scrooge.	– Chưa bao giờ, - Scrooge trả lời.
@@ -622,52 +429,35 @@ Illetve úgy is mondhatnám, hogy valamelyik öregebbik tagjával, mert jómagam
 - Szellem - szólt Scrooge minden bátorságát összeszedve - induljunk, vezess bárhová, én követlek.	– Hơn một ngàn tám trăm, - hồn ma nói.
 Tegnap éjszaka sok mindent tapasztaltam, ami hasznomra válhatik.	– Một gia đình đông khủng khiếp phải chu cấp, - Scrooge lầm bầm.
 Rámfér, hogy tőled is tanuljak valamit.	Con ma Giáng sinh Hiện tại đứng dậy.
-- Fogd meg ruhám szegélyét! Scrooge engedelmeskedett és két kézzel kapaszkodott a kísértet ruhájába.	– Hỡi Hồn ma, - Scrooge nói, nhún nhường, - hãy dẫn tôi đến nơi cậu đến.
 Eltűnt a szoba is, a kandalló, a vöröses fény és az éjszaka is.	Đêm qua, tôi bị ép đi và bây giờ tôi đã học được một bài rồi.
 Nagyvárosi utcán találták magukat, fehéren csillogó karácsonyi reggelen.	Tối nay xin cậu dạy tôi chút ít và để tôi kiếm chút lời lãi.
-Csípős hideg volt.	– Hãy nắm lấy áo tôi!
 A hókaparó lapátok érdes, harsogó hangja hallatszott.	Scrooge tuân theo, nắm vội lấy cái áo choàng.
-A férfiak a házak ereszén állva - miközben a havat lapátolták - vidáman kiáltoztak egymásnak, olykor egy-egy hólabdát is hajítottak.	Chẳng có gì quá vui trong cái thời tiết hoặc thành phố này, nơi không khí hân hoan tưởng lầm rằng khí trời mùa hè là trong sáng nhất và mặt trời mùa hè là rực rỡ nhất, có thể khuếch tán vô ích.
 A gesztenyés kosarak az ajtóban úgy dülleszkednek ki az utcára, mint valami tekintélyes úriember önérzetes pocakja.	Các cửa hàng bán gia cầm vẫn mở nửa chừng, các cửa hàng bán hoa quả sáng rực, lộng lẫy.
 A szép nagy barna spanyolhagymák, mint valódi spanyolok büszkén sorakoznak egymás mellé a polcon és csak, ha egy nagyon csinos lány megy el a bolt előtt, kacsintanak rá nagy huncutul.	Các giỏ lớn, tròn, bụng phệ đựng hạt dẻ, hình dáng như áo gilê của các quý ông già cả ngà ngà say, đang thơ thẩn bên cửa và ngã nhào xuống phố trong bộ dạng sang trọng.
 Bár kirakatait már bezárták és az ajtó csak félig van nyitva, az ajtóhasadékon át még mindig káprázatos dolgokat láthat és hallhat az ember.	Chúng gần như đóng cửa, có lẽ một hoặc hai cánh chớp đã hạ xuống; nhưng vẫn có thể liếc nhìn qua các khe hở!
 Oly fényes az arcuk, mintha a cég különlegességeként árusított és a világ legkitűnőbb cipőpasztájának híresztelt krémmel subickolták volna ki.	Cùng một lúc, từ nhiều phố nhánh, ngõ hẻm và những chỗ rẽ không tên, vô số người xuất hiện, mang bữa tối đến các cửa hàng bánh mì.
-Mikor az esteli harangszó megkondul, a város apraja-nagyja ünneplő ruhát és ünneplő arcot öltve tolong a templomok és kápolnák felé vezető utcákon.	Cảnh tượng những người nghèo khổ này tham dự cuộc vui khiến Hồn ma rất chú ý, vì nó với Scrooge đứng ở ngưỡng cửa một hiệu bánh mì, và mở nắp những hộp đựng lúc họ đi qua, tàn của ngọn đuốc rơi lên bữa tối của họ.
-A mellékutcák és a városvég egyszerű népe szakajtókban hóna alatt viszi az ünnepi fonott mazsolás kalácsot a pékhez.	Đây là loại đuốc rất hiếm thấy, chỉ một vài lần, khi những người đó xô vào nhau và thốt lên những lời giận dữ, nó rỏ vài giọt nước lên họ, ngay lập tức họ bình tĩnh lại và trở nên dễ tính hẳn.
 A szellem különös érdeklődést mutat irányukban.	Họ bảo, cãi nhau trong Ngày Giáng sinh thì thật xấu hổ.
-Scrooge-dzsal együtt ott állnak meg a legforgalmasabb pékműhely ajtaja előtt.	Thế đấy, Chúa thích thế, là thế đấy!
 Maguk mondják, hogy civakodás, bánat méltatlan a szent karácsony­ünnephez.	– Có mùi vị gì đặc biệt trong thứ cậu rắc từ ngọn đuốc thế?
 És ez így is van.	- Scrooge hỏi.
 Amint a harangszó elhangzott, a pékek is becsukták boltjukat.	– Nó dùng cho mọi loại tiệc trong ngày hôm nay sao?
 - kérdezte Scrooge.	- Scrooge hỏi.
-- Igen, a karácsonyünnep ízét és zamatát.	– Cho mọi loại.
 - Igen, mindegyikhez, amit jószívvel adnak.	Nhất là cho các bữa ăn nghèo.
-A szegényekéhez különösen.	– Sao lại thế?
 - Miért éppen a szegényekéhez?	- Scrooge hỏi.
 Scrooge kissé elgondolkozott, azután hirtelen a szellemhez fordult.	- Sau một lúc ngẫm nghĩ, Scrooge nói.
-- Lám, ha ennyire szíveden viseled a szegények sorsát, tán nem te, vagy valamelyik rokonod az, aki megtiltja nekik, hogy vasárnap főzzenek és süssenek?	- Tôi lấy làm lạ là cậu, trong tất cả những người thuộc nhiều giới quanh chúng tôi, tại sao lại muốn hạn chế cơ hội hưởng thụ vô tội của những người này. – Tôi ư?
 - Mármint én?	- Hồn ma kêu lên.
-- Ezek a szegény emberek úgyszólván csak ezeken a pihenőnapokon jutnak hozzá, hogy meleg ételt egyenek és te ettől a kis örömtől is megfosztanád őket?	– Cậu sẽ tước đoạt các phương tiện nấu nướng của họ vào các ngày Chủ nhật, thường là ngày duy nhất họ được nấu nướng, - Scrooge nói, - đúng không nào? – Tôi ư?
 - Én?!	- Hồn ma kêu lên.
 - Bocsáss meg, lehet, hogy tévedek, de annyi bizonyos, hogy a te nevedben, vagy rokonaid nevében tették!	– Cậu mưu toan đóng cửa những nơi này vào ngày Chủ nhật, - Scrooge nói.
-- Vannak köztetek olyanok, akik azt hangoztatják, hogy ismernek minket és barátságban állanak velünk.	- Và nó cứ thế mà tiếp diễn.
-Gondolj erre és az ő rovásukra írd, amit panaszolsz, ne a mienkre!	– Hãy tha thứ cho tôi nếu tôi nhầm.
 Scrooge megértően bólintott és láthatatlanul ődöngtek tovább a városi utcákon.	Đó là việc đã làm nhân danh cậu, hoặc ít nhất là nhân danh gia đình cậu, - Scrooge nói.
 Scrooge még mindig görcsösen kapaszkodott a szellem ruhájába.	Scrooge hứa ông sẽ nói; rồi họ đi tiếp đến vùng ngoại ô thành phố, vẫn vô hình như lúc trước.
-Egyszerű, olcsó, két-háromszori alakí­táson már átment ruhát viselt.	Đến ngưỡng cửa, Hồn ma mỉm cười và dừng lại, rắc tàn đuốc cầu phúc cho gia đình Bob Cratchit.
 Nagy gonddal terített.	Hãy nghĩ đến điều đó!
-Izgatottan szaglásztak.	– Bố quý hóa của các con đâu rồi?
 - Vajjon hol késik apátok?	- Bà Cratchit nói.
 - mondta Cratchitné tűnődve - és Tibi sincs még itt.	- Cả em con nữa, bé Tim ấy?
-Tavaly ilyenkor Márta is már jó félórája itthon volt.	– Martha đến rồi đây, mẹ ơi!
 - Megjött Márta!	- Cô gái nói xong liền xuất hiện.
 - kiáltotta a két kisebbik gyermek.	- Hai cậu bé Cratchit reo lên.
 - Márta!	- Hoan hô!
 - közölték büszkén az érkezővel.	- Bà Cratchit nói và hôn cô hàng chục lần, rồi sốt sắng cởi khăn quàng và mũ cho cô.
 - Drága szívem, az Isten áldjon meg, csakhogy itt vagy már, úgy vártalak - mondta Cratchitné, jobbról-balról csókolgatva nagyleányát, miközben kalapját, köpenyét segített neki levetni.	– Tối qua bọn con xong việc muộn quá, - cô gái đáp, - và sáng nay chúng con phải dọn dẹp nhà cửa, mẹ ạ!
-- Az a fő, hogy már itt vagy, ülj a tűzhöz, hogy átmelegedj kicsit, drágám. - Ne ülj le!	- Ngồi xuống trước lò sưởi này cho ấm, con yêu quý, Chúa phù hộ con!
 Le ne ülj, Márta!	– Không, không!
-- kiáltotta most a két kicsi.	Bố sắp về đấy, - hai cậu bé Cratchit kêu to, chúng nhảy nhót khắp nơi.
 - Apa már itt jön a sarkon, bújj el hamar.	- Trốn đi, chị Martha, trốn đi!
 Szegény kicsi Tibi egyik lába születésétől béna volt, sínben kellett tartani és man­kóval kellett járnia.	Thương thay thằng bé, nó đeo cái khung nhỏ, một cái khung sắt đỡ cả tứ chi!
 - kérdezte Bobi, amint belépett és alaposan körülnézett.	- Ông Bob Cratchit nhìn quanh và nói to.
@@ -676,7 +466,6 @@ Szegény kicsi Tibi egyik lába születésétől béna volt, sínben kellett tar
 Szent karácsonyestéjén ilyenkor még nincs itt - mondta Bobi és jókedve menten elpárolgott.	- Bob nói, bỗng xìu hẳn; Ông đã phải làm ngựa cho Tim suốt quãng đường từ nhà thờ về nhà.
 Kicsi Tibi jól megszalajtotta "lovát".	- Không đến trong ngày Giáng sinh!
 - Hogy viselkedett kicsi Tibi a templomban?	– Thằng bé Tim thế nào?
-- kérdezte most anyja. - Óh, roppant aranyos volt - válaszolt Bobi.	- Bà Cratchit hỏi, trêu chọc tính cả tin của Bob, còn ông đang hài lòng ôm ghì con gái vào ngực.
 - És milyen komoly.	– Ngoan như vàng cốm, - Bob nói, - còn hơn nữa kia.
 Ott ült a padban, homlokát összeráncolta, maga elé nézett, látszott, hogy valamin töri kis fejét.	Không hiểu sao nó đâm tư lự, ngồi một mình rất lâu, nghĩ đến đủ thứ lạ lùng nghe được.
 Hazafelé azután egyszer csak azt mondta, hogy már csak azért is jó, hogy ott volt a templomban, mert az emberek, amint őt mankójával látták, biztosan rögtön arra gondoltak, aki a bénákat éppé, a vakokat látóvá tette.	Nó kể với tôi trên đường về nhà, nó hy vọng mọi người nhìn thấy nó trong nhà thờ, vì nó què nên nó muốn thấy họ nhớ rằng Giáng sinh khiến cho những người hành khất què quặt đi được và những người mù nhìn thấy.
@@ -684,23 +473,15 @@ Hazafelé azután egyszer csak azt mondta, hogy már csak azért is jó, hogy ot
 Néhány perc mulva ünnepélyes menetben vonultak be ezekkel a nagyszerűségekkel.	Cuối cùng, các món ăn đã xong, lời cầu nguyện đã nói.
 Menten olyan lázas izgalom keletkezett, mintha egy sültliba valami párját ritkító jelenség lenne, ritka és becses madár, amihez képest a fekete hattyú kismiska.	Tiếp đó là một lúc ngừng lặng vì bà Cratchit chậm rãi nhìn mãi con dao lạng thịt, chuẩn bị ấn vào ức con ngỗng.
 És ebben a házban valóban ritka és becses is volt.	Chưa bao giờ có một con ngỗng như thế.
-Péter szédületes gyorsasággal rakta ki a krumplit a lábasból, Belinda megcukrozta az alma­mártást, Márta a melegített tányérokat rakta az asztalra.	Mọi người đều tấm tắc, thán phục sự mềm mại, thơm ngon, kích cỡ và rẻ tiền của nó.
-Apa maga mellé ültette kicsi Tibit az asztalsarokra.	Mọi người đã no nê, nhất là mấy cậu bé Cratchit, xô thơm và hành tây no đến cổ!
 A többi gyerekek nagy zenebonával hozták a székeket, majd odaültek az asztal mellé és kanalaikkal türelmetlenül doboltak.	Nhưng lúc này, Belinda đang thay đĩa, bà Cratchit rời phòng một mình lấy bánh pút-đinh để mang ra.
 Amint az asztali áldás elhangzott, anya vette a nagykést és olyan néma csendben, hogy a légy zümmögését is meg lehetett volna hallani, ünnepélyesen felvágta a sültet.	Nhỡ có người trèo qua tường ở sân sau và ăn cắp mất, trong khi họ vui vầy với con ngỗng - một giả thuyết làm hai cậu bé Cratchit tái cả mặt!
 Soha ilyen libát!	Nó nghi ngút khói!
 Bobi maga sem fogyott ki a magasztaló szavakból.	Cái bánh pút-đinh được lấy từ trong xoong ra.
-Bőre ropogósra sült és főképp milyen olcsó!	Đó là tấm khăn trải.
 A pompás almamártással és zsírban sült krumplival olyan kiadós lakoma volt, hogy az egész család jóllakott vele, sőt még maradt is.	Một mùi giống nhà ăn trộn lẫn với mùi của người thợ làm bánh ngọt ở nhà bên, cùng mùi chị thợ giặt bên cạnh!
 Bizony, még maradt is!	Đó là bánh pút-đinh!
-Különösen a zsírban sült krumpliból vették ki részüket.	Chao ôi, một cái pút-đinh tuyệt vời!
 Most Cratchit mama kiment a konyhába és mialatt Belinda leszedte az asztalt és tiszta tányért tett mindenki elé, óriási lámpalázzal nyitotta ki a sütőt, hogy kivegye a puddingos-fazekat.	Bob Cratchit điềm đạm nói rằng ông coi đấy là thành công lớn nhất của bà Cratchit từ khi họ lấy nhau.
 Egy pillanatra az is eszébe ötlött, hogy hátha valaki belopódzott a konyhaajtón, mialatt a család a libasültnek szentelte minden figyelmét és elemelte az egész fazekat.	Mọi người phải nói gì về nó đi chứ, nhưng không ai nói hoặc nghĩ nó là một cái pút-đinh nhỏ so với một gia đình đông đúc.
-Amint a fedelét megmozdította, bódító gőzfelhő tört elő.	Bất cứ người nào trong nhà Cratchit sẽ đỏ mặt khi dám nghĩ đến một việc như vậy.
 Egy mozdulat és a pudding már egész fenségességében ott reszketett a tálon.	Cuối cùng, bữa ăn đã xong, khăn bàn đã dọn, lò sưởi được quét và nhóm lửa.
-A hófehér gőzölgő kendő olyan illatot árasztott mint amilyen nagymosáskor van.	Đồ uống trong bình đã nếm và được khen ngon tuyệt, táo và cam dọn lên bàn, một xẻng đầy hạt dẻ trên ngọn lửa.
-Egy pillanat és Cratchit mama fülig pirulva az örömtől, kezében a puddingos tállal, belépett a szobába.	Hai cốc vại và một chén sữa trứng, không quai.
-A brandy kék lánggal égett a pompásan és szilárdan álló puddingtorony körül, amelynek tetejébe karácsonyi gyertyát tűztek.	Chúng đựng thứ đồ uống nóng trong bình, Bob chăm chút chúng, vẻ mặt rạng rỡ chẳng khác gì các ly có chân bằng vàng vậy, trong lúc đó hạt dẻ kêu xèo xèo và nổ lốp bốp giòn giã.
 Soha ilyen puddingot!	Rồi Bob nâng cốc:
 Úgy látszik, elvétette a mértéket.	Cả gia đình nhắc lại, vang vang.
 Narancs és alma járta, majd halom gesztenyét vetettek a parázsra.	Bé ngồi sát cạnh bố, trên chiếc ghế đẩu bé xíu.
@@ -709,23 +490,16 @@ Narancs és alma járta, majd halom gesztenyét vetettek a parázsra.	Bé ngồi
 - A jó Isten áldása legyen mindnyájunkon - mondta kicsi Tibi.	– Tôi nhìn thấy một chỗ trống, - hồn ma đáp.
 - Szellem - szólalt meg most Scrooge, soha nem érzett elérzékenyüléssel - meg fog halni ez a kicsike?	Nếu những cái bóng này vẫn không thay đổi vì Tương lai, thì cậu bé sẽ chết.
 - Egy üres széket látok, meg egy zúgot a sutban, ahová nem ül soha senki.	– Không, không, - Scrooge nói.
-- Mondom, ha csoda nem történik, nem éri meg a jövő karácsonyt.	– Nếu những cái bóng này vẫn không thay đổi vì Tương lai, - hồn ma đáp, - không ai khác trong loài của tôi sẽ tìm thấy nó ở đây.
 Dehát mi hiba ebben?	Rồi sao nữa?
 Scrooge lehorgasztott fővel hallgatta saját szavait, amelyeket a kísértet nyilván gúnyból idézett.	Scrooge gục đầu nghe Hồn ma trích dẫn lời của chính mình, kiệt sức vì ân hận và tiếc thương.
 - Gyarló ember - mondta a szellem - lám milyen hideg és keményszívű voltál, amikor a túlnépese­désről beszéltél, anélkül, hogy végiggondoltad volna valójában a dolgot.	– Này ông, - hồn ma nói, - nếu ông là người từ tâm, không sắt đá, không chịu nổi những lời thớ lợ xấu xa cho đến lúc ông phát hiện ra cái gì thừa và nó chính là ở đây.
 Azt hiszed, hogy magad szabhatod meg embertársaid életét vagy halálát.	Ông có chọn lựa được người nào sẽ sống, người nào sẽ chết không?
-Nem gondolod, hogy Isten előtt a te életed sokkal kevésbé értékes, mint az ilyen nyomorék gyermeké?	Có lẽ trong con mắt của Thượng đế, ông vô dụng hơn và không xứng để sống hơn hàng triệu người như đứa con của người đàn ông nghèo khổ này.
-Isten!	Lạy Chúa!
 Az ilyen beszéd annyi előtted, mintha egy kukac a falevélen felhánytorgatná, hogy lent a sárban túl sok éhes társa van!	Hãy lắng nghe tiếng côn trùng trên lá cây đang tuyên bố quá nhiều sự sống giữa đám anh em đói khát của nó trong cát bụi!
 Scrooge megtörve hallgatta a szellem dorgáló szavait, elgondolkozva sütötte le szemét és csak arra figyelt fel, amikor a nevét hallotta.	Scrooge gập người xuống trước lời quở trách của hồn ma, và run rẩy nhìn xuống đất.
 - Az ő egészségére, akinek ezt a szép ünnepi estét köszönhetjük.	Nhưng ông ta mau lẹ ngẩng lên khi nghe gọi tên mình.
-- Valóban neki köszönhetjük!	– Ông Scrooge!
-Volna csak itt!	- Bob nói.
-- mondta Cratchitné asszony haragra gyúlva. - Majd megtanítanám arra, hogy mi a karácsony.	- Tôi gửi lời chúc mừng ông Scrooge, người tạo nên bữa tiệc này!
 - Drágám, - mondta Bobi - a gyerekek előtt ne beszélj így.	- Bà Cratchit nói, đỏ mặt.
 - Hát persze, hogy karácsonyeste van!	- Ước gì ông ấy có ở đây.
 Ha valaki, akkor te, szegény öregem, igazán tudhatod, hogy kicsoda.	Tôi sẽ biếu ông ấy một miếng bánh và hy vọng ông ấy ngon miệng.
-- De drágám, hagyd már abba! Éppen ma este nem illik!	– Mình yêu quý của tôi, - Bob nói.
 Legyen boldog vele.	- và các con nữa!
 Olyan boldog, ahogy én kívánom.	Chúc Giáng sinh vui vẻ.
 Scrooge a család mumusa volt.	Mình thừa biết lão ta mà, Robert!
@@ -738,53 +512,27 @@ Milyen remek dolog egy ilyen ünnepnap!	Chúc Giáng sinh và Năm mới vui v�
 Elmondta, hogy egy lordot és egy ladyt látott a minap.	Em chẳng chút nghi ngờ là lão sẽ rất vui và rất hạnh phúc!
 A lord alig volt akkora, mint Péter.	Bọn trẻ nâng cốc chúc theo mẹ.
 Közben vígan rágcsálták a sült gesztenyét és szürcsölték a bort.	Đây là thủ tục đầu tiên của họ không chút thật lòng.
-Kicsi Tibi csilingelő magas hangja kellemesen csengett ki a kórusból.	Với gia đình này, Scrooge là một con yêu tinh.
 Öltözetük szegényes volt, fakó, cipőjük vásott, ruháik kopottak, folto­zottak, arcuk a gondtól és szegénységtől szürke.	Khi việc đó qua đi, họ vui hơn trước gấp mười lần, nhẹ người vì không còn liên quan đến cái lão Scrooge Rủi ro kia.
 De boldogok voltak mégis és megelége­dettek; legalább ma, ebben az órában; a karácsony szelleme meghintette őket megbékítő, megszépítő szenteltvizével.	Bob Cratchit thuật lại ông sắp kiếm được việc làm cho cậu Peter, và nếu giành được việc này, mỗi tuần cậu sẽ kiếm được năm bảng rưỡi.
-Fények és illatok árulták el szerte a városban, hogy ünnepi vacsora készül.	Mai là một ngày lễ cô được ở nhà.
-Az ablakfüggönyök készen álltak, hogy lehúzzák őket és a sötétet és hideget kirekesszék a fényes és meleg otthonokból.	Mấy hôm trước cô đã nhìn thấy một nữ bá tước và một huân tước, ngài huân tước này "cao lêu đêu như Peter", câu này khiến Peter vội kéo cao cổ áo đến mức bạn không thể nhìn thấy đầu cậu ta nếu bạn ở đấy.
-A gyermeksereg víg hancúrozással futott mindenütt a vendégek elé, a bácsik, nénik, felnőtt testvérek, nagyapa, nagyanya fogadására.	Lúc này, bình đồ uống và hạt dẻ rang được chuyền vòng tròn; ngay sau đó họ hát bài ca về đứa trẻ mất tích đang lang thang trong tuyết; bé Tim cũng hát, giọng em nhỏ và ai oán nhưng em hát bài ấy rất hay.
 Másutt kis csapatok tereferélve indultak látogatóba.	Trong gia đình này chẳng có dấu vết gì sang trọng.
-Olyan kacéran, annyi tűzzel pillantgattak jobbra-balra; jaj annak a megcsontosodott legényember szívnek, akit ma lángralobbantanak!	Nhưng họ hạnh phúc, biết ơn và hài lòng về nhau, toại nguyện với thời khắc này; và khi họ mờ dần, nom họ càng hạnh phúc gấp bội trong những đốm sáng ở ngọn đuốc của Hồn ma rắc lên bữa tiệc, Scrooge đăm đăm quan sát họ, nhất là bé Tim, cho đến phút chót.
 Sötét, vad, mocsaras, kietlen táj látszik.	May mắn làm sao, hồn ma hân hoan biết chừng nào!
-Nagy, faragatlan kőrakások fehérlenek elszórtan, mintha óriások temetője volna.	Nó phô bộ ngực rộng, xòe bàn tay to và trôi giạt, rót tràn trề niềm vui hào phóng và vô hại lên mọi vật trong tầm tay!
-A nyugati égbolton vörösen pislákol a lenyugvó nap, mint valami vérbenforgó bedagadt szem, majd mind lejjebb és lejjebb csúszva eltűnik a szemhatár alatt, elnyeli a hideg és nedves éjszaka.	Mặt trời đang lặn về phía Tây, để lại một vệt đỏ như lửa, trừng trừng nhìn xuống cảnh tiêu điều trong chốc lát, giống như một con mắt rầu rĩ, càng xuống thấp hơn càng cau có, rồi mất hút trong màn đêm dày đặc và tối tăm nhất.
-- Milyen vidék ez?	– Nơi này là đâu?
 - kérdezte most Scrooge.	- Scrooge hỏi.
 - Bányászok tanyája, akik a föld sötét gyomrát túrják, - válaszolta a szellem.	– Là nơi các thợ mỏ sống, họ làm việc trong lòng đất.
 - De jól ismernek engem.	- Hồn ma đáp.
-Idenézz! - Az egyik kunyhó ablaka világos volt; benn lámpa égett.	- Nhưng họ biết tôi đấy.
-Arrafelé tartottak.	Ông nhìn xem!
-A vályogviskó falán keresztül a szobába léptek.	Một ngọn đèn thắp sáng trong cửa sổ căn lều, và họ nhanh chóng tiến đến chỗ đó.
 Töpörödött anyóka és hosszúszakállú vén ember ültek a tűznél, körülöttük gyermekeik, unokáik, talán dédunokáik is.	Qua bức tường bằng bùn và đá, họ nhận ra một nhóm tụ tập vui vẻ quanh lò sưởi cháy rừng rực.
-Ősrégi dal volt, amit még gyermekkorában tanult; a többiek csak a refrént énekelték vele.	Chắc chắn lúc họ cao giọng, ông già hoàn toàn thoải mái và hát to; và khi họ ngừng, giọng ông chìm xuống mạnh mẽ.
 Valahányszor felhangzott a kórus, az öreg dala is nekividámult, élénkebb és színesebb lett; ha a fiatalabbak elhallgattak, az öreg hangja is fáradtabb lett, el-elcsuklott.	Hồn ma không nấn ná ở đây nữa, nhưng bảo Scrooge cứ nắm lấy áo choàng của nó và lướt qua cánh đồng hoang, tăng tốc tới đâu đây?
 Mindezt csak futólag látták.	Không đến biển chứ?
-Semmit sem időztek.	Đến biển.
-Messze ki a nyilt tenger felé! Scrooge borzadva látta, mint tűnik el a sziklás part csipkés vonala mögöttük; dermedten hallgatta a vadul hömpölygő víz robaját, amint örvénye­ket váj a tengerfenékbe s sziklaüregek között hófehér tajtékot verve hullámzik ide-oda.	Scrooge kinh hoàng nhìn lại, thấy mảnh đất cuối cùng, một dãy núi đá đồ sộ đằng sau; tai ông ta điếc đặc vì tiếng nước réo ầm ầm như sấm, nước cuồn cuộn và gầm rống, giận dữ trong các hang động kinh khủng đã mòn và hung hăng xói mòn trái đất.
-Egy magános sziklán, egy jó órányira a vad partvidéktől egy világítótornyot pillantottak meg.	Cách bờ biển khoảng dăm kilômét, một ngọn hải đăng lẻ loi dựng trên một dải đá ngầm trũng, ảm đạm, nước chà xát và vỗ ào ào quanh năm.
-Hínár és tengeri fű fonódott a sziklák lába köré, sirályok repdestek a torony körül, olyan való­színűtlen környezetben, mintha a tenger és a vihar szülte volna őket.	Những đống lớn rong biển bám vào chân hải đăng, những con chim báo bão vẫn được cho rằng sinh ra trong gió cũng như rong biển sinh ra trong nước, bay lên và hạ xuống quanh đó giống những con sóng chúng bay qua.
-A két toronyőr a tűzhely mellett ült, ahonnan egy barátságos fénysugár a dühöngő tengerre hullt.	Nhưng ngay ở đây, hai người đàn ông gác hải đăng cũng nhóm một ngọn lửa xuyên qua kẽ hở trong bức tường đá dày, phóng một chùm ánh sáng rực rỡ ra biển cả uy nghi.
 Gyalulatlan asztalnál ültek, egy kancsó grog mellett és melegen szorongatva egymás kezét, boldog karácsony­ünnepet kívántak egymásnak.	Chắp đôi tay chai cứng như sừng trên cái bàn thô bên cạnh, họ chúc nhau Giáng sinh vui vẻ bằng một bình rượu Grôc*.
 Legtöbbjük valami karácsonyi dallamot dúdolt, mások félhangosan beszélgettek régi-régi karácsonyi élményükről, vagy egyszerűen hazagondoltak vágyakozó szívvel, családjukra, az otthoni karácsonyra.	Mỗi người trong bọn ngân nga giai điệu Giáng sinh hoặc nghĩ đến ngày Giáng sinh, hoặc nói khẽ với người cùng gác về một ngày Giáng sinh đã qua, với hy vọng được trở về nhà vào dịp đó.
 Egyben megegyeztek valamennyien, a tisztek és a legénység, az őr­személyzet és azok is, akik nem voltak szolgálatban - abban, hogy mindegyiküknek volt egy jó szava, egy mosolya a másik számára, egy gondolata távollévő szerettei számára és örömmel töltötte el mindegyiküket a tudat, hogy a távollévők is bizonnyal szeretettel gondolnak rájuk.	Từng người trên tàu dù thức hay ngủ, xấu hoặc tốt, trong ngày đó đều nói với nhau những lời tử tế hơn mọi ngày trong năm; cùng chia sẻ sự hân hoan trong ngày hội, nhớ những người thân thiết nơi xa và biết rằng họ cũng đang nhớ đến mình.
 Mialatt Scrooge még a viharos szél zúgását hallgatta, és azon tűnődött, hogy a tengerészek mily haláltmegvető biztonsággal vitorláznak ezen az elhagyott vidéken, a feneketlen tenger ismeretlen mélységeit kísértve, nagy csodálkozására hirtelen ismerős, vidám kacagást hallott.	Scrooge hết sức ngạc nhiên khi trong lúc lắng nghe tiếng gió rền rĩ, tưởng một vật uy nghi đang di chuyển trong bóng tối cô đơn bên trên một vực thẳm không tên, chiều sâu của nó bí ẩn và thăm thẳm như cái chết.
-Még jobban elcsodálkozott, mikor felismerte unokaöccse hangját és fényesen kivilágított, barátságos, meleg szobában találta magát.	Scrooge càng sửng sốt hơn khi cùng lúc đó, ông nghe thấy một tiếng cười nồng nhiệt.
 - Haha - kacagott Scrooge unokaöccse - hahaha.	– Ha, ha, ha! - Cháu của Scrooge cười to.
-Egyébként, ha ismertek valakit, aki szívből jövőbben és többet kacagna Scrooge unoka­öccsénél, szóljatok kérlek nekem, az illetővel és is szívesen megismerkednék.	- Ha, ha, ha! Nếu vì một dịp bất ngờ nào đó, bạn tình cờ biết người nào cười vui hơn cháu trai của Scrooge, có thể nói tôi cũng muốn quen biết người ấy lắm.
-Milyen bölcs és kitűnő dolog, hogy nemcsak a betegségek, a baj és szomorúság ragadósak, hanem az öröm és jókedv is.	Hãy giới thiệu cho tôi nhé, tôi sẽ vun đắp mối giao tình đó.
 Így történt, hogy mikor Scrooge unokaöccse olyat kacagott, hogy az oldala is belefájdult, a kacagás menten átragadt feleségére is.	Người cháu của Scrooge có kiểu cười như thế này: ôm lấy hai bên sườn, quay tròn đầu, nhăn nhó mặt mày theo những kiểu phi lý nhất; Cô cháu dâu của Scrooge cũng cười vui y như chồng vậy.
-Istenemre, micsoda ostobaság!	- Cháu trai của Scrooge kêu tướng lên.
 És ezt valóban így is gondolta!	- Bác ấy cũng tin thế đấy!
-- Annál nagyobb szégyen ránézve - mondta most a fiatalasszony.	– Thật xấu hổ cho bác ấy, Fred ạ!
 Nagyon talpraesett, okos menyecskének látszott.	- Cô cháu dâu của Scrooge phẫn nộ.
 És csinos is volt - nagyon csinos!	- Chúa phù hộ cho những người đàn bà ấy!
-Gödröcskés állacska, csókratermett cseresznyeszáj, ragyogó szemek!	Họ chẳng bao giờ làm việc gì nửa vời.
 Vonzó, elbájoló jelenség!	Lúc nào họ cũng sốt sắng.
-valóban elbájoló!	Cô rất xinh đẹp, quá ư xinh đẹp.
-- Bolondos egy fickó az öreg - mondta most Scrooge unokaöccse.	Nhìn chung, cô là người bạn có thể gọi là khiêu khích, nhưng xứng đáng.
 - Tele mindenféle bogarakkal és hibákkal.	Chao ôi, một sự xứng đáng hoàn hảo!
-De hibái magukban hordják büntetésüket.	– Thực ra, bác ấy là một ông già tức cười, và không mấy dễ chịu.
 - Azt szoktad mondani, hogy rettentő gazdag - mondta a fiatalasszony.	– Em đoán chắc bác ấy giàu lắm, - cô cháu dâu của Scrooge bóng gió.
 - És mit ér vele?	- Chí ít thì anh cũng hay bảo em thế.
 Semmi jóra nem használja a pénzét.	- Cháu trai của Scrooge nói.
@@ -796,37 +544,20 @@ Kinek van terhére örökös zsörtölődésével?	- rằng chúng ta sẽ đư�
 Egy nem valami kiváló vacsorától.	– Chao ôi, tôi biết!
 - De igen is hogy kiváló, nagyon is kiváló vacsorától esik el!	- Cháu trai Scrooge nói.
 - szólt közbe a fiatalasszony.	- Tôi thấy thương bác ấy, có cố gắng tôi cũng không giận bác ấy.
-- Nos, örülök, hogy ezt hallom, mert nincs sok bizalmam a fiatal és tapasztalatlan házi­asszonyok konyhája iránt.	Bác ấy có ý không ưa chúng mình, nên không đến và ăn tối với chúng mình.
-Te hogyan vélekedsz erről, Topper?	Hậu quả thì sao nào?
-A háziasszony húga, bájos, gömbölyded szőkeség gyönyörű csipkegalléros ruhában, mélyen elpirult.	Bác ấy chẳng mất gì hơn một bữa tiệc tối.
 - Mondd csak tovább, ha már elkezdted - bíztatta Scrooge unokaöccse barátját - fura alak vagy, soha nem fejezed be azt, amit elkezdesz.	– Thực ra, em nghĩ là bác ấy đã bỏ lỡ một bữa tiệc rất vui, - cô cháu dâu ngắt lời.
 - Scrooge unokaöccse most újból kacagni kezdett és noha tömzsi kis sógornője szagosvizes üveget tartott az orra alá, nem hagyta abba, amíg csak valamennyi jelenlevőre át nem ragadt a nevetés.	Mọi người đều nói y như thế, hẳn họ tự cho mình có quyền phán xét, vì họ vừa ăn xong bữa tối, các món tráng miệng bày sẵn trên bàn, họ túm tụm quanh lò sưởi, cạnh ánh sáng.
-- Csak azt akartam mondani, hogy öreg, rigolyás nagybátyám azáltal, hogy nem szeret minket és nem barátkozik velünk, csak kellemes óráktól fosztja meg magát.	– Quái, tôi rất mừng nghe thấy tiếng ấy, - cháu trai Scrooge nói, - vì tôi không tin lắm vào những quản gia trẻ này. Anh nói sao, hở Topper?
-Felőlem kigúnyolhatja a karácsonyt, amíg csak él, mégis úgy hiszem, hogy ha minden évben mosolygó arccal elébe állok és üdvözlöm, csak javul valamelyest a véleménye a szeretet ünnepéről.	Em gái cô cháu dâu, một cô gái mũm mĩm quàng khăn đăng ten đỏ bừng mặt, không phải vì ánh của những bông hồng trên khăn.
-Ha más hatást nem gyakorlok rá, minthogy esetleg hagy ötven fontot szegény segédjére, már sokat tettem.	– Nói tiếp đi, Fred, - cháu dâu của Scrooge nói và vỗ tay.
 Azt hiszem, ma délután sokat épült az öreg, mert alaposan munkába vettem.	- Anh ấy chẳng bao giờ nói hết câu đã bắt đầu!
-- Ezen megint csak jót nevetett a társaság.	Anh ấy ngộ thế đấy!
-De Scrooge unokaöccse egy pillanatra sem érezte sértve magát, hogy talán rajta nevetnek.	Cháu trai của Scrooge say sưa cười mãi, và khi không thể giữ cho nó không lan truyền, dù cô em gái mũm mĩm cố hết sức nén bằng loại giấm thơm, tấm gương của anh ta được mọi người nhất trí noi theo.
 A háziasszony szépen hárfázott és oly könnyed és egyszerű dallamokat csalt elő a hangszerből, hogy egy gyermek is megtanulhatta első hallásra.	Tôi đã định mỗi năm đem lại cho bác ấy một dịp, dù bác ấy thích hay không, vì tôi thương bác ấy.
-A gyermeki melódiák hallatára Scrooge-nak hirtelen eszébe jutott az iskola és játszópajtásai, amint azt elmúlt karácsonyok szelleme felidézte volt számára.	Bác ấy có thể xỉ vả Giáng sinh cho đến lúc chết, nhưng bác ấy phải nghĩ tốt hơn - tôi thách bác tôi đấy - nếu hết năm này sang năm khác, bác ấy thấy tôi đến đó, tâm trạng phấn chấn và nói: "Bác Scrooge, bác khỏe không ạ?".
 Fokról-fokra mindjobban ellágyult és világosan érezte, hogyha gyakrabban hallgatta volna ezeket az édes hangokat, talán olyan ember lett volna belőle, aki az élet szépségeit is meglátja és néha boldognak is érzi magát.	Nếu câu đó khiến bác tôi hứng lên, cho anh thư ký khốn khổ năm chục bảng là đã lắm rồi, tôi nghĩ hôm qua tôi đã khuấy động được bác tôi.
 Ha pedig az élet végére gondol, más is eszébe jut, nemcsak a sírásó, aki szegény öreg Marley-t eltemette.	Lúc này đến lượt họ cười vì ý nghĩ anh ta khuấy động được Scrooge.
 Először persze szembekötősdit játszottak.	Sau khi uống trà, họ chơi nhạc.
 Topper szemére kendőt kötöttek, de úgy látszik, a szerelmes fiatalember a tyúkszemével is látott, mert mindenütt a begyes, csipkegalléros lány nyomában volt.	Vì họ là một gia đình có khiếu âm nhạc, và biết họ sắp hát bè hoặc đơn ca, tôi có thể cam đoan với bạn rằng: Topper hát giọng nam trầm rất hay, trán chưa bao giờ nổi gân hoặc mặt không hề đỏ khi hát.
-Alighanem összejátszottak a házigazdával és talán a szellemmel is, akiről feltehető, hogy a szerelmesek pártfogója.	Cháu dâu của Scrooge chơi đàn hạc khá hay; cô đã dạo một giai điệu giản dị quen thuộc với trẻ con, khiến Scrooge xúc động từ hồi học trường nội trú, vừa được Con ma Giáng sinh Quá khứ nhắc nhở.
-Székeken, asztalokon keresztül mindenütt a lány nyomában!	Khi tiếng nhạc vang lên, mọi thứ mà hồn ma vừa cho thấy ùa đến trong trí ông.
-Nem is akar mást megfogni, csak őt.	Nhưng họ không dành cả buổi tối cho âm nhạc.
 Ha valaki elébe állna, hogy szántszándékkal megfogassa magát, azt nagy ívben kikerülné és addig ügyeskedne, oldalogna, amíg megint csak a kislány nyomában volna.	Sau một lúc chơi trò nộp tiền phạt, thỉnh thoảng được làm trẻ con cũng thú, và không có dịp nào hợp hơn là Giáng sinh, khi Người Sáng lập là một đứa trẻ.
-Az el-elkiáltja magát, hogy Topper csal, kukucskál, hamis a játék.	Đầu tiên là trò bịt mắt bắt dê.
-És igaza van.	Tất nhiên rồi.
 Végül is a lány fondorkodása, suhanása, illanása hiábavaló, beszorul egy sarokba és fogva van.	Tôi không tin Topper là một người mù hơn tin anh ta có mắt đằng sau gáy.
 Fejkendőjét, nyakékét, gyűrűjét, mind-mind végigtapogatja, hogy személyazonosságáról meggyőződjék.	Cái kiểu anh ta theo đuổi cô em gái mũm mĩm quàng khăn đăng ten là vi phạm trắng trợn tính cả tin của con người.
 A lány duzzog is, alig tudja a fiú megengesztelni.	Anh ta luôn biết cô nàng mũm mĩm ở đâu.
 A következő játékból mindketten ki is maradnak, és hosszan suttognak egy függöny mögött.	Cô ta kêu to lên rằng như thế là không công bằng, mà đúng là thế thật.
 De mikor azután később "árverés"-t és "mesterségünk címeré"-t játszottak, ezekben a játékokban olyan gyors észjárású és szellemes volt, hogy férjének nem kis örömére, valamennyi húgát lepipálta.	Anh ta giả vờ không nhận ra cô, giả vờ cần phải chạm vào khăn cô, muốn khẳng định đúng là cô bằng cách ôm chặt cái nhẫn trên ngón tay cô và dây chuyền quanh cổ cô, thật là ghê tởm, xấu xa!
-Ami elég nagy szó, ha meggondoljuk, hogy közöttük is akadt kiválóan okos leány - aki nem hiszi, kérdezze meg Toppert!	Chắc chắn là cô đã nói ý kiến của mình với anh ta, khi có thêm một người bịt mắt nữa trong phòng, họ đã rất thân thiết với nhau sau tấm rèm.
-Vagy húszan lehettek és valamennyien játszottak; még Scrooge is, aki teljesen megfeledkezve magáról és arról a körülményről, hogy láthatatlan és a hangját sem hallhatja senki, gyakran közbeszólt és fején találta a szöget; tudjuk, hogy ravasz és éleseszű öreg fickó volt, ha néha együgyűnek is tettette magát.	Cô cháu dâu của Scrooge không tham gia hội bịt mắt bắt dê, cô ngồi thoải mái trên một cái ghế bành to và ghế để chân trong một góc ấm cúng, còn Hồn ma và Scrooge ở ngay sau cô.
-A szellem örömmel látta, hogy Scrooge hogy belefeledkezett a játékba.	Nhưng cô tham gia vào trò nộp phạt, và thích thú được ngưỡng mộ bằng mọi chữ cái trong bảng ABC.
 Majd mikor már menni készültek, Scrooge, mint valami gyermek, könyörgött, hogy maradjanak még, amíg a vendégek szétszélednek.	Cô chơi rất cừ trò đánh đố, cô đánh bại hoàn toàn em gái, đem lại niềm vui thầm kín cho cậu cháu trai của Scrooge, dẫu họ đều là những cô gái sắc sảo, như Topper có thể nói với bạn.
 A szellem ebbe sehogysem akart beleegyezni.	Nhưng Hồn ma nói không thể được.
 - Ni, épp egy új játék kezdődik, - mondta Scrooge - csak egy félórácskát maradjunk még!	– Có một trò chơi mới này, - Scrooge nói.
@@ -834,25 +565,17 @@ A szellem ebbe sehogysem akart beleegyezni.	Nhưng Hồn ma nói không thể đ
 Scrooge unokaöccsének a kitalálandó szót egy cédulára kellett titokban felírnia és a többiek kérdéseire "fekete-fehér, igen-nem"-mel válaszolnia; a feleletekből meg kellett állapítani a cédulára felírt szót.	Đây là trò chơi Có hoặc Không, cháu trai của Scrooge phải nghĩ ra một thứ gì đó, còn những người khác phải khám phá ra, vì anh ta chỉ trả lời Có hoặc Không các câu hỏi của họ.
 Scrooge unokaöccse minden kérdés után hangosabban és hangosabban kacagott, végül már az oldalát fogta és a díványon hempergett, rugkapálódzott nagy jókedvében.	Vừa đặt ra câu hỏi xong, người cháu cười ồ lên giòn giã và khoái chí đến mức nhảy phắt khỏi sofa và giậm chân thình thịch.
 Végül is a kis tömzsi lány (a csipkegallérral) mentette meg a helyzetet:	Cuối cùng, cô em gái mũm mĩm cũng khoái chí không kém, kêu toáng lên:
-- Nos, mi?	Em biết rồi!
 - Scrooge úr!	- Fred hỏi to.
-Ha egyáltalán számításba vették volna Scrooge urat, ez a "nem" megzavarhatta volna őket.	– Tôi chắc bác ấy đã đem lại cho chúng ta rõ nhiều trò vui, - Fred nói, - và nếu không nâng cốc chúc sức khoẻ bác ấy là vô ơn.
-- Lám, milyen pompás, mulatságos perceket szerzett nekünk az öregúr - mondta most az unokaöccs - igazán hálátlanság volna, ha nem innánk az egészségére.	Đây là cốc vang hâm nóng, sẵn sàng cho chúng ta lúc này và tôi sẽ hô: "Uống vì bác Scrooge!".
 Hol a boroskancsó?	– Phải đấy!
 Nosza igyunk!	Vì bác Scrooge!
 - Éljen Scrooge bácsi!	- Họ hô lớn.
 az öreg Scrooge - kiáltották karban.	- Cháu trai Scrooge nói.
 - Kellemes karácsonyt és boldog újévet kívánunk neki, akár tetszik, akár nem!	- Bác ấy đã không nhận lời chúc này của tôi, nhưng biết đâu sẽ nhận.
-Éljen Scrooge bácsi.	Bác Scrooge!
 Ha a szellem időt enged neki, akkor a felköszöntőt ünnepi szónoklattal viszonozta volna; azzal sem törődött volna, hogy szavát senki sem hallhatja.	Nhưng toàn bộ cảnh này trôi qua nhanh như chớp, ngay sau khi người cháu nói xong lời cuối cùng, ông và Hồn ma đã đi tiếp cuộc hành trình.
-Betegágyak mellett állottak és a betegek felfrissültek; a számkivetettek néhány percre otthon érezték magukat; a boldogtalanok reményre kaptak; a szegények gazdagnak, a gyengék erősnek érezték magukat.	Trong nhà tế bần, bệnh viện, nhà tù, trong từng nơi trú ẩn khốn khổ, nơi con người tầm thường chỉ có chút quyền hành tí ti của mình đã không nhanh nhảu tới cửa và ngăn Hồn ma ở bên ngoài, nó để lại lời cầu phúc và dạy cho Scrooge châm ngôn của mình.
 Szegényházba, kórházba, fegyházba és a nyomornak mindenféle más tanyáira látogattak el; a szellem a szerencsétleneknek mindenütt vígaszt és örömöt osztott; Scrooge látott, hallott és okult.	Đêm đó thật dài, nếu không là đêm duy nhất, nhưng Scrooge ngờ lắm, vì hình như những ngày lễ Giáng sinh đã cô lại thành khoảng thời gian mà họ trải qua với nhau.
-Hosszú és kalandos éjszaka volt. Scrooge azon tűnődött, vajon csakugyan egyetlen éjszaka-e?	Cũng thật lạ lùng, trong khi Scrooge không thay đổi hình dáng bên ngoài, con ma cứ lớn hơn và già đi rõ ràng.
-- Ilyen rövid a szellemek élete?	– Cuộc sống của các hồn ma ngắn vậy ư?
 - kérdezte.	- Scrooge hỏi.
 - Az én életem a földön nagyon rövid.	– Cuộc sống của tôi trên cõi trần rất ngắn ngủi, - hồn ma đáp.
 Ma éjszaka véget ér, - válaszolt a szellem.	- Nó sẽ chấm dứt vào đêm nay.
-- Ma éjszaka?	– Đêm nay ư?
 - Éjfélkor.	- Scrooge kêu lên.
 Nincs már sok időm hátra.	– Vào lúc nửa đêm.
 - Bocsáss meg, - szólalt meg Scrooge halkan - ha olyat kérdezek, ami nem rám tartozik.	Đúng lúc đó, nhiều chùm chuông ngân vang, điểm mười một giờ bốn nhăm.
@@ -861,23 +584,12 @@ Azt sem tudom, hogy láb-e vagy karom?	Đây là một bàn chân hay móng vu�
 - Idenézz!	- Ông nhìn đây!
 Ezzel kitárta ruháját; két nyomorúságos, csontig soványodott, reszkető kisgyermek tűnt elő.	Từ những nếp gấp của chiếc áo choàng lộ ra hai đứa trẻ, khốn khổ, xác xơ, sợ hãi, xấu xí và đáng thương.
 Letérdepeltek és két kézzel kapaszkodtak ruhájának szegélyébe.	Chúng quỳ xuống bên chân con ma và bám chặt vào bên ngoài tấm áo.
-- Ember!	– Này ông!
 Ezeket nézd meg!	Hãy nhìn đây!
-Jól nézd meg őket - kiáltotta a szellem.	Hãy nhìn xuống đây!
 - Egy fiúcska és egy leány.	- Hồn ma kêu lên.
 Sápadt-zöld, rongyos, éhes, sötét és sóvár pillantású, nyomorultul alázatos mindakettő!	Vàng vọt, gầy gò, tả tơi, cáu kỉnh, tham tàn nhưng cũng quy phục vì địa vị hèn mọn của mình.
-Homlokukon az őrangyal lehellete helyett ördögpata komisz rúgása.	Là nơi thiên thần có thể ngự trị, ma quỷ lẩn trốn và trừng trừng ngó ra đe dọa.
-Gonosz varázslat, rontó bűbáj, vagy bármi más, emberi értelem számára érthetetlen csoda sem tudott volna félig ilyen visszataszító szörnyeket létrehozni.	Không biến đổi, không xuống cấp, không thoái hóa nhân tính dù ở bất cứ cấp độ nào, thông qua mọi bí ẩn của sự sáng tạo tuyệt vời, có những con quỷ nửa kinh hoàng nửa khiếp đảm như thế.
 Scrooge visszahőkölt.	Scrooge lùi lại, thất kinh.
 Nem tudta, mit mondjon.	– Này Hồn ma!
-Talán azt kellene mondania, hogy szépnek találja őket.	- Scrooge không thể nói gì hơn.
-De azután visszarettent ettől a borzalmas hazugságtól és csak annyit mondott: - A tieid? A te gyermekeid?	– Chúng là của con người, - Hồn ma nói và nhìn xuống chúng.
 - Az Emberiség gyermekei - mondta a szellem a két szerencsétlenre nézve.	- Chúng bám lấy tôi, khẩn khoản xin thoát khỏi cha chúng.
-Hozzám futottak, hogy vádat emeljenek szülőik ellen.	Thằng bé này tên là Dốt nát.
-Ez a fiú: a Tudatlanság és az a lány: a Nyomor.	Con bé này là Thiếu thốn.
-Őrízkedj mindkettőtől és egész rokonságuktól.	Hãy phủ nhận điều đó!
-De leginkább a fiútól, mert az ő homlokára a Kárhozat van írva, ha nem akad senki, aki letörölje onnan.	- Hồn ma kêu lớn và dang rộng đôi tay về phía thành phố.
-Jól tudod, miről van szó, ne tagadd!	- Hãy phỉ báng những kẻ nào nói điều đó!
 - De hát nem akad számukra segítő kéz vagy oltalom?	– Chúng không chốn nương thân hoặc tiêu khiển sao?
 - kiáltotta Scrooge.	- Scrooge hỏi.
 - Mire valók a fegyházak?	– Không nhà tù nào ư?
@@ -893,21 +605,13 @@ A titokzatos, sötét alak némán és mozdulatlanul állt előtte.	Ông không 
 - kérdezte Scrooge.	- Scrooge hỏi.
 - A jövőt akarod felfedni előttem?	- Scrooge dai dẳng.
 Ezt válasznak is vehette Scrooge, mert egyéb választ nem kapott.	Đấy là câu trả lời duy nhất Scrooge nhận được.
-Noha megszokta már a szellemekkel való érintkezést, ettől a hallgatag kísértettől mégis annyira félt, hogy alig állt a lábán.	Mặc dù đã quen bầu bạn với ma quỷ nhưng lần này, Scrooge khiếp sợ hình dáng im lìm này đến mức chân ông run bắn và ông thấy khó mà chịu nổi lúc sắp đi theo nó.
 A szellem látta, hogy milyen nyomorúságos állapotban van, és úgy látszik, ezért is várakozott.	Hồn ma dừng lại giây lát, quan sát tình trạng của ông và để một lúc cho ông hồi phục.
-De a szünet nem igen használt Scrooge-nak, sőt inkább rosszabbul lett tőle.	Nhưng Scrooge mỗi lúc một tệ hơn.
 - Jövendő szelleme!	- ông nói.
 - kiáltotta kétségbeesésében - jobban félek tőled, mint az eddig látott szellemektől együttvéve.	- Tôi sợ ông hơn bất cứ hồn ma nào đã gặp.
-De tudom, hogy jószándékkal vagy irántam és azért jöttél, hogy megváltozzam és más ember legyen belőlem.	Nhưng tôi hiểu ông muốn làm điều tốt cho tôi, và tôi hy vọng sẽ sống như một người khác tôi hiện nay, tôi sẵn sàng kết bạn với ông và làm việc đó rất chân thành.
-Vezess tehát és én bizalommal és hálával foglak követni.	Sao ông không trò chuyện với tôi?
-Csak a kinyújtott kéz mutat némán egy irányba egy ismeretlen cél felé.	Bàn tay chỉ thẳng về phía trước họ.
 - mondja Scrooge.	- Scrooge nói.
 - Induljunk már!	- Dẫn đường đi!
-A kísértet oly lassan, mint jött, megindult.	Hãy dẫn đường đi, Hồn ma!
 Scrooge az árnyékába lépett.	Con ma nhúc nhích lúc tiến đến ông.
-Az árnyék körül­burkolta, felemelte és vitte magával.	Scrooge đi theo trong bóng quần áo của nó, cứ đi, đừng sợ, ông nhủ lòng.
 Nem kellett bemenniök a városba, a város mintha a földből nőtt volna ki, hirtelen ott volt körülöttük.	Hình như họ vừa vào thành phố, đúng hơn là thành phố nhảy phắt đến chỗ họ và vây quanh họ.
-Egy kis csoport közelében álltak meg.	Hồn ma dừng lại cạnh một nhóm nhỏ các thương nhân.
 Scrooge látta, hogy a szellem a csoportra mutat és közébük állt, hogy meghallgassa, miről beszélnek.	Nhận thấy bàn tay nó chỉ vào họ, Scrooge tiến tới lắng nghe câu chuyện.
 - Nem, a részleteket nem ismerem, csak annyit tudok, hogy meghalt - mondta egy magas, kövér ember.	– Không, - một người đàn ông to béo có cái cằm quái dị nói, - tôi không biết nhiều về chuyện đó.
 - kérdezte egy másik.	– Ông ta chết bao giờ?
@@ -917,83 +621,53 @@ Scrooge látta, hogy a szellem a csoportra mutat és közébük állt, hogy megh
 - Azt hittem, örökké fog élni.	- Tôi cứ tưởng ông ta sẽ không bao giờ chết.
 - Istenem, ez az élet, - mondta valaki és nagyot ásított.	– Có Trời mới biết được, - người đầu tiên vừa nói vừa ngáp.
 - mondta egy vörösarcú úriember, akinek az orra hegyén jókora lelógó bibircsók éktelenkedett.	- Một quý ông mặt đỏ, đầu mũi có một cục lồi lắc qua lắc lại, giống như cái yếm ở con gà tây.
-Olyan volt ez az orrtoldalék, mint a pulykakakas lebernyege. - A fene tudja - mondta az álmos képű és ismét ásított.	– Tôi chưa nghe tin, - người có cái cằm lớn lại ngáp lần nữa.
 - Talán a társaságára.	- Có lẽ để lại cho công ty của mình.
 Rám nem hagyta, annyi biztos!	Ông ta không để lại cho tôi.
 Ezen aztán mindnyájan nevettek.	Tôi chỉ biết có thế.
 - Bizonyára silány temetése lesz az öregnek.	Câu đùa khiến tất cả đều cười.
 Talán ha mi néhányan összeállnánk, elmehetnénk, nem?	Hay chúng ta tự nguyện làm một bữa tiệc?
 - Ha kiadós halotti tor lesz, szívesen elmegyek - mondta a bibircsókos.	– Tôi không định đến nếu bữa trưa đã chuẩn bị sẵn, - người có cục lồi ở đầu mũi nói.
-- De ital is legyen.	- Nhưng tôi phải ăn nếu tôi là người sửa soạn.
 Ezen megint csak jót nevettek.	Lại một tràng cười nữa.
 - Úgy látszik, én vagyok köztetek a legönzetlenebb, - mondta a kövér úriember - mert se fekete kesztyűt nem szeretek hordani, se enni-inni nem tudok már kedvemre, mégis elmegyek a temetésre, ha jön még valaki velem.	– Vả lại, tôi là người không vụ lợi nhất trong số các ông, - người đầu tiên nói, - vì tôi chưa bao giờ đi găng tay đen và chưa bao giờ ăn trưa.
 Ha jól meggondolom, én voltam az öreg legjobb barátja.	Nhưng tôi sẵn sàng đến nếu mọi người cùng đi.
-A viszontlátásra.	Tạm biệt!
 A kis csoport szétszéledt, ki erre, ki arra.	Họ rảo bước, hòa lẫn với các nhóm khác.
 Scrooge valamennyiüket ismerte, de nem értette, miért kellett ezt a beszélgetést végighallgatnia.	Scrooge biết những người này và nhìn Hồn ma, đợi giải thích.
 Fürkészve nézett a szellemre.	Con ma lướt vào một đường phố.
 Scrooge ezek mellé is odaállt hallgatódzni.	Ngón tay của nó chỉ vào cuộc gặp tay đôi.
 Talán ez a párbeszéd fog fényt deríteni a szellem rejtélyes viselkedésére.	Scrooge lại lắng nghe, tưởng lời giải thích có thể là đây.
-Ezt a két urat is jól ismerte.	Ông cũng biết rõ những người này.
 Gazdag és tekintélyes üzletember volt mind a kettő.	Họ đều là thương nhân: rất giàu có và rất quan trọng.
 Mondjuk húszezer fontra jónak.	– Ông khỏe không?
 - Jó napot!	- Một người nói.
-- mondta az egyik.	– Ông khỏe chứ?
 - Jó napot!	- Người kia đáp lại.
 Mi újság?	– Khỏe!
 - felelte a másik.	– Tôi nghe nói thế, - người thứ hai đáp.
 - Semmi különös.	- Lạnh quá nhỉ?
 Az öreg Scratch elpatkolt!	– Tiết Giáng sinh mà.
-- Karácsonykor miért ne lenne.	– Không, không.
-Maga biztosan nem korcsolyázik?	Nghĩ ngợi làm gì.
 - Nem én!	Xin chào!
 Ennyi és nem több: üdvözlés, párbeszéd, búcsú; Scrooge semmivel sem lett okosabb.	Đó là cuộc gặp của họ, cuộc nói chuyện của họ và cuộc chia tay của họ.
-Érthetet­lennek találta, miért tulajdonít a szellem ilyen jelentéktelen beszélgetésnek, mint aminőket most végighallgatott, fontosságot. Annyit mindenesetre sejtett, hogy bizton van valami rejtett célja.	Lúc đầu Scrooge ngạc nhiên thấy Hồn ma gắn ý nghĩa vào câu chuyện tầm thường như vậy, nhưng ông có cảm giác họ phải có một ý định nào đó được che giấu, ông quyết xem xét lại.
-Marley haláláról alig lehetett szó, mert hisz ez a múlt volt, a szellemnek pedig a jövőt kellett megmutatnia neki.	Có khi họ đang nói đến cái chết của Jacob, người hùn vốn già của ông, vì đó là thời quá khứ, còn con ma này là tương lai của thành phố.
 Bárhogy törte a fejét, sehogyan sem tudta az imént hallottakat saját-magával összefüggésbe hozni.	Ông cũng không nghĩ đến bất cứ người nào liên quan trực tiếp đến mình để gắn vào họ.
-Bízott benne, hogy jövőbeni alakjának viselkedése meg fogja oldani a számára most még érthetetlen rejtélyt.	Ông mong muốn kiểm soát được tương lai của mình sẽ cho ông manh mối đã bỏ lỡ, và sẽ tìm ra giải pháp cho những điều khó hiểu này.
-Kinyújtott keze most egyenest reá mutatott.	Lặng lẽ và đen sì, con ma đứng cạnh ông, bàn tay duỗi ra.
 Most kimentek az épületből és elhagyták a banknegyedet.	Nó khiến ông rùng mình và cảm thấy ớn lạnh.
 Csúf, rosszhírű városrészbe jutottak, ahol Scrooge azelőtt sohasem járt, csak hírből ismerte ezt a környéket.	Họ rời khung cảnh náo nhiệt và đi vào phần tối tăm của thành phố, nơi trước kia Scrooge chưa đến bao giờ, dù ông ta nhận ra nó vốn mang tiếng xấu.
 Piszkos, szűk sikátorok, nyomorúságos viskók, gyanús üzletek, rongyos, félmeztelen emberek, dűlöngélő részegek.	Những con đường hôi hám và hẹp; cửa hàng và nhà ở tiều tụy, dân cư nửa trần truồng, say xỉn, bệ rạc và đáng sợ.
-Ebben a gyanús környezetben egy ugyancsak gyanús külsejű ócskásbolt előtt állottak meg.	Cả khu này nồng nặc mùi tội ác, bẩn thỉu và khốn khổ.
-Rongyok, üres üvegek, ócskavas, láncok, szögek, elnyűtt cipők, csontok és más hulladékok halomban hevertek a kis bolt belsejében.	Sâu trong hang ổ của một nhà nghỉ khét tiếng đồi bại này là một cửa hàng tối tăm, nhô ra dưới mái của một nhà kho, là nơi bán các đồ dùng bằng sắt, quần áo cũ, chai lọ, xương xẩu và cá trơn.
-Az ószeres, egy hetven körüli szurtos, ápolatlan, szakállas öreg egy hevenyészett cserépkályhán ült.	Trên sàn bên trong chất nhiều đống chìa khóa, đinh, dây xích, bản lề, cân, quả cân gỉ sét và đủ thứ đồ sắt thép thải loại.
 A kályhában faszén égett, bűzt és füstöt terjesztve, a kis öreg egy szutykos pipából nem kevésbé bűzlő füstfelhőt eregetett.	Những bí ẩn bị rất ít người thích săm soi nảy nở và che giấu trong hàng núi rác khó coi, những đống dầu mỡ và xương xẩu thối.
-Alig lépett be az asszony, egy másik batyus nő is követte, majd egy sötétruhás férfi lépett a boltba.	Scrooge và con ma tiến tới trước mặt người này, đúng lúc một người đàn bà xách một bọc nặng lượn vào cửa hàng.
-- A takarítónő volt az első, mondta az asszony, aki később jött.	Sau một lát ngạc nhiên ngắn ngủi, ông già hít tẩu đến nhập bọn và cả ba phá lên cười.
-- És a mosónő a második, - mondta a sötétruhás férfi.	– Để mụ giúp việc trước!
 - És a sírásó a harmadik - mondta az ószeres.	- người đàn bà vào trước kêu to.
 - Kutya egy szerencse, hogy mindhárman nálam találkoztatok.	- Để mụ thợ giặt thứ hai; để lão nhà tang lễ thứ ba.
 Mintha csak összebeszéltetek volna!	Nhìn này lão Joe, đây là một cơ hội!
 Egyiktek sincs először itt.	- Hãy vào trong phòng khách.
-Esküszöm, hogy nincs még egy ilyen ócska vasdarab az egész raktárban.	Hãy ở lại cho đến lúc ta đóng cửa hàng.
-És hogy hasogat a derekam.	Ái chà chà!
 Ez is a legócskább csont az egész boltban.	Cuỗm được cũng khớ đấy nhỉ!
 No, gyertek be!	Vào phòng khách.
 A kis szobát egy piszkos, szakadozott függöny választotta el az üzlettől.	Phòng khách là khoảng không gian đằng sau tấm bình phong quần áo rách.
 A kis öreg felpisz­kál­ta a tüzet, zsebkendőjével megtörülgette a kormos lámpaüveget, azután nagy nyugodalmasan tovább pipázott.	Lão già cời lửa bằng cái chặn thảm cũ, dùng thân tẩu cắt hoa ngọn đèn đầy khói, rồi lại đút tẩu vào miệng.
-- No, mit bámul Dilberné?	Có chuyện gì kỳ vậy, bà Dilber?
-Nincs ebben semmi.	- Người đàn bà nói.
 Minden szentnek maga felé hajlik a keze.	- Ai cũng có quyền lo cho mình.
-Az öreg is csak a saját előnyét nézte világéletében.	Ông ta bao giờ cũng làm thế!
-- Erre valóban ráhibázott!	– Đúng vậy!
 - helyeselte a mosónő.	- Mụ thợ giặt nói.
 - Mást se tudott, csak mindig a maga javát nézni!	- Chẳng ai hơn được.
-- Nos, akkor mit pislogtok úgy, mintha félnétek!	– Vậy thì đừng có nhìn trừng trừng như đang sợ thế kia, mụ!
 Ki fogja megtudni?	Ai khôn ngoan hơn nào?
-- Affelől nyugodt lehetsz, - mondta Dilberné és a férfi egyszerre.	– Không, thật mà! - Bà Dilber và người đàn ông đồng thanh.
 - Nos, akkor minden rendben van.	- Chúng tôi hy vọng là không.
-A halottnak legkevésbé.	- Thế là đủ.
 - Fején találtad a szöget.	– Không, thật mà!
 Az öreg megkapta a magáét.	- Bà Dilber nói và cười to.
 De nem akadt egyéb a kezemügyébe, csak ami ebben a rongyos batyuban van.	– Đây là lời thực thà nhất được nói ra, - bà Dilber nói.
-No, de nyissuk ki, öreg Joe, halljam mit adsz érte.	- Đây là lời phán xét cho lão.
-Mondd csak ki kereken, engem nem bánt, hogy első vagyok és nem szégyellem magam ezek előtt.	Hãy mở bọc kia ra, lão Joe, để tôi ước lượng xem sao.
 Összetartottunk mi mindig.	Nói thẳng toẹt ra.
 Nem volt sok benne.	Mở bọc ra, lão Joe.
-Legértékesebb még az az egy-két inggomb, kézelőgomb, óralánc, irón, melltű volt, ami rögtön szemet szúrt az ószeresnek.	Nhưng sự lịch sự của các bạn mụ không cho phép làm thế; người đàn ông mặc đồ đen bạc màu bật lên trước, đưa những đồ ăn cắp của hắn ra.
-Rendre mindent össze­számolt az öreg.	Chẳng có gì nhiều nhặn.
 - Uram, ennyi az ön követelése és ha kerékbetörnek, se adok egy fillérrel se többet.	– Đây là số tiền của mi, - lão Joe nói, - và ta sẽ không cho thêm sáu xu nữa, nếu mi không sôi sục muốn thế.
 Ki következik?	Ai tiếp theo đây?
 Dilberné volt most soron.	Bà Dilber là người tiếp theo.
@@ -1010,44 +684,30 @@ Az ószeres letérdelt, nem mintha valami áhitatot érzett volna, inkább, hogy
 - Csoda életrevaló teremtés vagy!	- Mà sao lại không kia chứ?
 Biztosan boldogulni fogsz az életben - mondta az öreg Joe.	– Mụ sinh ra để phát tài, - lão Joe nói, - và chắc chắn là mụ sẽ làm thế.
 - Hát bizony, aminek lába nincs azt elviszem és nem szégyellem magam.	- Giờ thì đừng có rỏ dầu lên các tấm khăn liệm nữa.
-Csak vigyázz, be ne piszkítsd a tiszta takarókat.	– Khăn liệm của lão ta?
 - Ezek is az ő takarói?	- Joe hỏi. – Thế ông tưởng là của ai?
 - Hát ki másé volnának?	- Mụ đàn bà đáp lại.
 Biztosítalak, egy cseppet sem fázik már nélkülük.	– Ta mong là lão ta không chết vì bệnh truyền nhiễm?
-- Remélem, nem valami járványos betegségben halt meg?	Hử? - Lão Joe nói, ngước nhìn và dừng công việc giữa chừng.
 - mondta az ószeres és kissé riadtan nézett az asszonyra.	– Ông đừng sợ, - mụ đàn bà đáp.
-- Légy nyugodt, nem becsültem olyan sokra a társaságát, hogy mellette maradtam volna, ha valami ragályos baja lett volna.	- Tôi chẳng yêu quý gì công ty của lão đến mức lảng vảng gần lão vì những thứ này, nếu lão bị bệnh truyền nhiễm. Chà!
 Azt az inget pedig nézheted vakulásig, akkor sem fogsz egy mákszemnyi lyukat vagy csak egy tenyérnyi kopott helyet rajta találni.	Ông có thể nhìn xuyên qua áo lão cho đến khi mắt đau nhức, nhưng cũng không tìm ra một lỗ thủng hoặc một chỗ sờn.
-A legjobb inge volt és milyen finom.	Đấy là thứ tốt nhất lão có, và cũng là một cái đẹp.
 Persze, hogy nem engedtem eltékozolni!	Họ thật phí phạm vì đã không cho tôi.
 - Hogy érted azt, hogy eltékozolni?	– Mụ gọi thế là phí phạm ư?
 - kérdezte az ószeres.	- Lão Joe hỏi.
 - Hát csak úgy, hogy az ilyen finom holmit kár volna halotti ingnek használni.	– Mặc cho lão ta rồi đem chôn, chắc là thế, - mụ đàn bà đáp và cười to.
-Valaki elég ostoba volt és ráadta, de én nem voltam rest és lehúztam róla.	- Có ai ngu mới làm thế, và tôi lột nó ra rồi.
 Épolyan jól áll a hullának, mint egy másik.	Nó rất thích hợp cho một xác chết.
-Ha ez marad rajta, ettől se lett volna szebb.	Mặc áo ấy lão ta nom cũng chẳng xấu hơn mặc cái kia.
 Scrooge borzadva hallgatta ezt a beszélgetést.	Scrooge kinh hãi lắng nghe cuộc đối thoại này.
 Az ószeres egy vászonzacskóból pénzt halászott elő.	– Đây là kết cục của lão, các người thấy chưa!
 Kiért?	Ha, ha, ha!
-Hahaha. - Szellem!	– Này Hồn ma!
 - mondta Scrooge és tetőtől talpig megborzongott.	- Scrooge nói, run từ đầu xuống chân.
 - Mindent értek.	- Tôi thấy rồi, hiểu rồi.
 Egy ágyat látott, egy csupasz, függönynélküli ágyat.	Thượng đế nhân từ, đây là gì vậy?
-Olyan sötét, hogy nemigen lehetett benne alaposan körülnézni. Scrooge valami titkos ösztönnek engedve, mégis kimeresztette szemét és igyekezett megállapítani, hol van.	Căn phòng rất tối, quá tối nên không thể quan sát tường tận, dù Scrooge nhìn quanh do một sự thôi thúc bí ẩn, băn khoăn muốn biết nó thuộc loại phòng gì.
 Scrooge a szellemre nézett.	Scrooge liếc nhìn con ma.
 A szellem keze a holttest fejére mutatott.	Bàn tay kiên định của nó chỉ lên đầu.
 A halotti lepel oly könnyedén volt odavetve, hogy Scrooge-nak elég lett volna egy ujjal hozzányúlnia, hogy a halott arcát láthassa.	Tấm đắp phủ cẩu thả đến mức chỉ cần đưa nhẹ một ngón tay cũng sẽ lộ ra bộ mặt.
 Világosan érezte, hogy szeretné is megtenni, de amikor kezét fel akarta emelni, ereje teljesen elhagyta, úgy, hogy a legkisebb mozdulatra is képtelen volt.	Scrooge nghĩ thế, và cảm thấy làm thế thật dễ dàng, ông ta rất muốn làm thế, nhưng ông không có quyền kéo tấm khăn phủ cũng như gạt bỏ con ma ở cạnh ông.
-De bármekkora is hatalmad, azoknak a fejéhez, akiket az életben szerettünk, becsültünk, tiszteltünk, nem nyúlhatsz.	Nhưng ngươi không thể nhúc nhích cái đầu yêu quý, sùng kính và vinh dự vì những mục tiêu khủng khiếp của ngươi, hoặc tạo thành một nét ghê tởm.
-Kaszálj csak, Halál, kaszálj!	Hãy đầu hàng đi, hỡi Cái bóng, hãy đầu hàng đi!
-Az emberi jócselekedetek kivirágzanak a sírokon és az örök életet hirdetik szerte a világon.	Hãy thừa nhận những hành động tốt đẹp của ông ta đang hàn gắn vết thương, gieo mầm sự sống bất tử cho đời!
 Ezeket a szavakat egy belső hang súgta Scrooge-nek, amint ott állt és a halott ágyát nézte.	Không một tiếng nào nói những lời đó vào tai Scrooge, song ông vẫn nghe thấy khi ngước nhìn cái giường.
-Azon tűnődött, vajon hogyan viselkednék a halott, ha hirtelen feltámadna.	Ông nghĩ, nếu lúc này người đó có thể vùng dậy, những ý nghĩ đầu tiên của ông ta sẽ là gì?
 Vajon még mindig kapzsiság, irígység, pénzvágy irányítanák-e gondolatait?	Những cuộc giao dịch tham lam, chi li, những mối lo âu thắt lòng?
 Hiszen láthatta már, hogy milyen szomorú, dicstelen vég felé vitték ezek a jellemvonások!	Chúng đã mang đến cho ông ta một kết cục giàu có, thật vậy!
 Csak egy kóbor macska sündörög az ajtó körül és patkányok matatnak a tűzhely alatt.	Một con mèo kéo mạnh cánh cửa, có tiếng chuột gặm nhấm sau tấm đá lát lò sưởi.
-Scrooge undorodva hessegette el magától a gondolatot, hogy ezek miért keringenek oly izgatottan a holttest körül.	Bọn chúng muốn gì trong căn phòng người chết, tại sao chúng quấy nhiễu không ngừng, Scrooge không dám nghĩ tiếp. – Này Hồn ma!
-- Szellem - mondta - az iszonyat háza ez a hely.	- Ông ta nói. - Đây là một nơi đáng sợ.
 Vigyél el innen!	Chúng ta đi thôi!
 De a kísértet még mindig mozdulatlanul mutatott a holttest letakart fejére.	Ngón tay bất động của hồn ma vẫn chỉ lên đầu.
 - Értelek - mondta Scrooge - és megtenném, amit kívánsz, ha tudnám.	– Tôi không hiểu, - Scrooge đáp, - và tôi không sao hiểu nổi ông.
@@ -1056,7 +716,6 @@ A kísértet merően nézett rá.	Hình như nó lại nhìn ông lần nữa.
 A kísértet sötét köpenyét, mint egy denevér-szárnyat terjesztette ki.	Hồn ma xòe rộng tà áo choàng đen ra trước ông một lát, như cái cánh.
 Egy pillanatra Scrooge semmit sem látott, azután egyszerre fényes nappal volt; egy szobában voltak, ahol egy anya gyermekei körében fel-le járkált.	Rồi khi rút lại, lộ ra một căn phòng dưới thanh thiên bạch nhật, nơi có người mẹ và đàn con.
 Végre nyílt az ajtó; az asszony elébefutott férjének.	Cuối cùng, nghe thấy tiếng gõ cửa chờ đợi từ lâu.
-A férfi mintha habozott volna, mit válaszoljon.	– Tốt hay xấu, hở mình?
 - kérdezte most az asszony.	- Chị nói, gợi ý cho anh.
 - Rossz. - Végkép tönkrementünk?	– Xấu, - anh trả lời.
 Ha haladékot adna.	– Không.
@@ -1064,56 +723,39 @@ De hát hihetünk-e ilyen csodában?	Hãy còn hy vọng, Caroline ạ.
 - Már adott haladékot - mondta a férfi.	– Ông ấy động lòng đã là quá khứ, - chồng chị nói.
 - Meghalt.	- Ông ấy chết rồi.
 Az asszony szelíd és türelmes teremtés volt, nyílt tekintetű; minden gondolata az arcára volt írva.	Gương mặt chị lộ rõ bản tính hòa nhã và nhẫn nại, nhưng nghe tin đó chị thầm biết ơn, chị nói lúc chắp tay lại.
-- Tudod, hogy tegnap este meg akartam látogatni, hogy egy hét haladékért könyörögjek.	Lúc đó ông ta không chỉ ốm nặng, mà đang hấp hối.
 Részeges takarítónője nem engedett be; azt mondta, beteg.	– Vậy khoản nợ của chúng ta sẽ chuyển cho ai?
 Azt hittem, egyszerű kifogás.	– Anh không biết.
 - Nem tudom.	Đúng thế.
-De amíg a helyzet tisztázódik, biztosan előteremtjük a pénzt.	Họ có thể đỡ lo lắng, nhẹ lòng hơn.
 - Szellem, - mondta most Scrooge - csak egy szikrányi gyengédséget, csak pillanatnyi ellágyulást szeretnék valahol látni.	Hồn ma dẫn ông ta xuyên qua vài phố quen thuộc, và trong lúc đi, Scrooge nhìn đây đó tìm bóng dáng mình nhưng chẳng thấy đâu.
 Valakit, aki megindultan gondol a halottra, aki ott fekszik a hideg, sötét szobában, elhagyatva és magánosan.	Họ vào căn nhà của Bob Cratchit nghèo khổ, căn nhà mà lúc trước họ đã đến thăm.
-Óh milyen vigasztalan és gyötrelmes emlék!	Họ thấy người mẹ và đàn con ngồi vây quanh lò sưởi.
-Cratchit házához értek.	Bà mẹ và mấy cô con gái đang khâu vá.
 Cratchitné és a gyerekek a tűz körül ültek.	Nhưng chắc chắn là họ hết sức im lặng!
 Szokatlan csend.	Ông không hề mơ.
 A máskor oly pajkos és hangos kicsik összebújva ültek egy sarokban; Péter könyvet olvasott.	Thằng bé ắt phải đọc to lúc ông và Hồn ma bước qua ngưỡng cửa.
 Cratchitné és a lányok varrtak.	Sao nó không đọc tiếp?
 "És előfogván egy gyermeket közéjük állítá azt."	Bà mẹ đặt món đồ khâu lên bàn và úp hai tay lên mặt.
-Ez a mondat csengett Scrooge fülében.	– Màu sắc làm mẹ nhức cả mắt, - bà nói.
-Vajon hol hallotta?	Màu sắc ư?
 De miért hagyta abba az olvasást?	Chao ôi, tội nghiệp bé Tim!
 Cratchitné sóhajtva tette félre munkáját, kezébe temetve arcát.	– Thỉnh thoảng chúng khá hơn, - bà Cratchit nói.
 - A varrás megerőlteti a szememet, különösen ha gyertyafénynél varrok; mindig könnyezni kezdek.	- Ánh nến làm chúng mờ đi, và không đời nào mẹ cho bố các con biết lúc bố về nhà.
 - Már rég itt kéne lennie, - mondta Péter becsukva a könyvet, - de az utóbbi napokban úgy látszik, lassabban jár.	- Nhưng con thấy mấy tối vừa qua bố đi hơn muộn hơn ngày thường, mẹ nhỉ.
-Mindnyájan hallgattak megint.	Họ lại im lặng.
 Csak bólogattak szomorúan, végre megint Cratchitné szólalt meg.	Cuối cùng bà nói, giọng bình tĩnh, vui vẻ, chỉ hơi ngập ngừng:
 - Én is hányszor lovagoltattam így szegénykét!	– Con cũng biết thế, - Peter nói.
 - mondta Péter.	- Nhiều lần rồi.
 - Én is, én is - mondták a többi gyerekek.	– Con cũng biết, - đứa khác kêu lên.
-- Nem volt nehéz, hiszen olyan vékonyka volt.	Rồi tất cả cùng kêu to.
-És apa hogy szerette, hogy becézte, milyen boldog volt, ha maga mellé ültethette.	– Nhưng nó rất nhẹ, - bà nói tiếp và định quay về với công việc, - và bố rất yêu nó, nên không sao đâu.
 Az ajtóban ott állt Bobi kis kabátban - szegény ördögnek még mindig nem volt télikabátja - és átölelte odafutó asszonyát.	Bà vội chạy ra gặp ông, và ông Bob bé nhỏ quấn khăn quàng cổ bước vào - tội nghiệp, lúc nào ông cũng cần đến nó.
 Teája ott gőzölgött már a kandalló párkányán, mellette karosszék.	Trà của ông đã pha sẵn trong ngăn lò, ai cũng cố giúp ông nhiều nhất.
-Amint leült, egy-egy gyerek ült térdére, szorosan összebújva hozzá, mintha csak vigasztalni akarnák.	Rồi hai cậu bé Cratchit đứng lên, mỗi đứa áp một bên má vào mặt ông như muốn nói: "Đừng buồn, bố ạ. Xin bố đừng đau lòng!"
-Apa, drága apa, nyugodj meg, ne légy szomorú, légy a mi vidám pajtásunk, drága jó apánk!	Bob rất vui với họ, ông nói đùa với cả nhà.
 Bobi gyengéden magához szorította őket, kedvesen elbeszélgetett az egész családdal.	Nhìn món đồ khâu trên bàn, ông khen ngợi tài khéo và nhanh của vợ và con gái.
-Megcsodálta anya és a lányok munkáját.	Ông bảo, mọi thứ sẽ xong trước ngày Chủ nhật.
 Biztosan elkészülnek még vasárnap előtt.	Hôm nay mình đã đi rồi, phải không Robert?
 - Vasárnap!	- Vợ ông hỏi.
-Te biztosan kint voltál ma!	– Phải, mình ạ, - ông Bob trả lời.
 - mondta Cratchitné.	- Giá mình có thể đi được.
 Jó lett volna látnod, milyen szép, virágos, zöldelő, nyugodalmas hely.	Tôi đã hứa với con Chủ nhật tôi sẽ đến đấy.
-Szegény, drága kis fiam, szegény, drága kis fiam!	Ông không thể đừng.
 Ismét magába roskadt; bárhogy is akart magán uralkodni, nem tudott.	Nếu làm khác đi, có lẽ ông và đứa con sẽ còn xa cách hơn bây giờ.
 Hiszen ha tudott volna érzéseinek parancsolni, nem kötötték volna olyan erős szálak éppen ehhez a gyermekéhez.	Ông ra khỏi phòng, lên trên gác, vào căn phòng sáng tưng bừng và treo các đồ Giáng sinh.
-Lassan kiment a szobából; felment az emeletre.	Một cái ghế kê sát đứa trẻ, nhiều dấu hiệu cho thấy có người vừa ở đó.
 Szegény Bobi szomorúan leült a székre, megcsókolta kicsi Tibi sápadt, hideg arcát.	Ông đành cam chịu với việc đã xảy ra, và lại xuống dưới nhà, hoàn toàn vui vẻ.
 Bobi elmesélte, hogy találkozott Scrooge úr unokaöccsével, aki igen finom úriember és nagyon kedves volt hozzá.	– Nghe đồn anh ta là một người nói năng dễ chịu nhất, tôi bèn kể cho anh ta biết.
 - Talán látszott rajtam egy egészen kis levertség és ezért megkérdezte, hogy mi bajom van.	"Tôi rất lấy làm tiếc, ông Cratchit, và xin chân thành chia buồn với bà vợ hiền của ông".
-Mire elmondtam neki nagy bajomat.	À mà, làm sao anh ta biết thứ mà tôi không biết.
 - Mit honnan tudott, drágám?	– Ai chẳng biết ạ, - Peter nói.
 - Hát azt, hogy oly kitünő asszony vagy!	– Con quan sát cừ lắm, con trai của bố!
 - mondta Bobi.	- Bob kêu lên.
-- Azt mindenki tudja - szólt közbe komolyan Péter. - Igazad van fiam!	- Bố hy vọng họ cũng thế.
 Anyád valóban kitűnő asszony és megérdemli, hogy mindenki tisztelje és becsülje.	Anh ta đã nói: "Xin chân thành chia buồn với bà vợ hiền của ông.
 De nem is az, hogy felajánlotta segítségét - amire igazán nem számítok - esett olyan végtelen jól nekem, hanem páratlan kedvessége és őszinte jósága.	- Xin ông bà cứ đến tôi." Giờ thì chẳng cần gì nữa, - Bob khóc, - vì bất cứ việc gì anh ấy có thể làm cho chúng ta, với kiểu ân cần hết mức như thế là mãn nguyện lắm rồi.
 Úgy beszélt, mintha ismerte volna szegény kicsi Tibit és velünk együtt siratná.	Cứ như anh ta quen biết bé Tim của chúng ta và thông cảm với chúng ta vậy.
@@ -1123,51 +765,28 @@ De nem is az, hogy felajánlotta segítségét - amire igazán nem számítok - 
 - Te csak magaddal törődj - mondta Péter duzzogva.	– Nghe chưa, Peter, - bà Cratchit nói.
 - Hát bizony előbb-utóbb megtörténhetik, fiam, bár még van időd bőven.	– Lúc đó, - một trong mấy cô con gái nói, - Peter sẽ giữ được tình bạn với ai đó và sẽ khá hơn.
 - Sohasem fogjuk őt elfeledni, apám.	- Peter trả miếng và cười toe toét.
-- És ha arra gondoltok, hogy milyen szelíd, milyen béketűrő volt, noha még egész kicsiny gyermek volt, ti sem fogtok sohasem civakodni egymásközt.	– Rất có thể một ngày nào đó, - Bob nói, - tuy còn lâu, con ạ. Nhưng dù chúng ta có xa lìa nhau như thế nào và khi nào, bố chắc không ai trong chúng ta quên bé Tim tội nghiệp, nhất định thế, hoặc đây là cuộc chia tay đầu tiên của chúng ta?
-- Nem fogunk, apám.	– Không bao giờ, bố ạ!
 - Milyen jól esik ezt tőletek hallanom.	- Tất cả đồng thanh.
-Cratchitné megcsókolta férjét; a lányok is megcsókolták apjukat, a kicsik is megcsókolták.	– Các con yêu quý, - Bob nói, - bố biết chúng ta sẽ nhớ lại nó nhẫn nại và hiền hòa biết bao, dù nó còn bé, rất bé.
 Péter kezét nyújtotta felé, férfiasan megszorította és megrázta apja kezét.	Chúng ta sẽ không tranh chấp nhau, và mỗi lần làm thế là đã quên bé Tim tội nghiệp rồi.
 - Szellem - mondta most Scrooge - úgy érzem, hogy közeledik a perc, amikor elválunk egymástól.	– Bố rất mừng, - ông Bob bé nhỏ nói, - rất mừng!
 Kérlek, ne hagyj el addig, amíg meg nem tudom, ki volt az a halott, akit a magános házban láttunk?	Bà Cratchit hôn ông, các con gái hôn ông, hai cậu Cratchit hôn ông, còn Peter và ông bắt tay nhau.
 Az eljövendő karácsonyesték szelleme most ismét a tőzsde tájékára vitte Scrooge-ot.	Hỡi linh hồn của bé Tim, ngươi là bản chất trẻ thơ của Chúa Trời!
-Ismét kereste és ismét csak nem találta sehol saját jövőbeli alakját.	– Này Hồn ma, có gì đó báo cho tôi biết cuộc chia tay của chúng ta sắp đến, - Scrooge nói.
-Most meglátta, hogy szemben a tőzsdével nyitva van irodájának ablaka.	- Tôi biết nhưng không hiểu ra sao.
 Odafutott, benézett az ablakon, hátha itt megláthatja azt amit keres.	Hãy cho tôi biết người đàn ông nằm chết mà chúng ta nhìn thấy là ai vậy?
 - Szellem - mondta most Scrooge - azon a helyen jártunk, ahová hivatásom, az üzletem kötött, ahol dolgoztam.	– Cái sân mà chúng ta vội vã đi qua này, - Scrooge nói, - là nơi tôi cư ngụ suốt một thời gian dài.
 Kérlek, mutasd meg nekem jövőbeli alakomat, jövőbeli helyemet.	Hãy cho tôi thấy nơi tôi sẽ ở trong những ngày sắp tới.
-A kísértet ott állt a tőzsde előtti téren és mozdulatlanul mutatott szellemkezével egy bizonyos irányba.	Hồn ma dừng lại; bàn tay nó chỉ vào nơi nào đó.
 Nem a tőzsdére mutatott, nem Scrooge irodájára mutatott.	– Ngôi nhà ở đằng kia, - Scrooge kêu lên.
-Másfelé mutatott.	- Sao ông chỉ đi đâu thế?
 - A tőzsde itt van, az irodám amott és te egy harmadik irányba mutatsz.	Scrooge hấp tấp đến cửa sổ văn phòng của ông và nhìn vào.
 Végül is Scrooge nem tehetett mást, mint lassan megindult a jelzett irányba.	Đồ đạc không như cũ, người ngồi trên ghế không phải là ông.
-Egy vaskerítéshez értek.	Con ma vẫn chỉ tay như lúc trước.
 Scrooge megállt, hogy megnézze, micsoda kert van a kerítés mögött.	Ông dừng lại, nhìn quanh trước khi bước vào.
 A temető volt.	Một cái sân.
-Itt feküdt hát a magányos ház nyomorult halottja.	Kìa, người đàn ông khốn khổ mà lúc này ông đã biết tên, nằm dưới đất.
 Elvadult, gazos temető volt.	Đây là nơi xứng đáng.
-Némaságához és mozdulat­lanságához most még valami vésztjósló, komor ünnepélyesség is társult.	Hồn ma đứng giữa các nấm mồ, và chỉ vào một nấm.
 Scrooge tétovázva, reszketve indult a sírdomb felé.	Scrooge run run tiến tới.
-- Egy kérdésem volna, szellem; válaszolj rá, mielőtt a sírkőhöz lépek, amelyre mutatsz. Miféle árnyakat mutatsz nekem?	– Trước khi tôi đến gần hơn tấm bia ông chỉ, - Scrooge nói, - hãy trả lời tôi một câu.
 Árnyképeket, amelyeknek a jövőben feltétlenül be kell következ­niök vagy olyanokat, amelyek bekövetkezhetnek?	Những hình bóng này là những thứ Sẽ có, hay chúng là hình bóng của những thứ Có thể?
-A szellem néma maradt és mozdulatlan.	Con ma vẫn chỉ xuống nấm mộ nó đứng cạnh.
 - Úgy képzelem, hogy jellemünk és cselekedeteink szabják meg életünk irányát és ezzel szük­ség­képpen végzetünket.	– Cách cư xử của con người báo hiệu những kết cục nhất định, nếu kiên nhẫn, chúng nhất định sẽ đến, - Scrooge nói.
-Óh, mondd, hogy ezért mutatod nekem ezeket az árnyakat!	Vì thế tôi mới nói ông cho tôi xem!
-De a szellem megint csak mozdulatlan maradt és néma.	Hồn ma vẫn bất động.
-Scrooge odavonszolta magát a sírhanthoz.	Scrooge lén tới, vẫn run; theo ngón tay chỉ sẵn, ông đọc kỹ tên mình trên tấm bia của nấm mồ bị quên lãng, EBENEZER SCROOGE.
-- Én vagyok hát a magányos ház nyomorult halottja - kiáltotta térdrehullva.	- Ông kêu to và quỵ gối.
 A kísértet keze most a sírkőre, majd Scrooge-ra mutatott.	Ngón tay chỉ nấm mộ cho ông và chỉ lần nữa.
-- Nem, szellem.	– Không, hỡi Hồn ma!
-Ez nem lehet!	Ôi, không, không!
-A kéz még mindig őrá mutatott.	Ngón tay vẫn ở đó.
-- Szellem!	– Hỡi Hồn ma!
 - kiáltotta és kétségbeesetten kapaszkodott a kísértet ruhájának szegélyébe, - lásd, én nem vagyok már az, aki voltam; te magad vagy az, aki megjavítottál.	- Scrooge bật khóc, túm chặt lấy áo choàng của nó, - xin hãy nghe tôi!
-- Óh, hogy szívembe zárom majd a karácsony-ünnepet; megtartom szent tanulságait egész éven át!	Tôi không phải là người như trước kia nữa.
 A multban, jelenben és jövőben akarok élni, úgy ahogy te és társaid erre tanítottatok!	Tôi sẽ không phải là người cần phải thế, nhờ cuộc giao hữu này.
 Óh, mondd, hogy még letörülhetem erről az átkozott sírkőről szerencsétlen nevemet!	Tại sao lại chỉ cho tôi cái này, nếu tôi đã trải qua mọi hy vọng?
 Végső kétségbeesésében megragadta a kísértet kezét.	Lần đầu tiên bàn tay có vẻ lay động.
-Az ellökni igyekezett magától, de Scrooge minden erejét megfeszítve szorította.	– Hỡi Hồn ma tử tế, - ông dai dẳng lúc ngã quỵ xuống đất trước con ma, - xin ông can thiệp giùm tôi, xin hãy thương tôi.
-Erős volt, de a kísértet még erősebb volt nála és végül kiszabadította kezét.	Hãy bảo đảm với tôi rằng tôi có thể thay đổi những hình bóng ông đã chỉ cho tôi bằng cách thay đổi cuộc sống?
 Scrooge kimerülten hevert a földön.	Bàn tay ân cần rung động.
 Onnan tekintett fel imára kulcsolt kézzel a szellemre.	– Tôi sẽ tôn kính Giáng sinh trong lòng và cố giữ quanh năm.
 A szellem alakja most hirtelen zsugorodni kezdett.	Tôi sẽ sống trong quá khứ, hiện tại và tương lai.
@@ -1175,18 +794,14 @@ Mind vékonyabb-vékonyabb lett, végül már csak egy sötétszínű csavart os
 Kétségtelenül a saját ágyáét a saját szobájában.	Trong cơn thống khổ, Scrooge nắm lấy bàn tay con ma.
 És - mily mennyei boldogság - saját nagyszerű jövőjét is maga előtt látta.	Nó không thoải mái, nhưng ông tha thiết cầu xin và nắm lấy nó.
 Saját, új, teljesen megváltozott életét!	Hồn ma khỏe hơn, hất ông ta ra.
-"A multban, jelenben és jövőben akarok élni" - ismételgette boldogan, mialatt kibújt az ágyból.	Giơ cao đôi tay trong lời cầu nguyện cuối cùng đảo ngược số phận cho ông, Scrooge nhìn thấy trong cái mũ trùm và quần áo của con ma có sự biến đổi.
 Óh, három szellem, kik meglátogattatok, ti fogtok utamon vezérelni.	Nó co rúm, sụp xuống và teo lại thành cái cột giường.
 És te, Marley Jakab!	Kết Thúc Câu Chuyện
 Térdenállva mondok hálaimát érte!	Cái giường của ông, căn phòng của ông.
 Mindezt kiáltani szerette volna nagy boldogságában, de hangja az izgalomtól oly gyenge volt, hogy szinte csak suttogni tudott.	Tốt đẹp nhất và hạnh phúc nhất là Thời gian trước mặt là của riêng ông, để làm nên những sửa đổi!
 A szellemmel való tusakodástól még zihált a melle és arca nedves volt a könnyektől.	– Mình sẽ sống trong Quá khứ, Hiện tại và Tương lai!
-- Nem lopták el őket! Itt vannak!	- Scrooge nhắc lại lúc trườn xuống giường.
 - mondta, miközben gyengéden simogatta meg ágyának kárpitjait.	- Hồn ma của cả ba sẽ đấu tranh trong con người mình.
-Itt vannak és én is itt vagyok!	Ôi Jacob Marley!
 Közben öltözködni akart, de túlságosan izgatott volt ahhoz, hogy ruháit rendbeszedje.	Ông đã nức nở dữ dội khi xung đột với Hồn ma, mặt ông ướt đẫm nước mắt.
 Kabátujját ugyancsak.	Nhất định thế.
-Visszájára fordította a kabátot.	Mình biết thế!
 Mellényét kabátja fölé húzta.	– Mình không biết phải làm gì!
 Nyakravalóján előbb csomót kötött, azután kibogozni próbálta, mikor ez sem sikerült, össze-vissza szaggatta a könnyű selymet.	- Scrooge nói, vừa cười vừa khóc rồi cuộn những chiếc tất ngắn thành một chú hề ngộ nghĩnh.
 - Már azt sem tudom, mit csinálok, - kiáltotta nevetve széles jókedvében, miközben Laokoon­ként gabalyodott bele hosszú harisnyáiba.	- Mình nhẹ tựa lông hồng, hạnh phúc như một thiên thần, vui như một cậu học trò và choáng váng như một người say rượu.
@@ -1196,29 +811,21 @@ Jó karácsonyt és boldog újévet mindenkinek!	– Có một cái chảo đ�
 És ott az ajtó, amelyiken Marley Jakab szelleme bejött.	- Có cửa để hồn ma Jacob Marley vào!
 Abban a sarokban ült az idei karácsony szelleme.	Có một góc cho Hồn ma Giáng sinh Hiện tại ngồi!
 Ezen az ablakon át láttam az éjszakában bolyongó szellemcsapatot!	Có cửa sổ nơi ta nhìn thấy các Hồn ma lang thang!
-Mindez valóság, mindez velem történt, minden igaz!	Mọi thứ đều tốt đẹp, mọi thứ đều là thật, và tất cả đã xảy ra.
 Hahaha!	Ha, ha, ha!
 Boldogan, felszabadultan, szívből nevetett, noha évek óta semmi gyakorlata nem volt már ebben.	Là người cha của dãy con cháu dài dằng dặc những tiếng cười khác thường!
 - Azt se tudom, hányadika van ma!	– Mình không biết hôm nay là ngày gì trong tháng, - Scrooge nói.
 Vajon mennyi időt tölthettem a szellemek társaságában?	- Mình không biết đã ở cùng các Hồn ma bao lâu.
-Tudja a jó ég!	Mình không biết gì hết.
-Nem is akarom tudni!	Mình như một đứa trẻ.
 Semmit sem akarok tudni!	Nhưng không sao.
-Most harangszó hallatszott kintről.	Mình không quan tâm.
 Bim-Bam, bim-bam, bim-bam-bim-bam!	Thà làm trẻ con còn hơn.
 Bim-bam!	Hoan hô!
-Istennek!	Húp!
 Bim-bam!	Chào nhé!
 Kék ég, napsugár, vérpezsdítő hideg és harangzúgás.	Bính boong, bính boong, boong bính, bình boong, bính boong!
 Áldott, tiszta harangzúgás!	Chao ôi, thật tuyệt vời!
 Egy ünneplőbe öltözött kisfiú ment el az ablak alatt.	Chạy tới cửa sổ, ông mở cửa và thò đầu ra ngoài.
 Lekiáltott neki:	Chao ôi huy hoàng!
-- Mi van ma?	Chao ôi thú vị!
-- Hogy-hogy?	– Gì kia ạ?
 - mondta a fiúcska csodálkozva.	- Cậu thanh niên ngạc nhiên hết sức.
 - Milyen nap van?	- Scrooge nói.
 - Hányadika?	- Cậu thanh niên đáp.
-Karácsony első napja.	Họ có thể muốn gì làm nấy.
 Karácsony első napja!	Lẽ tất nhiên rồi.
 Lám, nem aludtam át.	Lẽ tất nhiên là thế.
 Valóban minden csodára képesek!	- Cậu thanh niên đáp lại.
@@ -1226,103 +833,67 @@ Valóban minden csodára képesek!	- Cậu thanh niên đáp lại.
 - Tessék!	- Scrooge nói.
 - mondta a kisfiú.	- Một chàng trai đáng nể!
 - Tudod, hol van a baromfikereskedő boltja itt a szomszéd sarkon?	Cậu có biết liệu họ đã bán con gà tây cực ngon treo ở đấy không?
-- Hogyne tudnám!	– To bằng cháu không?
 - Okos fiú vagy!	- Cậu ta đáp.
 - Azt, amelyik akkora volt, mint én?	- Scrooge nói.
 - Pompás fickó vagy!	- Nói chuyện với cậu thật dễ chịu.
-Öröm veled beszélgetni!	Có, anh bạn ạ!
-Éppen azt gondoltam, öcskös!	– Lúc này nó vẫn treo ở đấy, - chàng trai đáp.
 - Még az imént ott lógott.	- Scrooge nói.
 - Nagyszerű!	- Hãy đến và mua nó đi.
-Fuss oda rögtön és vedd meg nekem!	– Ông đù-ùa ư?
 - A bácsi tréfál!	- Cậu trai kêu to.
 - Nem én!	– Không, không, - Scrooge nói.
 A legkomolyabban beszélek.	- Tôi nói thật đấy.
-Mondd meg a boltosnak, hogy hozza ide, menten kifizetem és elvitetem.	Hãy đến và mua nó đi, và bảo họ mang đến đây, rồi tôi sẽ bảo họ đưa đến những nơi nào.
-Gyere te is vissza, kapsz egy shillinget.	Hãy trở lại với người bán hàng, tôi sẽ cho cậu một silinh.
-De ha öt perc alatt visszajössz, kettőt kapsz!	Chưa đầy năm phút nữa quay lại, tôi sẽ cho cậu một curon!
 - Cratchitnak küldöm a pulykát - dörmögte magában Scrooge és elégedetten dörzsölte össze a tenyerét.	– Ta sẽ gửi gà tây cho Bob Cratchit, - Scrooge thì thầm, xoa xoa tay và bật cười.
-Névtelenül küldöm.	- Ông ta sẽ không biết ai gửi cho.
-A pulyka kétszer akkora, mint kicsi Tibi.	Nó to gấp đôi bé Tim.
 Kissé reszketett a keze, amíg a címet felírta, de csak elkészült vele és el is lehetett olvasni.	Lúc ông đứng đợi, mắt ông bắt chợt cái vòng sắt gõ cửa.
-Lement a kapuba a pulykát lesni.	– Chừng nào còn sống, ta sẽ yêu quý mi!
 Amint ott állt, megpillantotta a kopogtató-vasat.	- Scrooge nói và vỗ vỗ lên cái vòng.
 - A kopogtató!	- Trước kia ta chỉ nhìn nó thôi.
 - és gyengéden végigtapogatta - amíg csak élek, mindig kedves leszel nekem.	Trên mặt nó có một vẻ biểu cảm chân thật biết chừng nào!
 Milyen komoly kis fontoskodó pofa!	Nó là một cái vòng gõ cửa tuyệt vời!
 Hogy is nem vettem észre azelőtt!	Gà tây đến rồi đây.
-No, de itt a pulyka!	Hoan hô!
 - Hé!	Húp!
-Itt vagyok!	Chào mày nhé!
-Boldog karácsonyünnepet!	Giáng sinh vui vẻ!
 Olyan lába van, mint egy struccnak és taraja olyan vörös, mint a pecsétviasz.	Cái con gà ấy chắc chưa bao giờ đứng nổi trên chân nó.
 A borotválkozás rendes körülmények között sem könnyű dolog.	– Trời đất ơi, không thể mang nó đến Camden Town được, - Scrooge nói.
-Figyelem, nyugodt kéz, nyugodt idegek kellenek hozzá.	- Chắc ông phải thuê xe ngựa thôi.
-De hogy valaki oda sem néz közben és féllábon táncol örömében, úgy valóban életveszélyes.	Cạo mặt không phải là việc dễ dàng vì tay ông run quá; Cạo mặt đòi hỏi phải chăm chú, dù trong lúc đó bạn không nhảy nhót đi nữa.
 De Scrooge azt se bánta, ha levágja is az orra hegyét, legföljebb visszaragasztja egy flastrommal és minden szép és jó lesz megint.	Nhưng nếu Scrooge có cắt phải chỏm mũi, ông ta sẽ dán một miếng băng dính và hoàn toàn hài lòng.
 Tetőtől-talpig ünneplőbe öltözött és kisétált.	Ông diện "bộ đẹp nhất", rồi ra phố.
 Scrooge hátradugta kezét és vidáman malmozott hüvelykujjával.	Tóm lại, nom ông vui đến mức ba hoặc bốn người vui tính chào:
-Alig jutott el a szomszéd utcába, amint látja, hogy jön ám szembe vele a tegnapi jótékonysági urak közül az idősebb.	Ông đi chưa xa thì thấy quý ông đẫy đà hôm trước đã vào phòng tài vụ của ông, đi đến chỗ ông và nói: "Chắc đây là công ty Scrooge và Marley?".
 - Jó reggelt, drága uram - mondta, mindkét kezét megragadva - remélem, rámismer?	– Thưa ông, - Scrooge nói, rảo bước và nắm cả hai tay ông già, - Ông có khỏe không?
 Hogy sikerült tegnapi körútja?	Tôi mong là hôm qua ông thành công.
-Kellemes karácsonyi ünnepeket kívánok!	– Ông là Scrooge?
 - Scrooge úrhoz van szerencsém?	– Vâng, - Scrooge nói.
 - Az vagyok és remélem, nem neheztel rám a tegnapi eset miatt.	- Đó là tên tôi, và tôi e rằng ông không thú vị gì.
-Bocsánatot kérek és egyben kérem, jegyezzen elő - a többit csak a fülébe súgta az öregúrnak.	Hãy cho tôi được xin lỗi ông. Xin ông vui lòng… - Đến đây, Scrooge thì thầm vào tai ông ta.
 - Teremtő Isten!	- Quý ông kia kêu to, dường như bạt mất hơi thở.
 - kiáltotta az öregúr és szinte belevörösödött.	- Ông Scrooge thân mến, ông nói nghiêm túc đấy chứ?
 - Ezt komolyan gondolja, Scrooge úr?	– Nếu ông vui lòng, - Scrooge nói.
 - A legnagyobb mértékben.	- Không kém một xu đâu.
-Vegye úgy kérem, hogy ezzel jókora adag régi adósságomat is lerovom.	Tôi bảo đảm với ông rằng những khoản lương trả chậm sẽ gồm cả khoản đó.
 Nos, legyen szíves, jegyezze fel kérem.	Ông có vui lòng giúp tôi điều đó không?
-Megteszi nekem, ugyebár? - Uram, - mondta a másik, még mindig Scrooge kezét szorongatva, - nem találok szavakat.	– Ông bạn thân mến, - người kia nói và bắt tay Scrooge, - Tôi không biết nói gì với sự hào phóng của…
 - Ne szóljon egy szót sem - vágott szavába Scrooge.	– Xin ông đừng nói gì hết, - Scrooge vội nói.
 - Inkább látogasson meg egyszer.	- Hãy đến gặp tôi.
 Remélem, lesz szerencsém?	Ông nhất định đến nhé.
 - Feltétlenül.	- Ông già nói.
 Ön nagyon lekötelezett.	– Cảm ơn ông!
-Nagyon-nagyon köszönöm.	- Scrooge nói.
 Ég áldja önt, uram.	- Tôi rất biết ơn ông.
-Vidáman nézegette az ünneplőbe öltözött embereket, barackot nyomott a gyerekek fejére, elbeszélgetett a koldusokkal, benézett a kunyhókba is és bekukkantott egy-egy ablakon.	Ông đến nhà thờ, qua nhiều phố, ngắm dân chúng đi tới đi lui, vỗ đầu bọn trẻ con, hỏi han những người ăn mày, nhìn vào bếp các nhà và ngước nhìn các cửa sổ, thấy mọi vật đều đem lại cho ông sự khoan khoái.
-Soha nem hitte volna, hogy ennyi öröme telik ilyen céltalan kószálásban.	Chưa bao giờ ông có ý niệm rằng một cuộc đi dạo và mọi thứ lại có thể đem đến cho ông nhiều niềm vui đến thế.
 Estefelé elindult, hogy meglátogassa unokaöccsét.	Buổi chiều, ông quay gót đến thẳng nhà cháu trai.
 Tíz-tizenkétszer is fel s alá sétált a kapu előtt, mielőtt bekopogtatott volna.	Ông đi qua cửa đến hàng chục lần trước khi có can đảm tiến tới và gõ cửa.
-Tudja az ég, inába szállt a bátorsága.	Nhưng ông lao tới và gõ:
 Végül összeszedte magát és mégis csak kopogtatott.	– Ông chủ của cháu có nhà không, cháu thân mến?
 De milyen csinos!	Rất dễ thương.
 - Itthon van a gazdája, drágám?	– Có ạ, thưa ông.
 - Igenis, uram.	- Scrooge nói.
-Parancsára be fogom jelenteni.	– Cảm ơn cháu.
 - Köszönöm, de ismernek engem - felelte Scrooge, a kilincsre téve kezét.	Cậu ấy biết ta, - Scrooge nói, bàn tay đã đặt lên chốt cửa phòng ăn.
 Halkan, óvatosan nyitotta ki az ajtót.	- Bác đến đây rồi, cháu thân mến.
 Az asztalon fehér terítő, virág, finom tányérok, ezüstnemű.	Ông xoay nhẹ chốt và thò mặt nhìn khắp phòng.
-Ezek a fiatal háziasszonyok nagyon ügyelnek arra, hogy minden a legnagyobb rendben a helyén legyen.	Họ đang nhìn vào bàn (được mở rộng hết mức), để những người hầu luôn lo lắng ở những thời điểm như thế này và muốn nhìn thấy mọi thứ ngay một lúc.
-Scrooge most megszólalt.	– Fred!
 - Frédi!	- Scrooge gọi.
 Ha Scrooge látta volna, hogy milyen kényelmesen ül a karosszékben, lábát alacsony zsámolyra téve, kétszer is meggondolta volna, hogy ráijesszen.	Trong giây lát, Scrooge đã quên bẵng cô đang ngồi trong góc trên cái ghế để chân, hoặc ông không nhớ vì bất cứ lý do gì.
 - kiáltotta Frédi.	- Fred kêu to, - ai thế kia?
 - Én vagyok, Scrooge bácsi.	Bác Scrooge của cháu đây.
 Vacsorára jöttem.	Bác đến ăn tối.
 Remélem, szívesen láttok?	Để ta vào chứ, Fred?
-Hogy szívesen látták-e?	Để ông vào ư?
 Öccse úgy megrázta a kezét, hogy majd kitépte a karját.	Đây là một điều sung sướng ông không thể giũ bỏ!
 Felesége is szivélyesen üdvözölte.	Ông đã ở trong nhà được dăm phút.
 Mind-mind nagyon kedvesek voltak hozzá.	Cả Topper cũng thế khi anh ta bước vào.
-Alig akarták elengedni.	Cô em gái mũm mĩm cũng vậy khi cô ta đến.
-- Ne menjen még, - mondták - hiszen alig öt percnyire lakik.	Mọi người đều vui khi họ đến.
-Csodaszép, nagyszerű este volt!	Nhưng sáng sớm hôm sau ông phải ở văn phòng!
 Másnap Scrooge jókor ment az irodába.	Chao ôi, ông phải ở đấy!
-Mindenképpen meg akarta előzni Cratchitot.	Nếu ông có thể đến đó trước, rồi gặp Bob Cratchit sau!
 Helye­sebben rajtakapni, amint elkésik.	Đấy là việc ông đã thầm sắp xếp.
-Sikerült is.	Và ông đã làm thế!
 Kilenc óra.	Chưa thấy Bob.
-Negyed tíz.	Mười lăm phút sau.
 Cratchitnak se híre, se hamva.	Vẫn không thấy Bob.
 Végre kilenc óra tizennyolc és fél perckor befut.	Đã quá mười tám phút so với giờ làm việc.
 Most megszólal Scrooge szokott, zsörtölődő hangján, vagy legalább is úgy, ahogy utánoznia sikerül régi önmagát.	- Scrooge vờ gầm lên bằng cái giọng quen thuộc lúc đến gần hơn.
 - Miféle dolog ez?	- Anh nghĩ thế nào mà bây giờ mới đến?
-Ilyen későn kell jönni?	– Tôi rất xin lỗi, thưa ông, - Bob nói.
-- Elkéstem, uram, nagyon sajnálom.	- Tôi đến muộn ạ. – Anh đến muộn!
 - Elkésett!	- Scrooge nhắc lại.
 Meghiszem azt, hogy elkésett!	- Phải, tôi biết ngay mà.
 Szíveskedjék csak befáradni ide hozzám.	Cứ kiểu này, thưa ông, ông nghĩ xem.
@@ -1330,13 +901,8 @@ Szíveskedjék csak befáradni ide hozzám.	Cứ kiểu này, thưa ông, ông n
 Odaáll Bobi elé és úgy oldalbaböki, hogy az vissza­tántorodik odújába.	- Việc này sẽ không lặp lại đâu ạ. Hôm qua tôi quá vui, thưa ông.
 - Most pedig felemelem a fizetését - kiáltja Scrooge utána.	– Giờ, tôi sẽ bảo anh điều này, anh bạn, - Scrooge nói.
 Cratchit egy pillanatra habozik, hogy ne kiáltson-e segítségért.	- Tôi không chịu cái kiểu như thế này lâu hơn được nữa.
-Kényszer­zubbony! - Boldog karácsonyi ünnepeket, Bobi, - mondja most Scrooge oly komolyan, hogy ezt nem lehet félreérteni.	Vì thế, - Scrooge nói tiếp, nhảy khỏi ghế và chỉ trích Bob cay độc lúc ông ta lại lảo đảo rút vào căn phòng nhỏ.
 - Boldogabb karácsonyt, mint az eddigiek voltak.	- Vì thế, tôi sẽ tăng lương cho anh.
 Mindenekelőtt vegyen még egy szenesládát.	– Chúc Giáng sinh vui vẻ, Bob!
-Addig egy vesszőt se tegyen. Scrooge megtartotta a szavát.	- Scrooge nói với vẻ chân thành nhất, không thể nhầm lẫn lúc vỗ vào lưng Bob.
-Sőt jóval többet tett, mint amennyire fogadalma kötötte. Kicsi Tibihez - aki nem halt meg - oly jó és gyöngéd volt, mintha az apja lett volna.	- Giáng sinh vui hơn nữa nhé, Bob, anh bạn thân mến của tôi, lẽ ra tôi phải chúc anh nhiều năm rồi!
-Az egész városban nem volt még egy olyan közismerten barátságos úriember, olyan kitűnő főnök, olyan jótétlélek, mint ő.	Tôi sẽ tăng lương cho anh, và ngay chiều nay, chúng ta sẽ bàn chuyện này để giúp đỡ gia đình vất vả của anh, bên bát rượu Giáng sinh hâm nóng, Bob ạ!
 Persze, akadtak, akik kinevették, kigúnyolták a hirtelen változás miatt.	Hãy nhóm lửa và thêm thùng than nữa trước khi dùng hết nhé, Bob Cratchit!
 De ő nem sokat törődött velük.	Scrooge còn làm tốt hơn lời ông nói.
-A szellemekkel való társalgást beszüntette.	Lòng ông nhẹ nhõm, thư thái, thế là đủ cho ông lắm rồi.
 Isten áldja meg érte őt és mindazokat, akik hozzá hasonlóan cselekszenek.	Có lẽ điều đó cũng đúng với chúng ta, với tất cả chúng ta!
