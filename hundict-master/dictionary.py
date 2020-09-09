@@ -41,7 +41,7 @@ class Dictionary:
                 remaining = l[1:]
             elif len(l) == 2:
                 remaining = l
-                score = 0.
+                score = 1.0
             src = tuple(remaining[0].split())
             tgt = tuple(remaining[1].split())
             d[(src, tgt)] = score
