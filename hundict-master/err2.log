@@ -7,4 +7,4 @@ Traceback (most recent call last):
     tgt_str = " ".join(self._tgt.ints_to_tokens(tgt_sen.get_tokens(self._backup)))
   File "/home/dima/Desktop/College/hun-viet-dict/hundict-master/corpus.py", line 143, in ints_to_tokens
     tokens.append("[{0}]".format(self._reverse_tokmap[i[0]]))
-KeyError: (418,)
+KeyError: (30,)
