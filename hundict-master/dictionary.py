@@ -39,9 +39,11 @@ class Dictionary:
                 except ValueError:
                     score = 0.
                 remaining = l[1:]
-            elif len(l) == 2:
-                remaining = l
-                score = 1.0
+            elif len(l) == 4:
+                remaining = l[0:2]
+                print(remaining)
+                score = float(l[3])
+                print(score)
             src = tuple(remaining[0].split())
             tgt = tuple(remaining[1].split())
             d[(src, tgt)] = score

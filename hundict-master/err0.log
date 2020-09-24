@@ -1,10 +1,8 @@
 Traceback (most recent call last):
   File "hundict.py", line 429, in <module>
     main()
-  File "hundict.py", line 426, in main
-    bc.write(open(rem, "w")) 
-  File "/home/dima/Desktop/College/hun-viet-dict/hundict-master/bicorpus.py", line 19, in write
-    src_str = " ".join(self._src.ints_to_tokens(src_sen.get_tokens(self._backup)))
-  File "/home/dima/Desktop/College/hun-viet-dict/hundict-master/corpus.py", line 143, in ints_to_tokens
-    tokens.append("[{0}]".format(self._reverse_tokmap[i[0]]))
-KeyError: (16,)
+  File "hundict.py", line 405, in main
+    bc.read_from_file(file(input_file))
+  File "/home/dima/Desktop/College/hun-viet-dict/hundict-master/bicorpus.py", line 327, in read_from_file
+    if c % 10000 == 0:
+KeyboardInterrupt
