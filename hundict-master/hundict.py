@@ -6,6 +6,7 @@ import sys
 from dictionary import Dictionary
 from bicorpus import BiCorpus
 
+
 class DictBuilder:
     def __init__(self, bicorpus, scorer, bound_multiplier, strdiff, ngrams,
                  sets, sparse_bound, uniset_min, uniset_max):
@@ -29,7 +30,7 @@ class DictBuilder:
             score = pairs[ngram_pair]
             src, tgt = ngram_pair
             scores[ngram_pair] = score
-            # if already saved, 
+            # if already saved,
             if best_src.has_key(src):
                 # save if better
                 if best_src[src][0][1] < score:
@@ -62,7 +63,7 @@ class DictBuilder:
                 # it there are two srcs for tgt, skip it
                 if len(best_srcs_for_tgt) != 1:
                     continue
-                
+
                 best_src_for_tgt = best_srcs_for_tgt[0]
                 if best_src_for_tgt[0] == src:
                     new_ngram_pair = (src, best_src[src][0][0])
@@ -98,17 +99,17 @@ class DictBuilder:
                 child_pair, _, src_changed = child
                 if src_changed:
                     table = self._bicorpus.contingency_table(child_pair,
-                        tgt_occ_s=tgt_occ)
+                                                             tgt_occ_s=tgt_occ)
                 else:
-                    table = self._bicorpus.contingency_table(child_pair, 
-                        src_occ_s=src_occ)
+                    table = self._bicorpus.contingency_table(child_pair,
+                                                             src_occ_s=src_occ)
                 child_score = self.score(table)
                 if child_score / max_score > ratio:
                     to_process.add((child_pair, child_score))
                 max_score = max(max_score, child_score)
             final.append((actual_pair, actual_score))
             done.add(actual_pair)
-        
+
         if final[-1][1] / orig_score <= 1.0 / ratio:
             return None
 
@@ -130,7 +131,7 @@ class DictBuilder:
                 parents.append((src, tgt[:-1]))
                 parents += __ngram_pair_parents((src, tgt[:-1]))
             return parents
-        
+
         logging.info("Extending dictionary with ngrams started.")
         to_delete = set()
         new_pairs = {}
@@ -138,7 +139,8 @@ class DictBuilder:
         status = 0
         for pair in orig_pairs.iterkeys():
             if status * 100 / len(orig_pairs) > (status + 1) * 100 / len(orig_pairs):
-                logging.info("{0}% done".format(status * 100 / len(orig_pairs)))
+                logging.info("{0}% done".format(
+                    status * 100 / len(orig_pairs)))
             status += 1
             if pair in to_delete:
                 continue
@@ -152,8 +154,8 @@ class DictBuilder:
 
                 # check if it is a trivial pair
                 if (len(better_pair[0]) == len(better_pair[1]) and
-                    reduce(lambda x,y: x and y, ((((x,),(y,)) in orig_pairs) 
-                           for x,y in zip(better_pair[0], better_pair[1])))):
+                    reduce(lambda x, y: x and y, ((((x,), (y,)) in orig_pairs)
+                                                  for x, y in zip(better_pair[0], better_pair[1])))):
                     continue
 
                 # if there is a better parent, keep that and throw new child away,
@@ -177,7 +179,7 @@ class DictBuilder:
                 del orig_pairs[p]
 
         logging.info("Extending dictionary with ngrams finished with " +
-                    "{0} new pairs.".format(len(new_pairs)))
+                     "{0} new pairs.".format(len(new_pairs)))
         return dict(orig_pairs.items() + new_pairs.items())
 
     def remove_ngram_pairs(self, pairs):
@@ -208,16 +210,16 @@ class DictBuilder:
                           pair[1][0] + pair[1][1] >= self.sparse_bound and
                           pair[1][0] + pair[1][2] >= self.sparse_bound)
 
-
         # count score
-        scored_pairs = dict((pair[0], self.score(pair[1])) 
+        scored_pairs = dict((pair[0], self.score(pair[1]))
                             for pair in filtered_pairs)
 
         goods = dict(((pair[0], pair[1]), score)
-                 for pair, score in scored_pairs.iteritems() if score >= bound)
+                     for pair, score in scored_pairs.iteritems() if score >= bound)
 
         res = dict(self.filter_mutual_pairs(goods))
-        logging.info("{0} unigram pairs found at bound {1}".format(len(res), bound))
+        logging.info(
+            "{0} unigram pairs found at bound {1}".format(len(res), bound))
         return res
 
     def build_unigram_set_pairs(self, bound):
@@ -229,24 +231,24 @@ class DictBuilder:
         for results in self._bicorpus.generate_unigram_set_pairs(
                 min_len=self.uniset_min, max_len=self.uniset_max):
             scores = []
-            #collect only good scores
+            # collect only good scores
             for src, tgt, table in results:
                 score = self.score(table)
                 if score < bound:
                     continue
                 scores.append((src, tgt, score))
-            
+
             if len(scores) > 0:
-                #sort scores and append
+                # sort scores and append
                 scores.sort(key=lambda x: x[2], reverse=True)
                 good_set_pairs.append(scores)
         logging.info("{0} unigram set pairs found at bound {1}".format(
             len(good_set_pairs), bound))
-        
+
         to_remove = []
         for scores in good_set_pairs:
             # keep only the best right now
-            src, tgt, score  = scores[0]
+            src, tgt, score = scores[0]
             self._dict[(tuple(src), tuple(tgt), True)] = score
             for src_ in src:
                 for tgt_ in tgt:
@@ -269,11 +271,11 @@ class DictBuilder:
 
         # remove pairs that are found to be good and yield them
         self.remove_ngram_pairs(new_ngram_pairs)
-        
+
         # searching for unigram set pairs
         if self.sets:
             self.build_unigram_set_pairs(self.set_bound_multiplier * bound)
-        
+
     def build(self, bound, iters):
         logging.info("Building dictionary started...")
 
@@ -294,11 +296,11 @@ class DictBuilder:
 
     @staticmethod
     def pmi(cont_table, weighted=False):
-        a,b,c,d = cont_table
+        a, b, c, d = cont_table
         if weighted:
-            return float(a) /(a+b+c+d) * log(float(a)*(a+b+c+d)/((a+b)*(a+c)),2)
+            return float(a) / (a+b+c+d) * log(float(a)*(a+b+c+d)/((a+b)*(a+c)), 2)
         else:
-            return 1. /(a+b+c+d) * log(float(a)*(a+b+c+d)/((a+b)*(a+c)),2)
+            return 1. / (a+b+c+d) * log(float(a)*(a+b+c+d)/((a+b)*(a+c)), 2)
 
     @staticmethod
     def wmi(cont_table):
@@ -306,8 +308,9 @@ class DictBuilder:
 
     @staticmethod
     def dice(cont_table):
-        a,b,c,d = cont_table
+        a, b, c, d = cont_table
         return 2.0 * a / (2 * a + b + c)
+
 
 def create_option_parser():
     parser = OptionParser("usage: %prog [options] input_file bound scorer")
@@ -318,32 +321,33 @@ def create_option_parser():
                       help="tgt stopwords file")
     parser.add_option("", "--iter", dest="iters", default=3,
                       help="number of iterations [default=%default]")
-    parser.add_option("-r", "--remaining", dest="remaining", 
+    parser.add_option("-r", "--remaining", dest="remaining",
                       help="output file for remaining corpus")
     parser.add_option("-l", "--loglevel", dest="loglevel", default="ERROR",
-                      help="logging level. [DEBUG/INFO/WARNING/ERROR/" + 
+                      help="logging level. [DEBUG/INFO/WARNING/ERROR/" +
                       "CRITICAL], [default=%default]")
-    
+
     parser.add_option("", "--strdiff", dest="strdiff", action="store_true",
                       help="string difference based method at first")
     parser.add_option("", "--ngrams", dest="ngrams", action="store_true",
                       help="After founding unigram pairs, run extending " +
-                     "method for looking for ngram pairs")
+                      "method for looking for ngram pairs")
     parser.add_option("", "--sets", dest="sets", action="store_true",
                       help="unigram set pair mode")
     parser.add_option("", "--sparse_bound", dest="sparse_bound", default=5,
                       help="words are discarded below this frequency " +
-                     "[default=%default]")
+                      "[default=%default]")
     parser.add_option("", "--uniset_min", dest="uniset_min", default=2,
                       help="when in unigram set pair mode, the minimum " +
-                     "length of a unigram set to regard [default=%default]")
+                      "length of a unigram set to regard [default=%default]")
     parser.add_option("", "--uniset_max", dest="uniset_max", default=5,
                       help="see uniset_min option [default=%default]")
     parser.add_option("", "--set_bound_multiplier", dest="bound_multiplier",
-                      default=5.0, help="multiplier for the bound when in " + 
+                      default=5.0, help="multiplier for the bound when in " +
                       "set mode [default=%default]")
-    
+
     return parser
+
 
 def parse_options(parser):
     (options, args) = parser.parse_args()
@@ -354,30 +358,34 @@ def parse_options(parser):
     iters = int(options.iters)
 
     # stopwords
-    punct = set([".", "!", "?", ",", "-", ":", "'", "...", "--", ";", "(", ")", "\""])
+    punct = set([".", "!", "?", ",", "-", ":", "'",
+                 "...", "--", ";", "(", ")", "\""])
     src_stopwords = set(punct)
     if options.src_stop:
-        src_stopwords |= set(file(options.src_stop).read().rstrip("\n").split("\n"))
+        src_stopwords |= set(
+            file(options.src_stop).read().rstrip("\n").split("\n"))
     tgt_stopwords = set(punct)
     if options.tgt_stop:
-        tgt_stopwords |= set(file(options.tgt_stop).read().rstrip("\n").split("\n"))
+        tgt_stopwords |= set(
+            file(options.tgt_stop).read().rstrip("\n").split("\n"))
 
     # gold dict
     gold = Dictionary()
     if options.dict:
         gold = Dictionary.read_from_file(file(options.dict))
-    
+
     rem = None
     if options.remaining:
         rem = options.remaining
 
     try:
-        logging.basicConfig(level=logging.__dict__[options.loglevel], format="%(asctime)s : %(module)s - %(levelname)s - %(message)s")
+        logging.basicConfig(level=logging.__dict__[
+                            options.loglevel], format="%(asctime)s : %(module)s - %(levelname)s - %(message)s")
     except KeyError:
         print "Not a logging level."
         sys.exit(-1)
 
-    bound_multiplier=int(options.bound_multiplier)
+    bound_multiplier = int(options.bound_multiplier)
     strdiff = options.strdiff
     ngrams = options.ngrams
     sets = options.sets
@@ -389,11 +397,11 @@ def parse_options(parser):
             gold, rem, bound_multiplier, strdiff, ngrams, sets, sparse_bound,
             uniset_min, uniset_max)
 
+
 def main():
     optparser = create_option_parser()
-    (input_file, bound, _scorer, iters, srcstop, tgtstop, gold, rem,
-     bound_multiplier, strdiff, ngrams, sets, sparse_bound, uniset_min,
-     uniset_max) = parse_options(optparser)
+    (input_file, bound, _scorer, iters, srcstop, tgtstop, gold, rem, bound_multiplier,
+     strdiff, ngrams, sets, sparse_bound, uniset_min, uniset_max) = parse_options(optparser)
     scorer = getattr(DictBuilder, _scorer)
 
     backup = rem is not None
@@ -406,25 +414,24 @@ def main():
 
     bc.remove_ngram_pairs(gold)
 
-    db = DictBuilder(bc, scorer, bound_multiplier, strdiff, ngrams, sets, sparse_bound, uniset_min, uniset_max)
-    
+    db = DictBuilder(bc, scorer, bound_multiplier, strdiff,
+                     ngrams, sets, sparse_bound, uniset_min, uniset_max)
+
     db.build(bound, iters=iters)
     for p in db._dict:
         if len(p) == 2:
             src, tgt = p
-            print "{0}\t{1}\t{2}".format(db._dict[p],
-                                      " ".join(bc._src.ints_to_tokens(src)),
-                                      " ".join(bc._tgt.ints_to_tokens(tgt)),)
+            print "{0}\t{1}\t{2}".format(db._dict[p], " ".join(
+                bc._src.ints_to_tokens(src)), " ".join(bc._tgt.ints_to_tokens(tgt)),)
         elif len(p) == 3:
             src, tgt, _ = p
             for src_tok in src:
                 for tgt_tok in tgt:
-                    print "{0}\t{1}\t{2}".format(db._dict[p],
-                                      " ".join(bc._src.ints_to_tokens(src_tok)),
-                                      " ".join(bc._tgt.ints_to_tokens(tgt_tok)),)
+                    print "{0}\t{1}\t{2}".format(db._dict[p], " ".join(
+                        bc._src.ints_to_tokens(src_tok)), " ".join(bc._tgt.ints_to_tokens(tgt_tok)),)
     if rem is not None:
-        bc.write(open(rem, "w")) 
+        bc.write(open(rem, "w"))
+
 
 if __name__ == "__main__":
     main()
-
