@@ -51,21 +51,25 @@ def main():
 
     colloc = {}
 
-    for key in bi_fd.keys():
+    for (key, value) in bi_fd.items():
+        if (value < 10):
+            continue
         firstWord, secondWord = key.split()
         probFirst = uni_fd[firstWord]/uni_count
         probSecond = uni_fd[secondWord]/uni_count
         probBigram = bi_fd[key]/uni_fd[firstWord]
         pmi = log(float(probBigram)/float(probFirst*probSecond), 2)
         if pmi > 1.1:
-            colloc[key] = float(pmi)
+            colloc[(key, value)] = float(pmi)
 
     sorted_colloc = {k: v for k, v in sorted(
         colloc.items(), key=lambda item: item[1], reverse=True)}
 
     outputFile = open("./colloc", "w")
     for key, value in sorted_colloc.items():
-        outputFile.write("{}\t{}\n".format(key, value))
+        word, count = key
+        pmi = value
+        outputFile.write("{}\t{}\t{}\n".format(word, count, pmi))
     outputFile.close()
 
 
