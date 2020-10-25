@@ -5,6 +5,10 @@ from math import log
 from nltk.tokenize import sent_tokenize
 from nltk.util import ngrams
 from nltk.probability import FreqDist
+import json
+
+with open("../../Dict Scraping/pos.json", "r") as infile:
+    pos = json.load(infile)
 
 
 # remove punctuations, escape characters, and lower case the sentence
@@ -52,24 +56,38 @@ def main():
     colloc = {}
 
     for (key, value) in bi_fd.items():
+        # skip if occur less than 10 times
         if (value < 10):
             continue
         firstWord, secondWord = key.split()
+
+        if firstWord in pos:
+            firstPos = pos[firstWord]
+        else:
+            firstPos = "N/A"
+        if secondWord in pos:
+            secondPos = pos[secondWord]
+            secondPos = "N/A"
+
         probFirst = uni_fd[firstWord]/uni_count
         probSecond = uni_fd[secondWord]/uni_count
         probBigram = bi_fd[key]/uni_fd[firstWord]
         pmi = log(float(probBigram)/float(probFirst*probSecond), 2)
+
+        content = str(key) + "\t" + str(value) + "\t" + \
+            str(firstPos) + "\t" + str(secondPos)
         if pmi > 1.1:
-            colloc[(key, value)] = float(pmi)
+            colloc[content] = float(pmi)
 
     sorted_colloc = {k: v for k, v in sorted(
         colloc.items(), key=lambda item: item[1], reverse=True)}
 
     outputFile = open("./colloc", "w")
     for key, value in sorted_colloc.items():
-        word, count = key
+        word, count, firstPos, secondPos = key.split("\t")
         pmi = value
-        outputFile.write("{}\t{}\t{}\n".format(word, count, pmi))
+        outputFile.write("{}\t{}\t{}\t{}\t{}\n".format(
+            word, count, firstPos, secondPos, pmi))
     outputFile.close()
 
 
